@@ -1,0 +1,241 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "60% and 17400 USD",
+      "mutual_funds": "20% and 5800 USD"
+    },
+    "diversifiers": {
+      "crypto": "10% and 2900 USD",
+      "gold": "5% and 1450 USD",
+      "bond_mutual_funds": "5% and 1450 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold','Bond Mutual Funds'],datasets:[{data:[60,20,10,5,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 180.91,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "52.84",
+      "pb": "45.69",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/e869dfbd-7647-4cf8-bbde-88a89e0de088.png",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Nvidia (NVDA) is a leader in AI and semiconductors, justifying its high valuation with exceptional revenue growth and profitability, suitable for high-risk, high-reward investors."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 506.219,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.60",
+      "pb": "11.15",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/26cbb96e-5138-4618-a225-6d2d5ecbfcd7.png",
+      "buy_link": "https://public.com/stocks/msft",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft (MSFT) provides a balance of growth and stability, driven by its robust cloud services and diverse software, making it a reliable choice for long-term appreciation within a high-risk portfolio."
+      }
+    },
+    {
+      "stock": "META",
+      "current_price": 701.2,
+      "week_52_high": "796.25",
+      "week_52_low": "479.80",
+      "pe": "24.78",
+      "pb": "9.08",
+      "eps": "27.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.29",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38",
+      "net_profit_margin": "39.99",
+      "current_ratio": "2.83",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/c524d13b-283e-4e14-915e-124bfbbe6bbf.png",
+      "buy_link": "https://public.com/stocks/meta",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Meta (META) offers significant growth potential through its advertising platforms and metaverse investments, appealing to investors seeking aggressive capital appreciation despite its inherent volatility."
+      }
+    },
+    {
+      "stock": "LLY",
+      "current_price": 812.115,
+      "week_52_high": "937.00",
+      "week_52_low": "623.78",
+      "pe": "56.74",
+      "pb": "42.85",
+      "eps": "15.31",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.64",
+      "total_debt_to_equity": "2.37",
+      "revenue_growth_yoy": "36.83",
+      "net_profit_margin": "25.91",
+      "current_ratio": "0.59",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/10c2c76b-a30e-479d-9953-57809864c2c0.png",
+      "buy_link": "https://public.com/stocks/lly",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Eli Lilly (LLY) is a strong performer in pharmaceuticals with impressive revenue growth and a robust drug pipeline, offering high-growth exposure within the healthcare sector."
+      }
+    },
+    {
+      "stock": "AVGO",
+      "current_price": 344.96,
+      "week_52_high": "374.23",
+      "week_52_low": "138.10",
+      "pe": "88.72",
+      "pb": "22.92",
+      "eps": "3.91",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.64",
+      "total_debt_to_equity": "1.00",
+      "revenue_growth_yoy": "28.01",
+      "net_profit_margin": "31.59",
+      "current_ratio": "0.98",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/586b9fcd-924c-4c5e-a1b9-e80f646a6a40.png",
+      "buy_link": "https://public.com/stocks/avgo",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Broadcom (AVGO) is chosen for its strong financial health, high free cash flow, and significant revenue growth, making it a compelling high-growth investment in the semiconductor industry."
+      }
+    },
+    {
+      "stock": "PLTR",
+      "current_price": 172.6497,
+      "week_52_high": "190.00",
+      "week_52_low": "40.36",
+      "pe": "550.00",
+      "pb": "70.81",
+      "eps": "0.30",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": null,
+      "total_debt_to_equity": "0.00",
+      "revenue_growth_yoy": "38.79",
+      "net_profit_margin": "22.18",
+      "current_ratio": "5.84",
+      "chart": "N/A",
+      "buy_link": "https://public.com/stocks/pltr",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Palantir (PLTR) provides substantial growth potential in data analytics software, aligning with a high-risk strategy aiming for significant appreciation as its market penetration increases."
+      }
+    },
+    {
+      "stock": "AMD",
+      "current_price": 217.94,
+      "week_52_high": "240.10",
+      "week_52_low": "76.48",
+      "pe": "123.57",
+      "pb": "5.87",
+      "eps": "1.74",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": null,
+      "total_debt_to_equity": "0.03",
+      "revenue_growth_yoy": "27.17",
+      "net_profit_margin": "9.57",
+      "current_ratio": "1.57",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/cde9f3cd-82a3-45fa-9fcf-f60465f369f7.png",
+      "buy_link": "https://public.com/stocks/amd",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "AMD (AMD) is a key player in the semiconductor industry, offering high-risk, high-reward potential through its innovation in processors and graphics cards, driving continued market share gains."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Health Care Fund",
+      "category": "Sectoral",
+      "3_year_return": "15%",
+      "5_year_return": "16.5%",
+      "reason_for_investment": "This fund offers targeted growth exposure to the healthcare sector, which is resilient and innovation-driven, aligning with a high-risk strategy for aggressive returns."
+    },
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "Providing broad market exposure, VTSAX offers diversification while still capturing overall U.S. equity growth, acting as a core component for long-term appreciation."
+    },
+    {
+      "name": "Vanguard Growth Index Fund",
+      "category": "Growth",
+      "3_year_return": "13.5%",
+      "5_year_return": "14%",
+      "reason_for_investment": "Focusing on growth stocks, VGHAX is ideal for a high-risk portfolio aiming for above-average capital appreciation by investing in companies with strong growth prospects."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 110252,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is included for its store-of-value potential and high growth, acting as a digital gold within a high-risk diversification strategy."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 3927.28,
+      "roi": "4662.94%",
+      "buy_link": "https://www.coinbase.com/price/ethereum",
+      "summary": "Ethereum provides exposure to the decentralized finance (DeFi) and smart contract ecosystem, offering high growth opportunities with significant potential."
+    },
+    {
+      "id": "tether",
+      "name": "Tether",
+      "symbol": "usdt",
+      "current_price": 1.001,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/tether",
+      "summary": "Tether is a stablecoin included to provide some stability within the crypto allocation, offering liquidity and a hedge against extreme volatility while maintaining exposure to the digital asset market."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds are included to provide a degree of stability and income to the portfolio, acting as a diversifier against equity market volatility and offering a relatively safer investment avenue for a small portion of the capital."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, offering a hedge against inflation and economic uncertainty. Its inclusion provides portfolio stability and diversification, especially valuable in a high-risk equity-heavy portfolio."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation + total value: 36987.03 USD",
+    "moderate_return": "8% return calculation + total value: 42602.83 USD",
+    "optimistic_return": "12% return calculation + total value: 51167.31 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[36987.03,42602.83,51167.31],backgroundColor:['#4CAF50','#FFC107','#F44336']}]}}"
+  },
+  "summary": "This portfolio for 29,000 USD over 5 years with a high-risk tolerance is aggressively allocated towards equities (stocks and mutual funds) to maximize potential growth. A smaller portion is diversified into high-risk crypto and hedging assets like gold and stable debt. The selected stocks and mutual funds are chosen for their strong historical performance, high growth potential, and robust financial metrics, reflecting the user's high-risk preference for significant returns over the medium term.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amount lost: 2900 USD, remaining value: 26100 USD",
+    "moderate_crash": "20% drop, amount lost: 5800 USD, remaining value: 23200 USD",
+    "severe_crash": "30% drop, amount lost: 8700 USD, remaining value: 20300 USD",
+    "summary": "This portfolio is designed for high-risk tolerance, meaning it can experience significant fluctuations. The crash simulations highlight potential losses, emphasizing the importance of a long-term perspective and emotional resilience during market downturns. Diversification across asset classes helps mitigate, but not eliminate, these risks.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[26100,23200,20300],backgroundColor:['#FFEB3B','#FF9800','#F44336']}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversifying across different asset classes like stocks, mutual funds, crypto, gold, and bonds helps spread risk. When one asset class underperforms, others may perform well, potentially smoothing overall portfolio returns and reducing volatility.",
+    "long_term_perspective": "Given the high-risk nature of this portfolio, a long-term investment horizon (5+ years) is crucial. Market downturns are part of the investment cycle, and a long-term view allows time for recovery and compounding returns, maximizing wealth accumulation.",
+    "rebalancing_strategy": "Periodically rebalancing your portfolio (e.g., annually) is essential to maintain your desired asset allocation. This involves selling assets that have performed well and buying those that have underperformed to bring your portfolio back to its target percentages, managing risk and capitalizing on market movements.",
+    "understanding_risk": "High-risk investments offer higher potential returns but also come with higher potential losses. It's vital to regularly assess your personal risk tolerance and financial goals to ensure your portfolio remains aligned with your comfort level and objectives."
+  }
+}
