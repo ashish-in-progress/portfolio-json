@@ -1,0 +1,192 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "50% and 100000 USD",
+      "mutual_funds": "30% and 60000 USD"
+    },
+    "diversifiers": {
+      "crypto": null,
+      "gold": "10% and 20000 USD",
+      "bond_mutual_funds": "10% and 20000 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Debt FD'],datasets:[{data:[50,30,10,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 188.32,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "51.40",
+      "pb": "44.45",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "https://stockcharts.com/h-sc/ui?s=NVDA",
+      "buy_link": "https://public.com/stocks/NVDA",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Strong leader in AI and graphics processing, demonstrating exceptional revenue growth and profitability, poised for continued expansion in high-demand tech sectors. The high PE and PB ratios reflect its significant growth potential."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 514.05,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.30",
+      "pb": "11.06",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://stockcharts.com/h-sc/ui?s=MSFT",
+      "buy_link": "https://public.com/stocks/MSFT",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Diversified tech giant with strong cloud computing (Azure) and software offerings, consistent revenue growth and high profitability, solidifying its market leadership. Its healthy financial ratios and robust ecosystem make it a strong long-term pick."
+      }
+    },
+    {
+      "stock": "AMZN",
+      "current_price": 220.07,
+      "week_52_high": "242.52",
+      "week_52_low": "161.38",
+      "pe": "32.67",
+      "pb": "6.91",
+      "eps": "6.55",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "NULL",
+      "total_debt_to_equity": "0.27",
+      "revenue_growth_yoy": "10.87",
+      "net_profit_margin": "10.54",
+      "current_ratio": "0.84",
+      "chart": "https://stockcharts.com/h-sc/ui?s=AMZN",
+      "buy_link": "https://public.com/stocks/AMZN",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Dominant e-commerce and cloud services (AWS) provider, consistent revenue growth and improving profitability, with significant future potential in various expanding markets. Its continued innovation and market presence drive its growth."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 244.15,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "24.79",
+      "pb": "7.89",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.34",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://stockcharts.com/h-sc/ui?s=GOOGL",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Leader in search, advertising, and cloud computing (Google Cloud), demonstrating strong financial health, innovation, and consistent growth across its diverse business segments. Its low debt and strong margins provide stability for future growth."
+      }
+    },
+    {
+      "stock": "META",
+      "current_price": 715.7,
+      "week_52_high": "796.25",
+      "week_52_low": "479.80",
+      "pe": "24.78",
+      "pb": "9.08",
+      "eps": "27.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.29",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38",
+      "net_profit_margin": "39.99",
+      "current_ratio": "2.83",
+      "chart": "https://stockcharts.com/h-sc/ui?s=META",
+      "buy_link": "https://public.com/stocks/META",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Social media and metaverse leader, showing robust revenue growth and high net profit margins, indicating strong user engagement and effective monetization strategies. Its aggressive push into new technologies offers high growth potential."
+      }
+    },
+    {
+      "stock": "LLY",
+      "current_price": 819.4,
+      "week_52_high": "937.00",
+      "week_52_low": "623.78",
+      "pe": "57.16",
+      "pb": "43.17",
+      "eps": "15.31",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.64",
+      "total_debt_to_equity": "2.37",
+      "revenue_growth_yoy": "36.83",
+      "net_profit_margin": "25.91",
+      "current_ratio": "0.59",
+      "chart": "https://stockcharts.com/h-sc/ui?s=LLY",
+      "buy_link": "https://public.com/stocks/LLY",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Pharmaceutical giant with strong revenue growth, particularly in innovative treatments, and high profitability, indicating a robust pipeline and market position in healthcare. The high PE reflects strong investor confidence in its future drug development."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Broad Market Index",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "Invest in this fund for broad diversification across the entire U.S. stock market, providing exposure to companies of all sizes and consistent long-term growth potential, fitting an aggressive strategy by capturing overall market upside."
+    },
+    {
+      "name": "Vanguard Emerging Markets Stock Index Fund",
+      "category": "Emerging Markets Equity",
+      "3_year_return": "8%",
+      "5_year_return": "9.5%",
+      "reason_for_investment": "Invest in this fund for higher growth potential by gaining exposure to rapidly developing economies, offering diversification beyond developed markets despite higher inherent risks, aligning with an aggressive risk tolerance for potentially greater returns."
+    },
+    {
+      "name": "Vanguard Health Care Fund",
+      "category": "Sector-Specific Equity",
+      "3_year_return": "15%",
+      "5_year_return": "16.5%",
+      "reason_for_investment": "Invest in this fund to capitalize on the defensive and growth-oriented nature of the healthcare sector, benefiting from demographic trends and innovation in medical technology. This sector can offer stability and growth even in volatile markets."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Debt FDs (Fixed Deposits) are selected for their stability and capital preservation, offering a reliable income stream and acting as a defensive asset in an otherwise aggressive portfolio. They help reduce overall portfolio volatility and provide liquidity, balancing the higher risk exposure from equities."
+  },
+  "Gold": {
+    "summary": "Gold is included as a traditional safe-haven asset, providing a hedge against inflation and geopolitical risks. It helps to diversify the portfolio and preserve capital during periods of market uncertainty, complementing the growth-oriented equity investments."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return ($10,000 profit), total value $210,000",
+    "moderate_return": "8% return ($16,000 profit), total value $216,000",
+    "optimistic_return": "12% return ($24,000 profit), total value $224,000",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[210000,216000,224000]}]}}"
+  },
+  "summary": "This aggressive portfolio for a 20-year horizon with a 200,000 USD budget focuses heavily on equity, with a significant allocation to high-growth individual stocks and diversified mutual funds. The stock selection targets innovative technology and healthcare companies demonstrating strong revenue growth, profitability, and market leadership. Mutual funds provide broad market exposure, international growth, and sectoral focus. The diversifiers, gold and debt, offer a small buffer while maintaining an aggressive stance.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amount lost $20,000, portfolio value $180,000",
+    "moderate_crash": "20% drop, amount lost $40,000, portfolio value $160,000",
+    "severe_crash": "30% drop, amount lost $60,000, portfolio value $140,000",
+    "summary": "This aggressive portfolio carries inherent market risks. While designed for long-term growth, it is susceptible to significant downturns during market corrections. Diversification across various high-growth stocks and mutual funds aims to mitigate single-asset risk, but overall market exposure remains high. Regular rebalancing and a long-term investment horizon are crucial for navigating volatility.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[180000,160000,140000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, gold, debt) and geographies is crucial to mitigate risk. It helps cushion your portfolio against poor performance in any single investment area.",
+    "long_term_perspective": "Maintaining a long-term investment perspective is vital, especially with an aggressive portfolio. Short-term market fluctuations are normal; focus on your financial goals over several years, allowing your investments to recover and grow.",
+    "rebalancing_strategy": "Periodically review and rebalance your portfolio to maintain your target asset allocation. If one asset class grows significantly, you might trim it back to its original percentage and reallocate to underperforming assets, ensuring your risk profile remains consistent.",
+    "understanding_risk": "Understand that all investments carry risk. While higher returns often come with higher risk, it's essential to align your portfolio with your comfort level for potential losses. Educate yourself on the risks associated with each asset in your portfolio."
+  }
+}
