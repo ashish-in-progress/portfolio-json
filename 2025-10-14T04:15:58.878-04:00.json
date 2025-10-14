@@ -1,0 +1,143 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and $20,000",
+      "mutual_funds": "25% and $12,500"
+    },
+    "diversifiers": {
+      "crypto": "0% and $0",
+      "gold": "15% and $7,500",
+      "bond_mutual_funds": "20% and $10,000"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[40,25,15,20]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "GOOGL",
+      "current_price": 244.15,
+      "week_52_high": "$256.00",
+      "week_52_low": "$140.53",
+      "pe": "24.79",
+      "pb": "7.89",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.34",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13%",
+      "net_profit_margin": "31.12%",
+      "current_ratio": "1.84",
+      "chart": "N/A (Chart tool failed to retrieve URL)",
+      "buy_link": "https://public.com/stocks/googl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Google (GOOGL) shows strong revenue growth and high profitability with a healthy balance sheet. Its relatively low debt and robust earnings per share make it a solid choice for long-term growth in a medium-risk portfolio. Future changes are expected to be positive due to continued innovation and market dominance in advertising and cloud computing."
+      }
+    },
+    {
+      "stock": "AMZN",
+      "current_price": 220.07,
+      "week_52_high": "$242.52",
+      "week_52_low": "$161.38",
+      "pe": "32.67",
+      "pb": "6.91",
+      "eps": "6.55",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "NULL",
+      "total_debt_to_equity": "0.27",
+      "revenue_growth_yoy": "10.87%",
+      "net_profit_margin": "10.54%",
+      "current_ratio": "0.84",
+      "chart": "N/A (Chart tool failed to retrieve URL)",
+      "buy_link": "https://public.com/stocks/amzn",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Amazon (AMZN) continues to demonstrate strong revenue growth and improving profitability. Its leadership in e-commerce and cloud services (AWS) positions it for sustained future expansion. The stock is chosen for its growth potential and strong market position, making it suitable for a medium-risk profile with an outlook for continued innovation and market penetration."
+      }
+    },
+    {
+      "stock": "AAPL",
+      "current_price": 247.66,
+      "week_52_high": "$260.10",
+      "week_52_low": "$169.21",
+      "pe": "36.66",
+      "pb": "55.29",
+      "eps": "6.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.42",
+      "total_debt_to_equity": "1.89",
+      "revenue_growth_yoy": "5.97%",
+      "net_profit_margin": "24.30%",
+      "current_ratio": "0.83",
+      "chart": "N/A (Chart tool failed to retrieve URL)",
+      "buy_link": "https://public.com/stocks/aapl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Apple (AAPL) is a global technology leader with a strong brand and consistent profitability. Despite a slightly higher PE ratio, its robust ecosystem and recurring services revenue provide stability and growth. The stock is selected for its financial strength and potential for continued innovation, which are key for a medium-risk portfolio aiming for reliable returns."
+      }
+    },
+    {
+      "stock": "JNJ",
+      "current_price": 190.9,
+      "week_52_high": "$192.10",
+      "week_52_low": "$140.68",
+      "pe": "20.27",
+      "pb": "5.85",
+      "eps": "9.35",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.63",
+      "total_debt_to_equity": "0.51",
+      "revenue_growth_yoy": "4.68%",
+      "net_profit_margin": "25.00%",
+      "current_ratio": "0.78",
+      "chart": "N/A (Chart tool failed to retrieve URL)",
+      "buy_link": "https://public.com/stocks/jnj",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson (JNJ) offers stability and a healthy dividend yield, making it an attractive option for a medium-risk portfolio. Its diversified healthcare business provides consistent earnings and a strong balance sheet. The stock is chosen for its defensive qualities and steady performance, contributing to a balanced and resilient investment strategy."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "VTSAX provides broad exposure to the entire U.S. stock market, making it an excellent choice for diversification and long-term growth. Its strong historical returns over 3 and 5 years indicate a solid performance, suitable for a medium-risk profile seeking comprehensive equity market participation."
+    },
+    {
+      "name": "Vanguard 500 Index Fund Admiral Shares",
+      "category": "Large-Cap Equity",
+      "3_year_return": "12.5%",
+      "5_year_return": "14.3%",
+      "reason_for_investment": "VFIAX tracks the performance of the S&P 500, offering exposure to 500 of the largest U.S. companies. This fund is ideal for capturing the growth of established large-cap companies with a track record of strong performance, fitting well within a medium-risk investment strategy aiming for stable returns."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "This portfolio includes a 20% allocation to bonds/fixed deposits for stability and capital preservation. This helps to mitigate overall portfolio risk and provide a steady income stream, aligning with a medium-risk profile seeking a balance between growth and security. These assets generally perform well during equity market downturns, offering diversification benefits."
+  },
+  "Gold": {
+    "summary": "Gold represents 15% of the portfolio, serving as a traditional hedge against inflation and market volatility. Its inclusion enhances diversification and provides a safe haven asset during economic uncertainties, contributing to the portfolio's resilience and suitability for a medium-risk investor looking for stability."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation + total value of $52,500",
+    "moderate_return": "8% return calculation + total value of $54,000",
+    "optimistic_return": "12% return calculation + total value of $56,000",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[52500,54000,56000]}]}}"
+  },
+  "summary": "This portfolio of $50,000 (initial $20,000 + $500 monthly for 5 years) is designed for a medium-risk investor. It allocates 65% to equity (stocks and mutual funds) for growth and 35% to diversifiers (gold and bonds/fixed deposits) for stability and risk mitigation. The selected stocks are financially sound and leaders in their respective industries, offering a blend of growth and stability. The chosen mutual funds provide broad market diversification across large-cap and total U.S. stock markets, ensuring a well-rounded equity exposure. The inclusion of gold and bonds further balances the portfolio against market volatility, aligning with a medium-risk investment approach.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, $5,000 lost, portfolio value $45,000",
+    "moderate_crash": "20% drop, $10,000 lost, portfolio value $40,000",
+    "severe_crash": "30% drop, $15,000 lost, portfolio value $35,000",
+    "summary": "The risk analysis simulates various market downturns to demonstrate potential impacts on the portfolio. A diversified approach, including defensive assets like gold and bonds, helps to cushion these impacts. It is crucial to understand that market corrections are normal, and a long-term perspective is key to navigating them effectively. The current allocation aims to minimize significant losses while allowing for growth.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[45000,40000,35000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across various asset classes (stocks, mutual funds, gold, bonds) is crucial to reduce risk. It ensures that the poor performance of one asset class does not disproportionately impact your entire portfolio, leading to more stable long-term returns.",
+    "long_term_perspective": "Investing with a long-term mindset helps to ride out short-term market fluctuations. Historically, markets have recovered from downturns, and patience allows your investments to compound over time, maximizing potential gains.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio (e.g., annually or semi-annually) helps maintain your desired asset allocation. If one asset class grows significantly, you might sell some to reinvest in underperforming assets, keeping your risk profile consistent and potentially enhancing returns.",
+    "understanding_risk": "It's essential to understand that all investments carry some level of risk. Your risk tolerance should align with your investment goals and time horizon. Educate yourself on the potential downsides of each investment and how they fit into your overall financial plan."
+  }
+}
