@@ -1,0 +1,159 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "60% and $30,000",
+      "mutual_funds": "20% and $10,000"
+    },
+    "diversifiers": {
+      "crypto": "10% and $5,000",
+      "gold": "5% and $2,500",
+      "bond_mutual_funds": "5% and $2,500"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold','Bond Mutual Funds'],datasets:[{data:[60,20,10,5,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVIDIA",
+      "current_price": 188.32,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "51.40",
+      "pb": "44.45",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "Full chart URL could not be generated due to a tool error.",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA is a leader in AI and semiconductor technology with exceptional revenue growth and profit margins, making it a strong choice for high-risk, long-term growth. Expect continued innovation and market expansion in AI and related fields."
+      }
+    },
+    {
+      "stock": "Microsoft",
+      "current_price": 514.05,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.30",
+      "pb": "11.06",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "Full chart URL could not be generated due to a tool error.",
+      "buy_link": "https://public.com/stocks/msft",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft offers robust growth in cloud services (Azure), enterprise software, and AI presence, demonstrating consistent performance, strong profitability, and manageable debt. Forecast for stable, long-term appreciation due to its diversified business model and innovation."
+      }
+    },
+    {
+      "stock": "Alphabet",
+      "current_price": 244.15,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "24.79",
+      "pb": "7.89",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.34",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "Full chart URL could not be generated due to a tool error.",
+      "buy_link": "https://public.com/stocks/googl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) maintains its dominance in digital advertising, search, and cloud computing (Google Cloud), with strong revenue growth and a very healthy balance sheet. Expect innovation in AI to drive future growth and solidify its market position."
+      }
+    },
+    {
+      "stock": "Amazon",
+      "current_price": 220.07,
+      "week_52_high": "242.52",
+      "week_52_low": "161.38",
+      "pe": "32.67",
+      "pb": "6.91",
+      "eps": "6.55",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": null,
+      "total_debt_to_equity": "0.27",
+      "revenue_growth_yoy": "10.87",
+      "net_profit_margin": "10.54",
+      "current_ratio": "0.84",
+      "chart": "Full chart URL could not be generated due to a tool error.",
+      "buy_link": "https://public.com/stocks/amzn",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Amazon, a leader in e-commerce and cloud infrastructure (AWS), shows consistent revenue growth and expanding profitability. Its continuous innovation, vast customer base, and market leadership position it well for long-term gains."
+      }
+    },
+    {
+      "stock": "Meta",
+      "current_price": 715.7,
+      "week_52_high": "796.25",
+      "week_52_low": "479.80",
+      "pe": "24.78",
+      "pb": "9.08",
+      "eps": "27.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.29",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38",
+      "net_profit_margin": "39.99",
+      "current_ratio": "2.83",
+      "chart": "Full chart URL could not be generated due to a tool error.",
+      "buy_link": "https://public.com/stocks/meta",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Meta Platforms is a social media powerhouse with strong revenue growth, high profitability, and a significant investment in future technologies like the metaverse. Its vast user base and strong advertising revenue ensure continued financial strength and potential for future expansion."
+      }
+    }
+  ],
+  "mutual_funds_selected": [],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112026,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is selected as the primary cryptocurrency due to its market dominance, liquidity, and increasing institutional adoption, offering high growth potential for a high-risk allocation."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "This allocation provides a small degree of stability and income generation, acting as a defensive component within an otherwise growth-oriented portfolio. It aims to reduce overall portfolio volatility."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset and inflation hedge, providing a counter-cyclical element to the portfolio, which can help preserve value during market downturns and economic uncertainty."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, projecting a total value of $52,500",
+    "moderate_return": "8% return, projecting a total value of $54,000",
+    "optimistic_return": "12% return, projecting a total value of $56,000",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[52500,54000,56000]}]}}"
+  },
+  "summary": "This portfolio is aggressively positioned for long-term growth (until 2040), reflecting your high-risk appetite. It allocates a significant portion to leading technology stocks known for their innovation, market dominance, and strong financial performance. While mutual funds were allocated a percentage, specific funds could not be selected due to an unavailable data source, but general diversified growth funds would be considered. Diversifiers include a portion for cryptocurrency for extremely high-risk, high-reward potential, and smaller allocations to gold and bond mutual funds to provide some minimal stability within an otherwise growth-focused strategy. This aggressive approach aligns with a high-risk profile aiming for substantial capital appreciation over a long investment horizon.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amounting to a $5,000 loss, with the portfolio value at $45,000",
+    "moderate_crash": "20% drop, amounting to a $10,000 loss, with the portfolio value at $40,000",
+    "severe_crash": "30% drop, amounting to a $15,000 loss, with the portfolio value at $35,000",
+    "summary": "Given the aggressive nature of this portfolio, it is highly susceptible to market downturns. The simulations demonstrate potential losses of $5,000 to $15,000 in various crash scenarios. While diversification across different asset classes helps mitigate some risk, the heavy concentration in high-growth stocks and cryptocurrency means significant volatility should be expected. Regular rebalancing and a long-term perspective are crucial for navigating these risks.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[45000,40000,35000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, bonds, gold, crypto) helps spread risk and can smooth out returns over time. Even within an aggressive portfolio, strategic diversification is key to managing volatility.",
+    "long_term_perspective": "For a growth-oriented portfolio with high-risk assets, a long-term investment horizon (e.g., until 2040) is essential. Short-term market fluctuations are common, but historical data suggests that growth assets tend to deliver significant returns over extended periods.",
+    "rebalancing_strategy": "Regularly review and rebalance your portfolio to maintain your desired asset allocation. If some assets grow significantly, they might exceed their target percentage, increasing your risk exposure. Selling high and buying low during rebalancing can help manage risk and lock in gains.",
+    "understanding_risk": "Understand that high-reward potential comes with high risk. Be prepared for significant price swings in your stock and cryptocurrency holdings. Only invest capital you can afford to lose, and regularly assess your risk tolerance as your financial situation changes."
+  }
+}
