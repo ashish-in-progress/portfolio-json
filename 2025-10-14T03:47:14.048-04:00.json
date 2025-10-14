@@ -1,0 +1,115 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "70% ($7,000)",
+      "mutual_funds": "20% ($2,000)"
+    },
+    "diversifiers": {
+      "crypto": "0% ($0)",
+      "gold": "10% ($1,000)",
+      "bond_mutual_funds": "0% ($0)"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold'],datasets:[{data:[70,20,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 188.32,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "51.40",
+      "pb": "44.45",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/b16cfe6f-a953-4400-bc36-37682543d897.png",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Nvidia is selected for its exceptional revenue growth and high net profit margin, indicating strong market demand for its products in the AI and chip sector. Its high PE reflects strong future growth expectations. This stock is suitable for an aggressive portfolio seeking high capital appreciation."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 514.05,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.30",
+      "pb": "11.06",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/d544d728-fc7c-464a-afd0-05307f2fdcc8.png",
+      "buy_link": "https://public.com/stocks/msft",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is a technology leader with consistent revenue growth and robust profit margins. Its strong financial health and diverse product portfolio make it a relatively stable yet high-growth option for an aggressive portfolio. Future changes are predicted to be positive due to its continuous innovation and market dominance."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 244.15,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "24.79",
+      "pb": "7.89",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.34",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/be191a74-96c5-452b-b07e-62fba0e8ca00.png",
+      "buy_link": "https://public.com/stocks/googl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) is a key player in digital advertising and cloud computing, demonstrating healthy revenue growth and strong profitability. Its low debt-to-equity ratio indicates financial stability. The stock is chosen for its solid fundamentals and potential for continued growth in its core businesses and new ventures."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Aggressive Growth Equity Fund",
+      "category": "Equity Growth",
+      "3_year_return": "N/A",
+      "5_year_return": "N/A",
+      "reason_for_investment": "Chosen to provide diversification within the equity sleeve and exposure to a broader market, aligning with an aggressive growth strategy. Specific fund details would be selected based on performance metrics and expense ratios."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "No bond mutual funds are allocated in this aggressive portfolio."
+  },
+  "Gold": {
+    "summary": "Gold is selected as a diversifier (10% or $1,000) to provide a hedge against market volatility and inflation, offering a degree of stability to the aggressive portfolio."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation + total value ($10,500)",
+    "moderate_return": "8% return calculation + total value ($10,800)",
+    "optimistic_return": "12% return calculation + total value ($11,200)",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[10500,10800,11200]}]}}"
+  },
+  "summary": "For your budget of $10,000 and an aggressive risk appetite over a 1-year investment duration, a significant portion is allocated to equity, with 70% in high-growth potential stocks and 20% in mutual funds. A small portion (10%) is allocated to gold as a diversifier. The selected stocks (Nvidia, Microsoft, Alphabet) offer a blend of high-growth potential and strong financial performance in the technology sector. Please note that no specific mutual funds have been selected at this time, but the allocation is made. Given the aggressive nature and short timeframe, volatility can be expected.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amount lost ($1,000), resulting value ($9,000)",
+    "moderate_crash": "20% drop, amount lost ($2,000), resulting value ($8,000)",
+    "severe_crash": "30% drop, amount lost ($3,000), resulting value ($7,000)",
+    "summary": "Given the aggressive nature of this portfolio, it is highly susceptible to market downturns. A mild crash could result in a 10% loss, a moderate crash in a 20% loss, and a severe crash in a 30% loss of the initial investment. Investors should be prepared for significant volatility and potential capital depreciation in such scenarios.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[9000,8000,7000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, gold) helps mitigate risk. While this portfolio is aggressive, the inclusion of mutual funds and gold aims to provide some spread, reducing the impact of poor performance in any single asset.",
+    "long_term_perspective": "Although this portfolio is for a 1-year duration, successful investing often benefits from a long-term perspective. Short-term market fluctuations can be significant, but over longer periods, growth assets tend to recover and generate substantial returns. Consider extending your investment horizon if market conditions are unfavorable at the 1-year mark.",
+    "rebalancing_strategy": "Regularly review your portfolio to ensure it aligns with your financial goals and risk tolerance. Rebalancing involves adjusting asset allocations back to their original targets. For instance, if stocks perform exceptionally well, you might sell some to reinvest in underperforming assets or maintain your target allocation. This helps manage risk and lock in gains.",
+    "understanding_risk": "It is crucial to understand that all investments carry risk, and aggressive portfolios like this one come with higher risk. The potential for higher returns is accompanied by a higher potential for losses. Only invest capital you can afford to lose, and stay informed about market conditions and company-specific news."
+  }
+}
