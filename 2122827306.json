@@ -1,36 +1,36 @@
 {
   "allocation": {
     "equity_sleeves": {
-      "stocks": "30% and $4500",
-      "mutual_funds": "30% and $4500"
+      "stocks": "40% and 6000 USD",
+      "mutual_funds": "30% and 4500 USD"
     },
     "diversifiers": {
-      "crypto": "0% and $0",
-      "gold": "20% and $3000",
-      "bond_mutual_funds": "20% and $3000"
+      "crypto": "N/A",
+      "gold": "15% and 2250 USD",
+      "bond_mutual_funds": "15% and 2250 USD"
     }
   },
-  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[30,30,20,20]}]}}",
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Debt/FD'],datasets:[{data:[40,30,15,15]}]}}",
   "stocks_selected": [
     {
-      "stock": "GOOGL",
-      "current_price": 244.15,
-      "week_52_high": "256.00",
-      "week_52_low": "140.53",
-      "pe": "24.79",
-      "pb": "7.89",
-      "eps": "9.25",
+      "stock": "PFE",
+      "current_price": 24.73,
+      "week_52_high": "30.43",
+      "week_52_low": "20.92",
+      "pe": "13.10",
+      "pb": "1.59",
+      "eps": "1.88",
       "roe": "N/A",
       "roa": "N/A",
-      "dividend_yield": "0.34",
-      "total_debt_to_equity": "0.04",
-      "revenue_growth_yoy": "13.13",
-      "net_profit_margin": "31.12",
-      "current_ratio": "1.84",
-      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/46df6c4f-8a58-4ba9-9053-71adf9f7b159.png",
-      "buy_link": "https://public.com/stocks/googl",
+      "dividend_yield": "6.84",
+      "total_debt_to_equity": "0.73",
+      "revenue_growth_yoy": "13.54",
+      "net_profit_margin": "16.85",
+      "current_ratio": "0.92",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/5a37959c-acf6-47df-81f7-374cb030d311.png",
+      "buy_link": "https://public.com/stocks/pfe",
       "analysis_summary": {
-        "reason_for_selection(2-3 lines)": "Google (GOOGL) is selected for its strong market position in technology, consistent revenue growth (13.13% YoY), and high net profit margin (31.12%), indicating robust financial health. Its relatively low debt-to-equity ratio (0.04) and a reasonable P/E ratio for a growth stock suggest stability and potential for future appreciation over the 7-year investment horizon."
+        "reason_for_selection(2-3 lines)": "Pfizer (PFE) is selected for its attractive valuation (low PE and PB), high dividend yield, and decent revenue growth, offering a stable component with income potential to the portfolio."
       }
     },
     {
@@ -48,31 +48,31 @@
       "revenue_growth_yoy": "4.68",
       "net_profit_margin": "25.00",
       "current_ratio": "0.78",
-      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/86835989-e73a-45bc-8ae3-b6af5eb57fda.png",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/f25d9b84-e807-4104-a3d2-f58576206264.png",
       "buy_link": "https://public.com/stocks/jnj",
       "analysis_summary": {
-        "reason_for_selection(2-3 lines)": "Johnson & Johnson (JNJ) is chosen for its stability and defensive nature in the healthcare sector, offering a reliable dividend yield of 2.63%. With a healthy net profit margin (25.00%) and a moderate P/E ratio (20.27), JNJ provides a balance of growth and income, making it suitable for a medium-risk portfolio seeking long-term value."
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson (JNJ) offers stability and consistent performance, characteristic of a diversified healthcare giant. Its strong performance metrics and dividend yield make it a reliable choice for a medium-risk portfolio."
       }
     },
     {
-      "stock": "PG",
-      "current_price": 147.49,
-      "week_52_high": "180.43",
-      "week_52_low": "149.45",
-      "pe": "21.93",
-      "pb": "6.70",
-      "eps": "6.51",
+      "stock": "GOOGL",
+      "current_price": 244.15,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "24.79",
+      "pb": "7.89",
+      "eps": "9.25",
       "roe": "N/A",
       "roa": "N/A",
-      "dividend_yield": "2.82",
-      "total_debt_to_equity": "0.66",
-      "revenue_growth_yoy": "0.29",
-      "net_profit_margin": "18.95",
-      "current_ratio": "0.44",
-      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/a0fcee63-bc09-48c2-bd5b-13e6feeac4fc.png",
-      "buy_link": "https://public.com/stocks/pg",
+      "dividend_yield": "0.34",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/d1ed7921-6a49-47e3-a1ca-9c388a1aefee.png",
+      "buy_link": "https://public.com/stocks/googl",
       "analysis_summary": {
-        "reason_for_selection(2-3 lines)": "Procter & Gamble (PG) is included for its strong brand portfolio and consistent performance in the consumer staples sector, offering stability and a decent dividend yield of 2.82%. Its established market presence and ability to generate steady earnings make it a resilient investment, providing a low-volatility component to the portfolio over the long term."
+        "reason_for_selection(2-3 lines)": "Alphabet (GOOGL) is chosen for its robust revenue growth, excellent profit margins, and exceptionally low debt, indicating strong financial health and market leadership in technology."
       }
     }
   ],
@@ -80,51 +80,50 @@
     {
       "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
       "category": "Total Market",
-      "3_year_return": "13.0%",
-      "5_year_return": "15.0%",
-      "reason_for_investment": "VTSAX offers broad market exposure to U.S. equities, including large, mid, and small-cap companies, providing excellent diversification and historically strong returns. Its low expense ratio makes it a cost-effective choice for long-term growth in a medium-risk portfolio."
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "VTSAX provides broad exposure to the entire U.S. stock market, offering diversification and consistent long-term growth potential, suitable for the core equity portion of a medium-risk portfolio."
     },
     {
-      "name": "Vanguard 500 Index Fund Admiral Shares",
-      "category": "Large-Cap Equity",
-      "3_year_return": "12.5%",
-      "5_year_return": "14.3%",
-      "reason_for_investment": "VFIAX tracks the performance of the S&P 500, offering exposure to 500 of the largest U.S. companies. This fund provides reliable growth potential through established market leaders and is a cornerstone for many diversified portfolios, aligning with a medium-risk profile for long-term investment."
+      "name": "Vanguard Health Care Fund",
+      "category": "Sectoral",
+      "3_year_return": "15%",
+      "5_year_return": "16.5%",
+      "reason_for_investment": "VGENX offers exposure to the healthcare sector, known for its defensive characteristics and long-term growth driven by demographic trends and innovation. This fund provides a balance of growth and resilience for a medium-risk investor."
     },
     {
-      "name": "Vanguard Emerging Markets Stock Index Fund",
-      "category": "International Equity",
-      "3_year_return": "8.0%",
-      "5_year_return": "9.5%",
-      "reason_for_investment": "VEIEX provides diversification into emerging markets, offering higher growth potential than developed markets, albeit with higher volatility. For a 7-year horizon and medium risk appetite, it can complement a U.S.-centric portfolio by capturing growth opportunities in developing economies."
+      "name": "Vanguard Dividend Growth Fund",
+      "category": "Dividend",
+      "3_year_return": "9.5%",
+      "5_year_return": "10%",
+      "reason_for_investment": "VDIGX focuses on companies with a history of growing dividends, providing a steady income stream and potentially lower volatility compared to pure growth funds. It's a good choice for balancing growth with income in a medium-risk strategy."
     }
   ],
   "crypto_selected": [],
   "bond_mutual_funds": {
-    "summary": "Bond mutual funds are selected for capital preservation and steady income generation. They reduce overall portfolio volatility by offering a stable counterbalance to equity investments, aligning with a medium-risk profile seeking long-term stability and consistent returns."
+    "summary": "The 15% allocation to debt/FD (interpreted as bond mutual funds for diversified debt exposure) aims to provide stability and capital preservation, counterbalancing the equity portion's volatility. This helps lower overall portfolio risk and offers a steady, albeit lower, return."
   },
   "Gold": {
-    "summary": "Gold is included as a traditional safe-haven asset, offering protection against inflation and market downturns. It acts as a diversifier, reducing overall portfolio risk and preserving value during periods of economic uncertainty, suitable for a medium-risk, long-term strategy."
+    "summary": "The 15% allocation to Gold acts as a traditional safe-haven asset, providing diversification and a hedge against inflation and economic uncertainties. Gold tends to perform well when other asset classes are struggling, thus reducing overall portfolio risk."
   },
   "what_if_analysis": {
-    "conservative_return": "5% return calculation + total value ($15750)",
-    "moderate_return": "8% return calculation + total value ($16200)",
-    "optimistic_return": "12% return calculation + total value ($16800)",
+    "conservative_return": "5% return, total value: 15750 USD",
+    "moderate_return": "8% return, total value: 16200 USD",
+    "optimistic_return": "12% return, total value: 16800 USD",
     "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[15750,16200,16800]}]}}"
   },
-  "summary": "This portfolio allocates 60% to equities (stocks and mutual funds) for growth and 40% to diversifiers (gold and bond mutual funds) for stability, balancing risk and return for a 7-year investment horizon with a medium risk appetite. The selected stocks (GOOGL, JNJ, PG) offer a mix of growth, stability, and value, while the mutual funds (VTSAX, VFIAX, VEIEX) provide broad market and international diversification. Gold acts as a hedge, and bond mutual funds offer capital preservation and steady returns, creating a well-rounded and resilient investment strategy.",
+  "summary": "This portfolio of 15,000 USD for a 7-year investment duration with medium risk is allocated 70% to equity (40% stocks, 30% mutual funds) and 30% to diversifiers (15% gold, 15% debt/FD). The selected stocks (PFE, JNJ, GOOGL) offer a blend of value, stability, and growth, while the mutual funds (VTSAX, VGENX, VDIGX) provide broad market exposure, sectoral diversification, and income generation, aiming for a balanced growth with controlled risk.",
   "risk_analysis": {
-    "mild_crash": "10% drop, amount lost: $1500, current value: $13500",
-    "moderate_crash": "20% drop, amount lost: $3000, current value: $12000",
-    "severe_crash": "30% drop, amount lost: $4500, current value: $10500",
-    "summary": "This portfolio is designed to mitigate risk through diversification across different asset classes. While a market crash can impact values, the inclusion of defensive stocks, gold, and bond funds aims to provide some downside protection. Regular monitoring and rebalancing are crucial to manage risk effectively.",
+    "mild_crash": "10% drop, 1500 USD lost, portfolio value: 13500 USD",
+    "moderate_crash": "20% drop, 3000 USD lost, portfolio value: 12000 USD",
+    "severe_crash": "30% drop, 4500 USD lost, portfolio value: 10500 USD",
+    "summary": "The portfolio, designed for a medium risk profile, includes diversifiers like gold and debt/FD to mitigate market downturns. While equity allocations are exposed to market fluctuations, the diversification strategy aims to cushion severe impacts, maintaining a balance between growth potential and risk protection.",
     "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[13500,12000,10500]}]}}"
   },
   "education_tips": {
-    "diversification_importance": "Diversification is crucial to spread risk across various asset classes, industries, and geographies. It helps reduce the impact of poor performance from any single investment, enhancing portfolio stability and long-term returns.",
-    "long_term_perspective": "Adopting a long-term investment horizon (e.g., 7+ years) allows your investments to ride out market volatility and benefit from compounding returns. Short-term market fluctuations become less significant over an extended period.",
-    "rebalancing_strategy": "Regularly rebalancing your portfolio involves adjusting asset allocations back to your target percentages. This ensures you maintain your desired risk level and take profits from overperforming assets while buying into underperforming ones.",
-    "understanding_risk": "It's essential to understand that all investments carry some level of risk. Your risk tolerance should align with your investment goals and time horizon. Educate yourself on the risks associated with each asset class to make informed decisions."
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, gold, debt) helps reduce overall portfolio risk. When one asset class underperforms, others may perform better, smoothing out returns over time and protecting against significant losses.",
+    "long_term_perspective": "Investing for the long term (e.g., 7 years as in this portfolio) allows your investments to recover from short-term market volatility and benefit from compounding returns. Patience and consistency are key to achieving financial goals.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio (e.g., annually) ensures that your asset allocation remains aligned with your risk tolerance and investment objectives. This involves selling assets that have grown significantly and buying those that have underperformed to restore the target percentages.",
+    "understanding_risk": "All investments carry some level of risk. Understanding the risks associated with each asset in your portfolio, such as market risk for stocks or interest rate risk for bonds, is crucial. Your medium-risk profile indicates a willingness to accept some volatility for higher potential returns, balanced by safer assets."
   }
 }
- 
