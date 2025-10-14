@@ -1,0 +1,262 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and $4500",
+      "mutual_funds": "30% and $4500"
+    },
+    "diversifiers": {
+      "crypto": "0% and $0",
+      "gold": "20% and $3000",
+      "bond_mutual_funds": "20% and $3000"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[30,30,20,20]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "GOOGL",
+      "current_price": 244.15,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "24.79",
+      "pb": "7.89",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.34",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/46df6c4f-8a58-4ba9-9053-71adf9f7b159.png",
+      "buy_link": "https://public.com/stocks/googl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Google (GOOGL) is selected for its strong market position in technology, consistent revenue growth (13.13% YoY), and high net profit margin (31.12%), indicating robust financial health. Its relatively low debt-to-equity ratio (0.04) and a reasonable P/E ratio for a growth stock suggest stability and potential for future appreciation over the 7-year investment horizon."
+      }
+    },
+    {
+      "stock": "JNJ",
+      "current_price": 190.9,
+      "week_52_high": "192.10",
+      "week_52_low": "140.68",
+      "pe": "20.27",
+      "pb": "5.85",
+      "eps": "9.35",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.63",
+      "total_debt_to_equity": "0.51",
+      "revenue_growth_yoy": "4.68",
+      "net_profit_margin": "25.00",
+      "current_ratio": "0.78",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/86835989-e73a-45bc-8ae3-b6af5eb57fda.png",
+      "buy_link": "https://public.com/stocks/jnj",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson (JNJ) is chosen for its stability and defensive nature in the healthcare sector, offering a reliable dividend yield of 2.63%. With a healthy net profit margin (25.00%) and a moderate P/E ratio (20.27), JNJ provides a balance of growth and income, making it suitable for a medium-risk portfolio seeking long-term value."
+      }
+    },
+    {
+      "stock": "PG",
+      "current_price": 147.49,
+      "week_52_high": "180.43",
+      "week_52_low": "149.45",
+      "pe": "21.93",
+      "pb": "6.70",
+      "eps": "6.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.82",
+      "total_debt_to_equity": "0.66",
+      "revenue_growth_yoy": "0.29",
+      "net_profit_margin": "18.95",
+      "current_ratio": "0.44",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/a0fcee63-bc09-48c2-bd5b-13e6feeac4fc.png",
+      "buy_link": "https://public.com/stocks/pg",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Procter & Gamble (PG) is included for its strong brand portfolio and consistent performance in the consumer staples sector, offering stability and a decent dividend yield of 2.82%. Its established market presence and ability to generate steady earnings make it a resilient investment, providing a low-volatility component to the portfolio over the long term."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13.0%",
+      "5_year_return": "15.0%",
+      "reason_for_investment": "VTSAX offers broad market exposure to U.S. equities, including large, mid, and small-cap companies, providing excellent diversification and historically strong returns. Its low expense ratio makes it a cost-effective choice for long-term growth in a medium-risk portfolio."
+    },
+    {
+      "name": "Vanguard 500 Index Fund Admiral Shares",
+      "category": "Large-Cap Equity",
+      "3_year_return": "12.5%",
+      "5_year_return": "14.3%",
+      "reason_for_investment": "VFIAX tracks the performance of the S&P 500, offering exposure to 500 of the largest U.S. companies. This fund provides reliable growth potential through established market leaders and is a cornerstone for many diversified portfolios, aligning with a medium-risk profile for long-term investment."
+    },
+    {
+      "name": "Vanguard Emerging Markets Stock Index Fund",
+      "category": "International Equity",
+      "3_year_return": "8.0%",
+      "5_year_return": "9.5%",
+      "reason_for_investment": "VEIEX provides diversification into emerging markets, offering higher growth potential than developed markets, albeit with higher volatility. For a 7-year horizon and medium risk appetite, it can complement a U.S.-centric portfolio by capturing growth opportunities in developing economies."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds are selected for capital preservation and steady income generation. They reduce overall portfolio volatility by offering a stable counterbalance to equity investments, aligning with a medium-risk profile seeking long-term stability and consistent returns."
+  },
+  "Gold": {
+    "summary": "Gold is included as a traditional safe-haven asset, offering protection against inflation and market downturns. It acts as a diversifier, reducing overall portfolio risk and preserving value during periods of economic uncertainty, suitable for a medium-risk, long-term strategy."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation + total value ($15750)",
+    "moderate_return": "8% return calculation + total value ($16200)",
+    "optimistic_return": "12% return calculation + total value ($16800)",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[15750,16200,16800]}]}}"
+  },
+  "summary": "This portfolio allocates 60% to equities (stocks and mutual funds) for growth and 40% to diversifiers (gold and bond mutual funds) for stability, balancing risk and return for a 7-year investment horizon with a medium risk appetite. The selected stocks (GOOGL, JNJ, PG) offer a mix of growth, stability, and value, while the mutual funds (VTSAX, VFIAX, VEIEX) provide broad market and international diversification. Gold acts as a hedge, and bond mutual funds offer capital preservation and steady returns, creating a well-rounded and resilient investment strategy.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amount lost: $1500, current value: $13500",
+    "moderate_crash": "20% drop, amount lost: $3000, current value: $12000",
+    "severe_crash": "30% drop, amount lost: $4500, current value: $10500",
+    "summary": "This portfolio is designed to mitigate risk through diversification across different asset classes. While a market crash can impact values, the inclusion of defensive stocks, gold, and bond funds aims to provide some downside protection. Regular monitoring and rebalancing are crucial to manage risk effectively.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[13500,12000,10500]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is crucial to spread risk across various asset classes, industries, and geographies. It helps reduce the impact of poor performance from any single investment, enhancing portfolio stability and long-term returns.",
+    "long_term_perspective": "Adopting a long-term investment horizon (e.g., 7+ years) allows your investments to ride out market volatility and benefit from compounding returns. Short-term market fluctuations become less significant over an extended period.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio involves adjusting asset allocations back to your target percentages. This ensures you maintain your desired risk level and take profits from overperforming assets while buying into underperforming ones.",
+    "understanding_risk": "It's essential to understand that all investments carry some level of risk. Your risk tolerance should align with your investment goals and time horizon. Educate yourself on the risks associated with each asset class to make informed decisions."
+  }
+}
+  </script>
+
+  <script>
+    const data = JSON.parse(document.getElementById('portfolio-data').textContent.trim());
+
+    // Summary
+    document.getElementById('summaryText').textContent = data.summary;
+
+    // Allocation
+    const alloc = data.allocation;
+    const allocEl = document.getElementById('allocationList');
+    allocEl.innerHTML = `
+      <div><strong>Stocks:</strong> ${alloc.equity_sleeves.stocks}</div>
+      <div><strong>Mutual Funds:</strong> ${alloc.equity_sleeves.mutual_funds}</div>
+      <div><strong>Crypto:</strong> ${alloc.diversifiers.crypto || '0%'}</div>
+      <div><strong>Bond MF:</strong> ${alloc.diversifiers.bond_mutual_funds}</div>
+      <div><strong>Gold:</strong> ${alloc.diversifiers.gold}</div>
+    `;
+
+    // Allocation chart
+    document.getElementById('allocationChart').src = data.chart_url_allocation;
+
+    // Risk analysis
+    document.getElementById('riskSummary').textContent = data.risk_analysis.summary;
+    document.getElementById('riskChart').src = data.risk_analysis.quickchart_url;
+
+    // What-if analysis
+    const whatIf = data.what_if_analysis;
+    document.getElementById('whatIfText').innerHTML = `
+      <div class="text-sm muted"><strong>Conservative:</strong> ${whatIf.conservative_return || ''}</div>
+      <div class="text-sm muted"><strong>Moderate:</strong> ${whatIf.moderate_return || ''}</div>
+      <div class="text-sm muted"><strong>Optimistic:</strong> ${whatIf.optimistic_return || ''}</div>
+    `;
+    document.getElementById('whatIfChart').src = whatIf.quickchart_url || '';
+
+    // Education tips
+    const tipsEl = document.getElementById('educationTips');
+    tipsEl.innerHTML = '';
+    for (const tip of Object.values(data.education_tips)) {
+      const li = document.createElement('li');
+      li.textContent = tip;
+      tipsEl.appendChild(li);
+    }
+
+    // Stocks grid
+    const stocksGrid = document.getElementById('stocksGrid');
+    stocksGrid.innerHTML = '';
+    (data.stocks_selected || []).forEach(s => {
+      const card = document.createElement('div');
+      card.className = 'p-4 card';
+      card.innerHTML = `
+        <div class="flex items-start justify-between">
+          <div>
+            <h3 class="text-md font-semibold">${s.stock}</h3>
+            <div class="muted text-sm">Price: ${s.current_price}</div>
+            <div class="muted text-sm">PE: ${s.pe} • PB: ${s.pb}</div>
+          </div>
+          <div class="text-right">
+            <a href="${s.buy_link || '#'}" target="_blank" class="text-sm underline">Buy</a>
+          </div>
+        </div>
+        <p class="mt-2 text-sm muted">${s.analysis_summary?.['reason_for_selection(2-3 lines)'] || ''}</p>
+        <div class="mt-3">
+          <img src="${s.chart}" alt="${s.stock} chart" class="chart-img" />
+        </div>
+        <div class="mt-3 text-sm muted grid grid-cols-2 gap-2">
+          <div><strong>52w High:</strong> ${s.week_52_high || 'N/A'}</div>
+          <div><strong>52w Low:</strong> ${s.week_52_low || 'N/A'}</div>
+          <div><strong>Dividend:</strong> ${s.dividend_yield || 'N/A'}</div>
+          <div><strong>Debt/Equity:</strong> ${s.total_debt_to_equity || 'N/A'}</div>
+        </div>
+      `;
+      stocksGrid.appendChild(card);
+    });
+
+    // Mutual funds
+    const mfList = document.getElementById('mfList');
+    mfList.innerHTML = '';
+    (data.mutual_funds_selected || []).forEach(m => {
+      const el = document.createElement('div');
+      el.className = 'p-3 border-card rounded';
+      el.innerHTML = `
+        <div class="text-sm font-medium">${m.name}</div>
+        <div class="muted text-xs">${m.category} • 3y: ${m['3_year_return']} • 5y: ${m['5_year_return']}</div>
+        <div class="mt-2 text-sm muted">${m.reason_for_investment}</div>
+      `;
+      mfList.appendChild(el);
+    });
+
+    // Diversifiers (Crypto, Gold, Bond MF)
+    const diversifiersEl = document.getElementById('diversifiersList');
+    diversifiersEl.innerHTML = '';
+
+    // --- Crypto ---
+    (data.crypto_selected || []).forEach(c => {
+      const el = document.createElement('div');
+      el.className = 'p-3 border-card rounded';
+      el.innerHTML = `
+        <div class="flex justify-between items-center">
+          <div>
+            <div class="text-sm font-medium">${c.name} (${c.symbol.toUpperCase()})</div>
+            <div class="muted text-xs">Price: ${c.current_price.toLocaleString()} USD</div>
+          </div>
+          <a href="${c.buy_link}" target="_blank" class="text-xs underline">Buy</a>
+        </div>
+        <div class="mt-2 text-sm muted">ROI: ${c.roi || 'N/A'}</div>
+      `;
+      diversifiersEl.appendChild(el);
+    });
+
+    // --- Gold ---
+    if (data.allocation.diversifiers.gold) {
+      const goldEl = document.createElement('div');
+      goldEl.className = 'p-3 border-card rounded';
+      goldEl.innerHTML = `
+        <div class="text-sm font-medium">Gold</div>
+        <div class="muted text-xs">Allocation: ${data.allocation.diversifiers.gold}</div>
+        <div class="muted text-xs">WHY: ${data.Gold.summary}</div>
+      `;
+      diversifiersEl.appendChild(goldEl);
+    }
+
+    // --- Bond Mutual Funds ---
+    if (data.allocation.diversifiers.bond_mutual_funds) {
+      const bondEl = document.createElement('div');
+      bondEl.className = 'p-3 border-card rounded';
+      bondEl.innerHTML = `
+        <div class="text-sm font-medium">Bond Mutual Funds</div>
+        <div class="muted text-xs">Allocation: ${data.allocation.diversifiers.bond_mutual_funds}</div>
+        <div class="muted text-xs">WHY: ${data.bond_mutual_funds.summary}</div>
+      `;
+      diversifiersEl.appendChild(bondEl);
+    }
