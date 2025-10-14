@@ -1,0 +1,128 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 8000 USD",
+      "mutual_funds": "30% and 6000 USD"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 USD",
+      "gold": "15% and 3000 USD",
+      "bond_mutual_funds": "15% and 3000 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Debt (FD)'],datasets:[{data:[40,30,15,15]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "AAPL",
+      "current_price": 246.42,
+      "week_52_high": "260.10",
+      "week_52_low": "169.21",
+      "pe": "37.15",
+      "pb": "56.02",
+      "eps": "6.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.42",
+      "total_debt_to_equity": "1.89",
+      "revenue_growth_yoy": "5.97",
+      "net_profit_margin": "24.30",
+      "current_ratio": "0.83",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NASDAQ:AAPL",
+      "buy_link": "https://public.com/stocks/aapl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Apple is a strong choice due to its consistent revenue growth, high net profit margin, and robust earnings per share, indicating a financially sound company. Its manageable debt and innovation pipeline suggest continued stability and potential for future gains."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 507.56,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.60",
+      "pb": "11.15",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NASDAQ:MSFT",
+      "buy_link": "https://public.com/stocks/msft",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is selected for its exceptional revenue growth, high net profit margin, and strong EPS, reflecting its dominance in the tech sector. Its very low debt-to-equity ratio and robust quick ratio indicate excellent financial health and operational efficiency."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 241.55,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "25.45",
+      "pb": "8.11",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.34",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NASDAQ:GOOGL",
+      "buy_link": "https://public.com/stocks/googl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (GOOGL) offers significant growth potential with strong revenue growth and a high net profit margin. Its extremely low total debt-to-equity ratio and impressive quick ratio underscore its financial strength and resilience."
+      }
+    },
+    {
+      "stock": "JNJ",
+      "current_price": 189.68,
+      "week_52_high": "192.10",
+      "week_52_low": "140.68",
+      "pe": "20.22",
+      "pb": "5.84",
+      "eps": "9.35",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.64",
+      "total_debt_to_equity": "0.51",
+      "revenue_growth_yoy": "4.68",
+      "net_profit_margin": "25.00",
+      "current_ratio": "0.78",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NYSE:JNJ",
+      "buy_link": "https://public.com/stocks/jnj",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson is a stable and reliable investment, chosen for its consistent earnings per share, healthy dividend yield, and strong net profit margin. Its moderate debt levels and established market position provide stability for a moderate-risk portfolio."
+      }
+    }
+  ],
+  "mutual_funds_selected": [],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "This allocation of 15% to Debt (FDs), which is categorized under bond mutual funds for diversification purposes in this model, provides stability and capital preservation to the portfolio. It acts as a counterbalance to the equity component, reducing overall portfolio volatility and providing a steady, predictable income stream. This is crucial for a moderate risk profile, offering a safety net during market downturns."
+  },
+  "Gold": {
+    "summary": "The 15% allocation to Gold serves as a traditional safe-haven asset, offering protection against inflation and market uncertainties. Gold tends to have a low correlation with other asset classes, making it an excellent diversifier that can preserve value during periods of economic instability or equity market corrections."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, projected total value: 21000 USD",
+    "moderate_return": "8% return, projected total value: 21600 USD",
+    "optimistic_return": "12% return, projected total value: 22400 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[21000,21600,22400]}]}}"
+  },
+  "summary": "This portfolio allocates 70% to equity sleeves (40% stocks, 30% mutual funds) and 30% to diversifiers (15% gold, 15% fixed deposits) for a 20000 USD budget over 5 years with a moderate risk profile. The stock selection focuses on financially strong companies with good growth prospects and stable earnings. For the 0.1% monthly return target, this portfolio aims for a balance between growth and stability. The projected monthly return compounds over 5 years, suggesting a total return of approximately 6.17% over the 5-year period (0.1% monthly return * 12 months/year * 5 years = 6% simple return, actual compounded return would be slightly higher). Mutual funds were not specifically recommended due to a lack of data, but their allocated portion would typically be invested in diversified equity or balanced funds aligning with the moderate risk profile.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, estimated amount lost: 2000 USD. Portfolio value: 18000 USD.",
+    "moderate_crash": "20% drop, estimated amount lost: 4000 USD. Portfolio value: 16000 USD.",
+    "severe_crash": "30% drop, estimated amount lost: 6000 USD. Portfolio value: 14000 USD.",
+    "summary": "This portfolio is designed with a moderate risk profile, aiming for a balance between growth and stability. The inclusion of diversifiers like gold and debt (FDs) helps to mitigate the impact of market downturns. However, as with all investments, there is inherent risk. A mild crash could see a 10% reduction in portfolio value, a moderate crash a 20% reduction, and a severe crash up to a 30% reduction. It's crucial to understand that these are simulations and actual market performance can vary.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[18000,16000,14000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is key to managing risk. By spreading your investments across different asset classes (stocks, gold, bonds) and within those classes (various stocks), you reduce the impact of any single investment performing poorly. This portfolio attempts to achieve diversification across equity and defensive assets.",
+    "long_term_perspective": "Investing is a marathon, not a sprint. Market fluctuations are normal, and a long-term perspective helps ride out volatility. Focus on your financial goals and avoid making impulsive decisions based on short-term market movements.",
+    "rebalancing_strategy": "Periodically review and rebalance your portfolio to maintain your desired asset allocation. If one asset class performs exceptionally well, it might grow to represent a larger portion of your portfolio than intended. Rebalancing involves selling some of the outperforming assets and buying more of the underperforming ones to bring your portfolio back to its target allocation.",
+    "understanding_risk": "Every investment carries some level of risk. Understand your personal risk tolerance and ensure your portfolio aligns with it. While this portfolio is structured for a moderate risk profile, market conditions can always lead to unexpected outcomes. Continuously educate yourself about the assets you hold and the broader economic landscape."
+  }
+}
