@@ -1,0 +1,160 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "50% and 445000 USD",
+      "mutual_funds": "30% and 267000 USD"
+    },
+    "diversifiers": {
+      "crypto": "10% and 89000 USD",
+      "gold": "5% and 44500 USD",
+      "bond_mutual_funds": "5% and 44500 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold','Bond Mutual Funds'],datasets:[{data:[50,30,10,5,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 188.32,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "51.40",
+      "pb": "44.45",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/a4356fc3-6fa5-4ef2-8a5a-4770e5e27a1f.png",
+      "buy_link": "https://public.com/stocks/NVDA",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Nvidia is selected for its exceptional revenue growth (71.55% YoY) and strong profitability (net profit margin 52.41%), indicating robust performance in the high-growth semiconductor sector. Its high PE reflects market confidence in future earnings."
+      }
+    },
+    {
+      "stock": "META",
+      "current_price": 715.7,
+      "week_52_high": "796.25",
+      "week_52_low": "479.80",
+      "pe": "24.78",
+      "pb": "9.08",
+      "eps": "27.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.29",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38",
+      "net_profit_margin": "39.99",
+      "current_ratio": "2.83",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/4aed9309-3850-4f0b-b4db-7ab643a19414.png",
+      "buy_link": "https://public.com/stocks/META",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Meta Platforms is chosen due to its significant revenue growth (19.38% YoY) and high net profit margin (39.99%), demonstrating strong operational efficiency and market leadership in social media and metaverse development."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 244.15,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "24.79",
+      "pb": "7.89",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.34",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/0a4fff93-31f4-4fdb-bc29-0d93f118d6e5.png",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (GOOGL) offers a diversified investment in technology, marked by solid revenue growth (13.13% YoY) and a healthy net profit margin (31.12%). Its low debt-to-equity ratio further strengthens its financial stability and growth potential."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 514.05,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.30",
+      "pb": "11.06",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/7b71a88c-b21e-41c5-909e-81bb6b20a312.png",
+      "buy_link": "https://public.com/stocks/MSFT",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is included for its consistent growth (revenue growth 14.93% YoY) and excellent profitability (net profit margin 36.15%), driven by its dominant positions in cloud computing and enterprise software, making it a reliable growth stock."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "VTSAX provides broad exposure to the entire U.S. stock market, offering diversification and consistent performance, making it a strong core holding for long-term growth with a high-risk appetite."
+    },
+    {
+      "name": "Vanguard Health Care Fund",
+      "category": "Sectoral",
+      "3_year_return": "15%",
+      "5_year_return": "16.5%",
+      "reason_for_investment": "VGENX is selected for its impressive historical returns in the healthcare sector, which often demonstrates resilience and innovation, aligning with a high-risk investor seeking focused growth opportunities."
+    },
+    {
+      "name": "Vanguard Growth Index Fund",
+      "category": "Growth",
+      "3_year_return": "13.5%",
+      "5_year_return": "14%",
+      "reason_for_investment": "VGHAX focuses on growth-oriented companies, aiming for capital appreciation. Its strong 3-year and 5-year returns make it suitable for a high-risk investor looking to capitalize on market leaders and innovators."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 111691,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is chosen for its leading position in the cryptocurrency market, offering significant potential for high returns alongside high volatility, suitable for a high-risk investor."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "The 5% allocation to bond mutual funds (previously debt/FD) provides a minimal level of stability and capital preservation within this high-risk portfolio, aiming to slightly mitigate overall volatility while still maintaining a growth-oriented approach. This allocation serves as a minor diversifier against equity market downturns, offering a small buffer without significantly impacting the aggressive growth objective."
+  },
+  "Gold": {
+    "summary": "The 5% allocation to gold serves as a traditional safe-haven asset, offering a hedge against inflation and market uncertainty. While the portfolio is high-risk, a small gold holding can provide some diversification and act as a store of value during periods of economic instability, contributing to portfolio resilience."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value: 934500 USD",
+    "moderate_return": "8% return, total value: 961200 USD",
+    "optimistic_return": "12% return, total value: 996800 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[934500,961200,996800]}]}}"
+  },
+  "summary": "This portfolio is designed for a high-risk investor with a 5-year investment horizon and an expected return of 18%. It allocates 80% to equity sleeves (50% stocks, 30% mutual funds) to maximize growth potential. The selected stocks (NVDA, META, GOOGL, MSFT) are leading technology companies with strong growth trajectories and profitability. Mutual funds (VTSAX, VGENX, VGHAX) offer diversified equity exposure across the total market, healthcare sector, and growth companies. The remaining 20% is allocated to diversifiers, including crypto for additional high-risk/high-reward potential, and smaller allocations to gold and bond mutual funds for some balance and stability. This aggressive allocation aims for substantial capital appreciation but comes with a higher degree of market risk.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 89000 USD lost, portfolio value: 801000 USD",
+    "moderate_crash": "20% drop, 178000 USD lost, portfolio value: 712000 USD",
+    "severe_crash": "30% drop, 267000 USD lost, portfolio value: 623000 USD",
+    "summary": "Given the high-risk nature of this portfolio, investors should be prepared for significant fluctuations. A mild market correction (10% drop) could result in a substantial loss of 89,000 USD. In a more severe downturn, a 30% market crash could lead to a loss of 267,000 USD, reducing the portfolio value to 623,000 USD. This highlights the importance of a long-term perspective and the ability to withstand substantial drawdowns. Diversification across different asset classes helps manage some risk, but the heavy allocation to equities and crypto means higher exposure to market volatility.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[801000,712000,623000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is crucial for managing risk. By spreading investments across different asset classes (stocks, mutual funds, crypto, gold, bonds) and sectors, you can reduce the impact of poor performance from any single investment. While this portfolio has high-risk allocations, the inclusion of diversifiers like gold and bond mutual funds aims to provide some cushioning.",
+    "long_term_perspective": "For a high-risk portfolio targeting aggressive growth, maintaining a long-term investment horizon (5+ years) is essential. Short-term market fluctuations are inevitable, and a long-term view allows time for investments to recover from downturns and realize their growth potential. Avoid making impulsive decisions based on short-term market noise.",
+    "rebalancing_strategy": "Regular rebalancing helps maintain your desired asset allocation and risk level. If one asset class grows significantly, its percentage in your portfolio might increase. Rebalancing involves selling some of the outperforming assets and buying more of the underperforming ones to bring your portfolio back to its original target allocation. This should ideally be done annually or semi-annually.",
+    "understanding_risk": "It's vital for high-risk investors to fully understand the potential for significant capital loss. While the potential for high returns is attractive, the possibility of substantial drawdowns, especially in volatile assets like stocks and cryptocurrencies, is real. Only invest capital you can afford to lose, and ensure your risk tolerance aligns with the portfolio's aggressive nature."
+  }
+}
