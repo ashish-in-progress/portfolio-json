@@ -1,0 +1,58 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "0% and 0 USD",
+      "mutual_funds": "0% and 0 USD"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 USD",
+      "gold": "0% and 0 USD",
+      "bond_mutual_funds": "100% and 20000 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Bond Mutual Funds'],datasets:[{data:[100]}]}}",
+  "stocks_selected": null,
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Bond Market Index Fund Admiral Shares",
+      "category": "Bond",
+      "3_year_return": "3.2%",
+      "5_year_return": "3.5%",
+      "reason_for_investment": "This fund offers broad exposure to the U.S. investment-grade bond market, providing diversification and stability. Its historical returns comfortably exceed the 1.2% annual target with a low-risk profile."
+    },
+    {
+      "name": "Fidelity Government Bond Fund",
+      "category": "Bond",
+      "3_year_return": "2.8%",
+      "5_year_return": "3%",
+      "reason_for_investment": "Investing primarily in U.S. government securities, this fund offers a very low-risk option. Its consistent returns above the target make it suitable for a conservative portfolio seeking capital preservation and steady income."
+    }
+  ],
+  "crypto_selected": null,
+  "bond_mutual_funds": {
+    "summary": "The selected bond mutual funds, VBTLX and FGOVX, are chosen for their stability, low-risk profile, and consistent performance within the U.S. investment-grade and government bond markets, respectively. They align perfectly with a conservative strategy focused on capital preservation and exceeding the modest 1.2% annual return target."
+  },
+  "Gold": {
+    "summary": "No gold allocation in this portfolio."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return: 1000 USD profit, total value 21000 USD",
+    "moderate_return": "8% return: 1600 USD profit, total value 21600 USD",
+    "optimistic_return": "12% return: 2400 USD profit, total value 22400 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[21000,21600,22400]}]}}"
+  },
+  "summary": "For a 20000 USD investment over 5 years with a low-risk tolerance and a target of 1.2% annual return, the portfolio is entirely allocated to highly diversified and low-risk bond mutual funds. This strategy prioritizes capital preservation while aiming to exceed the modest return target. Both VBTLX and FGOVX are excellent choices for their stability and consistent performance in the bond market. The portfolio is well-aligned with a low-risk profile.",
+  "risk_analysis": {
+    "mild_crash": "10% drop: 2000 USD lost, portfolio value 18000 USD",
+    "moderate_crash": "20% drop: 4000 USD lost, portfolio value 16000 USD",
+    "severe_crash": "30% drop: 6000 USD lost, portfolio value 14000 USD",
+    "summary": "This portfolio, composed entirely of bond mutual funds, is generally considered to have lower volatility compared to equity-heavy portfolios. While a market crash can still impact bond values, the impact is often less severe than on stocks. Government and investment-grade corporate bonds tend to be more resilient during economic downturns. It's crucial to understand that even low-risk investments are not immune to market fluctuations, and capital preservation is the primary goal.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[18000,16000,14000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "While this portfolio is focused on bond mutual funds, diversification within the bond sector (e.g., government vs. corporate, different maturities) helps mitigate risks specific to certain types of bonds or issuers. A broader portfolio, if risk tolerance allows, would include different asset classes like stocks, though for a low-risk profile, bonds are key.",
+    "long_term_perspective": "Even with low-risk investments, maintaining a long-term perspective is crucial. Market fluctuations can occur, but over time, consistent returns from bond funds can compound effectively. Avoid making impulsive decisions based on short-term market movements.",
+    "rebalancing_strategy": "For a bond-heavy portfolio, rebalancing might involve adjusting allocations to different bond types or durations to maintain your desired risk exposure and return profile. Regularly review your portfolio to ensure it still aligns with your financial goals and risk tolerance, especially as interest rate environments change.",
+    "understanding_risk": "All investments carry some level of risk. While bond mutual funds are generally less volatile than stocks, they are still subject to interest rate risk, inflation risk, and credit risk. Understanding these risks helps you make informed decisions and manage your expectations for portfolio performance."
+  }
+}
