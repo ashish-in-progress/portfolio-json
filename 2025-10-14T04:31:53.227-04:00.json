@@ -1,0 +1,43 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "0% (Not recommended due to low-risk appetite and short investment duration of 0.5 years)",
+      "mutual_funds": "0% (Not recommended due to low-risk appetite, short investment duration, and market volatility)"
+    },
+    "diversifiers": {
+      "crypto": "0% (Not recommended due to high volatility and short investment duration)",
+      "gold": "0% (While often a safe haven, short-term volatility makes it unsuitable for a 0.5-year, low-risk profile)",
+      "bond_mutual_funds": "0% (While generally lower risk than equity, even bond mutual funds carry market risk unsuitable for a 0.5-year duration and low-risk appetite; very low-risk debt instruments are preferred for capital preservation)"
+    }
+  },
+  "chart_url_allocation": "Not applicable - no market-based allocation",
+  "stocks_selected": [],
+  "mutual_funds_selected": [],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "For a low-risk appetite and a 0.5-year investment horizon, very low-risk debt instruments like high-yield savings accounts or short-term fixed deposits are more appropriate than bond mutual funds to ensure capital preservation and avoid market volatility."
+  },
+  "Gold": {
+    "summary": "Given the low-risk appetite and extremely short investment duration of 0.5 years, allocating to gold is not recommended as it can still experience short-term price fluctuations, which could lead to capital loss over such a brief period. Capital preservation is the priority."
+  },
+  "what_if_analysis": {
+    "conservative_return": "Not applicable - no market-based investment to analyze.",
+    "moderate_return": "Not applicable - no market-based investment to analyze.",
+    "optimistic_return": "Not applicable - no market-based investment to analyze.",
+    "quickchart_url": "Not applicable - no market-based investment to analyze."
+  },
+  "summary": "Based on your low-risk appetite and a very short investment duration of 0.5 years, investing in direct equity (stocks), mutual funds, or cryptocurrencies is strongly advised against due to the inherent market volatility and potential for capital loss. For your budget of $500 over this short period, the primary goal should be capital preservation. Therefore, it is recommended to consider highly stable and liquid options such as high-yield savings accounts, short-term fixed deposits, or very low-risk debt instruments. These options prioritize the safety of your principal over higher returns, which aligns with your stated risk profile and investment horizon. A traditional portfolio with market-linked assets cannot be generated under these constraints.",
+  "risk_analysis": {
+    "mild_crash": "Not applicable - no market-based investment to analyze.",
+    "moderate_crash": "Not applicable - no market-based investment to analyze.",
+    "severe_crash": "Not applicable - no market-based investment to analyze.",
+    "summary": "For a low-risk, short-duration investment, the most effective risk management involves avoiding market-sensitive assets altogether. By choosing options like high-yield savings accounts or short-term fixed deposits, the risk of capital loss due to market crashes is effectively mitigated, as these instruments are not subject to market fluctuations. The focus is entirely on capital preservation and guaranteed, albeit modest, returns.",
+    "quickchart_url": "Not applicable - no market-based investment to analyze."
+  },
+  "education_tips": {
+    "diversification_importance": "While diversification is crucial for long-term investing, for a very short-term, low-risk objective, the best 'diversification' is to stick to capital preservation instruments like savings accounts or fixed deposits, thereby diversifying away from market risk entirely.",
+    "long_term_perspective": "This investment scenario highlights the importance of aligning investment choices with your time horizon. Short-term funds, especially for low-risk individuals, are best kept in instruments that guarantee capital and liquidity, rather than those exposed to market fluctuations. Long-term investing typically allows for recovery from volatility, which is not possible over 0.5 years.",
+    "rebalancing_strategy": "Rebalancing is not relevant for investments held in high-yield savings accounts or fixed deposits, as these do not involve asset allocations that shift with market movements. The strategy is to simply hold the funds until maturity or withdrawal.",
+    "understanding_risk": "For a low-risk appetite and a very short investment horizon, understanding risk means prioritizing capital safety above all else. Any potential for gain from market exposure is outweighed by the risk of loss over such a short period. Therefore, choosing instruments with guaranteed principal and predictable returns, even if low, is the most prudent approach."
+  }
+}
