@@ -1,0 +1,180 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "60% and $120,000",
+      "mutual_funds": "30% and $60,000"
+    },
+    "diversifiers": {
+      "crypto": "5% and $10,000",
+      "gold": "5% and $10,000"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Crypto'],datasets:[{data:[60,30,5,5],backgroundColor:['#4285F4','#EA4335','#FBBC05','#34A853']}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVIDIA Corporation",
+      "current_price": 188.32,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "51.40",
+      "pb": "44.45",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02%",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55%",
+      "net_profit_margin": "52.41%",
+      "current_ratio": "3.67",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/21747c12-6736-409e-be17-42e0ffde02b7.png",
+      "buy_link": "https://public.com/stocks/NVDA",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA is a leader in AI and graphics processing, showing exceptional revenue growth and profit margins. With a long investment horizon, its innovation in high-demand sectors positions it for continued significant future gains."
+      }
+    },
+    {
+      "stock": "Microsoft Corporation",
+      "current_price": 514.05,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.30",
+      "pb": "11.06",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63%",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93%",
+      "net_profit_margin": "36.15%",
+      "current_ratio": "1.35",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/dbafa0ce-6362-48b9-ab6f-c60b196feccf.png",
+      "buy_link": "https://public.com/stocks/MSFT",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is a tech stalwart with strong growth in cloud computing (Azure), enterprise software, and gaming. Its consistent innovation and diversified revenue streams make it a stable yet high-growth choice for long-term aggressive portfolios."
+      }
+    },
+    {
+      "stock": "Alphabet Inc. - Class A",
+      "current_price": 244.15,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "24.79",
+      "pb": "7.89",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.34%",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13%",
+      "net_profit_margin": "31.12%",
+      "current_ratio": "1.84",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/d0533a6d-6195-4a7c-82e0-111cc87d242c.png",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Google continues to dominate search and advertising, with significant investments in AI, cloud services (Google Cloud), and autonomous driving. Its robust cash flow and relatively low debt make it a strong candidate for sustained growth."
+      }
+    },
+    {
+      "stock": "Meta Platforms Inc.",
+      "current_price": 715.7,
+      "week_52_high": "796.25",
+      "week_52_low": "479.80",
+      "pe": "24.78",
+      "pb": "9.08",
+      "eps": "27.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.29%",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38%",
+      "net_profit_margin": "39.99%",
+      "current_ratio": "2.83",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/6120d328-079e-4c42-887b-d7cb0cfa0938.png",
+      "buy_link": "https://public.com/stocks/META",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Meta Platforms has demonstrated strong revenue growth and profitability through its social media platforms. Its aggressive investment in the metaverse and AI presents significant future growth opportunities, aligning with an aggressive long-term strategy."
+      }
+    },
+    {
+      "stock": "Johnson & Johnson",
+      "current_price": 190.9,
+      "week_52_high": "192.10",
+      "week_52_low": "140.68",
+      "pe": "20.27",
+      "pb": "5.85",
+      "eps": "9.35",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.63%",
+      "total_debt_to_equity": "0.51",
+      "revenue_growth_yoy": "4.68%",
+      "net_profit_margin": "25.00%",
+      "current_ratio": "0.78",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/0a40a72b-a8bc-4dbc-bb2e-67f63119cf5f.png",
+      "buy_link": "https://public.com/stocks/JNJ",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson offers stability and a strong dividend in the healthcare sector. Its consistent performance, diversified portfolio of pharmaceutical, medical device, and consumer health products, and commitment to innovation make it a reliable long-term holding with potential for steady appreciation."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "This fund provides broad diversification across the entire U.S. stock market, including large, mid, and small-cap companies, offering excellent long-term growth potential with low expense ratios."
+    },
+    {
+      "name": "Vanguard 500 Index Fund Admiral Shares",
+      "category": "Large-Cap Equity",
+      "3_year_return": "12.5%",
+      "5_year_return": "14.3%",
+      "reason_for_investment": "Investing in the S&P 500, this fund offers exposure to 500 of the largest U.S. companies, providing solid growth and stability, ideal for a core equity holding in an aggressive portfolio."
+    },
+    {
+      "name": "Vanguard Emerging Markets Stock Index Fund",
+      "category": "International Equity",
+      "3_year_return": "8%",
+      "5_year_return": "9.5%",
+      "reason_for_investment": "For an aggressive investor, emerging markets offer higher growth potential, albeit with higher risk. This fund diversifies internationally, tapping into the growth of developing economies."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "current_price": 111765,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/how-to-buy/bitcoin",
+      "summary": "Selected due to its established position as the largest cryptocurrency by market cap, offering potential high returns for an aggressive, long-term investor despite its inherent volatility. It acts as a high-risk, high-reward diversifier."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "No bond mutual funds were selected as per the aggressive risk appetite and long investment horizon, prioritizing higher growth potential over fixed income stability."
+  },
+  "Gold": {
+    "summary": "Gold is included as a diversifier (5% allocation) due to its historical role as a safe-haven asset and inflation hedge, offering some stability in an otherwise aggressive portfolio and acting as a counterbalance during market volatility."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return: $200,000 * (1 + 0.05)^20 = $530,659.54",
+    "moderate_return": "8% return: $200,000 * (1 + 0.08)^20 = $932,190.87",
+    "optimistic_return": "12% return: $200,000 * (1 + 0.12)^20 = $1,923,086.06",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[530659.54,932190.87,1923086.06],backgroundColor:['#4285F4','#EA4335','#FBBC05']}]}}"
+  },
+  "summary": "This portfolio strategy for your $200,000 budget and 20-year aggressive investment duration focuses on maximizing long-term capital appreciation through a heavy allocation to equities. The selected stocks are leaders in high-growth sectors with strong financials, while the mutual funds provide diversified exposure to the broader U.S. and emerging markets. The small allocation to diversifiers like gold and crypto is in line with your aggressive risk appetite, offering potential hedges and additional high-risk/high-reward opportunities for a long horizon. This approach aims to capitalize on market growth over two decades, balancing individual company-specific potential with broader market diversification.",
+  "risk_analysis": {
+    "mild_crash": "10% drop: $200,000 - ($200,000 * 0.10) = $180,000. Amount lost: $20,000.",
+    "moderate_crash": "20% drop: $200,000 - ($200,000 * 0.20) = $160,000. Amount lost: $40,000.",
+    "severe_crash": "30% drop: $200,000 - ($200,000 * 0.30) = $140,000. Amount lost: $60,000.",
+    "summary": "Given the aggressive nature of this portfolio, it is highly susceptible to market downturns. While the long investment horizon allows for recovery, significant paper losses can be expected during market crashes. Diversification across different asset classes (even small allocations to gold and crypto) can help mitigate some risk, but the heavy equity exposure means a higher sensitivity to market volatility. Regular monitoring and adherence to the long-term strategy are crucial.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[180000,160000,140000],backgroundColor:['#4285F4','#EA4335','#FBBC05']}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across various asset classes (stocks, mutual funds, and even alternative assets like gold and crypto) is crucial to manage risk. It helps cushion the impact of poor performance in any single asset class or sector, contributing to a more stable long-term growth trajectory.",
+    "long_term_perspective": "For an aggressive portfolio with a 20-year horizon, maintaining a long-term perspective is vital. Market fluctuations are normal, and reacting impulsively to short-term downturns can jeopardize long-term growth. Patience and commitment to the initial strategy are key.",
+    "rebalancing_strategy": "Periodically rebalancing your portfolio (e.g., annually) is essential to maintain your desired asset allocation. If one asset class significantly outperforms, its proportion in the portfolio will increase. Rebalancing involves selling some of the outperforming assets and buying more of the underperforming ones to bring the portfolio back to its target allocation, helping to manage risk and lock in gains.",
+    "understanding_risk": "Understanding that aggressive portfolios come with higher potential returns but also higher risks is paramount. While this portfolio is designed for growth, be prepared for significant volatility. Educate yourself on market trends, economic indicators, and the specifics of your investments to make informed decisions and stay resilient during challenging periods."
+  }
+}
