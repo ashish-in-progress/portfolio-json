@@ -1,0 +1,183 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "50% and $25,000",
+      "mutual_funds": "30% and $15,000"
+    },
+    "diversifiers": {
+      "crypto": "15% and $7,500",
+      "gold": "5% and $2,500",
+      "bond_mutual_funds": "0% and $0"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold'],datasets:[{data:[50,30,15,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 188.32,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "52.84",
+      "pb": "45.69",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/54a00d6d-0522-46c3-9c36-a1853e1e155a.png",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA shows exceptional revenue growth and strong profitability, indicating significant potential for future expansion in the technology sector, making it ideal for a high-growth, high-risk portfolio."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 514.05,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.60",
+      "pb": "11.15",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/86ca8d46-261a-45f4-9ba7-a9174c24bb06.png",
+      "buy_link": "https://public.com/stocks/msft",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft demonstrates consistent revenue growth, high net profit margins, and a solid financial position, offering a balance of growth and stability for long-term investment."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 244.15,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "25.45",
+      "pb": "8.11",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.34",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/42f3616a-3b99-45a4-93b5-c67e9b08762d.png",
+      "buy_link": "https://public.com/stocks/googl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) maintains a very low debt-to-equity ratio, strong revenue growth, and high profitability, indicating robust financial health and continued innovation for sustained growth."
+      }
+    },
+    {
+      "stock": "META",
+      "current_price": 715.7,
+      "week_52_high": "796.25",
+      "week_52_low": "479.80",
+      "pe": "24.78",
+      "pb": "9.08",
+      "eps": "27.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.29",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38",
+      "net_profit_margin": "39.99",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/da72c0de-22e8-42c0-84f0-91fe2a222ed1.png",
+      "buy_link": "https://public.com/stocks/meta",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Meta Platforms shows impressive revenue growth, excellent profit margins, and a strong balance sheet, positioning it well for future expansion in its core and new ventures."
+      }
+    },
+    {
+      "stock": "AMZN",
+      "current_price": 220.07,
+      "week_52_high": "242.52",
+      "week_52_low": "161.38",
+      "pe": "32.67",
+      "pb": "6.91",
+      "eps": "6.55",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "NULL",
+      "total_debt_to_equity": "0.27",
+      "revenue_growth_yoy": "10.87",
+      "net_profit_margin": "10.54",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/c99b7e4d-1c69-46d7-9513-93fd91e09e56.png",
+      "buy_link": "https://public.com/stocks/amzn",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Amazon exhibits strong revenue growth and continues to dominate e-commerce and cloud computing, making it a compelling choice for long-term growth despite lower profit margins compared to some tech peers."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "VTSAX offers broad diversification across the entire U.S. stock market with strong historical returns, making it an excellent core holding for long-term growth and a high-risk appetite."
+    },
+    {
+      "name": "Vanguard Health Care Fund",
+      "category": "Sectoral",
+      "3_year_return": "15%",
+      "5_year_return": "16.5%",
+      "reason_for_investment": "VGENX focuses on the healthcare sector, which often demonstrates resilience and growth potential. Its strong historical returns make it a suitable choice for a high-risk portfolio seeking sectoral growth."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 111043,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin, as the leading cryptocurrency, offers significant growth potential and acts as a store of value in the digital economy, suitable for an aggressive, high-risk allocation."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 3967.02,
+      "roi": "4674.30%",
+      "buy_link": "https://www.coinbase.com/price/ethereum",
+      "summary": "Ethereum powers a vast ecosystem of decentralized applications and smart contracts, offering robust technological innovation and strong potential for future appreciation."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "No allocation to bond mutual funds in this portfolio, aligning with a high-risk, growth-oriented strategy."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe haven asset, offering portfolio diversification and a hedge against inflation and economic uncertainty."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation + total value ($52,500)",
+    "moderate_return": "8% return calculation + total value ($54,000)",
+    "optimistic_return": "12% return calculation + total value ($56,000)",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[52500,54000,56000]}]}}"
+  },
+  "summary": "This portfolio is designed for long-term growth until 2040 with a high-risk appetite, allocating a significant portion to high-growth stocks and diversified mutual funds, complemented by cryptocurrency for aggressive growth potential and a smaller allocation to gold for hedging purposes.",
+  "risk_analysis": {
+    "mild_crash": "A 10% market correction would result in a loss of $5,000, bringing the portfolio value to $45,000.",
+    "moderate_crash": "A 20% market downturn would lead to a loss of $10,000, reducing the portfolio value to $40,000.",
+    "severe_crash": "A severe 30% market crash would incur a loss of $15,000, with the portfolio value dropping to $35,000.",
+    "summary": "Given the high-risk appetite and significant allocation to growth assets like stocks and crypto, this portfolio is susceptible to considerable volatility during market downturns. Diversification across different asset classes helps mitigate some risks, but the focus on growth means higher potential losses in bear markets. It is crucial for investors to have a long-term perspective and be prepared for fluctuations.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[45000,40000,35000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversifying across different asset classes (stocks, mutual funds, crypto, gold) helps spread risk and reduce the impact of poor performance in any single asset category. While this portfolio is geared towards high growth, broad diversification remains key to long-term resilience.",
+    "long_term_perspective": "Investing for the long term (until 2040) allows your investments to recover from market downturns and benefit from compounding returns. Short-term market fluctuations should not deter a long-term investor with a high-risk appetite.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio (e.g., annually or semi-annually) ensures your asset allocation remains consistent with your risk tolerance and financial goals. This involves selling assets that have performed well and buying those that have underperformed to restore original percentages.",
+    "understanding_risk": "Understanding your risk tolerance is crucial. A high-risk appetite means you are comfortable with the potential for significant gains but also significant losses. This portfolio reflects a high-risk profile, and investors should be prepared for volatility and potential short-term drawdowns."
+  }
+}
