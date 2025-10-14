@@ -1,0 +1,135 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "80% and 16000 USD"
+    },
+    "diversifiers": {
+      "crypto": "20% and 4000 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Crypto'],datasets:[{data:[80,20]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 184.67,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "52.84",
+      "pb": "45.69",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/63c6842d-02e6-4d2c-b92d-8edcc4acbcb9.png",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA exhibits exceptional revenue growth and robust profit margins, indicating strong market leadership in its sector. Its healthy balance sheet with a high quick ratio suggests financial stability, making it a compelling high-growth choice for a high-risk portfolio."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 514.05,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.60",
+      "pb": "11.15",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/69ef4055-7e62-4624-a39f-0a29cb7ffecf.png",
+      "buy_link": "https://public.com/stocks/msft",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is a tech giant with consistent revenue growth, impressive net profit margins, and a strong balance sheet. Its solid financial performance and diverse business segments offer a relatively more stable high-growth option within a high-risk portfolio."
+      }
+    },
+    {
+      "stock": "AMD",
+      "current_price": 218.97,
+      "week_52_high": "240.10",
+      "week_52_low": "76.48",
+      "pe": "123.57",
+      "pb": "5.87",
+      "eps": "1.74",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": null,
+      "total_debt_to_equity": "0.03",
+      "revenue_growth_yoy": "27.17",
+      "net_profit_margin": "9.57",
+      "current_ratio": "1.57",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/e9a0cd6a-d26b-4bb1-8acb-f54f42137e97.png",
+      "buy_link": "https://public.com/stocks/amd",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "AMD shows strong revenue growth and operates in the high-demand semiconductor industry, aligning with a high-risk, high-reward strategy. While its PE ratio is high, reflecting aggressive growth expectations, a low debt-to-equity and good quick ratio indicate financial soundness."
+      }
+    },
+    {
+      "stock": "PLTR",
+      "current_price": 176.15,
+      "week_52_high": "190.00",
+      "week_52_low": "40.36",
+      "pe": "550.00",
+      "pb": "70.81",
+      "eps": "0.30",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": null,
+      "total_debt_to_equity": "0.00",
+      "revenue_growth_yoy": "38.79",
+      "net_profit_margin": "22.18",
+      "current_ratio": "5.84",
+      "chart": "https://r2.chart-img.com/20251028/tradingview/advanced-chart/93c7837f-a74f-4cba-aef4-bff86271eb25.png",
+      "buy_link": "https://public.com/stocks/pltr",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Palantir Technologies represents a highly speculative, high-growth opportunity in data analytics with significant revenue growth and no debt. Its extremely high PE reflects strong future growth potential, suitable for a high-risk investor seeking substantial returns."
+      }
+    }
+  ],
+  "mutual_funds_selected": null,
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 110832,
+      "roi": "N/A",
+      "buy_link": "https://public.com/crypto/bitcoin",
+      "summary": "Bitcoin is the largest and most established cryptocurrency, offering significant liquidity and a long track record, albeit with high volatility. Its inclusion in a high-risk portfolio aims for exposure to potentially high returns in the digital asset space."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "N/A"
+  },
+  "Gold": {
+    "summary": "N/A"
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation + total value (21000 USD)",
+    "moderate_return": "8% return calculation + total value (21600 USD)",
+    "optimistic_return": "12% return calculation + total value (22400 USD)",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[21000,21600,22400]}]}}"
+  },
+  "summary": "This high-risk portfolio aims for aggressive growth over five years. 80% of the budget is allocated to high-growth technology stocks (NVDA, MSFT, AMD, PLTR) known for their innovation and market potential. The remaining 20% is allocated to crypto for further high-risk, high-reward diversification. The selected stocks exhibit strong revenue growth, healthy profit margins, and robust financial positions (except for AMD and PLTR's high PE, which is acceptable given the high-risk profile). Regular monitoring and rebalancing are crucial given the portfolio's aggressive nature.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 2000 USD lost, remaining 18000 USD",
+    "moderate_crash": "20% drop, 4000 USD lost, remaining 16000 USD",
+    "severe_crash": "30% drop, 6000 USD lost, remaining 14000 USD",
+    "summary": "Given the high-risk nature of this portfolio, investors should be prepared for significant volatility. Technology stocks and cryptocurrencies are prone to sharp downturns during market corrections. A robust risk management strategy involves setting clear loss limits, understanding that principal loss is possible, and having a long-term investment horizon to ride out short-term fluctuations.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[18000,16000,14000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "While this portfolio is concentrated for high growth, diversification across different asset classes (e.g., adding some bonds or gold) could help mitigate risk in highly volatile market conditions, even within a high-risk profile.",
+    "long_term_perspective": "High-growth investments often require a long-term perspective to realize their full potential. Short-term market fluctuations should be viewed as normal, and selling during downturns can crystallize losses.",
+    "rebalancing_strategy": "Regularly review and rebalance your portfolio to maintain your desired asset allocation. For a high-risk portfolio, this might involve trimming positions that have grown significantly to reallocate to underperforming but promising assets, or to maintain risk levels.",
+    "understanding_risk": "It's crucial to understand that higher potential returns come with higher risk. Be comfortable with the possibility of substantial losses and ensure your investment aligns with your personal risk tolerance and financial goals."
+  }
+}
