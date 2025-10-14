@@ -1,0 +1,99 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "10% and 2000 USD",
+      "mutual_funds": "20% and 4000 USD (Equity)"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 USD",
+      "gold": "0% and 0 USD",
+      "bond_mutual_funds": "50% and 10000 USD",
+      "fixed_deposits_savings": "20% and 4000 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Equity Mutual Funds','Bond Mutual Funds','Fixed Deposits/Savings'],datasets:[{data:[10,20,50,20],backgroundColor:['#FF6384','#36A2EB','#FFCE56','#4BC0C0']}]}}",
+  "stocks_selected": [
+    {
+      "stock": "JNJ",
+      "current_price": 190.89999389648438,
+      "week_52_high": "192.10",
+      "week_52_low": "140.68",
+      "pe": "20.22",
+      "pb": "5.84",
+      "eps": "9.35",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.64%",
+      "total_debt_to_equity": "0.51",
+      "revenue_growth_yoy": "4.68%",
+      "net_profit_margin": "25.00%",
+      "current_ratio": "0.78",
+      "chart": "Full chart URL could not be fetched",
+      "buy_link": "https://public.com/stocks/jnj",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson is a healthcare giant known for its stability, consistent dividends, and robust financial health. Its low debt and strong profitability make it a reliable choice for a low-risk portfolio aiming for steady growth."
+      }
+    },
+    {
+      "stock": "KO",
+      "current_price": 66.80000305175781,
+      "week_52_high": "74.38",
+      "week_52_low": "60.62",
+      "pe": "23.53",
+      "pb": "10.03",
+      "eps": "2.82",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.95%",
+      "total_debt_to_equity": "1.79",
+      "revenue_growth_yoy": "1.28%",
+      "net_profit_margin": "25.89%",
+      "current_ratio": "0.72",
+      "chart": "Full chart URL could not be fetched",
+      "buy_link": "https://public.com/stocks/ko",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Coca-Cola is a global leader in beverages, offering a strong brand, consistent cash flows, and a long history of reliable dividend payments. Its defensive nature and stability make it an excellent fit for a low-risk investment strategy."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard 500 Index Fund Admiral Shares",
+      "category": "Large-Cap Equity",
+      "3_year_return": "12.5%",
+      "5_year_return": "14.3%",
+      "reason_for_investment": "VFIAX offers diversified exposure to the largest US companies, providing broad market participation with a low expense ratio. It's a solid choice for long-term growth within a moderate equity allocation, suitable for investors seeking a balance between growth and stability."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "name": "Vanguard Total Bond Market Index Fund Admiral Shares",
+    "category": "Bond",
+    "3_year_return": "3.2%",
+    "5_year_return": "3.5%",
+    "summary": "VBTLX provides broad exposure to the investment-grade US bond market. It's crucial for capital preservation, generating steady income, and significantly reducing overall portfolio volatility, aligning perfectly with a low-risk investment objective."
+  },
+  "Gold": {
+    "summary": "Gold was not allocated in this portfolio, focusing instead on traditional diversified assets for capital preservation and stable growth for a low-risk profile."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return: Projected value after 5 years = 25525.6 USD",
+    "moderate_return": "8% return: Projected value after 5 years = 29386.56 USD",
+    "optimistic_return": "12% return: Projected value after 5 years = 35246.83 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value (USD)',data:[25525.6,29386.56,35246.83],backgroundColor:['#4BC0C0','#36A2EB','#FFCE56']}]}}"
+  },
+  "summary": "This portfolio is designed for a low-risk investor with a 20000 USD budget and a 5-year investment horizon, targeting a modest 1.2% annual return. It emphasizes stability and capital preservation through a significant allocation to bond mutual funds and fixed deposits, complemented by a smaller allocation to high-quality, dividend-paying stocks and a broad-market equity index fund for conservative growth. This structure aims to minimize risk while still participating in market upside in a controlled manner.",
+  "risk_analysis": {
+    "mild_crash": "10% drop: Portfolio value becomes 18000 USD, a loss of 2000 USD.",
+    "moderate_crash": "20% drop: Portfolio value becomes 16000 USD, a loss of 4000 USD.",
+    "severe_crash": "30% drop: Portfolio value becomes 14000 USD, a loss of 6000 USD.",
+    "summary": "The portfolio's significant allocation to bond mutual funds and fixed deposits helps cushion against market downturns, reflecting a low-risk profile. While equity exposure provides some growth potential, the overall strategy prioritizes capital preservation. Diversification across asset classes is key to mitigating these impacts.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash (USD)',data:[18000,16000,14000],backgroundColor:['#FFCE56','#FF6384','#E74C3C']}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is crucial to reduce risk by spreading investments across various asset classes, industries, and geographies. This portfolio exemplifies diversification with stocks, mutual funds, and fixed deposits to minimize the impact of poor performance in any single asset.",
+    "long_term_perspective": "Investing with a long-term perspective allows your investments more time to recover from market volatility and benefit from compounding returns. This 5-year horizon supports a patient approach to growth and wealth accumulation.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio (e.g., annually) ensures your asset allocation stays aligned with your risk tolerance and financial goals. This involves selling assets that have performed well and buying those that have underperformed to maintain target percentages.",
+    "understanding_risk": "All investments carry some level of risk. Understanding your personal risk tolerance is fundamental. This low-risk portfolio is designed for capital preservation, but even conservative investments are subject to market fluctuations and inflation risk."
+  }
+}
