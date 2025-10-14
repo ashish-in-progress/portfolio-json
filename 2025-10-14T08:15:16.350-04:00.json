@@ -1,0 +1,101 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and 6000 USD",
+      "mutual_funds": "0% and 0 USD"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 USD",
+      "gold": "0% and 0 USD",
+      "bond_mutual_funds": "70% and 14000 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Bond Mutual Funds'],datasets:[{data:[30,70]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "Comcast (CMCSA)",
+      "current_price": 29.41,
+      "week_52_high": "45.31",
+      "week_52_low": "29.39",
+      "pe": "4.79",
+      "pb": "1.13",
+      "eps": "6.06",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "4.43",
+      "total_debt_to_equity": "1.16",
+      "revenue_growth_yoy": "2.54",
+      "net_profit_margin": "18.44",
+      "current_ratio": "0.68",
+      "chart": "Error: Chart URL not available from tool.",
+      "buy_link": "https://public.com/stocks/cmcsa",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Comcast is selected for its extremely low PE ratio, indicating potential undervaluation, and an excellent dividend yield of 4.43%, providing consistent income. Its strong net profit margin and relatively stable revenue growth contribute to its low-risk appeal."
+      }
+    },
+    {
+      "stock": "Pfizer (PFE)",
+      "current_price": 24.73,
+      "week_52_high": "30.08",
+      "week_52_low": "20.92",
+      "pe": "13.16",
+      "pb": "1.60",
+      "eps": "1.88",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "6.81",
+      "total_debt_to_equity": "0.73",
+      "revenue_growth_yoy": "13.54",
+      "net_profit_margin": "16.85",
+      "current_ratio": "0.92",
+      "chart": "Error: Chart URL not available from tool.",
+      "buy_link": "https://public.com/stocks/pfe",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Pfizer is chosen for its very attractive dividend yield of 6.81% and a low PE ratio of 13.16, making it a strong income-generating stock with good value. Its healthy revenue growth and net profit margin, along with manageable debt, enhance its stability for a low-risk portfolio."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Bond Market Index Fund Admiral Shares",
+      "category": "Bond",
+      "3_year_return": "3.2%",
+      "5_year_return": "3.5%",
+      "reason_for_investment": "VBTLX is chosen for its low-risk profile as a bond index fund, providing stable returns consistently above the target 0.1% monthly. It offers diversification away from equities and aligns well with the capital preservation goal for a low-risk investor."
+    },
+    {
+      "name": "Fidelity Total Bond Fund",
+      "category": "Bond",
+      "3_year_return": "3.1%",
+      "5_year_return": "3.4%",
+      "reason_for_investment": "FTBFX is another excellent low-risk bond fund, complementing VBTLX. Its consistent performance and focus on the broader bond market provide stability and a reliable source of income, surpassing the desired monthly return for a low-risk portfolio."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "The portfolio allocates a significant portion (70% or 14000 USD) to bond mutual funds, including Vanguard Total Bond Market Index Fund Admiral Shares (VBTLX) and Fidelity Total Bond Fund (FTBFX), complemented by additional low-risk instruments. This substantial allocation to bonds aims to provide stability, consistent income, and capital preservation, aligning with a low-risk tolerance. These funds offer diversification from equities and target steady returns above the desired monthly threshold."
+  },
+  "Gold": {
+    "summary": "Gold is not currently allocated in this low-risk portfolio. The focus is on dividend-paying stocks and bond mutual funds for stability and consistent income. Gold could be considered for further diversification against inflation or market volatility in a slightly different risk profile, but it does not fit the current mandate for low-risk and steady returns."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return leading to 21000 USD",
+    "moderate_return": "8% return leading to 21600 USD",
+    "optimistic_return": "12% return leading to 22400 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[21000,21600,22400]}]}}"
+  },
+  "summary": "This portfolio is designed for a low-risk tolerance over 5 years, aiming for a 0.1% monthly return. The equity sleeve is allocated 30% of the total budget to dividend-paying stocks like CMCSA and PFE, providing income and potential growth. The remaining 70% is strategically allocated to highly stable bond mutual funds (VBTLX, FTBFX, and other low-risk instruments) to significantly reduce overall portfolio risk and provide consistent, low-volatility returns well above the target. This structure prioritizes capital preservation and stable income generation for a low-risk investor.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amounting to a 2000 USD loss. Portfolio value: 18000 USD.",
+    "moderate_crash": "20% drop, amounting to a 4000 USD loss. Portfolio value: 16000 USD.",
+    "severe_crash": "30% drop, amounting to a 6000 USD loss. Portfolio value: 14000 USD.",
+    "summary": "This low-risk portfolio is structured to mitigate the impact of market downturns through a significant allocation to stable bond funds and dividend-paying stocks. While no portfolio is entirely immune to market crashes, the diversified approach aims to limit potential losses. For example, a mild 10% market correction might lead to a 2000 USD decrease in portfolio value, a moderate 20% correction could result in a 4000 USD decrease, and a severe 30% crash could see a 6000 USD reduction. These figures are illustrative; actual impacts can vary. Regular portfolio rebalancing and maintaining a long-term investment perspective are crucial strategies for navigating volatile periods and managing risk effectively.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[18000,16000,14000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (like stocks and bonds) is crucial to reduce overall portfolio risk. When one asset class underperforms, another might perform well, balancing returns and protecting capital.",
+    "long_term_perspective": "Adopting a long-term perspective (e.g., 5+ years) allows your investments to recover from short-term market fluctuations and benefit from compounding returns, which is essential for wealth accumulation.",
+    "rebalancing_strategy": "Regularly rebalance your portfolio to maintain your desired asset allocation. For instance, if stocks perform exceptionally well, their proportion might increase; rebalancing involves selling some stocks and buying more bonds to return to your original risk profile.",
+    "understanding_risk": "Understand that all investments carry some level of risk. A 'low-risk' portfolio aims to minimize volatility and preserve capital but is not entirely risk-free. Be aware of market risks, inflation risk, and interest rate risk that can impact even conservative investments."
+  }
+}
