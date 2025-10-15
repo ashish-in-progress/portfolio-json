@@ -1,0 +1,160 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "35% (35,000 INR)",
+      "mutual_funds": "30% (30,000 INR)"
+    },
+    "diversifiers": {
+      "crypto": "5% (5,000 INR)",
+      "gold": "10% (10,000 INR)",
+      "bond_mutual_funds": "20% (20,000 INR)"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold','Bond Mutual Funds'],datasets:[{data:[35,30,5,10,20]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "HDFC Bank",
+      "current_price": 978.25,
+      "week_52_high": "1018.85",
+      "week_52_low": "812.15",
+      "pe": "22.397",
+      "pb": "2.767",
+      "eps": "43.78",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.13",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.193",
+      "net_profit_margin": "0.283",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/394f9443-423f-4738-92eb-cf4fb5b91949.png",
+      "buy_link": "https://public.com/stocks/HDFCBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank is a fundamentally strong bank with consistent revenue growth and high net profit margins, making it a stable choice for long-term growth in the financial sector. Its solid performance suggests continued stability and moderate capital appreciation."
+      }
+    },
+    {
+      "stock": "ICICI Bank",
+      "current_price": 1398.4,
+      "week_52_high": "1500",
+      "week_52_low": "1186",
+      "pe": "18.929",
+      "pb": "3.012",
+      "eps": "73.5",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.79",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.269",
+      "net_profit_margin": "0.249",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/7c7ac991-1f5b-46a9-8297-750f836952dd.png",
+      "buy_link": "https://public.com/stocks/ICICIBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICI Bank demonstrates robust revenue growth and a healthy net profit margin, indicating strong operational efficiency. Its relatively low P/E ratio compared to its EPS suggests good value, positioning it for potential capital appreciation as the Indian economy expands."
+      }
+    },
+    {
+      "stock": "Infosys",
+      "current_price": 1474.4,
+      "week_52_high": "2006.45",
+      "week_52_low": "1307",
+      "pe": "21.541",
+      "pb": "551.760",
+      "eps": "68.39",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "4.23",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.038",
+      "net_profit_margin": "0.163",
+      "current_ratio": "1.954",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/e78c58f3-a330-4164-92ff-97c15e1ee79b.png",
+      "buy_link": "https://public.com/stocks/INFY.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Infosys, a leading IT service provider, offers a good dividend yield and strong earnings per share. While revenue growth is moderate, its strong quick ratio and established market position provide stability and potential for growth in the digital transformation space."
+      }
+    },
+    {
+      "stock": "ITC",
+      "current_price": 399.9,
+      "week_52_high": "498.85",
+      "week_52_low": "390.15",
+      "pe": "25.025",
+      "pb": "7.132",
+      "eps": "15.95",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.96",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.107",
+      "net_profit_margin": "0.465",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/6da3a66c-64d0-49bb-b3d6-e5226f024675.png",
+      "buy_link": "https://public.com/stocks/ITC.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC is chosen for its strong dividend yield and exceptionally high net profit margin, making it a defensive and reliable component of the portfolio. Its diversified business model provides stability against market fluctuations and offers steady returns."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund (PPF)",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.50%",
+      "5_year_return": "22.90%",
+      "reason_for_investment": "This fund is known for its flexible investment mandate across market capitalizations and its focus on value investing. It also invests a portion of its assets internationally, providing global diversification which is beneficial for long-term growth and managing domestic market risks."
+    },
+    {
+      "name": "DSP Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "18.41%",
+      "5_year_return": "22.33%",
+      "reason_for_investment": "Another strong performing flexi-cap fund that provides diversification across various sectors and market segments. Its consistent historical returns and flexible approach make it suitable for a moderate-risk, long-term portfolio, aiming for capital appreciation."
+    },
+    {
+      "name": "HDFC Nifty 50 Index Fund",
+      "category": "Index",
+      "3_year_return": "11.80%",
+      "5_year_return": "13.50%",
+      "reason_for_investment": "This index fund directly tracks the Nifty 50, offering exposure to the top 50 Indian companies. It provides market-benchmark returns with lower expense ratios, adding a layer of stability and passive growth to the mutual fund allocation."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112170,
+      "roi": "N/A",
+      "buy_link": "https://public.com/crypto/bitcoin",
+      "summary": "Bitcoin is selected as a high-growth potential asset to diversify the portfolio and capitalize on the growing digital asset market. Its limited supply and increasing institutional adoption make it a strong long-term speculative investment."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "Fixed deposits provide capital preservation and guaranteed returns, acting as a low-risk component to stabilize the portfolio against market volatility and offer liquidity."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, offering protection against inflation and currency devaluation. Its inclusion diversifies the portfolio and reduces overall risk during economic uncertainties."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return (105,000 INR)",
+    "moderate_return": "8% return (108,000 INR)",
+    "optimistic_return": "12% return (112,000 INR)",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[105000,108000,112000]}]}}"
+  },
+  "summary": "This portfolio of 1,00,000 INR, allocated for 9 years with a moderate risk appetite in the Indian market, aims for a 10% annual return. The allocation prioritizes equity for long-term growth while incorporating diversifiers like gold, fixed deposits for stability, and a small portion in cryptocurrency for higher potential returns commensurate with the moderate risk profile. The selected stocks are strong performers in their respective sectors with good fundamentals, and the mutual funds offer diversification across market caps and investment styles for balanced growth.",
+  "risk_analysis": {
+    "mild_crash": "10% drop (10,000 INR lost, portfolio value: 90,000 INR)",
+    "moderate_crash": "20% drop (20,000 INR lost, portfolio value: 80,000 INR)",
+    "severe_crash": "30% drop (30,000 INR lost, portfolio value: 70,000 INR)",
+    "summary": "This portfolio, while diversified, is exposed to market risks. A mild market correction could lead to a 10% reduction, a moderate downturn could see a 20% impact, and a severe crash might reduce the portfolio by 30%. These simulations highlight potential downside, underscoring the importance of diversification and a long-term investment horizon to ride out volatility.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[90000,80000,70000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes like stocks, mutual funds, gold, and fixed deposits is crucial. It helps reduce overall portfolio risk by ensuring that a downturn in one asset class does not severely impact the entire portfolio, leading to more stable returns over time.",
+    "long_term_perspective": "Investing for the long term, typically 5 years or more, allows your investments to recover from short-term market fluctuations and benefit from compounding. Patience is key to achieving significant wealth accumulation.",
+    "rebalancing_strategy": "Regularly review and rebalance your portfolio, ideally once a year or when asset allocations deviate significantly. Rebalancing involves selling assets that have performed well and buying those that have underperformed, bringing your portfolio back to its target allocation and managing risk.",
+    "understanding_risk": "Every investment carries some level of risk. Understand that higher potential returns often come with higher risk. Align your investments with your personal risk tolerance, and never invest more than you can afford to lose. Regular research and professional advice can help manage these risks effectively."
+  }
+}
