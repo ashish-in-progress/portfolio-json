@@ -1,0 +1,132 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 40000 INR",
+      "mutual_funds": "35% and 35000 INR"
+    },
+    "diversifiers": {
+      "crypto": "15% and 15000 INR",
+      "gold": "10% and 10000 INR",
+      "bond_mutual_funds": "0% and 0 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold'],datasets:[{data:[40,35,15,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "AXISBANK.NS",
+      "current_price": 1168.3,
+      "week_52_high": "1247 INR",
+      "week_52_low": "933.5 INR",
+      "pe": "13.03",
+      "pb": "1.86",
+      "eps": "89.55",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.08",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.82%",
+      "net_profit_margin": "33.05%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:AXISBANK",
+      "buy_link": "https://public.com/stocks/AXISBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Axis Bank shows strong profitability with a good EPS and net profit margin. Its consistent revenue growth and attractive PE/PB ratios make it a solid choice for long-term growth in the banking sector."
+      }
+    },
+    {
+      "stock": "ICICIBANK.NS",
+      "current_price": 1393.9,
+      "week_52_high": "1500 INR",
+      "week_52_low": "1186 INR",
+      "pe": "18.93",
+      "pb": "3.01",
+      "eps": "73.5",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.79",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "26.99%",
+      "net_profit_margin": "24.93%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:ICICIBANK",
+      "buy_link": "https://public.com/stocks/ICICIBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICI Bank demonstrates impressive year-over-year revenue growth and a healthy net profit margin, indicating strong operational performance. Its solid EPS and competitive PE ratio suggest good value and potential for future appreciation."
+      }
+    },
+    {
+      "stock": "ITC.NS",
+      "current_price": 399.85,
+      "week_52_high": "498.85 INR",
+      "week_52_low": "390.15 INR",
+      "pe": "25.03",
+      "pb": "7.13",
+      "eps": "15.95",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.96",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.78%",
+      "net_profit_margin": "46.54%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:ITC",
+      "buy_link": "https://public.com/stocks/ITC.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC stands out with an exceptionally high net profit margin and a strong dividend yield, making it attractive for both growth and income. Its consistent revenue growth supports its position as a stable long-term investment."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Quant Small Cap Fund",
+      "category": "Small-Cap",
+      "3_year_return": "30.00%",
+      "5_year_return": "35.00%",
+      "reason_for_investment": "With a high-risk appetite and long investment horizon, the Quant Small Cap Fund is suitable due to its impressive 3-year and 5-year returns, indicating strong growth potential in the small-cap segment. Small-cap funds can be volatile but offer higher rewards over the long term."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "category": "Mid-Cap",
+      "3_year_return": "27.00%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "The HDFC Mid Cap Opportunities Fund offers excellent historical returns, aligning with the high-risk and long-term investment strategy. Mid-cap companies have the potential for significant growth as they transition from small to large-cap, making this fund a good diversification within equities."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112574,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/how-to-buy/bitcoin",
+      "summary": "Bitcoin is selected as the primary crypto asset due to its established market presence, high liquidity, and potential for significant growth. While highly volatile, its role as a pioneer in the cryptocurrency space makes it a key holding for high-risk, high-reward portfolios."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "No allocation to bond mutual funds in this high-risk portfolio, as the focus is on maximizing growth through equities and crypto."
+  },
+  "Gold": {
+    "summary": "Gold is included as a diversifier and a hedge against inflation and market volatility, providing a stabilizing element to an otherwise high-risk portfolio."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return: 5000 INR profit, total value 105000 INR",
+    "moderate_return": "8% return: 8000 INR profit, total value 108000 INR",
+    "optimistic_return": "12% return: 12000 INR profit, total value 112000 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[105000,108000,112000]}]}}"
+  },
+  "summary": "This portfolio is designed for a high-risk, long-term investor in the Indian market with a budget of 100,000 INR and a target return of 15%. A significant portion is allocated to equities (stocks and mutual funds) to maximize growth potential over 12 years. The selected stocks (Axis Bank, ICICI Bank, ITC) offer a mix of strong financials, growth, and stability within the banking and diversified sectors. The mutual funds (Quant Small Cap and HDFC Mid Cap Opportunities) aim for higher returns from high-growth small and mid-cap companies. Diversifiers include a portion for crypto (for high-risk exposure) and gold (for hedging against inflation and market volatility). This portfolio is aligned with a high-risk profile, seeking aggressive growth with a calculated exposure to volatile assets like crypto.",
+  "risk_analysis": {
+    "mild_crash": "10% drop: 10000 INR lost, total value 90000 INR",
+    "moderate_crash": "20% drop: 20000 INR lost, total value 80000 INR",
+    "severe_crash": "30% drop: 30000 INR lost, total value 70000 INR",
+    "summary": "Given the high-risk nature of this portfolio with significant allocations to equities and crypto, the investor should be prepared for substantial fluctuations during market downturns. Diversification across different asset classes (even within high-risk categories) and the inclusion of gold can mitigate some, but not all, of the risks. Regular monitoring and adherence to the long-term investment horizon are crucial.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[90000,80000,70000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across various asset classes (stocks, mutual funds, crypto, gold) is crucial to spread risk and reduce the impact of poor performance from any single investment. While this portfolio leans towards high-risk assets, the inclusion of gold helps provide some balance.",
+    "long_term_perspective": "For a high-risk, high-growth portfolio, a long-term investment horizon (12 years in this case) is essential. Short-term market fluctuations should be viewed as temporary, and staying invested allows time for assets to recover and grow.",
+    "rebalancing_strategy": "Regularly review and rebalance your portfolio (e.g., annually) to ensure it aligns with your original allocation strategy and risk tolerance. If certain assets grow significantly, you might trim them to maintain desired percentages, and vice-versa.",
+    "understanding_risk": "Understand that high-risk investments, while offering potential for higher returns, also come with a greater chance of significant losses. It's vital to only invest what you can afford to lose and to be emotionally prepared for volatility."
+  }
+}
