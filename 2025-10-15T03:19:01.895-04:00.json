@@ -1,0 +1,160 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "60% and 7200 USD",
+      "mutual_funds": "20% and 2400 USD"
+    },
+    "diversifiers": {
+      "crypto": "10% and 1200 USD",
+      "gold": "5% and 600 USD",
+      "bond_mutual_funds": "5% and 600 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold','Debt (FD)'],datasets:[{data:[60,20,10,5,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 180.03,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "50.61",
+      "pb": "43.77",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/0bb68d5b-3880-4931-9518-b53972f99b5b.png",
+      "buy_link": "https://public.com/stocks/NVDA",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA is selected for its exceptional revenue growth (71.55% YOY) and high net profit margin (52.41%), indicating strong market demand for its technology, especially in AI. Its low debt and high ROE/ROA suggest efficient management and profitability, suitable for a high-risk, high-growth portfolio. Approximately 10 shares purchased."
+      }
+    },
+    {
+      "stock": "AMZN",
+      "current_price": 216.39,
+      "week_52_high": "242.52",
+      "week_52_low": "161.38",
+      "pe": "32.11",
+      "pb": "6.79",
+      "eps": "6.55",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "null",
+      "total_debt_to_equity": "0.27",
+      "revenue_growth_yoy": "10.87",
+      "net_profit_margin": "10.54",
+      "current_ratio": "0.84",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/31bca827-5bde-4a88-8687-04069a84f097.png",
+      "buy_link": "https://public.com/stocks/AMZN",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Amazon is chosen for its strong position in e-commerce and cloud computing (AWS), showing consistent revenue growth and profitability. Its manageable debt and positive EPS indicate a healthy business, offering robust long-term growth potential. Approximately 8 shares purchased."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 245.45,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "25.81",
+      "pb": "8.22",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/4184168a-c8e4-4306-9979-51a670148823.png",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet is selected due to its dominant market position in search and advertising, combined with strong growth in cloud services (Google Cloud). Its very low debt, high net profit margin, and positive EPS demonstrate financial strength and consistent innovation, making it a stable yet growth-oriented investment. Approximately 7 shares purchased."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 513.57,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "36.94",
+      "pb": "10.95",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.64",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/08c09c21-c1f5-4cac-809f-f11b0099a723.png",
+      "buy_link": "https://public.com/stocks/MSFT",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is chosen for its diversified and resilient business model, spanning cloud computing (Azure), software, and gaming. Its consistent double-digit revenue growth, high net profit margin, and healthy financial ratios make it a reliable choice for long-term portfolio growth. Approximately 3 shares purchased."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13.0%",
+      "5_year_return": "15.0%",
+      "reason_for_investment": "Provides broad diversification across the entire U.S. stock market, minimizing individual stock risk while capturing overall market growth. Its low expense ratio and strong historical performance make it an excellent core holding for long-term investors. Allocated 1000 USD."
+    },
+    {
+      "name": "Vanguard Growth Index Fund",
+      "category": "Growth",
+      "3_year_return": "13.5%",
+      "5_year_return": "14.0%",
+      "reason_for_investment": "Focuses on companies with strong growth potential, aligning with a high-risk appetite and target return. It offers exposure to innovative companies expected to outperform the broader market over the long term. Allocated 800 USD."
+    },
+    {
+      "name": "Vanguard Health Care Fund",
+      "category": "Sectoral",
+      "3_year_return": "15.0%",
+      "5_year_return": "16.5%",
+      "reason_for_investment": "Specializes in the healthcare sector, which is often considered defensive yet offers significant growth opportunities driven by innovation and demographic trends. Its high historical returns make it an attractive option for sectoral diversification within a high-risk portfolio. Allocated 600 USD."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112553,
+      "roi": "N/A",
+      "buy_link": "https://public.com/crypto/bitcoin",
+      "summary": "Bitcoin is selected for its high growth potential and as a leading cryptocurrency, aligning with the high-risk appetite of the portfolio. Its decentralized nature offers a hedge against traditional financial systems."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "The debt component (Fixed Deposit) provides stability and capital preservation, acting as a low-risk diversifier to balance the high-growth, high-risk assets like stocks and crypto. It offers predictable returns and liquidity."
+  },
+  "Gold": {
+    "summary": "Gold is included as a traditional safe-haven asset and a hedge against inflation and economic uncertainty, providing a small component of stability within this high-risk portfolio."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation + total value ($12600.0)",
+    "moderate_return": "8% return calculation + total value ($12960.0)",
+    "optimistic_return": "12% return calculation + total value ($13440.0)",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[12600,12960,13440]}]}}"
+  },
+  "summary": "This portfolio is designed for a high-risk appetite and a 12-year investment duration in the US market, targeting a 15% return. It allocates 80% to equity (60% stocks, 20% mutual funds) to maximize growth potential. The stock selection focuses on leading tech companies with strong growth metrics and solid financial health. The mutual fund selection provides broad market exposure, growth-oriented investments, and diversification into the high-growth healthcare sector. The remaining 20% is allocated to diversifiers: 10% to crypto for very high growth potential, and 5% each to gold and debt (FD) for some stability and capital preservation.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amount lost $1200.0, chart link",
+    "moderate_crash": "20% drop, amount lost $2400.0, chart link",
+    "severe_crash": "30% drop, amount lost $3600.0, chart link",
+    "summary": "This portfolio is exposed to significant market fluctuations given its high allocation to equities and crypto. The crash impact simulation shows potential losses under different market downturn scenarios. Effective risk management includes regular rebalancing, maintaining an emergency fund, and understanding that higher returns often come with higher risks. Diversification across different asset classes helps mitigate, but not eliminate, these risks.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[10800,9600,8400]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, crypto, gold, debt) is crucial to spread risk and reduce the impact of poor performance in any single asset. While this portfolio is high-risk, the inclusion of diversifiers aims to provide some balance.",
+    "long_term_perspective": "Given the high-growth and higher-risk nature of this portfolio, maintaining a long-term perspective (12 years) is essential. Short-term market fluctuations are inevitable, but historical data suggests that growth-oriented portfolios tend to perform well over extended periods.",
+    "rebalancing_strategy": "Regular rebalancing (e.g., annually or semi-annually) is important to maintain the desired asset allocation. If one asset class significantly outperforms, its proportion in the portfolio will increase. Rebalancing involves selling some of the outperforming assets and buying underperforming ones to bring the portfolio back to its target allocation, helping manage risk and lock in gains.",
+    "understanding_risk": "It's vital to fully understand the risks associated with each investment, especially high-volatility assets like individual stocks and cryptocurrencies. Higher potential returns often come with higher risks, including the possibility of significant capital loss. Only invest what you can afford to lose and ensure your risk tolerance aligns with the portfolio's strategy."
+  }
+}
