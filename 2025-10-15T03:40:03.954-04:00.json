@@ -1,0 +1,148 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "100% and 80000 USD"
+    },
+    "diversifiers": {
+      "crypto": null,
+      "gold": null,
+      "bond_mutual_funds": null
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks'],datasets:[{data:[100]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 180.03,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "50.61",
+      "pb": "43.77",
+      "eps": "3.51",
+      "roe": null,
+      "roa": null,
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/b731a717-a500-4465-8502-39c3511263cf.png",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA shows exceptional revenue growth (71.55% YoY) and strong profitability (52.41% net profit margin) with low debt. It is selected for its aggressive growth potential in the high-risk portfolio, indicating strong future performance in the technology sector."
+      }
+    },
+    {
+      "stock": "META",
+      "current_price": 708.65,
+      "week_52_high": "796.25",
+      "week_52_low": "479.80",
+      "pe": "25.14",
+      "pb": "9.22",
+      "eps": "27.58",
+      "roe": null,
+      "roa": null,
+      "dividend_yield": "0.29",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38",
+      "net_profit_margin": "39.99",
+      "current_ratio": "2.83",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/3bedcc60-846b-4551-bbad-5fe3d973d1a0.png",
+      "buy_link": "https://public.com/stocks/meta",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Meta Platforms demonstrates robust revenue growth (19.38% YoY) and excellent net profit margin (39.99%), indicating efficient operations. This stock is chosen for its strong market position and potential for continued expansion in social media and related technologies."
+      }
+    },
+    {
+      "stock": "LLY",
+      "current_price": 812.35,
+      "week_52_high": "937.00",
+      "week_52_low": "623.78",
+      "pe": "55.48",
+      "pb": "41.90",
+      "eps": "15.31",
+      "roe": null,
+      "roa": null,
+      "dividend_yield": "0.66",
+      "total_debt_to_equity": "2.37",
+      "revenue_growth_yoy": "36.83",
+      "net_profit_margin": "25.91",
+      "current_ratio": "0.59",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/259ac719-c352-4236-80d1-4c23aa5ca85e.png",
+      "buy_link": "https://public.com/stocks/lly",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Eli Lilly and Company exhibits impressive revenue growth (36.83% YoY) and solid net profit margin, reflecting strong performance in the pharmaceutical industry. Its inclusion aims to capture high growth potential within the healthcare sector, aligning with a high-risk investment strategy."
+      }
+    },
+    {
+      "stock": "AVGO",
+      "current_price": 344.13,
+      "week_52_high": "374.23",
+      "week_52_low": "138.10",
+      "pe": "87.00",
+      "pb": "22.48",
+      "eps": "3.91",
+      "roe": null,
+      "roa": null,
+      "dividend_yield": "0.66",
+      "total_debt_to_equity": "1.00",
+      "revenue_growth_yoy": "28.01",
+      "net_profit_margin": "31.59",
+      "current_ratio": "0.98",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/f8a62ae0-dbdb-4e29-bfde-d62985ec8eea.png",
+      "buy_link": "https://public.com/stocks/avgo",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Broadcom shows significant revenue growth (28.01% YoY) and high net profit margins, alongside a very high free cash flow per share. This stock is selected for its strong financial health and growth prospects in the semiconductor and infrastructure software market."
+      }
+    },
+    {
+      "stock": "PLTR",
+      "current_price": 179.74,
+      "week_52_high": "190.00",
+      "week_52_low": "40.36",
+      "pe": "555.47",
+      "pb": "71.51",
+      "eps": "0.30",
+      "roe": null,
+      "roa": null,
+      "dividend_yield": null,
+      "total_debt_to_equity": "0.00",
+      "revenue_growth_yoy": "38.79",
+      "net_profit_margin": "22.18",
+      "current_ratio": "5.84",
+      "chart": null,
+      "buy_link": "https://public.com/stocks/pltr",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Palantir Technologies demonstrates very high revenue growth (38.79% YoY) and zero debt, indicating a high-growth company with a solid balance sheet. Despite its extremely high P/E, it's chosen for its disruptive technology and significant long-term growth potential in data analytics, fitting the high-risk profile."
+      }
+    }
+  ],
+  "mutual_funds_selected": null,
+  "crypto_selected": null,
+  "bond_mutual_funds": {
+    "summary": null
+  },
+  "Gold": {
+    "summary": null
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation: +4000 USD, total value: 84000 USD",
+    "moderate_return": "8% return calculation: +6400 USD, total value: 86400 USD",
+    "optimistic_return": "12% return calculation: +9600 USD, total value: 89600 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[84000,86400,89600]}]}}"
+  },
+  "summary": "This portfolio allocates 100% of the 80,000 USD budget to a selection of high-growth, high-risk US stocks for a 3+ year investment horizon. The selected companies - NVIDIA, Meta Platforms, Eli Lilly and Company, Broadcom, and Palantir Technologies - are characterized by strong revenue growth, robust profitability, and in most cases, manageable debt levels. This strategy aims to maximize capital appreciation over the long term, accepting the inherent volatility associated with high-growth investments.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 8000 USD lost, portfolio value: 72000 USD",
+    "moderate_crash": "20% drop, 16000 USD lost, portfolio value: 64000 USD",
+    "severe_crash": "30% drop, 24000 USD lost, portfolio value: 56000 USD",
+    "summary": "This portfolio is exposed to significant market risk due to its 100% allocation to high-growth stocks. A mild market correction (10%) could lead to a substantial loss of 8,000 USD, while a severe downturn (30%) could wipe out 24,000 USD of the initial investment. Investors should be prepared for high volatility and potential capital drawdown, aligning with a high-risk tolerance and a long-term investment horizon to ride out market fluctuations.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[72000,64000,56000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "While this portfolio is concentrated in high-growth stocks, diversification across different asset classes (e.g., bonds, real estate, commodities) and geographies can help reduce overall portfolio risk and volatility, especially for less aggressive investors.",
+    "long_term_perspective": "High-growth investments often experience significant price swings. Maintaining a long-term perspective (3+ years) allows your investments time to recover from downturns and benefit from compound growth, aligning with the objective of maximizing capital appreciation.",
+    "rebalancing_strategy": "Regularly review your portfolio's asset allocation to ensure it still aligns with your risk tolerance and financial goals. While not directly applicable to a 100% stock portfolio in terms of asset classes, you might consider rebalancing among individual stocks if their performance or fundamental outlook changes significantly.",
+    "understanding_risk": "This portfolio carries a high level of risk due to its concentration in growth stocks. Understanding that market values can fluctuate dramatically and that past performance is not indicative of future results is crucial. Only invest capital you can afford to lose and ensure your risk appetite is genuinely high for this aggressive strategy."
+  }
+}
