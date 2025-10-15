@@ -1,0 +1,113 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 4000 INR",
+      "mutual_funds": "30% and 3000 INR"
+    },
+    "diversifiers": {
+      "crypto": "20% and 2000 INR",
+      "gold": "10% and 1000 INR",
+      "bond_mutual_funds": "0% and 0 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold'],datasets:[{data:[40,30,20,10],backgroundColor:['#FF6384','#36A2EB','#FFCE56','#4BC0C0']}]}}",
+  "stocks_selected": [
+    {
+      "stock": "Bharti Airtel",
+      "current_price": 1959,
+      "week_52_high": "N/A",
+      "week_52_low": "N/A",
+      "pe": "N/A",
+      "pb": "N/A",
+      "eps": "58.98",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.82%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "15.34%",
+      "net_profit_margin": "N/A",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/618ad80b-f7b4-4351-9f54-8bb4fc5439e6.png",
+      "buy_link": "https://public.com/stocks/BHARTIARTL.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Bharti Airtel is a leading telecommunications company with exceptional profit growth of approximately 349% year-over-year and strong revenue growth of 15%. This indicates robust business performance and makes it a suitable high-growth equity allocation for a high-risk portfolio."
+      }
+    },
+    {
+      "stock": "Kotak Mahindra Bank",
+      "current_price": 2147.3,
+      "week_52_high": "N/A",
+      "week_52_low": "N/A",
+      "pe": "N/A",
+      "pb": "N/A",
+      "eps": "96.4",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.12%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "9.50%",
+      "net_profit_margin": "N/A",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/af3e4b30-1940-450d-82b0-4eab40e7edb8.png",
+      "buy_link": "https://public.com/stocks/KOTAKBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Kotak Mahindra Bank demonstrates solid profit growth of around 21% and revenue growth of about 9% year-over-year. Its consistent performance in the banking sector makes it a strong candidate for a growth-oriented, high-risk portfolio."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Quant Small Cap Fund",
+      "category": "Small-Cap",
+      "3_year_return": "30.00%",
+      "5_year_return": "35.00%",
+      "reason_for_investment": "The Quant Small Cap Fund is chosen for its impressive historical performance with 3-year returns of 30% and 5-year returns of 35%. Its focus on small-cap companies offers significant growth potential, aligning with a high-risk tolerance for aggressive capital appreciation over a 3-year investment horizon."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112187,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is selected as a leading cryptocurrency for aggressive growth potential, aligning with a high-risk profile. While volatile, it offers significant upside in a diversified high-risk portfolio."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 4096.82,
+      "roi": "4782.12%",
+      "buy_link": "https://www.coinbase.com/price/ethereum",
+      "summary": "Ethereum is included for its robust ecosystem and smart contract capabilities, offering high growth potential and diversification within the crypto segment of a high-risk portfolio. Its historical ROI demonstrates significant past performance."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "No allocation to bond mutual funds in this high-risk portfolio as the focus is on aggressive growth. Bond mutual funds typically offer stability and lower returns, suitable for moderate to low-risk profiles, or as a diversifier in a balanced portfolio."
+  },
+  "Gold": {
+    "summary": "Gold is included as a traditional hedge against inflation and market volatility, offering a diversifier within the high-risk portfolio despite its lower growth potential. It helps in balancing overall portfolio risk."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value: 10500 INR",
+    "moderate_return": "8% return, total value: 10800 INR",
+    "optimistic_return": "12% return, total value: 11200 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[10500,10800,11200],backgroundColor:['#4CAF50','#FFC107','#F44336']}]}}"
+  },
+  "summary": "This portfolio for 10,000 INR over 3 years, designed for a high-risk profile in the Indian market with a target return of 9%, allocates 70% to equity and 30% to diversifiers. The equity sleeve consists of 40% in stocks, including high-growth potential companies like Bharti Airtel and Kotak Mahindra Bank, and 30% in a high-performing small-cap mutual fund like Quant Small Cap Fund. The diversifiers include a 20% allocation to crypto for aggressive growth and 10% to gold for a traditional hedge against volatility.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amount lost: 1000 INR, portfolio value: 9000 INR",
+    "moderate_crash": "20% drop, amount lost: 2000 INR, portfolio value: 8000 INR",
+    "severe_crash": "30% drop, amount lost: 3000 INR, portfolio value: 7000 INR",
+    "summary": "This high-risk portfolio is susceptible to significant drawdowns during market corrections. A mild crash could lead to a 10% loss, while a severe crash could result in a 30% reduction in portfolio value. Diversification with gold helps to mitigate some risk, but the overall aggressive allocation means higher potential losses in adverse market conditions.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[9000,8000,7000],backgroundColor:['#FF6384','#FF9F40','#FFCD56']}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, crypto, gold) helps reduce overall portfolio risk. While this portfolio is high-risk, the inclusion of gold adds a layer of stability. Avoid concentrating too much in one asset.",
+    "long_term_perspective": "For a high-risk portfolio aiming for aggressive growth, maintaining a long-term investment horizon (e.g., 3+ years) is crucial. Market fluctuations are common in the short term, but long-term trends often favor growth assets.",
+    "rebalancing_strategy": "Regularly review and rebalance your portfolio to ensure it aligns with your target allocation and risk tolerance. For a high-risk portfolio, you might rebalance annually or semi-annually to trim overperforming assets and add to underperforming ones.",
+    "understanding_risk": "Understand that higher returns often come with higher risk. This portfolio is designed for a high-risk profile, meaning you should be comfortable with potential significant losses in exchange for higher growth opportunities. Only invest capital you can afford to lose."
+  }
+}
