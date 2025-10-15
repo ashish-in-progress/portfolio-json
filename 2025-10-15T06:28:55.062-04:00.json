@@ -1,0 +1,132 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "50% and 25000 USD",
+      "mutual_funds": "30% and 15000 USD"
+    },
+    "diversifiers": {
+      "crypto": "10% and 5000 USD",
+      "gold": "10% and 5000 USD",
+      "bond_mutual_funds": "0% and 0 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold'],datasets:[{data:[50,30,10,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": "Current price not fetched due to service error",
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "50.61",
+      "pb": "43.77",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "Chart not available due to service error.",
+      "buy_link": "https://public.com/stocks/NVDA",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA is selected for its exceptional revenue growth (71.55% YoY) and strong net profit margin, indicating high demand and profitability in its sector. While its PE and PB ratios are high, these reflect its significant growth potential and market leadership, aligning with a high-risk, high-reward strategy."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": "Current price not fetched due to service error",
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "25.81",
+      "pb": "8.22",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "Chart not available due to service error.",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) offers robust revenue growth and a strong net profit margin with a relatively lower PE ratio compared to other tech giants. Its strong financial health and consistent innovation make it a solid choice for growth within a high-risk portfolio."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": "Current price not fetched due to service error",
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "36.94",
+      "pb": "10.95",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.64",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "Chart not available due to service error.",
+      "buy_link": "https://public.com/stocks/MSFT",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is included for its consistent strong revenue growth, impressive net profit margin, and healthy financials. It represents a more established, yet still high-growth, technology company that can contribute to portfolio gains."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "VTSAX provides broad exposure to the entire U.S. stock market, offering diversification and consistent historical returns. Its total market approach aligns well with a high-risk strategy seeking overall market growth."
+    },
+    {
+      "name": "Vanguard Growth Index Fund",
+      "category": "Growth",
+      "3_year_return": "13.5%",
+      "5_year_return": "14%",
+      "reason_for_investment": "VGHAX focuses specifically on growth stocks, making it an excellent fit for a high-risk portfolio aiming for aggressive returns. Its historical performance indicates strong growth potential."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112443,
+      "roi": "N/A",
+      "buy_link": "https://public.com/crypto/bitcoin",
+      "summary": "Bitcoin is chosen for its potential for speculative growth within a high-risk portfolio, offering exposure to the rapidly evolving cryptocurrency market."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "No bond mutual funds are selected in this high-risk portfolio, prioritizing higher growth potential over bond-related stability."
+  },
+  "Gold": {
+    "summary": "Gold is included as a traditional hedge against inflation and market volatility, providing a diversifier that tends to perform well when other assets falter, suitable for balancing the high-risk equity exposure."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, projecting a total value of 52500 USD",
+    "moderate_return": "8% return, projecting a total value of 54000 USD",
+    "optimistic_return": "12% return, projecting a total value of 56000 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[52500,54000,56000]}]}}"
+  },
+  "summary": "This high-risk portfolio aims for a 9% annual return over 2.5 years by allocating 80% to equities (stocks and mutual funds) and 20% to diversifiers (crypto and gold). The selected stocks (NVDA, GOOGL, MSFT) are high-growth technology companies with strong fundamentals, while mutual funds (VTSAX, VGHAX) provide diversified exposure to growth and the overall market. The allocation to crypto and gold adds an element of speculative growth and a hedge, respectively, suitable for the high-risk appetite.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, resulting in a loss of 5000 USD, with a portfolio value of 45000 USD",
+    "moderate_crash": "20% drop, resulting in a loss of 10000 USD, with a portfolio value of 40000 USD",
+    "severe_crash": "30% drop, resulting in a loss of 15000 USD, with a portfolio value of 35000 USD",
+    "summary": "This portfolio, being high-risk, is susceptible to significant drawdowns during market corrections. The analysis demonstrates potential losses under various crash scenarios, highlighting the importance of understanding and being comfortable with market volatility when pursuing aggressive growth strategies.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[45000,40000,35000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is crucial, even in a high-risk portfolio. Spreading investments across different asset classes, industries, and geographies helps mitigate risk by ensuring that a downturn in one area doesn't decimate your entire portfolio. For this portfolio, stocks, mutual funds, crypto, and gold serve as diversifiers.",
+    "long_term_perspective": "High-risk, high-growth investments often experience significant short-term volatility. Maintaining a long-term perspective (e.g., 5+ years) allows your investments time to recover from downturns and benefit from compound growth, aligning with the aggressive growth objective of this portfolio.",
+    "rebalancing_strategy": "Regular rebalancing (e.g., annually) helps maintain your desired asset allocation and risk level. If one asset class grows significantly, it might exceed its target percentage, increasing your portfolio's overall risk. Rebalancing involves selling some of the outperforming assets and buying more of the underperforming ones to bring the portfolio back to its target allocation.",
+    "understanding_risk": "It's vital to fully understand the risks associated with a high-risk portfolio, including the potential for significant capital loss. High returns often come with high volatility. Ensure your financial goals, time horizon, and personal comfort with risk align with such an aggressive investment strategy. Regularly review your portfolio's performance and adjust your strategy if your risk tolerance or financial situation changes."
+  }
+}
