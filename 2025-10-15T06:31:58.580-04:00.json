@@ -1,0 +1,134 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "60% and $30,000",
+      "mutual_funds": "20% and $10,000"
+    },
+    "diversifiers": {
+      "crypto": "10% and $5,000",
+      "gold": "10% and $5,000",
+      "bond_mutual_funds": "0% and $0"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold'],datasets:[{data:[60,20,10,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 180.03,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "50.61",
+      "pb": "43.77",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/db82b92f-e543-4836-9b6f-aca6d159b0be.png",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA is selected for its exceptional revenue growth (71.55% YoY) and high profitability (52.41% net profit margin), indicating strong market demand for its products. While its P/E and P/B ratios are high, this is characteristic of high-growth technology companies in a high-risk portfolio."
+      }
+    },
+    {
+      "stock": "META",
+      "current_price": 708.65,
+      "week_52_high": "796.25",
+      "week_52_low": "479.80",
+      "pe": "25.14",
+      "pb": "9.22",
+      "eps": "27.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.29",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38",
+      "net_profit_margin": "39.99",
+      "current_ratio": "2.83",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/c6392868-27c5-47a0-a1e7-79f8d97d0ebc.png",
+      "buy_link": "https://public.com/stocks/meta",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Meta Platforms is chosen for its robust revenue growth (19.38% YoY), impressive net profit margin (39.99%), and strong earnings per share. Its relatively low debt-to-equity ratio also signifies a healthy balance sheet."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 513.57,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "36.94",
+      "pb": "10.95",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.64",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/041938be-6756-4171-9b7f-c7dbbf796e7f.png",
+      "buy_link": "https://public.com/stocks/msft",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft provides a blend of growth and stability within this high-risk portfolio. It demonstrates consistent revenue growth (14.93% YoY), strong profitability (36.15% net profit margin), and a solid financial position with low debt."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Aggressive Growth Equity Fund",
+      "category": "Growth Equity",
+      "3_year_return": "N/A",
+      "5_year_return": "N/A",
+      "reason_for_investment": "Suitable for a high-risk appetite and aims for capital appreciation by investing in companies with high growth potential, aligning with the user's risk tolerance."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112480,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is selected as a leading cryptocurrency with a strong market presence and potential for significant capital appreciation, aligning with a high-risk portfolio strategy."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 4124.32,
+      "roi": "4801.85%",
+      "buy_link": "https://www.coinbase.com/price/ethereum",
+      "summary": "Ethereum is included for its robust ecosystem and its role in decentralized finance and smart contracts, offering high growth potential for a high-risk portfolio."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "No allocation to bond mutual funds in this high-risk portfolio, as the focus is on growth assets."
+  },
+  "Gold": {
+    "summary": "Gold is included as a diversifier to hedge against inflation and market volatility, offering a traditional safe-haven asset within a high-risk portfolio."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return: $50,000 * 1.05 = $52,500",
+    "moderate_return": "8% return: $50,000 * 1.08 = $54,000",
+    "optimistic_return": "12% return: $50,000 * 1.12 = $56,000",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[52500,54000,56000]}]}}"
+  },
+  "summary": "This high-risk portfolio for the US market allocates 80% to equity (60% stocks, 20% mutual funds) and 20% to diversifiers (10% crypto, 10% gold). The stock selection focuses on high-growth technology companies like NVIDIA and Meta, balanced with a strong performer like Microsoft, to target an aggressive 9% annual return over 2.5 years. The mutual fund allocation aims for further growth opportunities in the broader market. This portfolio is aligned with a high-risk profile, seeking substantial capital appreciation.",
+  "risk_analysis": {
+    "mild_crash": "10% drop: $5,000 lost, total value $45,000",
+    "moderate_crash": "20% drop: $10,000 lost, total value $40,000",
+    "severe_crash": "30% drop: $15,000 lost, total value $35,000",
+    "summary": "This portfolio is designed for a high-risk tolerance. While it offers significant growth potential, it is also susceptible to market downturns. Diversification across stocks, mutual funds, crypto, and gold helps to mitigate some risk, but substantial fluctuations should be expected. Regular monitoring and rebalancing are crucial.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[45000,40000,35000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across various asset classes (stocks, mutual funds, crypto, gold) is crucial to reduce overall portfolio risk. It helps to smooth out returns and protect against significant losses in any single investment.",
+    "long_term_perspective": "For high-risk, high-growth portfolios, a long-term perspective is vital. Market fluctuations are normal, and holding investments over several years allows them to recover from downturns and benefit from long-term growth trends.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio (e.g., annually or semi-annually) ensures that your asset allocation remains aligned with your initial risk tolerance and financial goals. This involves selling assets that have performed well and buying those that have underperformed to restore target percentages.",
+    "understanding_risk": "It's important to understand that higher potential returns often come with higher risk. Be comfortable with the possibility of significant value fluctuations in a high-risk portfolio. Only invest what you can afford to lose without impacting your financial stability."
+  }
+}
