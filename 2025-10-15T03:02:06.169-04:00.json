@@ -1,0 +1,188 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 40000 INR",
+      "mutual_funds": "40% and 40000 INR"
+    },
+    "diversifiers": {
+      "crypto": "10% and 10000 INR",
+      "gold": "10% and 10000 INR",
+      "bond_mutual_funds": "0% and 0 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold'],datasets:[{data:[40,40,10,10],backgroundColor:['#FF6384','#36A2EB','#FFCE56','#4BC0C0']}]}}",
+  "stocks_selected": [
+    {
+      "stock": "TATAMOTORS.NS",
+      "current_price": 392.7,
+      "week_52_high": "923",
+      "week_52_low": "376.3",
+      "pe": "6.44",
+      "pb": "1.24",
+      "eps": "60.94",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.52",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.013",
+      "net_profit_margin": "0.063",
+      "current_ratio": "N/A",
+      "chart": "https://www.tradingview.com/chart/?symbol=NSE%3ATATAMOTORS",
+      "buy_link": "https://public.com/stocks/TATAMOTORS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Tata Motors shows a low PE ratio and strong EPS, indicating it might be undervalued. The moderate revenue growth suggests steady performance in the automotive sector."
+      }
+    },
+    {
+      "stock": "BPCL.NS",
+      "current_price": 338.95,
+      "week_52_high": "358.65",
+      "week_52_low": "234.01",
+      "pe": "8.35",
+      "pb": "1.80",
+      "eps": "40.56",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.01",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "-0.017",
+      "net_profit_margin": "0.030",
+      "current_ratio": "N/A",
+      "chart": "https://www.tradingview.com/chart/?symbol=NSE%3ABPCL",
+      "buy_link": "https://public.com/stocks/BPCL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "BPCL offers an attractive dividend yield and a low PE ratio, suggesting good value for investors seeking income. While revenue growth is slightly negative, the profit margin is stable."
+      }
+    },
+    {
+      "stock": "SBIN.NS",
+      "current_price": 884,
+      "week_52_high": "888.1",
+      "week_52_low": "680",
+      "pe": "9.93",
+      "pb": "1.51",
+      "eps": "89.01",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.81",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.080",
+      "net_profit_margin": "0.221",
+      "current_ratio": "N/A",
+      "chart": "https://www.tradingview.com/chart/?symbol=NSE%3ASBIN",
+      "buy_link": "https://public.com/stocks/SBIN",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "State Bank of India is a robust public sector bank with a low PE and PB, strong EPS, and healthy revenue growth. Its high net profit margin indicates efficient operations."
+      }
+    },
+    {
+      "stock": "ITC.NS",
+      "current_price": 399.15,
+      "week_52_high": "498.85",
+      "week_52_low": "390.15",
+      "pe": "25.02",
+      "pb": "7.13",
+      "eps": "15.95",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.96",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.107",
+      "net_profit_margin": "0.465",
+      "current_ratio": "N/A",
+      "chart": "https://www.tradingview.com/chart/?symbol=NSE%3AITC",
+      "buy_link": "https://public.com/stocks/ITC",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC provides a high dividend yield and impressive net profit margin, making it an attractive option for long-term growth and income. Consistent revenue growth supports its stable market position."
+      }
+    },
+    {
+      "stock": "ONGC.NS",
+      "current_price": 247.75,
+      "week_52_high": "287.6",
+      "week_52_low": "205",
+      "pe": "8.64",
+      "pb": "0.90",
+      "eps": "28.65",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "6.03",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.017",
+      "net_profit_margin": "0.059",
+      "current_ratio": "N/A",
+      "chart": "https://www.tradingview.com/chart/?symbol=NSE%3AONGC",
+      "buy_link": "https://public.com/stocks/ONGC",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ONGC stands out with a very high dividend yield and a low PE and PB ratio, suggesting significant value. Its stable revenue growth and decent EPS contribute to its appeal."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Quant Small Cap Fund",
+      "category": "Small-Cap",
+      "3_year_return": "30.00%",
+      "5_year_return": "35.00%",
+      "reason_for_investment": "This fund is ideal for investors with a high-risk appetite seeking aggressive growth over the long term, demonstrated by its exceptional 3-year and 5-year returns."
+    },
+    {
+      "name": "Invesco India Small Cap Fund",
+      "category": "Small-Cap",
+      "3_year_return": "27.39%",
+      "5_year_return": "32.18%",
+      "reason_for_investment": "Another strong performer in the small-cap category, offering excellent returns suitable for high-risk, long-term investors aiming for significant capital appreciation."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "category": "Mid-Cap",
+      "3_year_return": "27.00%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "This mid-cap fund provides substantial returns, balancing risk and reward for high-risk investors. It's a good choice for diversified exposure beyond small-caps."
+    },
+    {
+      "name": "Motilal Oswal Mid Cap Fund",
+      "category": "Mid-Cap",
+      "3_year_return": "25.00%",
+      "5_year_return": "28.00%",
+      "reason_for_investment": "A robust mid-cap fund with consistently high returns, perfect for investors who want to capitalize on the growth potential of mid-sized Indian companies."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112524,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is selected as a leading cryptocurrency, offering potential for high growth and acting as a diversifier against traditional assets. Its established market presence and increasing institutional adoption make it a key component for aggressive portfolios."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "Not allocated in this aggressive portfolio due to a focus on higher-growth assets. Bond mutual funds generally offer lower returns compared to equities and crypto, which do not align with the user's high-risk appetite and aggressive growth target."
+  },
+  "Gold": {
+    "summary": "Gold is included as a diversifier (10% allocation) to provide a hedge against inflation and market volatility. While the portfolio is aggressive, a small allocation to gold can offer stability during uncertain economic conditions without significantly dampening overall growth potential."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return: (100000 * 0.05) + 100000 = 105000 INR",
+    "moderate_return": "8% return: (100000 * 0.08) + 100000 = 108000 INR",
+    "optimistic_return": "12% return: (100000 * 0.12) + 100000 = 112000 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[105000,108000,112000],backgroundColor:['#4CAF50','#FFC107','#FF5722']}]}}"
+  },
+  "summary": "This portfolio is aggressively structured for a high-risk appetite and a 12-year investment horizon in the Indian market. It allocates 80% to equities (split between stocks and mutual funds) and 20% to diversifiers (crypto and gold). The selected stocks show good value, strong fundamentals, and dividend potential, while the mutual funds are high-performing small-cap and mid-cap funds aimed at maximizing growth over the long term. This allocation aims for the target return of 15% by focusing on high-growth potential assets, with diversifiers providing some balance.",
+  "risk_analysis": {
+    "mild_crash": "10% drop: 100000 - (100000 * 0.10) = 90000 INR. Chart: https://quickchart.io/chart?c={type:'bar',data:{labels:['Original Value','After Mild Crash'],datasets:[{label:'Portfolio Value',data:[100000,90000],backgroundColor:['#36A2EB','#FF6384']}]}}",
+    "moderate_crash": "20% drop: 100000 - (100000 * 0.20) = 80000 INR. Chart: https://quickchart.io/chart?c={type:'bar',data:{labels:['Original Value','After Moderate Crash'],datasets:[{label:'Portfolio Value',data:[100000,80000],backgroundColor:['#36A2EB','#FF6384']}]}}",
+    "severe_crash": "30% drop: 100000 - (100000 * 0.30) = 70000 INR. Chart: https://quickchart.io/chart?c={type:'bar',data:{labels:['Original Value','After Severe Crash'],datasets:[{label:'Portfolio Value',data:[100000,70000],backgroundColor:['#36A2EB','#FF6384']}]}}",
+    "summary": "This portfolio, due to its aggressive nature, is susceptible to significant drawdowns during market corrections. The crash impact simulation shows potential losses of 10% to 30% of the total portfolio value during mild to severe market crashes. Investors should be prepared for such fluctuations and maintain a long-term perspective to ride out volatility. Diversification with gold helps to some extent, but the high allocation to equities and crypto means higher inherent risk.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[90000,80000,70000],backgroundColor:['#4CAF50','#FFC107','#FF5722']}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is crucial to manage risk. By spreading investments across different asset classes like stocks, mutual funds, and even alternative assets like gold and crypto, you reduce the impact of a poor performance by any single asset on your overall portfolio. This portfolio demonstrates diversification across various equity segments and a small allocation to diversifiers.",
+    "long_term_perspective": "Given the aggressive nature of this portfolio and the inherent volatility of equity and crypto markets, maintaining a long-term investment horizon (12 years in this case) is vital. Short-term market fluctuations are common, but historically, well-diversified portfolios tend to generate positive returns over longer periods. Avoid making impulsive decisions based on short-term market movements.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio (e.g., annually) is important to maintain your desired asset allocation. If one asset class performs exceptionally well, its proportion in your portfolio might increase. Rebalancing involves selling some of the outperforming assets and buying more of the underperforming ones to bring your portfolio back to its original allocation. This helps manage risk and lock in gains.",
+    "understanding_risk": "It's essential to fully understand the risks associated with an aggressive portfolio. While the potential for high returns is significant, so is the potential for losses, especially in the short term. The 'Risk Corner' highlights potential impacts of market crashes. Only invest capital that you are comfortable losing, and ensure your risk tolerance aligns with the portfolio's aggressive strategy."
+  }
+}
