@@ -1,0 +1,164 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and 2700 USD",
+      "mutual_funds": "30% and 2700 USD"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 USD",
+      "gold": "15% and 1350 USD",
+      "bond_mutual_funds": "25% and 2250 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[30,30,15,25]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "AAPL",
+      "current_price": 247.77,
+      "week_52_high": "260.10",
+      "week_52_low": "169.21",
+      "pe": "37.15",
+      "pb": "56.02",
+      "eps": "6.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.42",
+      "total_debt_to_equity": "1.89",
+      "revenue_growth_yoy": "5.97",
+      "net_profit_margin": "24.30",
+      "current_ratio": "0.83",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NASDAQ:AAPL",
+      "buy_link": "https://public.com/stocks/aapl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Apple is expected to continue its growth trajectory driven by innovation in new product categories, services expansion, and strong customer loyalty. Its robust ecosystem provides a competitive moat."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 513.57,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.60",
+      "pb": "11.15",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/63557a50-439a-48e6-b7ad-7a2fea5331c5.png",
+      "buy_link": "https://public.com/stocks/msft",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft's future growth will be largely fueled by its dominance in cloud computing (Azure), AI integration across its products, and continued strength in enterprise software. Its diversified business model makes it resilient."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 245.45,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "25.45",
+      "pb": "8.11",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.34",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/f87a142d-3491-4c6d-bfc7-b1b6ea86a0a5.png",
+      "buy_link": "https://public.com/stocks/googl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet will continue to benefit from its leading positions in search and online advertising. Investments in AI, cloud computing (Google Cloud), and other innovative ventures are expected to drive long-term growth."
+      }
+    },
+    {
+      "stock": "JNJ",
+      "current_price": 190.85,
+      "week_52_high": "192.10",
+      "week_52_low": "140.68",
+      "pe": "20.22",
+      "pb": "5.84",
+      "eps": "9.35",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.64",
+      "total_debt_to_equity": "0.51",
+      "revenue_growth_yoy": "4.68",
+      "net_profit_margin": "25.00",
+      "current_ratio": "0.78",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/f9658d4d-924f-4844-8876-846d9052b27f.png",
+      "buy_link": "https://public.com/stocks/jnj",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson, as a healthcare behemoth, offers stability due to consistent demand for its pharmaceutical products and medical devices. Its strong R&D pipeline and global presence ensure continued relevance and modest growth."
+      }
+    },
+    {
+      "stock": "PG",
+      "current_price": 149.16,
+      "week_52_high": "180.43",
+      "week_52_low": "146.97",
+      "pe": "21.62",
+      "pb": "6.60",
+      "eps": "6.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.86",
+      "total_debt_to_equity": "0.66",
+      "revenue_growth_yoy": "0.29",
+      "net_profit_margin": "18.95",
+      "current_ratio": "0.44",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/9ea30cb8-759b-4cc4-815e-5d2090c92e03.png",
+      "buy_link": "https://public.com/stocks/pg",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Procter & Gamble, a consumer staple company, provides essential household and personal care products. Its strong brand portfolio and global reach offer defensive characteristics and consistent dividend income, making it suitable for moderate risk."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard 500 Index Fund Admiral Shares",
+      "category": "Large-Cap Equity",
+      "3_year_return": "12.5",
+      "5_year_return": "14.3",
+      "reason_for_investment": "Selected for its broad exposure to the S&P 500, offering diversification across well-established US companies. It provides solid historical returns suitable for a moderate risk profile over a 5-year horizon."
+    },
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13",
+      "5_year_return": "15",
+      "reason_for_investment": "Chosen for even broader diversification across the entire US stock market (small, mid, and large caps). This fund minimizes company-specific risk and provides exposure to the overall economic growth of the US."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Fixed deposits/debt funds are included for capital preservation and stable, albeit lower, returns, acting as a buffer against equity market volatility. They are crucial for maintaining a moderate risk profile."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, providing a hedge against inflation and geopolitical risks. Its inclusion enhances portfolio diversification and stability, especially during market downturns."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation + total value : 9450 USD",
+    "moderate_return": "8% return calculation + total value: 9720 USD",
+    "optimistic_return": "12% return calculation + total value : 10080 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[9450,9720,10080]}]}}"
+  },
+  "summary": "This portfolio for 9000 USD over 5 years with a moderate risk appetite aims for a target return of 5%. It allocates 60% to equity (stocks and mutual funds) for growth potential and 40% to diversifiers (gold and fixed deposits/debt funds) for stability and capital preservation. The selected stocks are established companies with strong fundamentals, while the mutual funds provide broad market exposure and diversification. This balanced approach is designed to achieve the target return while managing risk.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amount lost: 900 USD, remaining value: 8100 USD",
+    "moderate_crash": "20% drop, amount lost: 1800 USD, remaining value: 7200 USD",
+    "severe_crash": "30% drop, amount lost: 2700 USD, remaining value: 6300 USD",
+    "summary": "Risk management in this portfolio is achieved through diversification across different asset classes, balancing growth-oriented equities with stable diversifiers like gold and fixed deposits/debt funds. This strategy aims to mitigate the impact of market downturns while still participating in upside potential.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[8100,7200,6300]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification spreads investments across various asset classes, industries, and geographies, reducing the overall risk of the portfolio. If one asset performs poorly, others may perform well, helping to stabilize returns.",
+    "long_term_perspective": "Adopting a long-term investment horizon allows your investments more time to recover from short-term market fluctuations and benefit from compounding returns, which is crucial for wealth creation.",
+    "rebalancing_strategy": "Periodically rebalancing your portfolio involves adjusting your asset allocation back to your original target percentages. This ensures your portfolio remains aligned with your risk tolerance and investment goals, selling high-performing assets and buying underperforming ones.",
+    "understanding_risk": "All investments carry some level of risk. Understanding the risks associated with each asset class and how they interact within your portfolio is vital. A moderate risk profile typically involves a balanced approach to growth and capital preservation."
+  }
+}
