@@ -1,0 +1,147 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "80% and 64000 USD",
+      "mutual_funds": "0% and 0 USD"
+    },
+    "diversifiers": {
+      "crypto": "20% and 16000 USD",
+      "gold": "0% and 0 USD",
+      "bond_mutual_funds": "0% and 0 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Crypto'],datasets:[{data:[80,20]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 180.03,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "50.61",
+      "pb": "43.77",
+      "eps": "3.51",
+      "roe": "105.22%",
+      "roa": "73.14%",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/9f072815-0a38-49f5-8eaa-86f510318861.png",
+      "buy_link": "https://public.com/stocks/NVDA",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA is selected due to its exceptional revenue growth (71.55% YOY) and high net profit margin (52.41%), driven by its dominance in AI and GPU technologies. Its strong ROE (105.22%) and ROA (73.14%) demonstrate superior profitability and efficient asset management, making it a robust high-growth investment for the long term."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 513.57,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "36.94",
+      "pb": "10.95",
+      "eps": "13.64",
+      "roe": "null",
+      "roa": "null",
+      "dividend_yield": "0.64",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/9d6657d5-ee9d-4a8f-bafe-0caee083a28a.png",
+      "buy_link": "https://public.com/stocks/MSFT",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is a strong choice given its consistent growth (14.93% YOY revenue growth) and impressive net profit margin (36.15%). Its leadership in cloud computing (Azure) and enterprise software provides a stable foundation for sustained profitability and future expansion, suitable for a high-risk, long-term portfolio."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 245.45,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "25.81",
+      "pb": "8.22",
+      "eps": "9.25",
+      "roe": "null",
+      "roa": "null",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/259e7463-f409-497c-b467-ae38aee7eb46.png",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) is included for its dominant position in online advertising and significant investments in AI and cloud services. Its solid revenue growth (13.13% YOY), high net profit margin (31.12%), and healthy balance sheet (low debt-to-equity) indicate strong financial health and potential for continued innovation and market leadership."
+      }
+    },
+    {
+      "stock": "AMZN",
+      "current_price": 216.39,
+      "week_52_high": "242.52",
+      "week_52_low": "161.38",
+      "pe": "32.11",
+      "pb": "6.79",
+      "eps": "6.55",
+      "roe": "null",
+      "roa": "null",
+      "dividend_yield": "null",
+      "total_debt_to_equity": "0.27",
+      "revenue_growth_yoy": "10.87",
+      "net_profit_margin": "10.54",
+      "current_ratio": "0.84",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/25245513-5227-42b6-acde-fdee4156e098.png",
+      "buy_link": "https://public.com/stocks/AMZN",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Amazon is chosen for its continued expansion in e-commerce and its robust cloud services arm, AWS. With strong revenue growth (10.87% YOY) and increasing profitability, Amazon's diversified business model and market leadership make it a compelling high-growth option for a long-term, high-risk portfolio."
+      }
+    }
+  ],
+  "mutual_funds_selected": [],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112515,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is included as the leading cryptocurrency, offering high-growth potential and serving as a store of value in the digital asset space. Its established market presence and increasing institutional adoption make it a foundational component for crypto exposure in a high-risk portfolio."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 4118.13,
+      "roi": "4792.42%",
+      "buy_link": "https://www.coinbase.com/price/ethereum",
+      "summary": "Ethereum is chosen for its robust ecosystem, supporting decentralized applications (dApps), NFTs, and DeFi. Its continuous innovation and upgrade cycles, coupled with its significant market capitalization, position it as a key player for long-term growth and technological advancement within the crypto sector."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "No allocation to bond mutual funds in this high-risk portfolio, as the focus is on maximizing capital appreciation through equities and cryptocurrencies."
+  },
+  "Gold": {
+    "summary": "No allocation to gold in this high-risk portfolio. The strategy prioritizes growth assets over traditional safe-haven assets to align with the aggressive risk profile."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value: 84000 USD",
+    "moderate_return": "8% return, total value: 86400 USD",
+    "optimistic_return": "12% return, total value: 89600 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[84000,86400,89600]}]}}"
+  },
+  "summary": "This high-risk portfolio for 3+ years allocates 80% to US stocks and 20% to cryptocurrencies. The stock selection focuses on leading technology companies (NVIDIA, Microsoft, Alphabet, Amazon) known for strong growth, innovation, and solid financial metrics, offering significant capital appreciation potential. The cryptocurrency allocation to Bitcoin and Ethereum provides exposure to the high-growth, high-volatility digital asset market, aligning with a high-risk appetite for long-term gains.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 8000 USD lost, portfolio value: 72000 USD",
+    "moderate_crash": "20% drop, 16000 USD lost, portfolio value: 64000 USD",
+    "severe_crash": "30% drop, 24000 USD lost, portfolio value: 56000 USD",
+    "summary": "This portfolio is designed for a high-risk appetite. While offering significant growth potential, it is also highly susceptible to market downturns. A mild crash could see a 10% reduction, while a severe crash could lead to a 30% loss of the total portfolio value. Diversification within growth assets (different tech stocks, two major cryptos) helps mitigate idiosyncratic risks but does not protect against systemic market risks inherent in high-volatility assets. Regular monitoring and a long-term investment horizon are crucial for navigating these risks.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[72000,64000,56000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "While this portfolio is concentrated in high-growth assets, broader diversification across different asset classes (e.g., bonds, real estate) typically helps reduce overall portfolio volatility and risk. For a high-risk profile, diversification within high-growth sectors is key.",
+    "long_term_perspective": "High-risk, high-growth investments like those in this portfolio often experience significant short-term fluctuations. Maintaining a long-term investment horizon (3+ years as stated) allows time for these assets to recover from downturns and realize their growth potential.",
+    "rebalancing_strategy": "Even with a high-risk portfolio, it's wise to periodically rebalance. If one asset class (e.g., crypto) significantly outperforms, it might grow to an excessively large proportion of your portfolio. Rebalancing involves selling some of the outperforming assets and buying more of the underperforming ones to maintain your desired allocation percentages and risk level.",
+    "understanding_risk": "Understanding that past performance is not indicative of future results is critical. High-growth assets carry inherent risks, and losses are possible. Only invest capital that you are comfortable losing and ensure your overall financial plan accounts for potential market volatility."
+  }
+}
