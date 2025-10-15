@@ -1,0 +1,153 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "60% and 30000 USD",
+      "mutual_funds": "20% and 10000 USD"
+    },
+    "diversifiers": {
+      "crypto": "10% and 5000 USD",
+      "gold": "5% and 2500 USD",
+      "bond_mutual_funds": "5% and 2500 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold','Bond Mutual Funds'],datasets:[{data:[60,20,10,5,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 180.03,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "50.61",
+      "pb": "43.77",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "N/A",
+      "chart": "Chart unavailable due to API error from Chart_Url_Tool: Storage failed 429",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA is selected due to its exceptional revenue growth (71.55% YoY), high net profit margin (52.41%), and strong returns on equity and assets, indicating robust financial health and significant growth potential in the technology sector despite a higher PE ratio."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 513.57,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "36.94",
+      "pb": "10.95",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.64",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "N/A",
+      "chart": "Chart unavailable due to API error from Chart_Url_Tool: Storage failed 429",
+      "buy_link": "https://public.com/stocks/msft",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is chosen for its consistent revenue growth, high net profit margin, and solid EPS, reflecting its strong market position and ability to generate substantial earnings, making it a reliable growth stock."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 245.45,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "25.81",
+      "pb": "8.22",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "N/A",
+      "chart": "Chart unavailable due to API error from Chart_Url_Tool: Storage failed 429",
+      "buy_link": "https://public.com/stocks/googl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) is included for its healthy revenue growth, strong profitability, and extremely low debt-to-equity ratio, indicating financial stability and continued dominance in digital advertising and cloud services."
+      }
+    },
+    {
+      "stock": "META",
+      "current_price": 708.65,
+      "week_52_high": "796.25",
+      "week_52_low": "479.80",
+      "pe": "25.14",
+      "pb": "9.22",
+      "eps": "27.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.29",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38",
+      "net_profit_margin": "39.99",
+      "current_ratio": "N/A",
+      "chart": "Chart unavailable due to API error from Chart_Url_Tool: Storage failed 429",
+      "buy_link": "https://public.com/stocks/meta",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Meta Platforms is selected for its robust revenue growth, high net profit margin, and strong EPS, demonstrating its ability to monetize its vast user base and innovate in areas like AI and the metaverse."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13",
+      "5_year_return": "15",
+      "reason_for_investment": "VTSAX provides diversified exposure to the entire U.S. stock market, offering strong historical returns (15% over 5 years) suitable for a high-risk appetite aiming for broad market growth."
+    },
+    {
+      "name": "Vanguard Health Care Fund",
+      "category": "Sectoral",
+      "3_year_return": "15",
+      "5_year_return": "16.5",
+      "reason_for_investment": "VGENX is chosen for its excellent historical returns (16.5% over 5 years), offering targeted exposure to the healthcare sector, which can provide significant growth potential for high-risk investors."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112630,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is included for its potential as a digital store of value and its historical performance as a leading cryptocurrency, offering significant growth potential for high-risk investors."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds provide stability and regular income, acting as a diversifier to reduce overall portfolio volatility, suitable for balancing higher-risk equity exposure."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, offering portfolio diversification and a hedge against inflation and economic uncertainty."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation + total value (52500 USD)",
+    "moderate_return": "8% return calculation + total value (54000 USD)",
+    "optimistic_return": "12% return calculation + total value (56000 USD)",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[52500,54000,56000]}]}}"
+  },
+  "summary": "This portfolio allocates a significant portion to high-growth US tech stocks (NVIDIA, Microsoft, Alphabet, Meta Platforms) and diversified mutual funds (Vanguard Total Stock Market Index, Vanguard Health Care Fund) to target a 9% return over 2.5 years, aligning with a high-risk appetite. Diversifiers like crypto, gold, and bond mutual funds are included for additional growth potential and a small hedge. The selected stocks exhibit strong revenue growth, high profitability, and manageable debt, while mutual funds offer robust historical returns across broad market and high-growth sectors. Future changes are predicted to be positive due to continued innovation and market dominance of the selected companies and the inherent growth potential of the broad market and healthcare sector.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 5000 USD lost, portfolio value 45000 USD",
+    "moderate_crash": "20% drop, 10000 USD lost, portfolio value 40000 USD",
+    "severe_crash": "30% drop, 15000 USD lost, portfolio value 35000 USD",
+    "summary": "This portfolio is exposed to market volatility, particularly given the high allocation to growth stocks and cryptocurrencies. A mild crash could see a 10% reduction, a moderate crash 20%, and a severe crash up to 30%. Diversification into gold and bond funds partially mitigates this, but investors should be prepared for significant fluctuations.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[45000,40000,35000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, crypto, gold, bonds) is crucial to mitigate risk and enhance returns. It helps cushion the impact of poor performance in any single asset.",
+    "long_term_perspective": "Investing with a long-term perspective allows your investments to ride out market volatility and benefit from compounding. Avoid making impulsive decisions based on short-term market fluctuations.",
+    "rebalancing_strategy": "Regularly rebalance your portfolio to maintain your desired asset allocation. This involves selling assets that have performed well and buying those that have underperformed, ensuring your risk exposure remains aligned with your goals.",
+    "understanding_risk": "Understand that all investments carry risk. High-growth assets like stocks and cryptocurrencies can offer higher returns but also come with higher volatility. Only invest what you can afford to lose and ensure your portfolio matches your risk tolerance."
+  }
+}
