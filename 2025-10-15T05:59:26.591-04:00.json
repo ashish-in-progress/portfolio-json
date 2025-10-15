@@ -1,0 +1,132 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "20% and 14400 INR",
+      "mutual_funds": "40% and 28800 INR"
+    },
+    "diversifiers": {
+      "crypto": "10% and 7200 INR",
+      "gold": "15% and 10800 INR",
+      "bond_mutual_funds": "15% and 10800 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold','Bond Mutual Funds'],datasets:[{data:[20,40,10,15,15]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "HCLTECH.NS",
+      "current_price": 1496.1,
+      "week_52_high": "2012.2",
+      "week_52_low": "1302.75",
+      "pe": "23.94",
+      "pb": "504.75",
+      "eps": "62.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.21",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.0649",
+      "net_profit_margin": "0.1485",
+      "current_ratio": "2.084",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/d68301ab-e7d4-402c-b5bb-683104003e6c.png",
+      "buy_link": "https://public.com/stocks/HCLTECH.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HCLTech is a well-established IT services company with strong profitability and consistent revenue growth. Its attractive dividend yield and healthy financial ratios make it a good long-term investment for stability and growth in the technology sector."
+      }
+    },
+    {
+      "stock": "DRREDDY.NS",
+      "current_price": 1231,
+      "week_52_high": "1405.9",
+      "week_52_low": "1020",
+      "pe": "18.18",
+      "pb": "2.94",
+      "eps": "68.05",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.65",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.1661",
+      "net_profit_margin": "0.1736",
+      "current_ratio": "1.156",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/b8839a34-eba3-4afe-9327-2b5a48360571.png",
+      "buy_link": "https://public.com/stocks/DRREDDY.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Dr. Reddy's is a prominent pharmaceutical company exhibiting robust revenue growth and a healthy net profit margin. Its strong EPS and favorable PE ratio indicate good value, making it a sound choice for exposure to the resilient healthcare sector."
+      }
+    },
+    {
+      "stock": "HDFCBANK.NS",
+      "current_price": 978.5,
+      "week_52_high": "1018.85",
+      "week_52_low": "812.15",
+      "pe": "22.39",
+      "pb": "2.76",
+      "eps": "43.78",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.13",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.1935",
+      "net_profit_margin": "0.2839",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/30326800-6a7b-4e0e-a0c9-35afe6992a5f.png",
+      "buy_link": "https://public.com/stocks/HDFCBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank is one of India's leading private sector banks, known for its consistent performance and strong financial metrics. Its solid revenue growth, high net profit margin, and reasonable PE ratio make it a stable and reliable investment in the financial sector."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "DSP Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "18.41",
+      "5_year_return": "22.33",
+      "reason_for_investment": "This fund offers diversification across market capitalizations, allowing the fund manager to invest in companies of any size based on market opportunities. Its strong historical returns over 3 and 5 years make it suitable for a medium-risk investor seeking growth."
+    },
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "category": "Large-Cap",
+      "3_year_return": "12.00",
+      "5_year_return": "14.00",
+      "reason_for_investment": "Investing in large-cap companies provides relative stability to the portfolio. ICICI Prudential Bluechip Fund has delivered consistent returns, making it a good choice for core equity exposure and balancing the risk in a medium-risk portfolio."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112617,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin offers high growth potential and acts as a digital alternative asset. It adds diversification beyond traditional equities and provides exposure to the rapidly evolving blockchain technology space, albeit with higher volatility."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds provide stability and income to the portfolio, acting as a diversifier against equity market volatility. They help in preserving capital and offer predictable returns, making them suitable for the debt portion of the allocation."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, providing a hedge against inflation and currency devaluation. Its inclusion enhances portfolio stability and offers diversification, especially during economic uncertainties."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value: 75600 INR",
+    "moderate_return": "8% return, total value: 77760 INR",
+    "optimistic_return": "12% return, total value: 80640 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[75600,77760,80640]}]}}"
+  },
+  "summary": "This portfolio is designed for a medium-risk investor in the Indian market, allocating 60% to equity (stocks and mutual funds) and 40% to diversifiers (crypto, gold, and bond mutual funds). The equity portion is split between fundamentally strong stocks in IT, Pharma, and Banking sectors, and well-performing flexi-cap and large-cap mutual funds for broad market exposure. The diversifier allocation includes a small portion for cryptocurrency to capture high-growth potential, and significant portions for gold and bond mutual funds to provide stability, hedge against market volatility, and offer predictable returns. Regular review and rebalancing are recommended to maintain alignment with investment goals and risk tolerance.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 7200 INR lost, portfolio value: 64800 INR",
+    "moderate_crash": "20% drop, 14400 INR lost, portfolio value: 57600 INR",
+    "severe_crash": "30% drop, 21600 INR lost, portfolio value: 50400 INR",
+    "summary": "This portfolio, designed for a medium-risk investor, shows varying impacts under simulated market crashes. A diversified allocation across equities, mutual funds, crypto, gold, and bond funds helps mitigate extreme losses. However, even with diversification, significant downturns can lead to capital erosion, highlighting the importance of a long-term perspective and understanding market cycles. Regular rebalancing and adhering to one's risk tolerance are crucial for navigating volatile periods.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[64800,57600,50400]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, bonds, gold, crypto) and within asset classes (various sectors, market caps) is crucial to reduce overall portfolio risk. It helps cushion the impact if one particular asset or sector underperforms.",
+    "long_term_perspective": "Investing with a long-term mindset helps ride out short-term market fluctuations and allows your investments to benefit from compounding returns. Patience is key to achieving significant financial goals.",
+    "rebalancing_strategy": "Periodically rebalance your portfolio to bring your asset allocation back to your target percentages. This often involves selling assets that have performed well and buying those that have underperformed, helping to maintain your desired risk level and potentially enhance returns.",
+    "understanding_risk": "Every investment carries some level of risk. Understand the risks associated with each asset in your portfolio, including market risk, inflation risk, and specific company/fund risks. Align your investments with your personal risk tolerance and financial objectives."
+  }
+}
