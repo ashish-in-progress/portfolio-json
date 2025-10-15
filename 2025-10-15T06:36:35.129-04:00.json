@@ -1,0 +1,190 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "80% and 40000 USD"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 USD",
+      "gold": "20% and 10000 USD",
+      "bond_mutual_funds": "0% and 0 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Gold'],datasets:[{data:[80,20]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "PFE",
+      "current_price": 24.52,
+      "week_52_high": "30.08",
+      "week_52_low": "20.92",
+      "pe": "13.16",
+      "pb": "1.60",
+      "eps": "1.88",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "6.81",
+      "total_debt_to_equity": "0.73",
+      "revenue_growth_yoy": "13.54",
+      "net_profit_margin": "16.85",
+      "current_ratio": "0.92",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/83971326-b118-4c51-9a41-114c74b854f3.png",
+      "buy_link": "https://public.com/stocks/PFE",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Pfizer is selected due to its very low P/E ratio, attractive dividend yield, and positive revenue growth, offering a good value proposition for a high-risk portfolio."
+      }
+    },
+    {
+      "stock": "BAC",
+      "current_price": 50.09,
+      "week_52_high": "52.88",
+      "week_52_low": "33.07",
+      "pe": "13.20",
+      "pb": "1.24",
+      "eps": "3.60",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.57",
+      "total_debt_to_equity": "2.22",
+      "revenue_growth_yoy": "99.37",
+      "net_profit_margin": "30.16",
+      "current_ratio": "NULL",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/3826a1bd-bbbd-4682-9fc2-f08bbed52db0.png",
+      "buy_link": "https://public.com/stocks/BAC",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Bank of America is chosen for its significant revenue growth, low P/E ratio, and strong net profit margin, indicating profitability and potential for capital appreciation."
+      }
+    },
+    {
+      "stock": "T",
+      "current_price": 26.13,
+      "week_52_high": "29.79",
+      "week_52_low": "21.05",
+      "pe": "14.39",
+      "pb": "1.74",
+      "eps": "1.77",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "4.47",
+      "total_debt_to_equity": "1.18",
+      "revenue_growth_yoy": "1.46",
+      "net_profit_margin": "10.29",
+      "current_ratio": "0.59",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/7e42ed8b-356f-478b-9116-b3e15509dea2.png",
+      "buy_link": "https://public.com/stocks/T",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "AT&T offers a very high dividend yield and a low P/E, making it a stable income-generating component with potential for modest growth in a high-risk portfolio."
+      }
+    },
+    {
+      "stock": "MRK",
+      "current_price": 84.7,
+      "week_52_high": "111.58",
+      "week_52_low": "73.31",
+      "pe": "12.96",
+      "pb": "4.34",
+      "eps": "6.49",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.78",
+      "total_debt_to_equity": "0.80",
+      "revenue_growth_yoy": "1.82",
+      "net_profit_margin": "25.79",
+      "current_ratio": "1.15",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/fd42d64e-20ce-4204-bada-7aabe1a9f461.png",
+      "buy_link": "https://public.com/stocks/MRK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Merck is selected for its low P/E ratio, strong EPS, high return on equity, and attractive dividend yield, providing a profitable and relatively stable option in healthcare."
+      }
+    },
+    {
+      "stock": "QCOM",
+      "current_price": 161.74,
+      "week_52_high": "182.10",
+      "week_52_low": "120.80",
+      "pe": "15.16",
+      "pb": "6.45",
+      "eps": "10.37",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.16",
+      "total_debt_to_equity": "0.56",
+      "revenue_growth_yoy": "15.82",
+      "net_profit_margin": "26.77",
+      "current_ratio": "1.79",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/1af3c056-30b8-486a-9469-3ee1649572f7.png",
+      "buy_link": "https://public.com/stocks/QCOM",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Qualcomm is included for its robust revenue growth, low P/E ratio, high EPS, and strong profitability, positioning it as a growth-oriented, profitable choice in technology."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 245.45,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "25.81",
+      "pb": "8.22",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/e9639397-2d2f-42c5-8360-04da36a7789e.png",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (GOOGL) offers strong fundamentals, consistent revenue growth, high profitability, and a reasonable P/E for a tech leader, making it a solid growth investment."
+      }
+    },
+    {
+      "stock": "JPM",
+      "current_price": 302.08,
+      "week_52_high": "318.01",
+      "week_52_low": "202.16",
+      "pe": "14.87",
+      "pb": "2.36",
+      "eps": "19.98",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.85",
+      "total_debt_to_equity": "2.09",
+      "revenue_growth_yoy": "108.98",
+      "net_profit_margin": "33.26",
+      "current_ratio": "NULL",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/016c7413-3d4c-43d0-8bd6-c81f4e182870.png",
+      "buy_link": "https://public.com/stocks/JPM",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "JPMorgan Chase is chosen for its exceptional year-over-year revenue growth, low P/E ratio, high EPS, and strong net profit margin, representing a profitable and well-valued financial sector investment."
+      }
+    }
+  ],
+  "mutual_funds_selected": [],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "No bond mutual funds are selected in this portfolio."
+  },
+  "Gold": {
+    "summary": "Gold is selected as a diversifier to hedge against inflation and market volatility, providing a stable component in a high-risk portfolio."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, projecting a total value of 52500 USD",
+    "moderate_return": "8% return, projecting a total value of 54000 USD",
+    "optimistic_return": "12% return, projecting a total value of 56000 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[52500,54000,56000]}]}}"
+  },
+  "summary": "This high-risk portfolio for 2.5 years allocates 80% to a diversified selection of US stocks and 20% to Gold. The selected stocks are profitable with reasonable valuations and good growth prospects, aiming for the desired 9% annual return through a mix of value and growth investments. Gold acts as a diversifier against market volatility. The total portfolio value is 50000 USD.",
+  "risk_analysis": {
+    "mild_crash": "A 10% drop would result in a loss of 5000 USD, leaving the portfolio value at 45000 USD.",
+    "moderate_crash": "A 20% drop would result in a loss of 10000 USD, leaving the portfolio value at 40000 USD.",
+    "severe_crash": "A 30% drop would result in a loss of 15000 USD, leaving the portfolio value at 35000 USD.",
+    "summary": "This portfolio is designed for a high-risk tolerance investor, with a significant allocation to equities. While offering potential for higher returns, it is also subject to substantial fluctuations during market downturns. Diversification with gold helps to mitigate some of this risk, but investors should be prepared for potential capital loss in adverse market conditions.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[45000,40000,35000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (like stocks and gold) helps to reduce overall portfolio risk. When one asset class underperforms, another might perform well, balancing out returns.",
+    "long_term_perspective": "High-risk portfolios, especially those heavily weighted in stocks, often require a long-term investment horizon to ride out market volatility and realize potential growth. Avoid making impulsive decisions based on short-term market movements.",
+    "rebalancing_strategy": "Regularly review and rebalance your portfolio to maintain your desired asset allocation. If stocks significantly outperform, your portfolio might become over-allocated to them, increasing risk. Rebalancing involves selling some performing assets and buying underperforming ones to bring the portfolio back to its target weights.",
+    "understanding_risk": "Understand that all investments carry risk. A 'high-risk' portfolio means you are comfortable with potentially higher gains but also higher losses. Always align your investments with your personal risk tolerance and financial goals."
+  }
+}
