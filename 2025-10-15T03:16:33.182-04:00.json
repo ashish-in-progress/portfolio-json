@@ -1,0 +1,139 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 40000 INR",
+      "mutual_funds": "40% and 40000 INR"
+    },
+    "diversifiers": {
+      "crypto": "5% and 5000 INR",
+      "gold": "5% and 5000 INR",
+      "bond_mutual_funds": "10% and 10000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Bond Mutual Funds','Gold','Crypto'],datasets:[{data:[40,40,10,5,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "BAJFINANCE.NS",
+      "current_price": 1046.95,
+      "week_52_high": "1048.5",
+      "week_52_low": "645.1",
+      "pe": "37.35",
+      "pb": "6.72",
+      "eps": "28.03",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.43",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.2339",
+      "net_profit_margin": "0.3928",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/0c847fb0-ca30-49e8-af04-1c99925ca868.png",
+      "buy_link": "https://public.com/stocks/BAJFINANCE.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Bajaj Finance shows robust financial performance with excellent revenue growth and a high net profit margin, making it suitable for a high-risk, high-growth portfolio. Its strong ROE indicates efficient use of shareholder funds."
+      }
+    },
+    {
+      "stock": "EICHERMOT.NS",
+      "current_price": 6915,
+      "week_52_high": "7122.5",
+      "week_52_low": "4508.75",
+      "pe": "39.22",
+      "pb": "8.90",
+      "eps": "176.31",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.02",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.1419",
+      "net_profit_margin": "0.2553",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/c828d27e-8fa4-4e5e-becf-34c70567a6b4.png",
+      "buy_link": "https://public.com/stocks/EICHERMOT.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Eicher Motors is a strong performer in the automotive sector with solid revenue growth and a healthy net profit margin. Its consistent EPS suggests sustained profitability, aligning with a high-risk appetite for growth."
+      }
+    },
+    {
+      "stock": "HDFCBANK.NS",
+      "current_price": 980.55,
+      "week_52_high": "1018.85",
+      "week_52_low": "812.15",
+      "pe": "22.39",
+      "pb": "2.76",
+      "eps": "43.78",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.13",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.1935",
+      "net_profit_margin": "0.2839",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251029/tradingview/advanced-chart/b684e26d-2036-4926-9994-45ddf687f81a.png",
+      "buy_link": "https://public.com/stocks/HDFCBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank offers a blend of stability and growth within the financial sector, characterized by strong revenue growth and a very good net profit margin. Its consistent performance makes it a solid choice even in a high-risk portfolio."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Quant Small Cap Fund",
+      "category": "Small-Cap",
+      "3_year_return": "30.00%",
+      "5_year_return": "35.00%",
+      "reason_for_investment": "This small-cap fund is selected for its aggressive growth potential, demonstrated by exceptional 3-year and 5-year returns, aligning perfectly with a high-risk appetite and long investment horizon."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "category": "Mid-Cap",
+      "3_year_return": "27.00%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "This mid-cap fund offers strong growth prospects by investing in established mid-sized companies, providing high returns suitable for an investor with a high-risk tolerance looking for significant capital appreciation."
+    },
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.50%",
+      "5_year_return": "22.90%",
+      "reason_for_investment": "A flexi-cap fund provides diversification across market capitalizations and sectors. Parag Parikh Flexi Cap Fund has delivered consistent high returns, making it a good choice for diversified growth within a high-risk portfolio."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 112564,
+      "roi": "N/A",
+      "buy_link": "https://coinbase.com/asset/bitcoin",
+      "summary": "Bitcoin is included for its high growth potential and as a diversifier against traditional assets, aligning with a high-risk investment strategy. Its current price indicates strong market demand."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds (replacing debt_fd) provide stability and income to the portfolio. While offering lower returns than equities, they reduce overall portfolio volatility and act as a hedge during market downturns, suitable for a high-risk portfolio seeking some balance."
+  },
+  "Gold": {
+    "summary": "Gold is a traditional safe-haven asset, included to diversify the portfolio and provide a hedge against inflation and economic uncertainty. It aims to preserve capital during market turbulence, complementing the high-risk equity allocation."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value: 105000 INR",
+    "moderate_return": "8% return, total value: 108000 INR",
+    "optimistic_return": "12% return, total value: 112000 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[105000,108000,112000]}]}}"
+  },
+  "summary": "This portfolio is designed for a high-risk appetite with a 12-year investment duration in the Indian market, aiming for a 15% target return. It allocates a substantial portion to equities (stocks and mutual funds) for aggressive growth, complemented by a smaller allocation to diversifiers like bond mutual funds, gold, and crypto to potentially enhance returns and offer some risk mitigation against market volatility. The selected assets reflect a focus on high-growth sectors and companies.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 10000 INR lost, portfolio value: 90000 INR",
+    "moderate_crash": "20% drop, 20000 INR lost, portfolio value: 80000 INR",
+    "severe_crash": "30% drop, 30000 INR lost, portfolio value: 70000 INR",
+    "summary": "Given the high-risk nature of this portfolio, significant fluctuations are expected. A diversified approach across equity, debt, gold, and crypto aims to mitigate some of the downside risks, but investors should be prepared for potential capital erosion during severe market downturns. Regular monitoring and rebalancing are crucial.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[90000,80000,70000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (equities, debt, gold, crypto) is crucial to spread risk. If one asset class underperforms, others may compensate, leading to a more stable overall portfolio return.",
+    "long_term_perspective": "For a 12-year investment horizon and a high-risk portfolio, maintaining a long-term perspective is vital. Short-term market volatility is normal; staying invested allows time for assets to recover and grow.",
+    "rebalancing_strategy": "Periodically rebalance your portfolio to maintain your desired asset allocation. This involves selling assets that have grown significantly and buying those that have underperformed to bring the portfolio back to its target weights.",
+    "understanding_risk": "Understand that a high-risk portfolio comes with the potential for higher returns but also higher losses. Be comfortable with significant market fluctuations and only invest capital you can afford to lose without impacting your financial stability."
+  }
+}
