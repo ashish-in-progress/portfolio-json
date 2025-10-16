@@ -1,0 +1,158 @@
+{
+  "market": "US",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "28% and $1400",
+      "mutual_funds": "42% and $2100"
+    },
+    "diversifiers": {
+      "crypto": "0% and $0",
+      "gold": "9% and $450",
+      "bond_mutual_funds": "21% and $1050"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Debt Mutual Funds','Gold'],datasets:[{data:[28,42,21,9]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "AAPL",
+      "current_price": 249.34,
+      "week_52_high": "$260.10",
+      "week_52_low": "$169.21",
+      "pe": "37.24",
+      "pb": "56.17",
+      "eps": "6.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.42",
+      "total_debt_to_equity": "1.89",
+      "revenue_growth_yoy": "5.97",
+      "net_profit_margin": "24.30",
+      "current_ratio": "0.83",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/AAPL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Apple demonstrates strong profitability and solid revenue growth, indicating a robust business model. While its P/E and P/B ratios are on the higher side, its consistent performance and brand strength make it a valuable long-term holding."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 513.43,
+      "week_52_high": "$555.45",
+      "week_52_low": "$344.79",
+      "pe": "37.56",
+      "pb": "11.14",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/MSFT",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is selected for its excellent revenue growth, high net profit margin, and healthy balance sheet with low debt. Its strong market position in cloud computing and software provides a stable foundation for future growth."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 251.03,
+      "week_52_high": "$256.00",
+      "week_52_low": "$140.53",
+      "pe": "26.04",
+      "pb": "8.29",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) is a strong choice due to its impressive revenue growth, high net profit margin, and extremely low debt-to-equity ratio. Its dominant position in search and advertising, coupled with innovation in AI and cloud, positions it for continued expansion."
+      }
+    },
+    {
+      "stock": "JNJ",
+      "current_price": 191.17,
+      "week_52_high": "$194.40",
+      "week_52_low": "$140.68",
+      "pe": "20.27",
+      "pb": "5.85",
+      "eps": "9.35",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.63",
+      "total_debt_to_equity": "0.51",
+      "revenue_growth_yoy": "4.68",
+      "net_profit_margin": "25.00",
+      "current_ratio": "0.78",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/JNJ",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson provides stability and a strong dividend yield, making it a defensive play within the portfolio. Its consistent earnings and moderate valuation contribute to a balanced risk profile."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard 500 Index Fund Admiral Shares",
+      "category": "Large-Cap Equity",
+      "3_year_return": "12.5%",
+      "5_year_return": "14.3%",
+      "reason_for_investment": "Provides broad exposure to the 500 largest US companies, offering diversification and long-term growth potential in line with the overall US market."
+    },
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "Offers comprehensive exposure to the entire US stock market, including small, mid, and large-cap companies, providing maximum diversification for long-term growth."
+    },
+    {
+      "name": "Vanguard Total Bond Market Index Fund Admiral Shares",
+      "category": "Bond",
+      "3_year_return": "3.2%",
+      "5_year_return": "3.5%",
+      "reason_for_investment": "Invests in a wide range of investment-grade US bonds, offering stability and income, which helps to mitigate risk in a moderate portfolio."
+    },
+    {
+      "name": "PIMCO Income Fund",
+      "category": "Bond",
+      "3_year_return": "4%",
+      "5_year_return": "4.3%",
+      "reason_for_investment": "A actively managed bond fund focused on generating income and capital appreciation, providing potentially higher returns than a pure index bond fund while still offering diversification."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds like Vanguard Total Bond Market Index Fund Admiral Shares and PIMCO Income Fund offer stability and income by investing in a wide range of investment-grade US bonds. They help to mitigate risk in a moderate portfolio and can provide potentially higher returns through active management."
+  },
+  "Gold": {
+    "summary": "Gold is included as a diversifier to hedge against inflation and market volatility. It acts as a safe-haven asset, preserving capital during economic uncertainties."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value $5250",
+    "moderate_return": "8% return, total value $5400",
+    "optimistic_return": "12% return, total value $5600",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[5250,5400,5600]}]}}"
+  },
+  "summary": "This portfolio is designed for a moderate risk profile over a 5-year investment horizon in the US market. The allocation is 70% to equity (28% stocks, 42% mutual funds) and 30% to diversifiers (21% bond mutual funds, 9% gold). The selected stocks are leading companies with strong fundamentals, growth prospects, and reasonable valuations, offering a balance of growth and stability. The mutual funds provide broad market and bond exposure for diversification and consistent returns. The plan includes reinvesting 5% of the previous year's profit annually, in addition to the original allocation, to compound returns effectively.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, $500 lost, portfolio value $4500",
+    "moderate_crash": "20% drop, $1000 lost, portfolio value $4000",
+    "severe_crash": "30% drop, $1500 lost, portfolio value $3500",
+    "summary": "This portfolio is exposed to market risks inherent in equity investments. Diversification across stocks, mutual funds, and gold aims to mitigate some of these risks. Bond mutual funds provide a buffer during market downturns. Regular monitoring and rebalancing are recommended to align with risk tolerance and market conditions.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[4500,4000,3500]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification spreads your investments across various asset classes, industries, and geographies, reducing the impact of poor performance from any single investment on your overall portfolio. This strategy helps to manage risk and enhance long-term returns.",
+    "long_term_perspective": "Investing with a long-term mindset allows your investments to ride out short-term market fluctuations and benefit from the power of compounding. Patience and consistency are key to achieving significant financial goals.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio involves adjusting your asset allocation back to your original target weights. This means selling assets that have performed well and buying those that have underperformed, helping to maintain your desired risk level and capitalize on market opportunities.",
+    "understanding_risk": "Understanding your risk tolerance is crucial. Every investment carries some level of risk, and higher potential returns often come with higher risks. It's important to align your investment choices with your comfort level for potential losses and your financial goals."
+  }
+}
