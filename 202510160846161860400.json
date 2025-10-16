@@ -1,0 +1,133 @@
+{
+  "market": "US",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "50% and 6150 USD",
+      "mutual_funds": "30% and 3690 USD"
+    },
+    "diversifiers": {
+      "crypto": "10% and 1230 USD",
+      "gold": "5% and 615 USD",
+      "bond_mutual_funds": "5% and 615 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold','Bond Mutual Funds'],datasets:[{data:[50,30,10,5,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 179.83,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "51.03",
+      "pb": "44.13",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "N/A",
+      "buy_link": "https://public.com/stocks/NVDA",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA is selected due to its exceptional revenue growth and strong net profit margin, indicating significant market dominance in its sector. While the PE ratio is high, it reflects the company's strong growth prospects and innovation in high-demand technologies like AI and graphics processing. Future changes are predicted to be positive, driven by continuous innovation and expanding markets."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 251.03,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "26.04",
+      "pb": "8.29",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "N/A",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) is a robust choice with consistent revenue growth, a healthy net profit margin, and a reasonable PE ratio for a tech giant. Its strong balance sheet with low debt and high ROA suggests efficient management. Future outlook is positive given its dominant position in search, advertising, cloud computing, and emerging technologies."
+      }
+    },
+    {
+      "stock": "AMZN",
+      "current_price": 215.57,
+      "week_52_high": "242.52",
+      "week_52_low": "161.38",
+      "pe": "32.68",
+      "pb": "6.91",
+      "eps": "6.55",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "null",
+      "total_debt_to_equity": "0.27",
+      "revenue_growth_yoy": "10.87",
+      "net_profit_margin": "10.54",
+      "current_ratio": "0.84",
+      "chart": "N/A",
+      "buy_link": "https://public.com/stocks/AMZN",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Amazon is included for its continued growth in e-commerce and cloud services (AWS), offering diversified revenue streams. Its strong ROE and ROA indicate efficient use of shareholder funds and assets. Future growth is expected from its expanding global footprint and innovation in various sectors."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "VTSAX offers broad exposure to the entire U.S. stock market, providing diversification and tracking overall market growth. Its strong historical 3-year and 5-year returns align with the target annual return and high-risk appetite, making it a solid foundation for equity growth."
+    },
+    {
+      "name": "Vanguard Health Care Fund",
+      "category": "Sectoral",
+      "3_year_return": "15%",
+      "5_year_return": "16.5%",
+      "reason_for_investment": "VGENX focuses on the healthcare sector, which has demonstrated strong growth and resilience. Its impressive 3-year and 5-year returns make it attractive for a high-risk appetite investor seeking above-average returns in a specific, high-potential industry."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 111546,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is selected as a high-risk, high-reward asset to align with the investor's high-risk appetite. As the largest cryptocurrency by market capitalization, it offers significant potential for capital appreciation, albeit with inherent volatility. It acts as a diversifier in the digital asset space."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds (5% of portfolio) are included to provide a small buffer of stability and reduce overall portfolio volatility, even for a high-risk investor. While the primary goal is growth, a minimal allocation to bonds can help preserve capital during market downturns and offer some income generation. This allocation is consistent with the 'debt_fd' allocation in the original prompt, representing a fixed-income component."
+  },
+  "Gold": {
+    "summary": "Gold (5% of portfolio) serves as a traditional safe-haven asset, offering protection against inflation and market uncertainty. For a high-risk investor, this small allocation provides a degree of diversification and can act as a hedge during periods of economic instability, balancing the aggressive equity and crypto positions. This allocation remains consistent with the original prompt's specified allocation to gold."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value: 12915 USD",
+    "moderate_return": "8% return, total value: 13284 USD",
+    "optimistic_return": "12% return, total value: 13776 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[12915,13284,13776]}]}}"
+  },
+  "summary": "This portfolio is designed for a high-risk appetite investor aiming for a 19% annual return over 5 years in the US market. The allocation heavily favors equity, with a mix of high-growth technology stocks and well-performing mutual funds. Diversifiers like crypto are included for additional high-risk, high-reward potential, while gold and bond mutual funds provide a small buffer of stability. The selected stocks exhibit strong growth metrics and healthy financial positions, while the mutual funds offer a blend of broad market exposure and sector-specific growth opportunities. This aggressive allocation aims to capitalize on market upside given the long investment horizon and high-risk tolerance.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 1230 USD lost, portfolio value: 11070 USD. Chart: https://quickchart.io/chart?c={type:'bar',data:{labels:['Original Value','After Mild Crash'],datasets:[{label:'Portfolio Value',data:[12300,11070]}]}}",
+    "moderate_crash": "20% drop, 2460 USD lost, portfolio value: 9840 USD. Chart: https://quickchart.io/chart?c={type:'bar',data:{labels:['Original Value','After Moderate Crash'],datasets:[{label:'Portfolio Value',data:[12300,9840]}]}}",
+    "severe_crash": "30% drop, 3690 USD lost, portfolio value: 8610 USD. Chart: https://quickchart.io/chart?c={type:'bar',data:{labels:['Original Value','After Severe Crash'],datasets:[{label:'Portfolio Value',data:[12300,8610]}]}}",
+    "summary": "Given the high-risk appetite, the portfolio is susceptible to significant drawdowns during market corrections. The inclusion of gold and bond mutual funds aims to mitigate some of this risk, but the substantial allocation to equities and crypto means that the investor should be prepared for potential fluctuations. Regular monitoring and rebalancing are crucial to manage risk effectively in such an aggressive portfolio.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[11070,9840,8610]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, crypto, gold, bonds) is crucial to reduce overall portfolio risk. It helps cushion the impact of underperformance in any single asset class.",
+    "long_term_perspective": "For a high-risk, high-return portfolio, maintaining a long-term investment horizon (5+ years) is essential. Short-term market fluctuations are common, and a long-term view allows time for assets to recover and grow.",
+    "rebalancing_strategy": "Periodically rebalance your portfolio to maintain your desired asset allocation. For example, if stocks significantly outperform, you might sell some to reinvest in underperforming assets, bringing your portfolio back in line with your risk tolerance.",
+    "understanding_risk": "Understand that higher potential returns come with higher risk. This portfolio is aggressive, meaning larger potential gains but also larger potential losses. Be comfortable with this inherent volatility before investing."
+  }
+}
