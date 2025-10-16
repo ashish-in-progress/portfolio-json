@@ -1,0 +1,170 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and 2070 INR per month",
+      "mutual_funds": "40% and 2760 INR per month"
+    },
+    "diversifiers": {
+      "crypto": "5% and 345 INR per month",
+      "gold": "12.5% and 862.5 INR per month",
+      "bond_mutual_funds": "12.5% and 862.5 INR per month"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold & Bond Mutual Funds'],datasets:[{data:[30,40,5,25]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "HDFCBANK.NS",
+      "current_price": 994.35,
+      "week_52_high": "1018.85",
+      "week_52_low": "812.15",
+      "pe": "22.51",
+      "pb": "2.78",
+      "eps": "43.73",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.12",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "19.36%",
+      "net_profit_margin": "28.40%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:HDFCBANK",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=HDFCBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank is expected to show steady growth due to its strong market position in the Indian banking sector and consistent revenue and profit growth. Its reasonable PE and PB ratios indicate good value."
+      }
+    },
+    {
+      "stock": "ITC.NS",
+      "current_price": 405.15,
+      "week_52_high": "495",
+      "week_52_low": "390.15",
+      "pe": "25.26",
+      "pb": "7.21",
+      "eps": "15.96",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.93",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.78%",
+      "net_profit_margin": "46.54%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:ITC",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=ITC",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC is a stable, dividend-paying stock in the consumer staples sector, offering resilience and consistent returns. Its high net profit margin and decent revenue growth indicate strong operational efficiency."
+      }
+    },
+    {
+      "stock": "ONGC.NS",
+      "current_price": 248.35,
+      "week_52_high": "287.6",
+      "week_52_low": "205",
+      "pe": "8.62",
+      "pb": "0.90",
+      "eps": "28.66",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "5.95",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "1.72%",
+      "net_profit_margin": "5.95%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:ONGC",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=ONGC",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ONGC, as a major player in the energy sector, offers a high dividend yield and a low PE ratio, suggesting it is undervalued and provides a good income stream for long-term investors."
+      }
+    },
+    {
+      "stock": "TATAMOTORS.NS",
+      "current_price": 396.8,
+      "week_52_high": "917.7",
+      "week_52_low": "376.3",
+      "pe": "6.51",
+      "pb": "1.26",
+      "eps": "60.93",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.54",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "1.30%",
+      "net_profit_margin": "6.37%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:TATAMOTORS",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=TATAMOTORS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Tata Motors has a very low PE and PB ratio, indicating significant potential for upside. While recent revenue growth is modest, its strong brand and market presence in the automotive industry can drive future recovery and growth."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Nippon India Nifty 50 Index Fund",
+      "category": "Large Cap Index Fund",
+      "3_year_return": "12.00%",
+      "5_year_return": "14.00%",
+      "reason_for_investment": "This fund offers exposure to the top 50 Indian companies, providing broad market diversification and aiming to match the Nifty 50 index returns. It's a low-cost way to get consistent market-linked growth, aligning with the 14% target return over the long term."
+    },
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "category": "Large Cap Fund",
+      "3_year_return": "12.00%",
+      "5_year_return": "14.00%",
+      "reason_for_investment": "Investing in this large-cap fund provides stability and growth by focusing on well-established companies with a proven track record. Its consistent performance, matching the target return, makes it a reliable choice for the equity sleeve."
+    },
+    {
+      "name": "DSP Flexi Cap Fund",
+      "category": "Flexi Cap Fund",
+      "3_year_return": "18.41%",
+      "5_year_return": "22.33%",
+      "reason_for_investment": "This flexi-cap fund provides the manager with the flexibility to invest across market capitalizations, allowing it to adapt to changing market conditions and capture higher growth opportunities from mid and small-cap segments while maintaining a diversified portfolio. Its strong historical returns significantly exceed the target."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 111471,
+      "roi": "N/A",
+      "buy_link": "https://wazirx.com/exchange/btc-inr",
+      "summary": "Bitcoin is the leading cryptocurrency by market capitalization, offering a decentralized store of value and significant growth potential. Its inclusion provides exposure to the high-growth digital asset space."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 4051.31,
+      "roi": "4758.49%",
+      "buy_link": "https://wazirx.com/exchange/eth-inr",
+      "summary": "Ethereum is the second-largest cryptocurrency and powers a vast ecosystem of decentralized applications (dApps) and smart contracts. It offers robust technology and continued innovation, contributing to diversification within the crypto segment."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds provide stability and income to the portfolio, acting as a diversifier against equity market volatility. They help in capital preservation and offer relatively predictable returns, balancing the higher risk assets."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, offering protection against inflation and economic uncertainties. Its inverse correlation with equities often provides stability during market downturns, enhancing portfolio resilience."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value 86940 INR (4140 INR profit)",
+    "moderate_return": "8% return, total value 89424 INR (6624 INR profit)",
+    "optimistic_return": "12% return, total value 92736 INR (9936 INR profit)",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[86940,89424,92736]}]}}"
+  },
+  "summary": "This portfolio is designed for the Indian market with a balanced allocation across equities (stocks and mutual funds) and diversifiers (crypto, gold, and bond mutual funds). It aims for a blend of growth and stability, suitable for an investor with a moderate risk appetite. The chosen assets provide diversification across market caps, sectors, and asset classes, aligning with a long-term investment horizon.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 8280 INR lost, portfolio value 74520 INR",
+    "moderate_crash": "20% drop, 16560 INR lost, portfolio value 66240 INR",
+    "severe_crash": "30% drop, 24840 INR lost, portfolio value 57960 INR",
+    "summary": "This portfolio incorporates diversification across asset classes to mitigate risk. While equity investments carry inherent market risks, the inclusion of gold and bond mutual funds aims to cushion potential downturns. Regular rebalancing and a long-term perspective are crucial for navigating market volatility and achieving financial goals.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[74520,66240,57960]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is crucial to spread risk across different asset classes, industries, and geographies. It helps in reducing the impact of poor performance from any single investment on your overall portfolio. A well-diversified portfolio can offer more stable returns over the long term. (QuickChart: https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Stocks','Bonds','Real Estate','Cash'],datasets:[{data:[40,30,20,10]}]}})",
+    "long_term_perspective": "Adopting a long-term investment perspective allows your investments to benefit from compounding and ride out short-term market fluctuations. Historically, longer investment horizons have yielded better returns, demonstrating the power of patience in wealth creation. (QuickChart: https://quickchart.io/chart?c={type:'line',data:{labels:['Year 1','Year 5','Year 10','Year 15'],datasets:[{label:'Portfolio Growth',data:[10000,13000,20000,35000],fill:false,borderColor:'rgb(75, 192, 192)',tension:0.1}]}})",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio ensures that your asset allocation remains aligned with your risk tolerance and financial goals. This involves selling assets that have performed well and buying those that have underperformed to maintain your desired proportions. (QuickChart: https://quickchart.io/chart?c={type:'bar',data:{labels:['Before Rebalance','After Rebalance'],datasets:[{label:'Stocks',data:[60,50]},{label:'Bonds',data:[40,50]}]}})",
+    "understanding_risk": "Understanding the risks associated with each investment is vital. Higher returns often come with higher risks. Assess your personal risk tolerance before making investment decisions and ensure your portfolio reflects a comfortable level of risk for you. (QuickChart: https://quickchart.io/chart?c={type:'bar',data:{labels:['Low Risk','Medium Risk','High Risk'],datasets:[{label:'Expected Return',data:[3,7,12],backgroundColor:['#4CAF50','#FFC107','#F44336']}]}})"
+  }
+}
