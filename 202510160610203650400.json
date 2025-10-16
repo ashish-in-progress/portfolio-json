@@ -1,0 +1,44 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "0% and 0 INR",
+      "mutual_funds": "0% and 0 INR"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "0% and 0 INR",
+      "bond_mutual_funds": "0% and 0 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[0,0,0,0]}]}}",
+  "stocks_selected": null,
+  "mutual_funds_selected": null,
+  "crypto_selected": null,
+  "bond_mutual_funds": {
+    "summary": "Currently, no allocation to bond mutual funds as the entire portfolio is in a Fixed Deposit due to the small investment amount, which limits diversification options."
+  },
+  "Gold": {
+    "summary": "Currently, no allocation to gold as the entire portfolio is in a Fixed Deposit due to the small investment amount, which limits diversification options."
+  },
+  "what_if_analysis": {
+    "conservative_return": "Assuming a 5% p.a. return on Fixed Deposit over 2 years: ~11.02 INR (Total value after 2 years).",
+    "moderate_return": "Assuming a 6% p.a. return on Fixed Deposit over 2 years: ~11.24 INR (Total value after 2 years).",
+    "optimistic_return": "Assuming a 7% p.a. return on Fixed Deposit over 2 years: ~11.45 INR (Total value after 2 years).",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5% p.a.)','Moderate (6% p.a.)','Optimistic (7% p.a.)'],datasets:[{label:'Projected Value (2 years)',data:[11.02,11.24,11.45]}]}}"
+  },
+  "summary": "The investment amount of 10 INR is extremely small and makes it impractical to build a diversified portfolio with meaningful exposure to stocks or mutual funds. Most individual stocks in the Indian market trade at a price much higher than 10 INR per share, and mutual funds typically have a minimum investment (e.g., Systematic Investment Plans (SIPs) often start from 100 or 500 INR). For a low-risk appetite over a 2-year horizon with such a small amount, a Fixed Deposit (FD) is the only realistic and safest option, offering guaranteed returns. It is highly recommended to consider a larger investment amount to build a truly diversified portfolio across different asset classes like stocks, mutual funds, gold, and other debt instruments, which would allow for better risk management and potential returns.",
+  "risk_analysis": {
+    "mild_crash": "Hypothetical 10% market drop: ~1 INR lost (Portfolio value: ~9 INR). Note: This does not reflect typical FD risk.",
+    "moderate_crash": "Hypothetical 20% market drop: ~2 INR lost (Portfolio value: ~8 INR). Note: This does not reflect typical FD risk.",
+    "severe_crash": "Hypothetical 30% market drop: ~3 INR lost (Portfolio value: ~7 INR). Note: This does not reflect typical FD risk.",
+    "summary": "For a Fixed Deposit, market crash simulations like these are not directly applicable to the principal amount, which is generally guaranteed. These figures represent a hypothetical loss of purchasing power or extreme, improbable systemic risks. In reality, a Fixed Deposit offers capital protection and predictable returns, making it a very low-risk option.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Hypothetical Portfolio Value After Crash',data:[9,8,7]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is crucial for managing risk and enhancing returns across different market conditions. While the current small investment limits diversification, for larger amounts, spreading investments across various asset classes like stocks, mutual funds, gold, and bonds can help mitigate risks associated with any single asset. For example, a diversified portfolio might look like this: link(https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[30,30,10,30]}]}})",
+    "long_term_perspective": "For most investments (beyond fixed deposits), a long-term approach (e.g., 5+ years) allows investments to grow and ride out short-term market volatility. Compounding returns can significantly boost wealth over time.",
+    "rebalancing_strategy": "Regularly reviewing and adjusting your portfolio's asset allocation back to your target percentages is called rebalancing. This helps maintain your desired risk level and can involve selling assets that have performed well and buying those that have lagged.",
+    "understanding_risk": "Every investment carries some level of risk. Fixed deposits are low risk but offer lower returns. Higher-risk investments like stocks can offer greater returns but also come with the potential for capital loss. Understanding your risk tolerance is key to making appropriate investment decisions."
+  }
+}
