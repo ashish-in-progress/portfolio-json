@@ -1,0 +1,171 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 400000 USD",
+      "mutual_funds": "30% and 300000 USD"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 USD",
+      "gold": "10% and 100000 USD",
+      "bond_mutual_funds": "20% and 200000 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[40,30,10,20]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "MSFT",
+      "current_price": 513.43,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "36.94",
+      "pb": "10.95",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.64",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/9076806f-ddd9-415f-89d3-7813cb870594.png",
+      "buy_link": "https://public.com/stocks/MSFT",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft demonstrates strong revenue growth and high profit margins, indicating robust business health and potential for continued appreciation."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 251.03,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "25.81",
+      "pb": "8.22",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/b404959e-54e7-4828-8add-48ee239124f3.png",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) shows impressive revenue growth and strong profitability, signifying its market dominance and consistent innovation in technology."
+      }
+    },
+    {
+      "stock": "JNJ",
+      "current_price": 191.17,
+      "week_52_high": "194.40",
+      "week_52_low": "140.68",
+      "pe": "19.93",
+      "pb": "5.76",
+      "eps": "9.35",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.68",
+      "total_debt_to_equity": "0.51",
+      "revenue_growth_yoy": "4.68",
+      "net_profit_margin": "25.00",
+      "current_ratio": "0.78",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/917ddcf7-0f25-4cb4-9eda-eeaa962a3f43.png",
+      "buy_link": "https://public.com/stocks/JNJ",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson is a stable healthcare giant with a solid dividend yield and consistent profitability, offering reliability for a moderate risk portfolio."
+      }
+    },
+    {
+      "stock": "V",
+      "current_price": 345.69,
+      "week_52_high": "375.51",
+      "week_52_low": "275.37",
+      "pe": "32.88",
+      "pb": "17.25",
+      "eps": "10.24",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.68",
+      "total_debt_to_equity": "0.53",
+      "revenue_growth_yoy": "11.38",
+      "net_profit_margin": "52.16",
+      "current_ratio": "1.20",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/f7adbea6-5869-43bd-8081-1faef44c9196.png",
+      "buy_link": "https://public.com/stocks/V",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Visa boasts exceptional net profit margins and strong revenue growth, indicating its powerful position and efficiency in the global payments industry."
+      }
+    },
+    {
+      "stock": "JPM",
+      "current_price": 305.69,
+      "week_52_high": "318.01",
+      "week_52_low": "202.16",
+      "pe": "14.87",
+      "pb": "2.36",
+      "eps": "19.98",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.85",
+      "total_debt_to_equity": "2.09",
+      "revenue_growth_yoy": "108.98",
+      "net_profit_margin": "33.26",
+      "current_ratio": "NULL",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/16a0e880-94e8-4145-a768-3228cf83941c.png",
+      "buy_link": "https://public.com/stocks/JPM",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "JPMorgan Chase demonstrates robust revenue growth and strong profitability, making it a leading choice in the financial sector for stable returns."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard 500 Index Fund Admiral Shares",
+      "category": "Large-Cap Equity",
+      "3_year_return": "12.5%",
+      "5_year_return": "14.3%",
+      "reason_for_investment": "Provides broad exposure to large-cap US companies, offering diversified growth potential in line with market performance."
+    },
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "Offers comprehensive exposure to the entire US stock market, including large, mid, and small-cap companies, for maximum diversification and growth."
+    },
+    {
+      "name": "Vanguard Dividend Growth Fund",
+      "category": "Dividend",
+      "3_year_return": "9.5%",
+      "5_year_return": "10%",
+      "reason_for_investment": "Invests in high-quality companies with a history of growing dividends, providing both income and potential for capital appreciation, suitable for moderate risk."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "The Vanguard Total Bond Market Index Fund Admiral Shares offers broad exposure to the US investment-grade bond market, providing stability and income. PIMCO Income Fund is an actively managed bond fund seeking consistent income and capital appreciation, providing a stronger return profile than passive bond funds while maintaining diversification. These selections are crucial for balancing the equity portion of the portfolio and mitigating overall risk, aligning with a moderate risk tolerance."
+  },
+  "Gold": {
+    "summary": "Gold is included as a diversifier and a hedge against inflation and market volatility. It tends to perform well during economic uncertainties, providing stability to the portfolio when other assets might decline. This allocation helps in preserving capital and reducing overall portfolio risk, aligning with a moderate risk tolerance."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return: 5% of 1,000,000 USD is 50,000 USD. Total value: 1,050,000 USD.",
+    "moderate_return": "8% return: 8% of 1,000,000 USD is 80,000 USD. Total value: 1,080,000 USD.",
+    "optimistic_return": "12% return: 12% of 1,000,000 USD is 120,000 USD. Total value: 1,120,000 USD.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[1050000,1080000,1120000]}]}}"
+  },
+  "summary": "This portfolio is designed for a 9-year investment horizon with a moderate risk tolerance and a 10% target return, totaling 1,000,000 USD. It strategically balances growth through a diversified selection of strong US large-cap stocks (40%) and broad market/dividend-focused mutual funds (30%), with stability provided by high-quality bond funds (20%) and a hedge against inflation and volatility with gold (10%). The chosen stocks exhibit strong fundamentals and growth potential, while the mutual funds offer broad market exposure and consistent returns. The inclusion of bond mutual funds and gold aims to diversify risk and provide stability. Overall, the portfolio is well-aligned with a moderate risk profile, aiming for a balance of growth and capital preservation.",
+  "risk_analysis": {
+    "mild_crash": "10% drop: 10% of 1,000,000 USD is 100,000 USD. Portfolio value after crash: 900,000 USD.",
+    "moderate_crash": "20% drop: 20% of 1,000,000 USD is 200,000 USD. Portfolio value after crash: 800,000 USD.",
+    "severe_crash": "30% drop: 30% of 1,000,000 USD is 300,000 USD. Portfolio value after crash: 700,000 USD.",
+    "summary": "Risk management is crucial in this portfolio, with diversification across stocks, mutual funds, bonds, and gold to mitigate potential losses during market downturns. While a mild crash might result in a 10% loss (100,000 USD), a moderate crash could lead to a 20% loss (200,000 USD), and a severe crash could see a 30% loss (300,000 USD). These figures highlight the importance of maintaining a long-term perspective and avoiding panic selling during volatile periods. The diversified nature of the portfolio aims to cushion these impacts, allowing for recovery over the 9-year investment horizon. Regular rebalancing will also help manage risk exposure.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[900000,800000,700000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is key to managing risk. By investing across different asset classes like stocks, mutual funds, bonds, and gold, you reduce the impact of any single asset performing poorly. This strategy helps to smooth out returns and protect your capital over the long term, making your portfolio more resilient to market fluctuations.",
+    "long_term_perspective": "Maintaining a long-term perspective is vital for successful investing. Market corrections and downturns are a normal part of the investment cycle. By staying invested for the long haul (e.g., 9 years in this case), you allow your investments time to recover and benefit from compounding returns, ultimately increasing your chances of reaching your financial goals.",
+    "rebalancing_strategy": "Regular rebalancing helps maintain your desired asset allocation and risk level. Over time, some assets may grow more than others, altering your original allocation. Rebalancing involves selling high-performing assets and buying underperforming ones to restore your target percentages. This strategy helps lock in gains and reduce risk exposure. Consider rebalancing annually or when your allocation deviates significantly (e.g., by 5-10%) from your target.",
+    "understanding_risk": "Understanding your risk tolerance is fundamental to building a suitable portfolio. While this portfolio is designed for a moderate risk profile, it's essential to be aware that all investments carry some degree of risk. Educate yourself about the potential downsides of each asset class, and only invest what you are comfortable losing. Regularly review your financial situation and adjust your risk appetite as needed."
+  }
+}
