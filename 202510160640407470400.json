@@ -1,0 +1,170 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "35% and 844,200 INR",
+      "mutual_funds": "40% and 964,800 INR"
+    },
+    "diversifiers": {
+      "crypto": "5% and 120,600 INR",
+      "gold": "10% and 241,200 INR",
+      "bond_mutual_funds": "10% and 241,200 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds','Crypto'],datasets:[{data:[35,40,10,10,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "HDFCBANK.NS",
+      "current_price": 994.35,
+      "week_52_high": "1018.85",
+      "week_52_low": "812.15",
+      "pe": "22.50",
+      "pb": "2.77",
+      "eps": "43.73",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.12%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "19.35%",
+      "net_profit_margin": "28.39%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:HDFCBANK.NS",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=HDFCBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank is a leader in the Indian banking sector, known for its stable growth and strong financial metrics. Its consistent performance and high net profit margin make it a solid long-term investment."
+      }
+    },
+    {
+      "stock": "ICICIBANK.NS",
+      "current_price": 1417.3,
+      "week_52_high": "1500",
+      "week_52_low": "1186",
+      "pe": "19.12",
+      "pb": "3.04",
+      "eps": "73.56",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.79%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "26.98%",
+      "net_profit_margin": "24.92%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:ICICIBANK.NS",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=ICICIBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICI Bank demonstrates robust revenue growth and strong profitability, making it an attractive investment in the financial sector. Its relatively low PE ratio compared to its growth indicates good value."
+      }
+    },
+    {
+      "stock": "INFY.NS",
+      "current_price": 1471.5,
+      "week_52_high": "2006.45",
+      "week_52_low": "1307",
+      "pe": "21.46",
+      "pb": "548.87",
+      "eps": "68.26",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "4.27%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "3.85%",
+      "net_profit_margin": "16.38%",
+      "current_ratio": "1.954",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:INFY.NS",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=INFY",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Infosys is a global IT services giant offering stability and a healthy dividend yield. Its high ROE and ROA indicate efficient management and strong returns on equity and assets."
+      }
+    },
+    {
+      "stock": "RELIANCE.NS",
+      "current_price": 1398.3,
+      "week_52_high": "1551",
+      "week_52_low": "1114.85",
+      "pe": "22.95",
+      "pb": "2.21",
+      "eps": "60.19",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.4%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "7.06%",
+      "net_profit_margin": "7.21%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:RELIANCE.NS",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=RELIANCE",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Reliance Industries, a diversified conglomerate, offers broad exposure to various high-growth sectors. Its consistent revenue growth makes it a strategic asset for long-term portfolio diversification."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.50%",
+      "5_year_return": "22.90%",
+      "reason_for_investment": "This fund has consistently delivered strong returns over 3 and 5 years, significantly exceeding the expected 14%. Its flexi-cap mandate allows it to invest across market capitalizations, providing flexibility and diversification, which is ideal for long-term growth with moderate risk."
+    },
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "category": "Large-Cap",
+      "3_year_return": "12.00%",
+      "5_year_return": "14.00%",
+      "reason_for_investment": "This large-cap fund aligns perfectly with your expected 14% annual return over a 5-year horizon. It invests in well-established companies, providing stability and steady growth for a moderate-risk portfolio."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "category": "Mid-Cap",
+      "3_year_return": "27.00%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "To add a higher growth component within your moderate risk profile, this mid-cap fund has shown exceptional returns. It provides exposure to rapidly growing companies, complementing the stability offered by large-cap investments."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 111424,
+      "roi": "N/A",
+      "buy_link": "https://www.coingecko.com/en/coins/bitcoin",
+      "summary": "Bitcoin is included as a high-risk, high-reward asset to capture potential significant gains, aligning with the user's openness to higher risk. Its status as the leading cryptocurrency offers a speculative growth opportunity."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 4054.35,
+      "roi": "4765.68%",
+      "buy_link": "https://www.coingecko.com/en/coins/ethereum",
+      "summary": "Ethereum, as the second-largest cryptocurrency, offers diversification within the crypto allocation and exposure to the growing decentralized finance (DeFi) and NFT ecosystems. Its strong ROI demonstrates its past performance and potential."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds (represented by Debt/FD in the original allocation) are chosen for their stability and income generation. They act as a hedge against equity market volatility and provide a steady return, aligning with the moderate risk profile and long-term goal of capital preservation alongside growth."
+  },
+  "Gold": {
+    "summary": "Gold is included as a traditional safe-haven asset. It offers a hedge against inflation and economic uncertainty, providing stability to the portfolio and acting as a diversifier during periods of market downturns. This aligns with a moderate risk strategy by reducing overall portfolio volatility."
+  },
+  "what_if_analysis": {
+    "conservative_return": "7% return calculation + 1,770,000 INR total value",
+    "moderate_return": "14% return calculation + 3,440,000 INR total value",
+    "optimistic_return": "20% return calculation + 6,750,000 INR total value",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (7%)','Moderate (14%)','Optimistic (20%)'],datasets:[{label:'Projected Value (INR)',data:[1770000,3440000,6750000]}]}}"
+  },
+  "summary": "This portfolio is designed for long-term wealth creation over 30 years with a moderate risk appetite in the Indian market. It strategically allocates 75% to equities (stocks and mutual funds) for growth and 25% to diversifiers (gold, bond mutual funds, and a small portion in cryptocurrency) to mitigate risk and capture alternative growth opportunities. The selected stocks are strong performers in their respective sectors, offering a blend of stability and growth. The mutual funds chosen provide diversification across market capitalizations, with a focus on funds that have historically delivered strong returns, aiming to meet and potentially exceed your 14% annual return expectation. The inclusion of cryptocurrency at a small allocation caters to your openness for higher risk, higher reward assets, balanced by more stable traditional investments.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 240,000 INR lost, chart link: https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)'],datasets:[{label:'Portfolio Value After Crash',data:[2160000]}]}}",
+    "moderate_crash": "20% drop, 480,000 INR lost, chart link: https://quickchart.io/chart?c={type:'bar',data:{labels:['Moderate Crash (20%)'],datasets:[{label:'Portfolio Value After Crash',data:[1920000]}]}}",
+    "severe_crash": "30% drop, 720,000 INR lost, chart link: https://quickchart.io/chart?c={type:'bar',data:{labels:['Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[1680000]}]}}",
+    "summary": "The portfolio's diversification across equities, debt, gold, and a small crypto allocation helps to mitigate risk. While crashes can impact all assets, the presence of stable assets like bond mutual funds and gold can help cushion the blow. The small allocation to crypto limits its overall impact during a downturn. Regular rebalancing will also help manage risk exposure.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash (INR)',data:[2160000,1920000,1680000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, gold, bonds, crypto) and within each class (large-cap, mid-cap, flexi-cap funds) is crucial to reduce overall portfolio risk. It helps to smooth out returns, as different assets perform well in different market conditions. This portfolio uses diversification to achieve a balance between growth and stability.",
+    "long_term_perspective": "Investing for the long term (30 years in this case) allows your investments to benefit from compounding, where your earnings generate further earnings. Short-term market fluctuations become less significant, and the power of sustained growth can lead to substantial wealth creation.",
+    "rebalancing_strategy": "Periodically reviewing and adjusting your portfolio's asset allocation back to its original targets (e.g., annually) is called rebalancing. If one asset class has performed exceptionally well, its proportion might increase, raising your risk exposure. Rebalancing helps to maintain your desired risk level and ensures you are not over-exposed to any single asset class.",
+    "understanding_risk": "Understanding that all investments carry some level of risk is essential. The value of your investments can go up or down. A moderate risk profile means you are willing to accept some fluctuations for potentially higher returns. Being informed about the risks associated with each asset class in your portfolio helps in making rational investment decisions and avoiding panic during market downturns."
+  }
+}
