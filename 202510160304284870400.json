@@ -1,0 +1,149 @@
+{
+  "market": "US",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "100% and $6000"
+    },
+    "diversifiers": {
+      "crypto": null,
+      "gold": null,
+      "bond_mutual_funds": null
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks'],datasets:[{data:[100]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "PLTR",
+      "current_price": 179.62,
+      "week_52_high": "190.00",
+      "week_52_low": "40.36",
+      "pe": "555.56",
+      "pb": "71.52",
+      "eps": "0.30",
+      "roe": null,
+      "roa": null,
+      "dividend_yield": null,
+      "total_debt_to_equity": "0.00",
+      "revenue_growth_yoy": "38.79",
+      "net_profit_margin": "22.18",
+      "current_ratio": "5.84",
+      "chart": null,
+      "buy_link": "https://public.com/stocks/PLTR",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "PLTR is selected due to its strong revenue growth year-over-year (38.79%) and high net profit margin (22.18%), indicating efficient operations and potential for future growth, aligning with a high-risk appetite. It has no debt to equity, signifying a strong financial position."
+      }
+    },
+    {
+      "stock": "AMD",
+      "current_price": 238.6,
+      "week_52_high": "240.10",
+      "week_52_low": "76.48",
+      "pe": "133.98",
+      "pb": "6.36",
+      "eps": "1.74",
+      "roe": null,
+      "roa": null,
+      "dividend_yield": null,
+      "total_debt_to_equity": "0.03",
+      "revenue_growth_yoy": "27.17",
+      "net_profit_margin": "9.57",
+      "current_ratio": "1.57",
+      "chart": null,
+      "buy_link": "https://public.com/stocks/AMD",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "AMD is chosen for its significant revenue growth (27.17%) and relatively low debt, suggesting expansion potential in a high-risk environment. Its position in the technology sector offers considerable upside for aggressive investors."
+      }
+    },
+    {
+      "stock": "NVDA",
+      "current_price": 179.83,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "51.03",
+      "pb": "44.13",
+      "eps": "3.51",
+      "roe": null,
+      "roa": null,
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": null,
+      "buy_link": "https://public.com/stocks/NVDA",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVDA is selected for its exceptional revenue growth (71.55%) and very high net profit margin (52.41%), demonstrating strong market demand and profitability. Its robust financials and leading position in high-growth industries make it suitable for high-risk, high-reward portfolios."
+      }
+    },
+    {
+      "stock": "SHOP",
+      "current_price": 156.21,
+      "week_52_high": "169.69",
+      "week_52_low": "69.84",
+      "pe": "86.21",
+      "pb": "16.68",
+      "eps": "1.79",
+      "roe": null,
+      "roa": null,
+      "dividend_yield": null,
+      "total_debt_to_equity": "0.08",
+      "revenue_growth_yoy": "28.98",
+      "net_profit_margin": "23.42",
+      "current_ratio": "3.68",
+      "chart": null,
+      "buy_link": "https://public.com/stocks/SHOP",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "SHOP is included for its strong revenue growth (28.98%) and healthy net profit margin (23.42%), indicating a rapidly expanding business in the e-commerce sector. Its low debt-to-equity ratio further enhances its appeal for high-risk investors looking for growth."
+      }
+    },
+    {
+      "stock": "UBER",
+      "current_price": 94.52,
+      "week_52_high": "101.99",
+      "week_52_low": "59.33",
+      "pe": "15.56",
+      "pb": "8.69",
+      "eps": "5.90",
+      "roe": null,
+      "roa": null,
+      "dividend_yield": null,
+      "total_debt_to_equity": "0.45",
+      "revenue_growth_yoy": "18.15",
+      "net_profit_margin": "26.68",
+      "current_ratio": "1.03",
+      "chart": null,
+      "buy_link": "https://public.com/stocks/UBER",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "UBER is selected for its strong revenue growth (18.15%) and high net profit margin (26.68%), showing its ability to expand and maintain profitability in a competitive market. Its innovation in the ride-sharing and delivery sectors presents significant growth opportunities for a high-risk portfolio."
+      }
+    }
+  ],
+  "mutual_funds_selected": null,
+  "crypto_selected": null,
+  "bond_mutual_funds": {
+    "summary": "No bond mutual funds are selected in this portfolio, aligning with a high-risk appetite focused on aggressive growth in equities."
+  },
+  "Gold": {
+    "summary": "No gold allocation is present in this portfolio, consistent with a high-risk, high-growth strategy that prioritizes equity exposure over traditional safe-haven assets."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value $6300",
+    "moderate_return": "10% return, total value $6600",
+    "optimistic_return": "15% return, total value $6900",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (10%)','Optimistic (15%)'],datasets:[{label:'Projected Value',data:[6300,6600,6900]}]}}"
+  },
+  "summary": "The portfolio is 100% allocated to US stocks, focusing on small US companies with a high-risk appetite. The selected stocks (PLTR, AMD, NVDA, SHOP, UBER) demonstrate strong revenue growth, solid net profit margins, and favorable debt-to-equity ratios. These companies operate in high-growth sectors like technology and e-commerce, which align with a high-risk investment strategy seeking substantial capital appreciation over a one-year timeframe. Investors should be aware of the inherent volatility and potential for significant fluctuations in these types of investments.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, $600 lost, remaining value $5400",
+    "moderate_crash": "20% drop, $1200 lost, remaining value $4800",
+    "severe_crash": "30% drop, $1800 lost, remaining value $4200",
+    "summary": "Given the 100% allocation to high-growth stocks, this portfolio is exposed to significant market volatility. A mild crash (10%) could result in a $600 loss, a moderate crash (20%) in a $1200 loss, and a severe crash (30%) in an $1800 loss. This level of risk is aligned with the investor's stated high-risk appetite, but potential for substantial drawdowns should be understood.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[5400,4800,4200]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "While this portfolio is concentrated, for broader risk management, diversification across different asset classes (e.g., bonds, real estate, commodities) and geographies can reduce overall portfolio volatility. Even within equities, diversifying across sectors and company sizes can be beneficial.",
+    "long_term_perspective": "High-growth stock portfolios often experience significant short-term fluctuations. A long-term investment horizon (typically 5+ years) allows time for market cycles to play out and for companies to grow, potentially mitigating the impact of short-term volatility.",
+    "rebalancing_strategy": "Given the dynamic nature of high-growth stocks, regular portfolio reviews are crucial. Rebalancing, though not directly applicable to a 100% stock portfolio in the traditional sense, involves assessing if the individual stock weightings still align with your conviction. For diversified portfolios, it means adjusting asset allocations back to original targets.",
+    "understanding_risk": "Investing in individual high-growth stocks carries inherent risks, including market risk, specific company risk, and liquidity risk. It's important to only invest capital that you are comfortable losing and to continuously educate yourself on market dynamics and company fundamentals."
+  }
+}
