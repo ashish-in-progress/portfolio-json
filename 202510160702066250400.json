@@ -1,0 +1,128 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and 2010 INR",
+      "mutual_funds": "35% and 2345 INR"
+    },
+    "diversifiers": {
+      "crypto": "10% and 670 INR",
+      "gold": "15% and 1005 INR",
+      "bond_mutual_funds": "10% and 670 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold','Bond Mutual Funds'],datasets:[{data:[30,35,10,15,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "AXISBANK.NS",
+      "current_price": 1196.3,
+      "week_52_high": "1247 INR",
+      "week_52_low": "933.5 INR",
+      "pe": "14.36",
+      "pb": "1.86",
+      "eps": "83.39",
+      "roe": "0.14004",
+      "roa": "N/A",
+      "dividend_yield": "0.09%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.82%",
+      "net_profit_margin": "33.05%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:AXISBANK",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=AXISBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Axis Bank is a leading private sector bank with strong revenue growth and healthy net profit margin, indicating good operational efficiency. Its relatively low PE and PB ratios suggest it might be undervalued. This selection provides exposure to the stable and growing financial sector in India."
+      }
+    },
+    {
+      "stock": "ITC.NS",
+      "current_price": 405.15,
+      "week_52_high": "495 INR",
+      "week_52_low": "390.15 INR",
+      "pe": "25.26",
+      "pb": "7.21",
+      "eps": "15.96",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.93%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.78%",
+      "net_profit_margin": "46.54%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:ITC",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=ITC",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC is a well-established conglomerate with a diversified business portfolio. It boasts an exceptionally high net profit margin and a strong dividend yield, making it attractive for long-term wealth creation and regular income. This stock provides a defensive and income-generating component to the portfolio."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.50%",
+      "5_year_return": "22.90%",
+      "reason_for_investment": "This fund offers excellent returns and invests across market capitalizations and geographies, providing broad diversification. Its flexi-cap approach allows for agility and potential for higher returns, suitable for long-term growth with a moderate risk profile."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "category": "Mid-Cap",
+      "3_year_return": "27.00%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "With outstanding returns, this fund focuses on mid-cap companies with higher growth potential over a long investment horizon. It aims to capture the growth story of emerging Indian businesses, balancing higher risk with long-term potential."
+    },
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "category": "Large-Cap",
+      "3_year_return": "12.00%",
+      "5_year_return": "14.00%",
+      "reason_for_investment": "This large-cap fund invests in established, financially sound companies, providing stability and consistent performance with lower volatility. It acts as a foundational element, ensuring steady growth and capital preservation for a moderate risk appetite."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 111471,
+      "roi": "N/A",
+      "buy_link": "https://www.coingecko.com/en/coins/bitcoin",
+      "summary": "Bitcoin is the pioneer cryptocurrency and the largest by market capitalization, often seen as 'digital gold'. It offers potential for high growth but also comes with high volatility. Including a small allocation to Bitcoin provides exposure to the nascent and potentially disruptive blockchain technology and digital asset space, aligning with a portion of the high-risk, high-reward strategy."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 4047.24,
+      "roi": "4754.01%",
+      "buy_link": "https://www.coingecko.com/en/coins/ethereum",
+      "summary": "Ethereum is the second-largest cryptocurrency and the leading platform for decentralized applications (dApps) and smart contracts. Its robust ecosystem and continuous development offer significant growth potential. The high ROI reflects its past performance and its strong position in the crypto market, contributing to the high-growth segment of the portfolio."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds provide stability and diversification to the portfolio. They invest in fixed-income securities, offering lower risk compared to equities and a steady income stream. This allocation helps balance the overall risk profile, particularly given the long-term horizon, by mitigating the impact of equity market volatility. It aims for capital preservation and moderate, consistent returns."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, offering protection against inflation and market downturns. It tends to perform well during periods of economic uncertainty, acting as a hedge against volatility in other asset classes. A 15% allocation to gold enhances the portfolio's stability and provides a reliable store of value, contributing to overall diversification and risk management."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value 80520 INR",
+    "moderate_return": "8% return, total value 82560 INR",
+    "optimistic_return": "12% return, total value 85200 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[80520,82560,85200]}]}}"
+  },
+  "summary": "This portfolio for the Indian market is designed for a 30-year horizon with a moderate risk appetite, aiming for a 14% annual return with a monthly investment of 6700 INR (total 67000 INR invested so far). The allocation prioritizes equity (65%) for long-term growth, diversified across stable large-cap stocks (ITC, Axis Bank), and high-growth mutual funds (Flexi-cap, Mid-cap, and Bluechip). A small portion is allocated to cryptocurrency (10%) for high-risk, high-reward potential, and a significant portion to debt/gold/FD (25%) for stability and diversification, balancing the overall risk. This balanced approach is expected to deliver substantial returns over the long term while managing risk effectively.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 6700 INR lost, portfolio value 60300 INR",
+    "moderate_crash": "20% drop, 13400 INR lost, portfolio value 53600 INR",
+    "severe_crash": "30% drop, 20100 INR lost, portfolio value 46900 INR",
+    "summary": "The portfolio is structured with a moderate risk appetite. Diversification across various asset classes like equities, mutual funds, crypto, gold, and bond mutual funds helps mitigate overall risk. While equities and crypto offer higher growth potential, they also carry higher risk. The inclusion of gold and bond mutual funds provides a cushion during market downturns, aiming to preserve capital and reduce the impact of crashes. Regular rebalancing and a long-term perspective are crucial for navigating market volatility.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[60300,53600,46900]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, crypto, gold, bonds) is crucial to spread risk and reduce the impact of poor performance in any single asset. It helps in achieving more stable and consistent returns over the long term.",
+    "long_term_perspective": "Investing with a long-term perspective, especially over 30 years, allows your investments to weather short-term market fluctuations and benefit from compounding. Patience and not reacting to daily market movements are key to long-term wealth creation.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio involves adjusting your asset allocation back to your original targets. This helps manage risk by selling assets that have performed well and buying those that have underperformed, ensuring your portfolio remains aligned with your risk appetite and goals.",
+    "understanding_risk": "It's important to understand that all investments carry some level of risk. While this portfolio is designed for a moderate risk appetite, market conditions can change. Stay informed about your investments and be comfortable with the potential for both gains and losses. Only invest what you can afford to lose."
+  }
+}
