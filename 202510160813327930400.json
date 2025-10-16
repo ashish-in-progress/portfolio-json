@@ -1,0 +1,144 @@
+{
+  "market": "US",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 80000 USD",
+      "mutual_funds": "40% and 80000 USD"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 USD",
+      "gold": "5% and 10000 USD",
+      "bond_mutual_funds": "15% and 30000 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[40,40,5,15]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "AAPL",
+      "current_price": 249.34,
+      "week_52_high": "260.10",
+      "week_52_low": "169.21",
+      "pe": "37.24",
+      "pb": "56.17",
+      "eps": "6.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.42",
+      "total_debt_to_equity": "1.89",
+      "revenue_growth_yoy": "5.97",
+      "net_profit_margin": "24.30",
+      "current_ratio": "0.83",
+      "chart": "N/A",
+      "buy_link": "https://public.com/stocks/aapl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Apple's strong brand loyalty, consistent product innovation, and expanding services segment make it a stable growth stock. Its robust profitability and market position are key factors for selection."
+      }
+    },
+    {
+      "stock": "MSFT",
+      "current_price": 513.43,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.56",
+      "pb": "11.14",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "N/A",
+      "buy_link": "https://public.com/stocks/msft",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is a technology giant with diversified revenue streams from cloud computing (Azure), enterprise software, and gaming. Its strong financial performance and continuous innovation in high-growth areas support its inclusion for long-term growth."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 251.03,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "26.04",
+      "pb": "8.29",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "N/A",
+      "buy_link": "https://public.com/stocks/googl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet's dominance in online search and advertising, coupled with its growing cloud business (Google Cloud) and ventures in AI, provides a strong foundation for future revenue growth and profitability. Its low debt-to-equity ratio is also a positive."
+      }
+    },
+    {
+      "stock": "NVDA",
+      "current_price": 179.83,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "51.03",
+      "pb": "44.13",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "N/A",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA is a leader in the high-growth sectors of artificial intelligence, gaming, and data centers. Its impressive revenue growth and net profit margin indicate strong market demand and efficiency, making it a compelling growth investment."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard 500 Index Fund Admiral Shares",
+      "category": "Large-Cap Equity",
+      "3_year_return": "12.5%",
+      "5_year_return": "14.3%",
+      "reason_for_investment": "VFIAX offers broad exposure to the largest US companies, replicating the performance of the S&P 500. Its low cost and diversification make it an excellent core holding for long-term growth with moderate risk, aligning with the target return."
+    },
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "VTSAX provides comprehensive exposure to the entire US stock market, including large, mid, and small-cap companies. This broad diversification reduces specific company risk while offering strong growth potential, consistent with the desired annual return."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Bonds (bond mutual funds) provide portfolio stability and income, acting as a hedge against equity market volatility. They help in diversifying risk and preserving capital, aligning with a moderate risk profile."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, offering protection against inflation and economic uncertainty. Its inclusion diversifies the portfolio further and can help stabilize returns during periods of market downturns."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value 210000 USD",
+    "moderate_return": "8% return, total value 216000 USD",
+    "optimistic_return": "12% return, total value 224000 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[210000,216000,224000]}]}}"
+  },
+  "summary": "This portfolio aims for a 15% annual return over 4 years with a moderate risk appetite by allocating 80% to US equities (split between individual stocks and diversified mutual funds) and 20% to diversifiers like bonds and gold. The selected stocks are large-cap technology companies with strong growth prospects and solid financial metrics. The chosen mutual funds offer broad market exposure and have historically delivered returns in line with the target. The inclusion of bonds and gold provides stability and hedges against market volatility, aligning with a moderate risk profile.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 20000 USD lost, portfolio value 180000 USD",
+    "moderate_crash": "20% drop, 40000 USD lost, portfolio value 160000 USD",
+    "severe_crash": "30% drop, 60000 USD lost, portfolio value 140000 USD",
+    "summary": "Risk management is achieved through diversification across different asset classes (equities, bonds, gold) and within equities (individual stocks and broad market mutual funds). While technology stocks offer growth, bonds and gold are included to cushion potential market downturns and reduce overall portfolio volatility, aligning with a moderate risk tolerance.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[180000,160000,140000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversifying your investments across different asset classes, industries, and geographies is crucial. It helps to reduce overall risk, as poor performance in one area can be offset by better performance in another, leading to more stable returns over time.",
+    "long_term_perspective": "Successful investing often requires a long-term view. Market fluctuations are normal, and reacting to short-term volatility can lead to suboptimal decisions. Focusing on long-term goals allows your investments to compound and recover from temporary downturns.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio ensures that your asset allocation remains consistent with your risk tolerance and financial goals. This involves selling assets that have performed well and buying those that have underperformed to bring the portfolio back to its original target weights.",
+    "understanding_risk": "It's essential to understand that all investments carry some level of risk. While diversification can mitigate risk, it doesn't eliminate it entirely. Assess your personal risk tolerance and ensure your portfolio aligns with it to avoid emotional decisions during market volatility."
+  }
+}
