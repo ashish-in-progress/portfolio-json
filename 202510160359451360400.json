@@ -1,0 +1,74 @@
+{
+  "market": "US",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "20% and $10,000",
+      "mutual_funds": "50% and $25,000"
+    },
+    "diversifiers": {
+      "crypto": "0% and $0",
+      "gold": "0% and $0",
+      "bond_mutual_funds": "30% and $15,000"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Bond Mutual Funds'],datasets:[{data:[20,50,30]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 179.83,
+      "week_52_high": "$195.62",
+      "week_52_low": "$86.62",
+      "pe": "51.03",
+      "pb": "44.13",
+      "eps": "$3.51",
+      "roe": "105.22%",
+      "roa": "73.14%",
+      "dividend_yield": "0.02%",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55%",
+      "net_profit_margin": "52.41%",
+      "current_ratio": "4.44",
+      "chart": "N/A for US Market (Chart_Url_Tool not applicable)",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVDA is chosen for its exceptional revenue growth and profitability, reflecting strong potential in the tech sector, particularly in AI."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "S&P 500 Index Fund (Example)",
+      "category": "Broad Market Index Fund",
+      "3_year_return": "N/A (specific fund data not available)",
+      "5_year_return": "N/A (specific fund data not available)",
+      "reason_for_investment": "These funds offer diversification across many companies, providing moderate growth potential with lower volatility compared to individual tech stocks."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Government bonds act as a hedge against volatility, aiming to limit the annual loss to under 10%."
+  },
+  "Gold": {
+    "summary": "No allocation to Gold in this portfolio."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value $52,500",
+    "moderate_return": "8% return, total value $54,000",
+    "optimistic_return": "12% return, total value $56,000",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[52500,54000,56000]}]}}"
+  },
+  "summary": "This portfolio allocates 20% to a high-growth tech stock (NVDA), 50% to a moderate-risk index fund (S&P 500 equivalent), and 30% to stable government bonds. NVDA is chosen for its exceptional revenue growth and profitability, reflecting strong potential in the tech sector, particularly in AI. The index fund provides diversified growth, while government bonds act as a hedge against volatility, aiming to limit the annual loss to under 10%. This diversified approach balances aggressive growth with risk mitigation for a projected risk-adjusted return over 5 years.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, $5,000 lost, portfolio value $45,000",
+    "moderate_crash": "20% drop, $10,000 lost, portfolio value $40,000",
+    "severe_crash": "30% drop, $15,000 lost, portfolio value $35,000",
+    "summary": "This diversified approach aims to mitigate risk, with government bonds providing a hedge against market volatility. The goal is to limit annual losses to under 10% in market downturns.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[45000,40000,35000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes like stocks, mutual funds, and bonds helps to reduce overall portfolio risk. When one asset class performs poorly, others may perform well, balancing out returns.",
+    "long_term_perspective": "Investing with a long-term horizon (5+ years) allows your investments to recover from short-term market fluctuations and benefit from compounding returns.",
+    "rebalancing_strategy": "Periodically rebalance your portfolio to maintain your desired asset allocation. For example, if stocks have outperformed, you might sell some stock to buy bonds, bringing your portfolio back to its original target percentages.",
+    "understanding_risk": "Understand that all investments carry some level of risk. Your portfolio's risk profile should align with your comfort level for potential losses and your financial goals. Bonds generally offer lower risk than stocks but also lower potential returns."
+  }
+}
