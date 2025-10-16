@@ -1,0 +1,164 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "60% and 600,000 USD",
+      "mutual_funds": "20% and 200,000 USD"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 USD",
+      "gold": "5% and 50,000 USD",
+      "bond_mutual_funds": "15% and 150,000 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[60,20,5,15]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "MSFT",
+      "current_price": 513.43,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "36.94",
+      "pb": "10.95",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.64",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NASDAQ:MSFT",
+      "buy_link": "https://public.com/stocks/MSFT",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is a strong choice due to its consistent revenue growth, high net profit margin, and low debt-to-equity ratio, indicating financial stability and strong future earnings potential."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 251.03,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "25.81",
+      "pb": "8.22",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NASDAQ:GOOGL",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) offers robust growth with a healthy revenue growth rate and a very low debt-to-equity, suggesting a strong financial position and potential for continued expansion."
+      }
+    },
+    {
+      "stock": "NVDA",
+      "current_price": 179.83,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "50.61",
+      "pb": "43.77",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NASDAQ:NVDA",
+      "buy_link": "https://public.com/stocks/NVDA",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA is selected for its exceptional revenue growth and high net profit margin, indicative of its strong position in the growing technology sector and potential for significant future returns, albeit with a higher PE ratio reflecting growth expectations."
+      }
+    },
+    {
+      "stock": "JNJ",
+      "current_price": 191.17,
+      "week_52_high": "194.40",
+      "week_52_low": "140.68",
+      "pe": "19.93",
+      "pb": "5.76",
+      "eps": "9.35",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.68",
+      "total_debt_to_equity": "0.51",
+      "revenue_growth_yoy": "4.68",
+      "net_profit_margin": "25.00",
+      "current_ratio": "0.78",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NYSE:JNJ",
+      "buy_link": "https://public.com/stocks/JNJ",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson provides stability and consistent returns with a good dividend yield, reasonable PE, and solid net profit margin, making it a reliable choice for a moderate-risk portfolio."
+      }
+    },
+    {
+      "stock": "V",
+      "current_price": 345.69,
+      "week_52_high": "375.51",
+      "week_52_low": "275.37",
+      "pe": "32.88",
+      "pb": "17.25",
+      "eps": "10.24",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.68",
+      "total_debt_to_equity": "0.53",
+      "revenue_growth_yoy": "11.38",
+      "net_profit_margin": "52.16",
+      "current_ratio": "1.20",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NYSE:V",
+      "buy_link": "https://public.com/stocks/V",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Visa is a strong performer in the financial technology sector with excellent revenue growth and a very high net profit margin, suggesting efficiency and continued profitability."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard 500 Index Fund Admiral Shares",
+      "category": "Large-Cap Equity",
+      "3_year_return": "12.5%",
+      "5_year_return": "14.3%",
+      "reason_for_investment": "This fund offers broad exposure to the 500 largest U.S. companies, providing diversification and tracking the overall performance of the U.S. stock market. It's a solid choice for long-term growth and aligns with a moderate risk profile."
+    },
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "This fund invests in the entire U.S. stock market, including small, mid, and large-cap companies. It provides excellent diversification and is suitable for investors seeking comprehensive exposure to the domestic equity market with a moderate risk tolerance."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "The Vanguard Total Bond Market Index Fund Admiral Shares (VBTLX) provides exposure to a wide range of U.S. investment-grade bonds, offering stability and income to the portfolio. It acts as a diversifier against equity market volatility and helps in managing the overall risk of the investment."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, providing a hedge against inflation and economic uncertainty. Its inclusion diversifies the portfolio and can help preserve capital during market downturns, aligning with a moderate risk profile."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return leading to a total value of 1,551,328 USD",
+    "moderate_return": "8% return leading to a total value of 1,999,005 USD",
+    "optimistic_return": "12% return leading to a total value of 2,773,081 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[1551328,1999005,2773081]}]}}"
+  },
+  "summary": "This portfolio aims for a 10% annual return over 9 years with moderate risk. The majority of the investment is allocated to a diversified selection of growth-oriented and stable US stocks, complemented by broad market and bond mutual funds for additional diversification and risk management. The selected stocks exhibit strong financials, growth potential, and reasonable valuation. Mutual funds provide exposure to broader market segments and fixed income, aligning with a moderate risk appetite.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, resulting in a loss of 100,000 USD and a portfolio value of 900,000 USD.",
+    "moderate_crash": "20% drop, resulting in a loss of 200,000 USD and a portfolio value of 800,000 USD.",
+    "severe_crash": "30% drop, resulting in a loss of 300,000 USD and a portfolio value of 700,000 USD.",
+    "summary": "This portfolio is designed with a moderate risk profile, balancing growth with stability. While historical data suggests long-term resilience, market downturns can lead to temporary losses. Diversification across various asset classes helps mitigate risk, but investors should be prepared for potential fluctuations. Regular review and rebalancing are recommended to maintain alignment with risk tolerance.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[900000,800000,700000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is crucial to manage risk by spreading investments across various asset classes, industries, and geographies. It helps cushion the impact of poor performance in any single investment.",
+    "long_term_perspective": "Adopting a long-term investment horizon (like your 9-year plan) allows your investments to recover from short-term market volatility and benefit from compounding returns.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio (e.g., annually) involves adjusting asset allocations back to your target percentages. This helps maintain your desired risk level and ensures you're not overexposed to certain assets.",
+    "understanding_risk": "It's vital to understand that all investments carry some level of risk. While this portfolio aims for moderate risk, market values can fluctuate. Only invest what you are comfortable potentially losing and align your investments with your personal risk tolerance."
+  }
+}
