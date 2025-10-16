@@ -1,0 +1,95 @@
+{
+  "market": "US",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 400 USD",
+      "mutual_funds": "30% and 300 USD"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 USD",
+      "gold": "10% and 100 USD",
+      "bond_mutual_funds": "20% and 200 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[40,30,10,20]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "JNJ",
+      "current_price": 191.17,
+      "week_52_high": "194.40",
+      "week_52_low": "140.68",
+      "pe": "19.93",
+      "pb": "5.76",
+      "eps": "9.35",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.68",
+      "total_debt_to_equity": "0.51",
+      "revenue_growth_yoy": "4.68",
+      "net_profit_margin": "25.00",
+      "current_ratio": "0.78",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/7154d311-5fe3-419a-a695-0104a76d294c.png",
+      "buy_link": "https://public.com/stocks/jnj",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson (JNJ) is selected for its strong and stable fundamentals, a healthy dividend yield, and a reasonable valuation. Its consistent performance in the healthcare sector makes it a reliable long-term investment, providing both growth and income potential."
+      }
+    },
+    {
+      "stock": "AMZN",
+      "current_price": 215.57,
+      "week_52_high": "242.52",
+      "week_52_low": "161.38",
+      "pe": "32.11",
+      "pb": "6.79",
+      "eps": "6.55",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "NULL",
+      "total_debt_to_equity": "0.27",
+      "revenue_growth_yoy": "10.87",
+      "net_profit_margin": "10.54",
+      "current_ratio": "0.84",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/8390695f-eb40-47fb-97b1-7cb69e12dc9b.png",
+      "buy_link": "https://public.com/stocks/amzn",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Amazon (AMZN) is chosen for its strong revenue growth and established market leadership in e-commerce and cloud computing. Although its P/E ratio is higher, its consistent innovation and expansion into new markets offer significant long-term growth prospects, aligning with a moderate risk profile seeking higher returns."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13",
+      "5_year_return": "15",
+      "reason_for_investment": "Vanguard Total Stock Market Index Fund (VTSAX) provides broad exposure to the entire U.S. stock market, offering diversification and strong historical returns. Its low cost and comprehensive market coverage make it an excellent choice for long-term growth within a moderate risk tolerance."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Vanguard Total Bond Market Index Fund (VBTLX) is selected to provide stability and income as a diversifier in the portfolio. It offers broad exposure to the U.S. investment-grade bond market, helping to reduce overall portfolio volatility and complement the equity holdings."
+  },
+  "Gold": {
+    "summary": "Gold is included conceptually for its role as a hedge against inflation and market uncertainty, providing a diversifier against equity market fluctuations."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value 1050 USD",
+    "moderate_return": "8% return, total value 1080 USD",
+    "optimistic_return": "12% return, total value 1120 USD",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[1050,1080,1120]}]}}"
+  },
+  "summary": "This portfolio aims for a 10% annual return over 9 years with moderate risk by balancing growth-oriented equities (stocks and mutual funds) with stable diversifiers like bonds and a conceptual allocation to gold. The selected stocks (JNJ and AMZN) offer a mix of stability, income, and growth potential, while the mutual funds (VTSAX) provide broad market exposure and diversification. The bond allocation (VBTLX) and gold are included for diversification and risk mitigation.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 100 USD lost, portfolio value 900 USD",
+    "moderate_crash": "20% drop, 200 USD lost, portfolio value 800 USD",
+    "severe_crash": "30% drop, 300 USD lost, portfolio value 700 USD",
+    "summary": "The portfolio is structured to manage moderate risk. Diversification across equities, bonds, and gold helps mitigate potential losses during market downturns. While growth-oriented, the inclusion of stable assets aims to cushion against significant volatility, aligning with a balanced risk tolerance.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[900,800,700]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversifying your investments across different asset classes like stocks, bonds, and gold helps spread risk. If one asset performs poorly, others may perform well, protecting your overall portfolio.",
+    "long_term_perspective": "Investing with a long-term mindset allows your investments to recover from short-term market fluctuations and benefit from compounding returns over time, leading to significant wealth growth.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio (e.g., annually) involves adjusting your asset allocations back to your target percentages. This helps manage risk and ensures your portfolio remains aligned with your financial goals.",
+    "understanding_risk": "All investments carry some level of risk. Understanding your personal risk tolerance and how different investments behave in various market conditions is crucial for making informed decisions and avoiding panic selling during downturns."
+  }
+}
