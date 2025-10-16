@@ -1,0 +1,189 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 964800 INR",
+      "mutual_funds": "40% and 964800 INR"
+    },
+    "diversifiers": {
+      "crypto": "5% and 120600 INR",
+      "gold": "5% and 120600 INR",
+      "bond_mutual_funds": "10% and 241200 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold','Bond Mutual Funds'],datasets:[{data:[40,40,5,5,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "HDFCBANK",
+      "current_price": 994.3499755859375,
+      "week_52_high": "1018.85",
+      "week_52_low": "812.15",
+      "pe": "22.51",
+      "pb": "2.78",
+      "eps": "43.73",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.12",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "19.36%",
+      "net_profit_margin": "28.40%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/b620d566-f733-4e96-9bc2-7115600aa0fa.png",
+      "buy_link": "https://public.com/stocks/hdfcbank",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank is a leading private sector bank with a strong track record of consistent growth and robust financials. Its market leadership and efficient operations make it a reliable choice for long-term investment in the financial sector."
+      }
+    },
+    {
+      "stock": "INFY",
+      "current_price": 1471.5,
+      "week_52_high": "2006.45",
+      "week_52_low": "1307",
+      "pe": "21.47",
+      "pb": "548.88",
+      "eps": "68.26",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "4.27",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "3.85%",
+      "net_profit_margin": "16.38%",
+      "current_ratio": "1.954",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/011e31d6-94f7-4e21-9410-02248db1bd73.png",
+      "buy_link": "https://public.com/stocks/infy",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Infosys is a global IT services giant with a strong presence in digital transformation. Its consistent profitability, healthy dividend yield, and good liquidity make it an attractive option for exposure to the technology sector."
+      }
+    },
+    {
+      "stock": "DRREDDY",
+      "current_price": 1240.199951171875,
+      "week_52_high": "1405.9",
+      "week_52_low": "1020",
+      "pe": "18.14",
+      "pb": "2.94",
+      "eps": "68.15",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.65",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "16.61%",
+      "net_profit_margin": "17.37%",
+      "current_ratio": "1.156",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/423415a6-5d21-45ef-a247-3a4a6a4e066f.png",
+      "buy_link": "https://public.com/stocks/drreddy",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Dr. Reddy's Laboratories is a well-regarded pharmaceutical company demonstrating solid revenue growth and healthy profit margins. Its strong financial position and innovation in the healthcare space make it a promising long-term investment."
+      }
+    },
+    {
+      "stock": "ITC",
+      "current_price": 405.1499938964844,
+      "week_52_high": "495",
+      "week_52_low": "390.15",
+      "pe": "25.26",
+      "pb": "7.21",
+      "eps": "15.96",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.93",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.78%",
+      "net_profit_margin": "46.54%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/2989882e-5d19-4954-a3bd-10935e0c493b.png",
+      "buy_link": "https://public.com/stocks/itc",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC is a diversified Indian conglomerate with strong brand recall in FMCG, hotels, and agri-business. Its impressive net profit margin, consistent revenue growth, and attractive dividend yield offer a blend of stability and income for a long-term portfolio."
+      }
+    },
+    {
+      "stock": "SBIN",
+      "current_price": 886.9500122070312,
+      "week_52_high": "889.5",
+      "week_52_low": "680",
+      "pe": "9.93",
+      "pb": "1.52",
+      "eps": "89.05",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.79",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "8.01%",
+      "net_profit_margin": "22.19%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/2f7e3a47-dc68-4ca2-a7fe-54737fa4d272.png",
+      "buy_link": "https://public.com/stocks/sbin",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "State Bank of India is the largest public sector bank in India, offering broad exposure to the country's economic growth. Its favorable PE ratio, strong earnings per share, and robust net profit margin indicate a good value proposition for long-term financial sector investment."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "category": "Large-Cap",
+      "3_year_return": "12.00%",
+      "5_year_return": "14.00%",
+      "reason_for_investment": "This large-cap fund focuses on established companies, offering stability and consistent returns, making it a solid foundation for a moderate-risk portfolio."
+    },
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.50%",
+      "5_year_return": "22.90%",
+      "reason_for_investment": "A highly-rated flexi-cap fund known for its diversified investment approach across market caps and global equities. Its consistent high returns make it an excellent choice for long-term growth and capital appreciation."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "category": "Mid-Cap",
+      "3_year_return": "27.00%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "This mid-cap fund has delivered exceptional returns, targeting companies with strong growth potential. Given your long investment horizon, it's suitable for adding a higher growth component to your portfolio, accepting moderate risk."
+    },
+    {
+      "name": "Nippon India Nifty 50 Index Fund",
+      "category": "Index",
+      "3_year_return": "12.00%",
+      "5_year_return": "14.00%",
+      "reason_for_investment": "An index fund that aims to replicate the performance of the Nifty 50 index, providing broad market exposure with lower management fees. It's ideal for passive investors seeking market-linked returns and diversification."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 111407,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is included for its potential for high growth and as a hedge against traditional financial systems, offering diversification within the speculative portion of the portfolio."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "This allocation to Bond Mutual Funds provides stability and capital preservation to the portfolio. It acts as a hedge against equity market volatility and offers consistent, albeit lower, returns compared to equities."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, providing stability and acting as a hedge against inflation and economic uncertainties. It helps to reduce overall portfolio volatility."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return leading to a total value of 2532600 INR",
+    "moderate_return": "8% return leading to a total value of 2604960 INR",
+    "optimistic_return": "12% return leading to a total value of 2701440 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[2532600,2604960,2701440]}]}}"
+  },
+  "summary": "This portfolio is tailored for a moderate risk appetite with a 30-year investment horizon in the Indian market. It strategically allocates 80% to equity (stocks and mutual funds) for robust growth, complemented by a 20% allocation to diversifiers including cryptocurrency, gold, and debt/FD for stability and additional return potential. The selected stocks are fundamentally strong companies, and the mutual funds offer a mix of large-cap stability, flexi-cap growth, mid-cap potential, and index exposure for comprehensive diversification.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, resulting in 2170800 INR (a loss of 241200 INR)",
+    "moderate_crash": "20% drop, resulting in 1929600 INR (a loss of 482400 INR)",
+    "severe_crash": "30% drop, resulting in 1688400 INR (a loss of 723600 INR)",
+    "summary": "This portfolio is designed for a moderate risk profile, aiming for a balance between growth and stability. While it is diversified, a market downturn could impact its value. The equity components are more susceptible to volatility, while gold and bond mutual funds offer some cushioning. Regular rebalancing and a long-term perspective are crucial for navigating market fluctuations.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[2170800,1929600,1688400]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across various asset classes (stocks, mutual funds, crypto, gold, and debt) is crucial to mitigate risk. It ensures that poor performance in one asset class does not severely impact the entire portfolio, promoting more stable returns over time.",
+    "long_term_perspective": "Given a 30-year investment horizon, maintaining a long-term perspective is vital. Short-term market fluctuations are normal; staying invested through market cycles allows compounding to work effectively and helps achieve significant wealth accumulation.",
+    "rebalancing_strategy": "Periodically rebalancing your portfolio (e.g., annually) ensures that your asset allocation remains aligned with your risk tolerance and financial goals. This involves selling assets that have performed well and buying those that have underperformed to restore the target percentages.",
+    "understanding_risk": "Every investment carries some level of risk. It's important to understand that higher potential returns often come with higher risk. Regularly review your portfolio's risk exposure and ensure it aligns with your comfort level and financial capacity to handle potential losses."
+  }
+}
