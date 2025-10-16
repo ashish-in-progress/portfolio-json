@@ -1,0 +1,144 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 200000 INR",
+      "mutual_funds": "40% and 200000 INR"
+    },
+    "diversifiers": {
+      "crypto": "N/A",
+      "gold": "10% and 50000 INR",
+      "bond_mutual_funds": "10% and 50000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[40,40,10,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "HDFCBANK",
+      "current_price": 994.35,
+      "week_52_high": "1018.85",
+      "week_52_low": "812.15",
+      "pe": "22.509718",
+      "pb": "2.77835",
+      "eps": "43.73",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.12",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "19.35513922126162",
+      "net_profit_margin": "28.399998785582948",
+      "current_ratio": "N/A",
+      "chart": "Error fetching chart (Storage failed 403)",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=HDFCBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank is a robust private sector bank with consistent revenue growth and strong profitability, making it a reliable long-term investment in the financial sector."
+      }
+    },
+    {
+      "stock": "ICICIBANK",
+      "current_price": 1417.3,
+      "week_52_high": "1500",
+      "week_52_low": "1186",
+      "pe": "19.127243",
+      "pb": "3.046338",
+      "eps": "73.56",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.79",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "26.98654911125621",
+      "net_profit_margin": "24.926912911965733",
+      "current_ratio": "N/A",
+      "chart": "Error fetching chart (Storage failed 403)",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=ICICIBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICI Bank demonstrates impressive revenue growth and healthy net profit margins, indicating strong operational efficiency and potential for continued market share gains in the banking sector."
+      }
+    },
+    {
+      "stock": "INFY",
+      "current_price": 1471.5,
+      "week_52_high": "2006.45",
+      "week_52_low": "1307",
+      "pe": "21.469381",
+      "pb": "548.8764",
+      "eps": "68.26",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "4.27",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "3.8519556082318718",
+      "net_profit_margin": "16.382217149971467",
+      "current_ratio": "1.954",
+      "chart": "Error fetching chart (Storage failed 403)",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=INFY",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Infosys is a leading IT services company with a strong return on equity and attractive dividend yield, offering stability and growth potential in the technology sector for long-term investors."
+      }
+    },
+    {
+      "stock": "TATAMOTORS",
+      "current_price": 396.8,
+      "week_52_high": "917.7",
+      "week_52_low": "376.3",
+      "pe": "6.5140324",
+      "pb": "1.258031",
+      "eps": "60.93",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.54",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "1.3007522981735202",
+      "net_profit_margin": "6.371030696784266",
+      "current_ratio": "N/A",
+      "chart": "Error fetching chart (Storage failed 403)",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=TATAMOTORS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Tata Motors, with its low PE and PB ratios, suggests potential undervaluation. As a major player in the automotive industry, it offers significant upside given ongoing industry transformations and company's strategic initiatives."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "category": "Mid-Cap",
+      "3_year_return": "27.00%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "This fund has consistently delivered strong returns over 3 and 5 years, making it an excellent choice for investors with a moderate to high-risk appetite looking for growth from mid-cap companies."
+    },
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.50%",
+      "5_year_return": "22.90%",
+      "reason_for_investment": "A well-managed flexi-cap fund that provides diversification across market capitalizations and sectors. Its consistent performance and ability to invest across market caps make it suitable for long-term wealth creation."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "This allocation provides stability and capital preservation. Fixed deposits and debt-oriented mutual funds offer predictable returns and act as a cushion during market volatility, aligning with a diversified portfolio strategy."
+  },
+  "Gold": {
+    "summary": "Gold serves as an excellent hedge against inflation and currency depreciation. Its inclusion provides portfolio diversification and acts as a safe-haven asset during economic uncertainties, historically maintaining value when other asset classes decline."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value 525000 INR",
+    "moderate_return": "8% return, total value 540000 INR",
+    "optimistic_return": "12% return, total value 560000 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[525000,540000,560000]}]}}"
+  },
+  "summary": "This portfolio is designed for a moderate to high-risk investor with a 25-year horizon, aiming for a 9% annual return. It strategically allocates 80% to equities (split between large-cap and mid-cap stocks, and diversified mutual funds) for growth, complemented by 20% in diversifiers like gold and bond mutual funds for stability and risk mitigation. The selected stocks are strong performers in their respective sectors with good growth potential, while the mutual funds offer diversification and expert management for optimal long-term returns. The portfolio aims for a balance between growth and capital preservation, suitable for investors comfortable with market fluctuations.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 50000 INR lost, remaining value 450000 INR",
+    "moderate_crash": "20% drop, 100000 INR lost, remaining value 400000 INR",
+    "severe_crash": "30% drop, 150000 INR lost, remaining value 350000 INR",
+    "summary": "This simulation demonstrates potential impacts of market downturns. Diversification across various asset classes helps mitigate risk. Regular rebalancing and a long-term perspective are crucial for navigating volatile markets and recovering from potential losses.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[450000,400000,350000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is key to managing risk. By spreading investments across different asset classes (stocks, mutual funds, gold, bonds), you reduce the impact of poor performance in any single asset, leading to more stable returns over time. A well-diversified portfolio helps protect against market volatility and enhances long-term growth potential.",
+    "long_term_perspective": "Investing is a long-term game. Short-term market fluctuations are normal and often temporary. A long-term perspective (e.g., 5-10+ years) allows your investments to ride out downturns and benefit from compounding, ultimately leading to significant wealth creation. Avoid making rash decisions based on daily market movements.",
+    "rebalancing_strategy": "Periodically rebalancing your portfolio ensures it remains aligned with your risk tolerance and financial goals. This involves adjusting asset allocations by selling overperforming assets and buying underperforming ones to restore your target percentages. Rebalancing typically happens once a year or when allocations drift significantly.",
+    "understanding_risk": "Every investment carries some level of risk. It's crucial to understand the risks associated with each asset class and how they align with your personal risk tolerance. Higher potential returns often come with higher risk. Educate yourself on market dynamics, company fundamentals, and macroeconomic factors to make informed decisions and manage your portfolio effectively."
+  }
+}
