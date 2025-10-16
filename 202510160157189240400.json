@@ -1,0 +1,130 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and 12054.1 INR",
+      "mutual_funds": "30% and 12000 INR"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "0% and 0 INR",
+      "bond_mutual_funds": "40% and 16000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Equity Mutual Funds','Hybrid/Debt Mutual Funds'],datasets:[{data:[30,30,40]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "SBIN.NS",
+      "current_price": 884,
+      "week_52_high": "888.1",
+      "week_52_low": "680",
+      "pe": "9.93",
+      "pb": "1.51",
+      "eps": "89.01",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.81",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.08",
+      "net_profit_margin": "0.22",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/98cf4ee7-f6f0-47c6-84c0-13fca4f157e5.png",
+      "buy_link": "https://public.com/stocks/sbin",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "State Bank of India is a leading public sector bank. Its low P/E and P/B ratios indicate good value, and consistent EPS and revenue growth suggest stable performance. It's chosen for its affordability and strong market presence, aligning with a moderate risk profile."
+      }
+    },
+    {
+      "stock": "HDFCBANK.NS",
+      "current_price": 980.55,
+      "week_52_high": "1018.85",
+      "week_52_low": "812.15",
+      "pe": "22.39",
+      "pb": "2.76",
+      "eps": "43.78",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.13",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.19",
+      "net_profit_margin": "0.28",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/f5782300-40bc-4a7c-aa98-5b6c86383d14.png",
+      "buy_link": "https://public.com/stocks/hdfcbank",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank is a prominent private sector bank known for its robust growth and strong financial metrics, including healthy revenue growth and net profit margin. It provides a good balance of growth potential and stability within the banking sector."
+      }
+    },
+    {
+      "stock": "DRREDDY.NS",
+      "current_price": 1237.3,
+      "week_52_high": "1405.9",
+      "week_52_low": "1020",
+      "pe": "18.18",
+      "pb": "2.94",
+      "eps": "68.05",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.65",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "0.16",
+      "net_profit_margin": "0.17",
+      "current_ratio": "1.156",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/2e32582b-b85c-4448-bc76-3e2c0616ce67.png",
+      "buy_link": "https://public.com/stocks/drreddy",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Dr. Reddy's Laboratories is a well-established pharmaceutical company with solid earnings per share and revenue growth. Its reasonable valuation and presence in a defensive sector like pharmaceuticals offer stability and growth potential for a moderate risk portfolio."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.50%",
+      "5_year_return": "22.90%",
+      "reason_for_investment": "This fund offers excellent historical returns and invests across market capitalizations, providing good diversification and growth potential. It's suitable for the equity portion of a moderate risk portfolio aiming for decent returns over a 2-year horizon."
+    },
+    {
+      "name": "DSP Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "18.41%",
+      "5_year_return": "22.33%",
+      "reason_for_investment": "Another strong performing flexi-cap fund with impressive historical returns. It complements the Parag Parikh Flexi Cap Fund by offering further diversification within the equity mutual fund allocation, balancing risk and return."
+    },
+    {
+      "name": "HDFC Equity Savings Fund",
+      "category": "Hybrid",
+      "3_year_return": "8.00%",
+      "5_year_return": "9.00%",
+      "reason_for_investment": "As a hybrid fund, it allocates to both equity and debt, providing a more stable investment option for the diversifiers segment. Its consistent returns make it suitable for a moderate risk profile seeking to achieve a target annual return of 7% over a 2-year period."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "The 40% allocation to 'mutual_funds_hybrid_debt' includes exposure to debt instruments, which serves the purpose of bond mutual funds by providing stability and acting as a diversifier against equity market volatility."
+  },
+  "Gold": {
+    "summary": "Gold is not currently allocated in this portfolio. While it can serve as a hedge against inflation and market volatility, the current allocation strategy prioritizes a blend of equity and hybrid funds to meet the stated risk and return objectives."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% annual return: Projected value after 2 years = 44109.58 INR",
+    "moderate_return": "8% annual return: Projected value after 2 years = 46724.81 INR",
+    "optimistic_return": "12% annual return: Projected value after 2 years = 50293.00 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[44109.58,46724.81,50293.00]}]}}"
+  },
+  "summary": "This portfolio allocates 60% to equity (stocks and equity mutual funds) and 40% to hybrid/debt mutual funds to balance growth with stability, aligning with a moderate risk appetite and a 2-year investment horizon in the Indian market. The selected stocks and mutual funds demonstrate strong fundamentals and historical performance, aiming to achieve the target annual return of 7%.",
+  "risk_analysis": {
+    "mild_crash": "10% drop: You could lose 4005.41 INR, leaving your portfolio at 36048.69 INR.",
+    "moderate_crash": "20% drop: You could lose 8010.82 INR, leaving your portfolio at 32043.28 INR.",
+    "severe_crash": "30% drop: You could lose 12016.23 INR, leaving your portfolio at 28037.87 INR.",
+    "summary": "This portfolio is designed for a moderate risk profile, balancing growth with diversification through a mix of equities and hybrid funds. While past performance does not guarantee future results, this allocation aims to mitigate significant downside risk through diversification. Regular rebalancing and a long-term perspective are crucial for navigating market volatility.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[36048.69,32043.28,28037.87]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, hybrid funds) is crucial to reduce overall portfolio risk. When one asset class underperforms, others may perform well, helping to smooth out returns.",
+    "long_term_perspective": "Investing with a long-term horizon (e.g., beyond 5 years) allows your investments to recover from short-term market fluctuations and benefit from compounding growth. Avoid making impulsive decisions based on daily market movements.",
+    "rebalancing_strategy": "Regularly review and rebalance your portfolio to maintain your desired asset allocation. For example, if stocks have performed exceptionally well, you might trim some profits and reallocate to underperforming assets to bring your portfolio back to its target percentages.",
+    "understanding_risk": "All investments carry some level of risk. Understand that higher potential returns often come with higher risk. Evaluate your own risk tolerance and ensure your portfolio aligns with it. Only invest what you can afford to lose without impacting your financial goals."
+  }
+}
