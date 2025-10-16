@@ -1,0 +1,150 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 200000 INR",
+      "mutual_funds": "35% and 175000 INR"
+    },
+    "diversifiers": {
+      "gold": "5% and 25000 INR",
+      "bond_mutual_funds": "20% and 100000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[40,35,5,20]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "ICICIBANK.NS",
+      "current_price": 1417.3,
+      "week_52_high": "1500.0",
+      "week_52_low": "1186.0",
+      "pe": "19.13",
+      "pb": "3.05",
+      "eps": "73.56",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.79",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "26.99%",
+      "net_profit_margin": "24.93%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/7d3a5699-5159-43b0-82e9-51c31a33c968.png",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=ICICIBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICI Bank shows strong revenue growth and a healthy net profit margin, indicating robust business performance. Its reasonable PE and PB ratios suggest it's a good growth stock in the banking sector for long-term compounding."
+      }
+    },
+    {
+      "stock": "RELIANCE.NS",
+      "current_price": 1398.3,
+      "week_52_high": "1551.0",
+      "week_52_low": "1114.85",
+      "pe": "22.95",
+      "pb": "2.22",
+      "eps": "60.19",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.4",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "7.06%",
+      "net_profit_margin": "7.22%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/a703701d-bfbe-45c3-a39d-967d458ef2ad.png",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=RELIANCE",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Reliance Industries, a diversified conglomerate, offers stability and exposure to various high-growth sectors. Its current valuation is fair, and consistent revenue growth makes it a strong long-term holding for broad market exposure."
+      }
+    },
+    {
+      "stock": "ITC.NS",
+      "current_price": 405.15,
+      "week_52_high": "495.0",
+      "week_52_low": "390.15",
+      "pe": "25.26",
+      "pb": "7.21",
+      "eps": "15.96",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.93",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.78%",
+      "net_profit_margin": "46.54%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/d4b02a04-fe8f-49fc-a017-1bc57fa42e64.png",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=ITC",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC is a defensive stock known for its high dividend yield and impressive net profit margin. It provides stability and consistent returns, making it an excellent choice for a long-term portfolio with moderate-to-high risk appetite."
+      }
+    },
+    {
+      "stock": "INFY.NS",
+      "current_price": 1471.5,
+      "week_52_high": "2006.45",
+      "week_52_low": "1307.0",
+      "pe": "21.47",
+      "pb": "548.88",
+      "eps": "68.26",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "4.27",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "3.85%",
+      "net_profit_margin": "16.38%",
+      "current_ratio": "1.954",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/5d86d2b6-3c56-4e7f-b6d1-345dfb277916.png",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=INFY",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Infosys, a leading IT services company, offers strong returns on equity and assets, coupled with a high dividend yield. Its inclusion provides exposure to the technology sector, crucial for long-term portfolio growth despite potential valuation concerns."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Quant Small Cap Fund",
+      "category": "Small-Cap",
+      "3_year_return": "30.00%",
+      "5_year_return": "35.00%",
+      "reason_for_investment": "This fund offers high growth potential due to its focus on small-cap companies, which can significantly outperform larger companies over a 25-year investment horizon. It aligns well with a moderate to high-risk appetite."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "category": "Mid-Cap",
+      "3_year_return": "27.00%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "Investing in mid-cap companies provides a balance between growth and stability. HDFC Mid Cap Opportunities Fund has a strong track record of delivering excellent returns, making it a valuable addition for long-term capital appreciation."
+    },
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.50%",
+      "5_year_return": "22.90%",
+      "reason_for_investment": "A flexi-cap fund allows the fund manager to invest across market capitalizations (large, mid, and small) based on market conditions. Parag Parikh Flexi Cap Fund's consistent returns and flexible approach offer diversified growth and risk management."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "This allocation to bond mutual funds provides stability and aims to generate steady income, acting as a diversifier against equity market volatility. It is suitable for a long-term portfolio with a moderate to high-risk appetite, balancing aggressive growth with capital preservation."
+  },
+  "Gold": {
+    "summary": "Gold serves as a safe-haven asset, offering protection against inflation and market downturns. Its inclusion in the portfolio enhances diversification and provides a hedge during periods of economic uncertainty, aligning with a moderate to high-risk appetite."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value 525000 INR",
+    "moderate_return": "8% return, total value 540000 INR",
+    "optimistic_return": "12% return, total value 560000 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[525000,540000,560000]}]}}"
+  },
+  "summary": "This portfolio is designed for a 25-year investment horizon with a moderate to high-risk appetite in the Indian market. It strategically allocates 75% to equities (40% stocks, 35% mutual funds) to leverage long-term growth potential. The stock selection focuses on a mix of established banking, diversified conglomerate, consumer staples, and IT companies with strong fundamentals and growth prospects. The mutual fund allocation emphasizes small-cap and mid-cap funds for aggressive growth, balanced by a flexi-cap fund for diversification. The remaining 25% is allocated to diversifiers like bond mutual funds and gold to mitigate risk and provide stability, aiming to achieve the expected annual return of 9% or more over the long term.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 50000 INR lost, https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)'],datasets:[{label:'Portfolio Value After Crash',data:[450000]}]}}",
+    "moderate_crash": "20% drop, 100000 INR lost, https://quickchart.io/chart?c={type:'bar',data:{labels:['Moderate Crash (20%)'],datasets:[{label:'Portfolio Value After Crash',data:[400000]}]}}",
+    "severe_crash": "30% drop, 150000 INR lost, https://quickchart.io/chart?c={type:'bar',data:{labels:['Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[350000]}]}}",
+    "summary": "This portfolio, with a moderate to high-risk appetite, is susceptible to market fluctuations. Equity investments, while offering high growth potential, also carry higher risk. Diversification into bond mutual funds and gold helps mitigate overall portfolio risk, but investors should be prepared for potential drawdowns during adverse market conditions. Regular rebalancing and a long-term perspective are crucial for navigating these risks effectively.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[450000,400000,350000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, gold, bond mutual funds) helps reduce risk. If one asset class underperforms, others may compensate, leading to more stable long-term returns.",
+    "long_term_perspective": "Investing for the long term (e.g., 25 years) allows your investments to ride out short-term market volatility and benefit from the power of compounding. Patience is key to achieving significant wealth creation.",
+    "rebalancing_strategy": "Periodically review and adjust your portfolio to maintain your desired asset allocation. Rebalancing involves selling assets that have performed well and buying those that have underperformed, ensuring your risk exposure remains consistent with your goals.",
+    "understanding_risk": "All investments carry some level of risk. Understand your personal risk tolerance and align your portfolio accordingly. Educate yourself on the potential downsides of different investments and how to manage them effectively."
+  }
+}
