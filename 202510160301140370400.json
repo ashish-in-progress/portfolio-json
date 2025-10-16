@@ -1,0 +1,146 @@
+{
+  "market": "US",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "80% and 4800 dollars"
+    },
+    "diversifiers": {
+      "crypto": "15% and 900 dollars",
+      "cash_equivalent": "5% and 300 dollars"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Crypto','Cash Equivalent'],datasets:[{data:[80,15,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 179.83,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "51.03",
+      "pb": "44.13",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/NVDA",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA shows exceptional revenue growth and strong profitability, making it a prime choice for an aggressive portfolio aiming for high capital appreciation within a year. Its low debt-to-equity ratio also indicates financial stability."
+      }
+    },
+    {
+      "stock": "AMZN",
+      "current_price": 215.57,
+      "week_52_high": "242.52",
+      "week_52_low": "161.38",
+      "pe": "32.68",
+      "pb": "6.91",
+      "eps": "6.55",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": null,
+      "total_debt_to_equity": "0.27",
+      "revenue_growth_yoy": "10.87",
+      "net_profit_margin": "10.54",
+      "current_ratio": "0.84",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/AMZN",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Amazon continues to demonstrate solid revenue growth and a decent net profit margin, characteristic of a robust tech giant. Its relatively low debt and positive free cash flow support its selection for aggressive growth."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 251.03,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "26.04",
+      "pb": "8.29",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Google (Alphabet) exhibits strong revenue growth and an excellent net profit margin, with an incredibly low debt-to-equity ratio. Its consistent performance makes it a strong contender for aggressive growth within a diversified tech portfolio."
+      }
+    },
+    {
+      "stock": "META",
+      "current_price": 717.55,
+      "week_52_high": "796.25",
+      "week_52_low": "479.80",
+      "pe": "24.89",
+      "pb": "9.13",
+      "eps": "27.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.29",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38",
+      "net_profit_margin": "39.99",
+      "current_ratio": "2.83",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/META",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Meta Platforms shows robust revenue growth and an impressive net profit margin, coupled with very low debt. Its strong financial health and ongoing innovation in the tech space make it suitable for an aggressive investment strategy."
+      }
+    }
+  ],
+  "mutual_funds_selected": null,
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 111736,
+      "roi": "N/A",
+      "buy_link": "https://www.coingecko.com/en/coins/bitcoin",
+      "summary": "Bitcoin is the pioneer cryptocurrency, known for its store of value and decentralized nature. Its large market cap and historical performance make it a cornerstone for crypto allocation in an aggressive portfolio."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 4044.35,
+      "roi": "4740.09%",
+      "buy_link": "https://www.coingecko.com/en/coins/ethereum",
+      "summary": "Ethereum is a leading blockchain platform for decentralized applications, offering significant growth potential. Its strong ecosystem and continuous development make it an attractive asset for an aggressive crypto investment."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "Not allocated in this aggressive portfolio."
+  },
+  "Gold": {
+    "summary": "Not allocated in this aggressive portfolio."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return leading to a total value of $6300",
+    "moderate_return": "8% return leading to a total value of $6480",
+    "optimistic_return": "12% return leading to a total value of $6720",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[6300,6480,6720]}]}}"
+  },
+  "summary": "This aggressive portfolio for the US market, over a 1-year timeframe, focuses heavily on high-growth technology stocks with strong fundamentals. NVIDIA, Amazon, Google, and Meta were selected for their significant revenue growth, high profitability, healthy ROE/ROA, and low debt. A portion of the funds is allocated to cryptocurrencies for potentially higher returns, aligning with an aggressive risk appetite, while a small cash equivalent allocation provides minimal liquidity. This strategy aims for substantial capital gains but also carries higher risk.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amounting to a loss of $600, new portfolio value $5400",
+    "moderate_crash": "20% drop, amounting to a loss of $1200, new portfolio value $4800",
+    "severe_crash": "30% drop, amounting to a loss of $1800, new portfolio value $4200",
+    "summary": "This portfolio is aggressive and exposed to higher market volatility. While it aims for substantial gains, potential drawdowns during market corrections can be significant. Diversification across high-growth tech and crypto helps mitigate some specific risks, but overall market downturns will have a notable impact.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[5400,4800,4200]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes and sectors is crucial to mitigate risk. While this portfolio is aggressive, considering a broader range of assets in the future can help smooth out returns.",
+    "long_term_perspective": "For aggressive portfolios, a long-term perspective can help ride out market volatility and realize the full potential of growth assets. Short-term fluctuations are normal and often recover over longer periods.",
+    "rebalancing_strategy": "Regularly review and rebalance your portfolio to ensure it aligns with your target allocation and risk tolerance. This involves selling assets that have grown significantly and buying those that have underperformed to maintain desired proportions.",
+    "understanding_risk": "Aggressive portfolios carry higher risk for potentially higher returns. Understand that significant gains come with the possibility of significant losses. Only invest what you can afford to lose and regularly assess your comfort level with market fluctuations."
+  }
+}
