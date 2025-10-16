@@ -1,0 +1,159 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% (200,000 INR)",
+      "mutual_funds": "40% (200,000 INR)"
+    },
+    "diversifiers": {
+      "gold": "10% (50,000 INR)",
+      "debt_fd": "10% (50,000 INR)"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Debt FD'],datasets:[{data:[40,40,10,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "BAJFINANCE.NS",
+      "current_price": 1065.75,
+      "week_52_high": "1081.1",
+      "week_52_low": "645.1",
+      "pe": "37.86",
+      "pb": "6.83",
+      "eps": "28.09",
+      "roe": "0.20",
+      "dividend_yield": "0.42",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "23.39%",
+      "net_profit_margin": "39.28%",
+      "current_ratio": "N/A",
+      "chart": "N/A (Chart service temporarily unavailable)",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=BAJFINANCE",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Bajaj Finance shows strong revenue growth and high net profit margins, indicating excellent financial health and growth potential in the financial services sector. Its high ROE suggests efficient use of shareholder funds."
+      }
+    },
+    {
+      "stock": "ICICIBANK.NS",
+      "current_price": 1417.3,
+      "week_52_high": "1500",
+      "week_52_low": "1186",
+      "pe": "19.13",
+      "pb": "3.05",
+      "eps": "73.56",
+      "roe": "0.18",
+      "dividend_yield": "0.79",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "26.99%",
+      "net_profit_margin": "24.93%",
+      "current_ratio": "N/A",
+      "chart": "N/A (Chart service temporarily unavailable)",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=ICICIBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICI Bank is a leading private sector bank with robust revenue growth and strong profitability, reflected in its high net profit margin and ROE, making it a solid choice for long-term growth in the banking sector."
+      }
+    },
+    {
+      "stock": "DRREDDY.NS",
+      "current_price": 1240.2,
+      "week_52_high": "1405.9",
+      "week_52_low": "1020",
+      "pe": "18.14",
+      "pb": "2.94",
+      "eps": "68.15",
+      "roe": "0.18",
+      "dividend_yield": "0.65",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "16.61%",
+      "net_profit_margin": "17.37%",
+      "current_ratio": "1.16",
+      "chart": "N/A (Chart service temporarily unavailable)",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=DRREDDY",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Dr. Reddy's Laboratories demonstrates consistent revenue growth and healthy profit margins, along with strong ROE and ROA, indicating efficient management and a promising outlook in the pharmaceutical industry."
+      }
+    },
+    {
+      "stock": "HCLTECH.NS",
+      "current_price": 1515,
+      "week_52_high": "2012.2",
+      "week_52_low": "1302.75",
+      "pe": "24.16",
+      "pb": "509.34",
+      "eps": "62.52",
+      "roe": "0.24",
+      "dividend_yield": "3.21",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "6.50%",
+      "net_profit_margin": "14.86%",
+      "current_ratio": "2.08",
+      "chart": "N/A (Chart service temporarily unavailable)",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=HCLTECH",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HCLTech is a well-established IT services company with an attractive dividend yield and strong ROE, suggesting good returns for shareholders. Its consistent performance makes it a reliable part of a growth-oriented portfolio."
+      }
+    },
+    {
+      "stock": "NESTLEIND.NS",
+      "current_price": 1276.6,
+      "week_52_high": "1281.2",
+      "week_52_low": "1055",
+      "pe": "78.04",
+      "pb": "60.49",
+      "eps": "16.12",
+      "roe": "N/A",
+      "dividend_yield": "1.64",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "19.58%",
+      "net_profit_margin": "15.98%",
+      "current_ratio": "N/A",
+      "chart": "N/A (Chart service temporarily unavailable)",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=NESTLEIND",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Nestle India, despite a higher PE, offers stability and consistent revenue growth in the FMCG sector. Its strong brand presence and healthy net profit margin provide a defensive yet growing component to a high-risk portfolio."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Quant Small Cap Fund",
+      "category": "Small-Cap",
+      "3_year_return": "30.00%",
+      "5_year_return": "35.00%",
+      "reason_for_investment": "This fund is selected due to its exceptional 3-year and 5-year returns, aligning perfectly with a high-risk appetite and long investment horizon for aggressive growth from emerging companies."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "category": "Mid-Cap",
+      "3_year_return": "27.00%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "HDFC Mid Cap Opportunities Fund has a strong track record of high returns over both 3 and 5 years, making it an excellent choice for investors seeking significant growth from established, yet growing, mid-sized companies."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Not allocated in this portfolio. Debt FD is used as a diversifier instead."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, offering diversification and protection against inflation and market volatility, contributing to long-term capital preservation in a high-risk portfolio."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value: 525,000 INR",
+    "moderate_return": "8% return, total value: 540,000 INR",
+    "optimistic_return": "12% return, total value: 560,000 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[525000,540000,560000]}]}}"
+  },
+  "summary": "This portfolio is designed for a high-risk investor in the Indian market with a 25-year investment horizon and an expected annual return of 9%. The allocation leans heavily towards equities (80%) to maximize growth potential. Within equities, a mix of fundamentally strong large-cap stocks with good growth metrics and high-performing small and mid-cap mutual funds are chosen to provide diversification and tap into aggressive growth segments. A small portion (20%) is allocated to diversifiers like gold and debt for some stability and capital preservation over the very long term, even with a high-risk profile.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 50,000 INR lost, portfolio value: 450,000 INR",
+    "moderate_crash": "20% drop, 100,000 INR lost, portfolio value: 400,000 INR",
+    "severe_crash": "30% drop, 150,000 INR lost, portfolio value: 350,000 INR",
+    "summary": "Given the high-risk appetite, this portfolio is more susceptible to market downturns. The crash simulations illustrate potential losses in severe market corrections. While the portfolio aims for aggressive growth, the inclusion of diversifiers like gold and debt FDs offers some buffer, but significant equity exposure means higher volatility. Regular monitoring and rebalancing are crucial.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[450000,400000,350000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, gold, debt) helps reduce overall portfolio risk. When one asset class underperforms, others may perform better, smoothing out returns over time.",
+    "long_term_perspective": "Investing with a long-term horizon (e.g., 25 years) allows your investments to ride out short-term market fluctuations and benefit from the power of compounding. Patience is key to realizing significant returns.",
+    "rebalancing_strategy": "Regularly review and rebalance your portfolio to maintain your desired asset allocation. If one asset class grows significantly, you may need to trim it and reallocate to underperforming assets to stay aligned with your risk profile and goals.",
+    "understanding_risk": "Every investment carries risk. Understand the potential for both gains and losses. A high-risk portfolio, while offering higher potential returns, also comes with higher volatility and the possibility of substantial drawdowns during adverse market conditions."
+  }
+}
