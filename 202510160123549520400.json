@@ -1,0 +1,253 @@
+{
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "70% and 700,000 USD",
+      "mutual_funds": "15% and 150,000 USD"
+    },
+    "diversifiers": {
+      "crypto": "10% and 100,000 USD",
+      "gold": "5% and 50,000 USD",
+      "bond_mutual_funds": "0% and 0 USD"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto','Gold'],datasets:[{data:[70,15,10,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 179.83,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "50.61",
+      "pb": "43.77",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "3.67",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/97521995-27aa-4c1d-a82e-4ec755d55991.png",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Nvidia is selected for its exceptional revenue growth (71.55% YOY) and high net profit margin (52.41%), indicating strong financial health and market leadership in a high-growth sector. Its relatively low debt-to-equity ratio further enhances its appeal for a high-risk portfolio."
+      }
+    },
+    {
+      "stock": "AMZN",
+      "current_price": 215.57,
+      "week_52_high": "242.52",
+      "week_52_low": "161.38",
+      "pe": "32.11",
+      "pb": "6.79",
+      "eps": "6.55",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "null",
+      "total_debt_to_equity": "0.27",
+      "revenue_growth_yoy": "10.87",
+      "net_profit_margin": "10.54",
+      "current_ratio": "0.84",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/2ea5d337-c50a-46b7-ae90-8028ca2cce37.png",
+      "buy_link": "https://public.com/stocks/amzn",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Amazon is chosen for its consistent revenue growth and strong market position in e-commerce and cloud computing. Its reasonable P/E and P/B ratios, coupled with a healthy EPS, suggest continued growth potential within a high-risk strategy."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 251.03,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "25.81",
+      "pb": "8.22",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/c0509d7a-2fe3-4e73-b72f-a23d6a77c938.png",
+      "buy_link": "https://public.com/stocks/googl",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) is included due to its robust revenue growth and impressive net profit margin, indicating a dominant and profitable business model. Its very low total debt-to-equity ratio provides financial stability within a growth-oriented portfolio."
+      }
+    },
+    {
+      "stock": "META",
+      "current_price": 717.55,
+      "week_52_high": "796.25",
+      "week_52_low": "479.80",
+      "pe": "25.14",
+      "pb": "9.22",
+      "eps": "27.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.29",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38",
+      "net_profit_margin": "39.99",
+      "current_ratio": "2.83",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/b01abb3d-6637-421e-9a28-ab943d6be744.png",
+      "buy_link": "https://public.com/stocks/meta",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Meta Platforms is selected for its strong revenue growth and high net profit margin, demonstrating its profitability and continued expansion in the social media and metaverse sectors. Its solid quick ratio suggests good short-term liquidity."
+      }
+    },
+    {
+      "stock": "NFLX",
+      "current_price": 1203.29,
+      "week_52_high": "1341.15",
+      "week_52_low": "677.88",
+      "pe": "50.55",
+      "pb": "20.76",
+      "eps": "23.47",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "null",
+      "total_debt_to_equity": "0.63",
+      "revenue_growth_yoy": "14.84",
+      "net_profit_margin": "24.58",
+      "current_ratio": "1.18",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/4303a9e7-202b-4bb2-b975-f0b9459f5221.png",
+      "buy_link": "https://public.com/stocks/nflx",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Netflix offers significant growth potential with strong revenue growth and a healthy net profit margin. While its PE is higher, the long-term investment horizon and high-risk appetite justify its inclusion for aggressive growth."
+      }
+    },
+    {
+      "stock": "ADBE",
+      "current_price": 330.63,
+      "week_52_high": "557.90",
+      "week_52_low": "330.04",
+      "pe": "20.31",
+      "pb": "12.00",
+      "eps": "16.05",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "null",
+      "total_debt_to_equity": "0.40",
+      "revenue_growth_yoy": "10.67",
+      "net_profit_margin": "30.01",
+      "current_ratio": "1.07",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/7dfedc7a-e98e-4f58-84c7-2a2fb071af3a.png",
+      "buy_link": "https://public.com/stocks/adbe",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Adobe is a strong performer with consistent revenue growth and a high net profit margin, indicating a solid business in the software industry. Its low debt and good cash flow make it an attractive option for growth-oriented investors."
+      }
+    },
+    {
+      "stock": "AVGO",
+      "current_price": 351.33,
+      "week_52_high": "374.23",
+      "week_52_low": "138.10",
+      "pe": "87.00",
+      "pb": "22.48",
+      "eps": "3.91",
+      "roe": "27.01",
+      "roa": "11.45",
+      "dividend_yield": "0.66",
+      "total_debt_to_equity": "1.00",
+      "revenue_growth_yoy": "28.01",
+      "net_profit_margin": "31.59",
+      "current_ratio": "1.17",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/6c6ac701-8817-4e0a-8988-ed61e8629677.png",
+      "buy_link": "https://public.com/stocks/avgo",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Broadcom (AVGO) demonstrates strong revenue growth and impressive free cash flow per share, indicating a powerful and efficient business. Its substantial growth potential aligns with a high-risk investment strategy."
+      }
+    },
+    {
+      "stock": "LLY",
+      "current_price": 826.57,
+      "week_52_high": "937.00",
+      "week_52_low": "623.78",
+      "pe": "55.48",
+      "pb": "41.90",
+      "eps": "15.31",
+      "roe": "88.36",
+      "roa": "16.02",
+      "dividend_yield": "0.66",
+      "total_debt_to_equity": "2.37",
+      "revenue_growth_yoy": "36.83",
+      "net_profit_margin": "25.91",
+      "current_ratio": "1.15",
+      "chart": "https://r2.chart-img.com/20251030/tradingview/advanced-chart/968a7237-7540-43fe-8102-47d64dd4f221.png",
+      "buy_link": "https://public.com/stocks/lly",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Eli Lilly and Company is chosen for its significant revenue growth and high return on equity, reflecting its strong position in the pharmaceutical industry. While its PE is elevated, its growth trajectory supports its inclusion in a high-risk, high-reward portfolio."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Health Care Fund",
+      "category": "Sectoral",
+      "3_year_return": "15%",
+      "5_year_return": "16.5%",
+      "reason_for_investment": "Vanguard Health Care Fund is selected for its consistently high 3-year and 5-year returns, indicating strong performance within the healthcare sector. This sectoral fund provides focused growth potential that aligns with a high-risk tolerance."
+    },
+    {
+      "name": "Vanguard Growth Index Fund",
+      "category": "Growth",
+      "3_year_return": "13.5%",
+      "5_year_return": "14%",
+      "reason_for_investment": "Vanguard Growth Index Fund is chosen for its strong growth-oriented returns over both 3 and 5 years. This fund offers exposure to a diversified basket of growth stocks, suitable for investors seeking aggressive capital appreciation."
+    },
+    {
+      "name": "Vanguard Emerging Markets Stock Index Fund",
+      "category": "International Equity",
+      "3_year_return": "8%",
+      "5_year_return": "9.5%",
+      "reason_for_investment": "Vanguard Emerging Markets Stock Index Fund provides exposure to higher growth potential in developing economies. While more volatile, its solid 3-year and 5-year returns make it a suitable choice for a high-risk, long-term portfolio aiming for aggressive international diversification."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 111153,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is chosen for its position as the leading cryptocurrency, offering significant growth potential due to its widespread adoption and limited supply. Its high volatility aligns with a high-risk investment strategy."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 4004.67,
+      "roi": "4717.13%",
+      "buy_link": "https://www.coinbase.com/price/ethereum",
+      "summary": "Ethereum is selected for its robust ecosystem and its role in decentralized finance (DeFi) and NFTs, offering strong growth prospects as the platform continues to innovate. Its high ROI and significant market presence make it a key asset in a high-risk crypto allocation."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "No bond mutual funds are included in this high-risk portfolio, aligning with the aggressive growth strategy and long investment horizon. This reduces portfolio diversification in favor of higher equity and crypto exposure."
+  },
+  "Gold": {
+    "summary": "Gold is allocated 5% (50,000 USD) as a diversifier, primarily for its role as a hedge against inflation and economic uncertainty. While a smaller allocation, it provides a counter-balance to the high volatility of equities and cryptocurrencies, without significantly dampening the overall high-growth objective."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% annual return: 1,551,328 USD total value (551,328 USD return)",
+    "moderate_return": "8% annual return: 1,999,004 USD total value (999,004 USD return)",
+    "optimistic_return": "12% annual return: 2,773,079 USD total value (1,773,079 USD return)",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[1551328,1999004,2773079]}]}}"
+  },
+  "summary": "This portfolio is designed for a high-risk investor with a 9-year horizon seeking a 10% annual return. It heavily favors equity, with a significant allocation to high-growth US stocks and growth-oriented mutual funds, including exposure to emerging markets. A smaller portion is allocated to cryptocurrencies and gold for additional speculative growth and some inflation hedging, respectively. No bond mutual funds are included, aligning with the aggressive growth strategy. This aggressive allocation aims to maximize returns, acknowledging the inherent volatility and risk associated with such a strategy. Regular monitoring and rebalancing are recommended to manage risk effectively over the investment period.",
+  "risk_analysis": {
+    "mild_crash": "10% drop: 100,000 USD lost, portfolio value 900,000 USD",
+    "moderate_crash": "20% drop: 200,000 USD lost, portfolio value 800,000 USD",
+    "severe_crash": "30% drop: 300,000 USD lost, portfolio value 700,000 USD",
+    "summary": "Given the high-risk nature of this portfolio, investors should be prepared for significant volatility and potential drawdowns. The allocation to growth stocks and cryptocurrencies inherently carries higher risk. Diversification across different equity sectors and the inclusion of gold are designed to mitigate some risks, but the portfolio remains highly sensitive to market downturns. Regular review of market conditions and individual asset performance, along with adherence to a disciplined rebalancing strategy, are crucial for managing risk effectively over the 9-year horizon.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[900000,800000,700000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, crypto, gold) and within equities (various sectors, market caps, geographies) is crucial to reduce risk. While this portfolio is high-risk, the inclusion of different asset types helps spread potential losses if one area underperforms.",
+    "long_term_perspective": "Given the 9-year investment horizon and high-risk strategy, maintaining a long-term perspective is vital. Short-term market fluctuations are inevitable, but historical data suggests that growth-oriented portfolios tend to recover and deliver substantial returns over extended periods. Avoid panic selling during downturns.",
+    "rebalancing_strategy": "Regular rebalancing (e.g., annually or semi-annually) is essential to maintain the desired asset allocation. If one asset class significantly outperforms, its weight in the portfolio will increase, potentially exposing you to more risk. Rebalancing involves selling some of the outperforming assets and buying more of the underperforming ones to restore target percentages, thus managing risk and locking in gains.",
+    "understanding_risk": "This portfolio is categorized as high-risk, meaning it has the potential for significant returns but also significant losses. Understand that market values can fluctuate dramatically. Only invest capital you are comfortable potentially losing, and ensure your financial goals align with the inherent volatility of this aggressive strategy."
+  }
+}
