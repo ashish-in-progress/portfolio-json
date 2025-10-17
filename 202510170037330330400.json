@@ -1,0 +1,103 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "35% and 20960.8 INR",
+      "mutual_funds": "35% and 20960.8 INR"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "15% and 8983.2 INR",
+      "bond_mutual_funds": "0% and 0 INR",
+      "fixed_deposit": "15% and 8983.2 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Fixed Deposit'],datasets:[{data:[35,35,15,15]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "HCLTECH.NS",
+      "current_price": 1496.199951171875,
+      "week_52_high": "2012.2",
+      "week_52_low": "1302.75",
+      "pe": "24.15",
+      "pb": "N/A",
+      "eps": "62.52",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.21%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "6.49%",
+      "net_profit_margin": "14.85%",
+      "current_ratio": "2.084",
+      "chart": "https://r2.chart-img.com/20251031/tradingview/advanced-chart/7caa3741-4e12-4764-bc77-6ada5c7612a5.png",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=HCLTECH",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HCLTech is selected for its stable financial performance, reasonable PE ratio for an IT major, and a good dividend yield, which contributes to consistent returns for a moderate risk portfolio."
+      }
+    },
+    {
+      "stock": "INFY.NS",
+      "current_price": 1445.0999755859375,
+      "week_52_high": "2006.45",
+      "week_52_low": "1307",
+      "pe": "21.46",
+      "pb": "N/A",
+      "eps": "68.26",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "4.27%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "3.85%",
+      "net_profit_margin": "16.38%",
+      "current_ratio": "1.954",
+      "chart": "https://r2.chart-img.com/20251031/tradingview/advanced-chart/8b35b5c5-7bec-4e8f-a327-d176cfa23e52.png",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=INFY",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Infosys is chosen for its strong market position, healthy earnings per share, and attractive dividend yield. Its consistent profitability and growth prospects make it suitable for a moderate risk investment strategy."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "DSP Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "18.41%",
+      "5_year_return": "22.33%",
+      "reason_for_investment": "This fund offers excellent historical returns over both 3 and 5 years, demonstrating strong performance across market cycles. Its flexi-cap nature allows for diversification across large, mid, and small-cap companies, aligning well with a moderate risk profile for long-term growth."
+    },
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.50%",
+      "5_year_return": "22.90%",
+      "reason_for_investment": "Known for its value investing philosophy and exposure to international equities (though not explicitly shown in this data, it's a characteristic of the fund), Parag Parikh Flexi Cap Fund has delivered impressive and consistent returns. Its diversified approach makes it a robust choice for moderate risk investors seeking long-term capital appreciation."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "N/A - No allocation to bond mutual funds in this portfolio."
+  },
+  "Gold": {
+    "summary": "Gold is included as a diversifier (15% allocation) to hedge against inflation and market volatility. It tends to perform well during economic uncertainties, providing stability to the portfolio and preserving capital."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return leading to 80252.79 INR",
+    "moderate_return": "8% return leading to 95036.72 INR",
+    "optimistic_return": "12% return leading to 118239.05 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[80252.79,95036.72,118239.05]}]}}"
+  },
+  "summary": "This portfolio aims for a 7% annual return with moderate risk over 6 years in the Indian market. It allocates 70% to equities (split between carefully selected stocks like HCLTech and Infosys for their stable financials and dividend payouts, and high-performing flexi-cap mutual funds for diversified growth) and 30% to diversifiers (Gold for hedging and Fixed Deposits for stability and consistent income). This balanced approach seeks to optimize returns while managing risk.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, resulting in a loss of 5988.8 INR, portfolio value 53899.2 INR",
+    "moderate_crash": "20% drop, resulting in a loss of 11977.6 INR, portfolio value 47910.4 INR",
+    "severe_crash": "30% drop, resulting in a loss of 17966.4 INR, portfolio value 41921.6 INR",
+    "summary": "This portfolio is structured for moderate risk. While diversified, it is still susceptible to market downturns. The crash simulations illustrate potential capital at risk during various market conditions, emphasizing the importance of a long-term perspective and regular rebalancing to mitigate losses.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[53899.2,47910.4,41921.6]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, gold, fixed deposits) helps reduce overall portfolio risk. When one asset performs poorly, others may perform well, balancing out returns and protecting your investment from significant losses.",
+    "long_term_perspective": "Investing with a long-term horizon (like your 6-year goal) allows your investments to recover from short-term market fluctuations and benefit from the power of compounding. Patience is key to realizing significant gains.",
+    "rebalancing_strategy": "Regularly review and rebalance your portfolio to maintain your desired asset allocation. If one asset class grows significantly, you might sell some to invest in underperforming ones, bringing your portfolio back to its target risk level and allocation.",
+    "understanding_risk": "Every investment carries some level of risk. Understand that higher potential returns often come with higher risk. Assess your personal risk tolerance and ensure your portfolio aligns with it. Do not invest money you cannot afford to lose, especially in volatile assets."
+  }
+}
