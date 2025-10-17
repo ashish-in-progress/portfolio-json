@@ -1,0 +1,151 @@
+{
+  "market": "US",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "35% and $17,500",
+      "mutual_funds": "30% and $15,000"
+    },
+    "diversifiers": {
+      "crypto": "0% and $0",
+      "gold": "5% and $2,500",
+      "bond_mutual_funds": "30% and $15,000"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Bonds','Gold'],datasets:[{data:[35,30,30,5]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "MSFT",
+      "current_price": 511.61,
+      "week_52_high": "555.45",
+      "week_52_low": "344.79",
+      "pe": "37.56",
+      "pb": "11.14",
+      "eps": "13.64",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.63",
+      "total_debt_to_equity": "0.26",
+      "revenue_growth_yoy": "14.93",
+      "net_profit_margin": "36.15",
+      "current_ratio": "1.35",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/MSFT",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Microsoft is a technology giant with consistent revenue growth and strong profitability. Its robust financials and leadership in cloud computing and software make it a stable choice for long-term growth in a moderate-risk portfolio."
+      }
+    },
+    {
+      "stock": "GOOGL",
+      "current_price": 251.46,
+      "week_52_high": "256.00",
+      "week_52_low": "140.53",
+      "pe": "26.04",
+      "pb": "8.29",
+      "eps": "9.25",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.33",
+      "total_debt_to_equity": "0.04",
+      "revenue_growth_yoy": "13.13",
+      "net_profit_margin": "31.12",
+      "current_ratio": "1.84",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/GOOGL",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Alphabet (Google) offers diversified exposure to the digital advertising, cloud computing, and AI sectors. Its strong earnings per share and high net profit margin indicate a healthy and growing business, suitable for a moderate-risk investment."
+      }
+    },
+    {
+      "stock": "JNJ",
+      "current_price": 192.12,
+      "week_52_high": "194.40",
+      "week_52_low": "140.68",
+      "pe": "20.27",
+      "pb": "5.85",
+      "eps": "9.35",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "2.63",
+      "total_debt_to_equity": "0.51",
+      "revenue_growth_yoy": "4.68",
+      "net_profit_margin": "25.00",
+      "current_ratio": "0.78",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/JNJ",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Johnson & Johnson is a healthcare stalwart known for its stability and consistent dividend payments. Its reasonable PE ratio, strong EPS, and low debt make it a defensive play that can provide steady returns in a moderate-risk portfolio."
+      }
+    },
+    {
+      "stock": "JPM",
+      "current_price": 298.54,
+      "week_52_high": "318.01",
+      "week_52_low": "202.16",
+      "pe": "14.61",
+      "pb": "2.35",
+      "eps": "20.68",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.83",
+      "total_debt_to_equity": "2.09",
+      "revenue_growth_yoy": "108.98",
+      "net_profit_margin": "33.26",
+      "current_ratio": "NULL",
+      "chart": "",
+      "buy_link": "https://public.com/stocks/JPM",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "JPMorgan Chase, a leading financial institution, demonstrates impressive revenue growth and a solid net profit margin. Its strong EPS and attractive dividend yield contribute to its appeal for a moderate-risk investor seeking exposure to the financial sector."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard 500 Index Fund Admiral Shares",
+      "category": "Large-Cap Equity",
+      "3_year_return": "12.5%",
+      "5_year_return": "14.3%",
+      "reason_for_investment": "This fund tracks the performance of the S&P 500, offering diversified exposure to large-cap US companies. Its strong historical returns make it a core holding for long-term growth and moderate risk."
+    },
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "category": "Total Market",
+      "3_year_return": "13%",
+      "5_year_return": "15%",
+      "reason_for_investment": "Providing broad exposure to the entire US stock market, this fund includes large, mid, and small-cap companies. Its comprehensive diversification and strong returns are ideal for a moderate-risk investor seeking broad market growth."
+    },
+    {
+      "name": "Vanguard Health Care Fund",
+      "category": "Sectoral",
+      "3_year_return": "15%",
+      "5_year_return": "16.5%",
+      "reason_for_investment": "This fund focuses on the healthcare sector, which is often considered defensive and can provide growth due to demographic trends and innovation. Its impressive returns add a growth component within a moderate-risk allocation."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds provide stability and income to the portfolio, acting as a diversifier against equity market volatility. They help in preserving capital and reducing overall portfolio risk, aligning with a moderate-risk strategy."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, offering a hedge against inflation and geopolitical risks. Its inclusion in the portfolio at a smaller allocation helps to further diversify and protect wealth during uncertain economic times."
+  },
+  "what_if_analysis": {
+    "conservative_return": "34.01% return with a total value of $67,004.78",
+    "moderate_return": "58.69% return with a total value of $79,343.72",
+    "optimistic_return": "97.38% return with a total value of $98,691.13",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[67004.78,79343.72,98691.13]}]}}"
+  },
+  "summary": "This portfolio allocates 65% to equity (stocks and mutual funds) and 35% to diversifiers (bonds and gold) for a moderate-risk profile targeting an 8% annual return over 6 years. The selected stocks are financially robust, large-cap US companies, offering a blend of growth and stability. The mutual funds provide broad market and sectoral diversification within equity, while bonds offer stability and gold acts as a hedge against inflation and market volatility.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amounting to a $5,000 loss, with the portfolio value at $45,000",
+    "moderate_crash": "20% drop, amounting to a $10,000 loss, with the portfolio value at $40,000",
+    "severe_crash": "30% drop, amounting to a $15,000 loss, with the portfolio value at $35,000",
+    "summary": "Market corrections are a natural part of investing. This analysis illustrates potential impacts during different crash scenarios, highlighting the importance of diversification to mitigate losses and the ability for a well-structured portfolio to recover over time.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[45000,40000,35000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversifying your investments across various asset classes (stocks, bonds, gold) and within those classes (different stocks, mutual funds) helps reduce risk. If one investment performs poorly, others may perform well, balancing your overall returns.",
+    "long_term_perspective": "Investing is most effective when approached with a long-term mindset. Market fluctuations are normal; staying invested through these cycles allows your investments to recover and grow, benefiting from compounding returns.",
+    "rebalancing_strategy": "Regularly reviewing and adjusting your portfolio's asset allocation back to your target percentages is crucial. Rebalancing helps maintain your desired risk level and ensures your portfolio remains aligned with your financial goals.",
+    "understanding_risk": "Every investment carries some level of risk. It's important to understand the potential for loss and align your investments with your personal risk tolerance. Higher potential returns often come with higher risks, and vice-versa."
+  }
+}
