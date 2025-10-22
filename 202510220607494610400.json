@@ -1,0 +1,151 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 200,000 INR",
+      "mutual_funds": "30% and 150,000 INR"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "15% and 75,000 INR",
+      "bond_mutual_funds": "15% and 75,000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Fixed Deposits'],datasets:[{data:[40,30,15,15]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "ICICIBANK.NS",
+      "current_price": 1382,
+      "week_52_high": "1500",
+      "week_52_low": "1186",
+      "pe": "19.12",
+      "pb": "3.04",
+      "eps": "73.56",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.79",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "26.98%",
+      "net_profit_margin": "24.92%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251105/tradingview/advanced-chart/aacf7241-4e77-42c9-978c-1dbad828b440.png",
+      "buy_link": "https://zerodha.com/stocks/ICICIBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICIBANK shows strong revenue growth and a healthy net profit margin, indicating good operational efficiency. Its reasonable PE and PB ratios suggest it's fairly valued for a banking sector leader. We're picking this due to its robust financial performance and potential for consistent returns, aligning with a moderate risk profile."
+      }
+    },
+    {
+      "stock": "AXISBANK.NS",
+      "current_price": 1237.3,
+      "week_52_high": "1247",
+      "week_52_low": "933.5",
+      "pe": "14.35",
+      "pb": "1.86",
+      "eps": "83.39",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.09",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.81%",
+      "net_profit_margin": "33.04%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251105/tradingview/advanced-chart/b1cecd41-c98a-485b-9b12-d82d0be2cc0d.png",
+      "buy_link": "https://zerodha.com/stocks/AXISBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "AXISBANK presents a compelling investment with a low PE and PB ratio, making it an attractive value pick in the banking sector. Its excellent net profit margin demonstrates strong profitability, and consistent revenue growth adds to its stability. This stock is chosen for its solid fundamentals and potential for capital appreciation."
+      }
+    },
+    {
+      "stock": "HCLTECH.NS",
+      "current_price": 1486,
+      "week_52_high": "2012.2",
+      "week_52_low": "1302.75",
+      "pe": "24.15",
+      "pb": "509.34",
+      "eps": "62.52",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.21",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "6.49%",
+      "net_profit_margin": "14.85%",
+      "current_ratio": "2.084",
+      "chart": "https://r2.chart-img.com/20251105/tradingview/advanced-chart/0d81d2c2-cc0e-4cb8-a14d-86c89d694456.png",
+      "buy_link": "https://zerodha.com/stocks/HCLTECH.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HCLTECH is selected for its stable performance in the IT sector, consistent revenue growth, and a decent dividend yield, which offers a steady income stream. Its strong quick ratio indicates good liquidity. This pick adds a technology component to the portfolio, balancing growth with a relatively lower risk profile."
+      }
+    },
+    {
+      "stock": "TATACONSUM.NS",
+      "current_price": 1174.6,
+      "week_52_high": "1180.5",
+      "week_52_low": "882.9",
+      "pe": "83.63",
+      "pb": "5.53",
+      "eps": "13.37",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.74",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "15.96%",
+      "net_profit_margin": "7.30%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251105/tradingview/advanced-chart/5e17218a-8ef4-463a-a9b5-d4213fe97e69.png",
+      "buy_link": "https://zerodha.com/stocks/TATACONSUM.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "TATACONSUM offers exposure to the consumer goods sector with impressive revenue growth. While its PE ratio is higher, it reflects investor confidence in its future earnings potential in a defensive sector. This stock is included for its growth prospects and stability within the consumer market."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "DSP Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "18.41%",
+      "5_year_return": "22.33%",
+      "reason_for_investment": "This fund offers excellent returns consistently exceeding the target, with a flexi-cap approach providing diversification across market capitalizations. This makes it suitable for long-term growth within a moderate risk profile."
+    },
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "category": "Large-Cap",
+      "3_year_return": "12%",
+      "5_year_return": "14%",
+      "reason_for_investment": "A reliable large-cap fund with solid 5-year returns. Investing in bluechip companies provides stability and consistent growth, aligning well with a moderate risk appetite for a long investment horizon."
+    },
+    {
+      "name": "HDFC Nifty 50 Index Fund",
+      "category": "Index",
+      "3_year_return": "11.8%",
+      "5_year_return": "13.5%",
+      "reason_for_investment": "This index fund tracks the Nifty 50, providing broad market exposure and diversification. It offers a cost-effective way to achieve market-linked returns and fits a moderate risk profile due to its inherent diversification."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "This allocation reflects the user's preference for 'fixed_deposit' which offers capital preservation and predictable returns, contributing to the overall stability and moderate risk profile of the portfolio, serving a similar function to conservative bond funds."
+  },
+  "Gold": {
+    "summary": "Gold is included as a traditional safe-haven asset, offering a hedge against inflation and market volatility. It contributes to portfolio diversification and provides stability, especially during economic uncertainties, aligning with a moderate risk profile."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, total value: 525,000 INR",
+    "moderate_return": "8% return, total value: 540,000 INR",
+    "optimistic_return": "12% return, total value: 560,000 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[525000,540000,560000]}]}}"
+  },
+  "summary": "This portfolio is designed for a moderate risk appetite over a 25-year investment horizon in the Indian market, aiming for a 13% annual return. The allocation balances growth-oriented equity (stocks and mutual funds) with stable diversifiers like gold and fixed deposits. Stocks are chosen based on strong financial metrics, growth potential, and reasonable valuation. Mutual funds are selected to further diversify the equity exposure, with a mix of flexi-cap for growth, large-cap for stability, and index funds for broad market exposure. Gold provides a hedge against inflation and market volatility, while Fixed Deposits offer capital preservation and predictable returns, contributing to the overall stability and moderate risk profile of the portfolio.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, 50,000 INR lost, portfolio value: 450,000 INR",
+    "moderate_crash": "20% drop, 100,000 INR lost, portfolio value: 400,000 INR",
+    "severe_crash": "30% drop, 150,000 INR lost, portfolio value: 350,000 INR",
+    "summary": "This portfolio is structured to manage risks by diversifying across different asset classes. Equities offer growth, while gold and fixed deposits provide stability and act as a buffer during market downturns. Regular rebalancing is recommended to maintain the desired asset allocation and risk exposure. The what-if scenarios highlight potential impacts of market crashes, providing a realistic view of risk.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[450000,400000,350000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across various asset classes like stocks, mutual funds, gold, and fixed deposits helps mitigate risk by spreading investments. If one asset performs poorly, others may perform well, balancing the overall portfolio.",
+    "long_term_perspective": "Investing with a long-term horizon (e.g., 25 years) allows your investments to ride out short-term market fluctuations and benefit from compounding returns, which significantly grows wealth over time.",
+    "rebalancing_strategy": "Periodically rebalance your portfolio to maintain the target asset allocation. This involves selling assets that have grown beyond their target percentage and buying those that have fallen below, ensuring your risk profile remains aligned with your goals.",
+    "understanding_risk": "Every investment carries some level of risk. Understanding your risk tolerance is crucial. This portfolio is designed for a moderate risk appetite, balancing growth potential with measures for capital preservation against market volatility."
+  }
+}
