@@ -1,0 +1,131 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and 80,000 INR",
+      "mutual_funds": "30% and 60,000 INR"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "15% and 30,000 INR",
+      "bond_mutual_funds": "0% and 0 INR",
+      "fixed_deposit": "15% and 30,000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Fixed Deposits'],datasets:[{data:[40,30,15,15]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "ITC.NS",
+      "current_price": 403.2,
+      "week_52_high": "495 INR",
+      "week_52_low": "390.15 INR",
+      "pe": "25.26",
+      "pb": "7.20",
+      "eps": "15.96",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.93%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.77%",
+      "net_profit_margin": "46.54%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:ITC",
+      "buy_link": "https://public.com/stocks/ITC",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC is chosen for its strong and consistent performance, high net profit margin, and attractive dividend yield, providing stability and income to the portfolio. It is well-suited for a moderate risk profile."
+      }
+    },
+    {
+      "stock": "HDFCBANK.NS",
+      "current_price": 984.35,
+      "week_52_high": "1018.85 INR",
+      "week_52_low": "812.15 INR",
+      "pe": "22.50",
+      "pb": "2.77",
+      "eps": "43.73",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.12%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "19.35%",
+      "net_profit_margin": "28.39%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:HDFCBANK",
+      "buy_link": "https://public.com/stocks/HDFCBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank is a leader in the private banking sector with robust revenue growth and a high net profit margin, indicating strong financial health. Its consistent performance makes it a reliable choice for long-term moderate growth."
+      }
+    },
+    {
+      "stock": "SBIN.NS",
+      "current_price": 884.4,
+      "week_52_high": "889.5 INR",
+      "week_52_low": "680 INR",
+      "pe": "9.93",
+      "pb": "1.51",
+      "eps": "89.05",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.79%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "8.00%",
+      "net_profit_margin": "22.19%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:SBIN",
+      "buy_link": "https://public.com/stocks/SBIN",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "State Bank of India offers excellent value with very low PE and PB ratios compared to its strong EPS and net profit margin. As a public sector banking giant, it provides stability and potential for capital appreciation."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "DSP Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "18.41%",
+      "5_year_return": "22.33%",
+      "reason_for_investment": "This fund offers excellent 3-year and 5-year returns for a flexi-cap fund, making it suitable for moderate risk and providing diversification across market caps. This aligns with the 15% annual return target."
+    },
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.5%",
+      "5_year_return": "22.9%",
+      "reason_for_investment": "Parag Parikh Flexi Cap Fund has consistently delivered strong returns over 3 and 5 years. Its flexi-cap nature allows it to invest across market capitalizations, providing flexibility and growth potential for a moderate risk investor aiming for 15% annual returns."
+    },
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "category": "Large-Cap",
+      "3_year_return": "12%",
+      "5_year_return": "14%",
+      "reason_for_investment": "A large-cap fund like ICICI Prudential Bluechip Fund provides stability and consistent returns, which is crucial for a moderate risk portfolio. While its returns are slightly lower than the flexi-cap funds, it offers exposure to established companies, balancing the overall equity risk."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "No specific allocation to bond mutual funds. Fixed deposits serve as a low-risk diversifier and for capital preservation."
+  },
+  "Gold": {
+    "summary": "Gold is allocated 15% to act as a hedge against inflation and market volatility, providing stability and downside protection to the portfolio."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, projecting a total value of 210,000 INR",
+    "moderate_return": "8% return, projecting a total value of 216,000 INR",
+    "optimistic_return": "12% return, projecting a total value of 224,000 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[210000,216000,224000]}]}}"
+  },
+  "summary": "This portfolio allocates 70% to equity (stocks and mutual funds) and 30% to diversifiers (gold and fixed deposits) to achieve a 15% annual return over 4 years with a moderate risk profile in the Indian market. The selected stocks are a mix of stable, high-dividend, and growth-oriented companies. The mutual funds chosen are a combination of flexi-cap funds for growth potential and a large-cap fund for stability, aiming to achieve the target returns while managing moderate risk. For diversifiers, 15% each is allocated to gold for hedging against inflation and market volatility, and fixed deposits for capital preservation and liquidity.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amounting to 20,000 INR loss, with a remaining value of 180,000 INR",
+    "moderate_crash": "20% drop, amounting to 40,000 INR loss, with a remaining value of 160,000 INR",
+    "severe_crash": "30% drop, amounting to 60,000 INR loss, with a remaining value of 140,000 INR",
+    "summary": "This portfolio, with its diversification into gold and fixed deposits, aims to mitigate risk. However, significant market downturns can still impact equity heavy allocations. Regular rebalancing and a long-term perspective are crucial for navigating such events.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[180000,160000,140000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, gold, fixed deposits) helps reduce overall portfolio risk and can lead to more stable returns over time. Don't put all your eggs in one basket.",
+    "long_term_perspective": "Investing is a marathon, not a sprint. Maintaining a long-term view allows your investments to weather short-term market fluctuations and benefit from compounding growth.",
+    "rebalancing_strategy": "Periodically review and adjust your portfolio's asset allocation to bring it back to your target weights. This helps maintain your desired risk level and capitalize on market movements by selling high and buying low.",
+    "understanding_risk": "All investments carry some level of risk. It's essential to understand the potential for losses and ensure your portfolio aligns with your risk tolerance and financial goals. Never invest money you can't afford to lose."
+  }
+}
