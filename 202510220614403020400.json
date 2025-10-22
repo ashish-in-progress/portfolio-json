@@ -1,0 +1,106 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "70% (35000 INR)",
+      "mutual_funds": "20% (10000 INR)"
+    },
+    "diversifiers": {
+      "crypto": "10% (5000 INR)",
+      "gold": "0% (0 INR)",
+      "bond_mutual_funds": "0% (0 INR)"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto'],datasets:[{data:[70,20,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "ICICIBANK.NS",
+      "current_price": 1382,
+      "week_52_high": "1500 INR",
+      "week_52_low": "1186 INR",
+      "pe": "19.12",
+      "pb": "3.04",
+      "eps": "73.56",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.79",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "26.98%",
+      "net_profit_margin": "24.92%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251105/tradingview/advanced-chart/b048a8c5-8b9a-4297-8d9a-67edae59b11c.png",
+      "buy_link": "https://public.com/stocks/ICICIBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICI Bank demonstrates strong revenue growth and healthy net profit margins, indicating robust financial performance. Its reasonable PE and PB ratios, combined with high growth, make it an attractive option for a high-risk portfolio seeking aggressive returns in the banking sector."
+      }
+    },
+    {
+      "stock": "BAJFINANCE.NS",
+      "current_price": 1086.5,
+      "week_52_high": "1081.1 INR",
+      "week_52_low": "645.1 INR",
+      "pe": "37.86",
+      "pb": "6.82",
+      "eps": "28.09",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.42",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "23.39%",
+      "net_profit_margin": "39.28%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251105/tradingview/advanced-chart/48546bf0-fef2-487f-96e9-08be3bed6380.png",
+      "buy_link": "https://public.com/stocks/BAJFINANCE.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Bajaj Finance exhibits exceptional revenue growth and a very high net profit margin, signifying strong operational efficiency and market demand. While its PE and PB ratios are higher, they are reflective of the market's high growth expectations, aligning well with a high-risk, high-reward investment strategy."
+      }
+    }
+  ],
+  "mutual_funds_selected": [],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 107982,
+      "roi": "N/A",
+      "buy_link": "https://www.coingecko.com/en/coins/bitcoin",
+      "summary": "Bitcoin, as the pioneer cryptocurrency, offers a store of value and is a key component for high-risk, high-reward portfolios due to its market dominance and potential for significant growth.  A 2500 INR allocation provides exposure to this volatile but potentially rewarding asset."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 3846.69,
+      "roi": "4662.75%",
+      "buy_link": "https://www.coingecko.com/en/coins/ethereum",
+      "summary": "Ethereum, with its robust ecosystem and smart contract functionality, is a leader in the decentralized finance (DeFi) space, presenting substantial growth opportunities for investors with a high-risk tolerance. A 2500 INR allocation provides exposure to its innovative potential."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "No allocation to bond mutual funds in this high-risk portfolio, as the focus is on aggressive growth through equities and crypto."
+  },
+  "Gold": {
+    "summary": "No allocation to gold in this high-risk portfolio, prioritizing growth-oriented assets over traditional safe havens."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation: Your 50000 INR portfolio could grow to approximately 52500 INR in one year.",
+    "moderate_return": "8% return calculation: Your 50000 INR portfolio could grow to approximately 54000 INR in one year.",
+    "optimistic_return": "12% return calculation: Your 50000 INR portfolio could grow to approximately 56000 INR in one year.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[52500,54000,56000]}]}}"
+  },
+  "summary": "This portfolio is designed for an investor with a high-risk tolerance, seeking aggressive growth primarily through Indian equities and cryptocurrency. The majority allocation to stocks (70%) in prominent Indian banks (ICICI Bank and Bajaj Finance) aims to capture the growth potential of the Indian financial sector. A significant portion (20%) is allocated to mutual funds (details pending), and a smaller but high-impact allocation (10%) is in cryptocurrencies (Bitcoin and Ethereum) for amplified returns. This aggressive approach prioritizes capital appreciation over stability and is suitable for investors comfortable with significant market volatility.",
+  "risk_analysis": {
+    "mild_crash": "A mild market crash (10% drop) could reduce your 50000 INR portfolio value to approximately 45000 INR, resulting in a loss of 5000 INR.",
+    "moderate_crash": "A moderate market crash (20% drop) could reduce your 50000 INR portfolio value to approximately 40000 INR, resulting in a loss of 10000 INR.",
+    "severe_crash": "A severe market crash (30% drop) could reduce your 50000 INR portfolio value to approximately 35000 INR, resulting in a loss of 15000 INR.",
+    "summary": "Given the high allocation to equities and cryptocurrency, this portfolio is susceptible to significant drawdowns during market downturns. The aggressive nature means higher potential rewards but also higher inherent risks. Regular monitoring and a strong understanding of market dynamics are crucial for managing this risk.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[45000,40000,35000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "While this portfolio is concentrated for aggressive growth, it still benefits from diversification across different asset classes (stocks, mutual funds, crypto) to mitigate specific asset risks. Further diversification within each asset class can enhance stability.",
+    "long_term_perspective": "For high-growth, high-risk portfolios, a long-term investment horizon is essential. Market volatility is common, and patience allows assets time to recover and grow, realizing their full potential.",
+    "rebalancing_strategy": "Even with an aggressive strategy, periodic rebalancing can help maintain the desired risk exposure. If an asset class significantly outperforms, you might consider trimming it to bring the portfolio back to its target allocation, or vice versa.",
+    "understanding_risk": "It's crucial to fully understand the risks associated with high-growth assets like individual stocks and cryptocurrencies. These investments can experience rapid and substantial price fluctuations. Only invest capital you are prepared to lose, and ensure your risk tolerance aligns with this portfolio's structure."
+  }
+}
