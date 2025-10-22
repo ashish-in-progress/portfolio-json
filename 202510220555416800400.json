@@ -1,0 +1,95 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and 1500 INR",
+      "mutual_funds": "50% and 2500 INR"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "10% and 500 INR",
+      "bond_mutual_funds": "10% and 500 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[30,50,10,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "SBIN",
+      "current_price": 884.4,
+      "week_52_high": "889.5",
+      "week_52_low": "680",
+      "pe": "9.93",
+      "pb": "1.51",
+      "eps": "89.05",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.79",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "8.00",
+      "net_profit_margin": "22.19",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:SBIN",
+      "buy_link": "https://public.com/stocks/sbi",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "State Bank of India (SBIN) shows strong earnings per share and a relatively low P/E ratio, indicating it might be undervalued. Its consistent revenue growth and healthy net profit margin make it a stable choice for long-term growth in the banking sector."
+      }
+    },
+    {
+      "stock": "ITC",
+      "current_price": 403.2,
+      "week_52_high": "495",
+      "week_52_low": "390.15",
+      "pe": "25.26",
+      "pb": "7.20",
+      "eps": "15.96",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.93",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.77",
+      "net_profit_margin": "46.54",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:ITC",
+      "buy_link": "https://public.com/stocks/itc",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC offers a high net profit margin and a decent dividend yield, which can contribute to overall returns. Its steady revenue growth in a diversified business portfolio, including FMCG, hotels, and paperboards, provides a defensive investment against market volatility."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.5%",
+      "5_year_return": "22.9%",
+      "reason_for_investment": "This fund consistently delivers strong returns over 3 and 5 years, outperforming many peers. Its flexi-cap nature allows it to invest across market capitalizations (large, mid, and small), providing diversification and adaptability to changing market conditions, suitable for a moderate risk profile aiming for higher returns."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Debt FDs provide stability and capital preservation, acting as a low-risk component in the portfolio. They offer predictable returns, safeguarding against equity market downturns and contributing to overall portfolio stability, especially for a moderate risk investor."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional hedge against inflation and economic uncertainties. Its inverse correlation with equities often helps in reducing portfolio volatility during market downturns, preserving capital and acting as a safe haven asset."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation + total value (5250 INR)",
+    "moderate_return": "8% return calculation + total value (5400 INR)",
+    "optimistic_return": "12% return calculation + total value (5600 INR)",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[5250,5400,5600]}]}}"
+  },
+  "summary": "This portfolio allocates a significant portion to Indian equities (stocks and mutual funds) for growth, balanced with diversifiers like gold and fixed deposits for stability and risk mitigation. The chosen stocks (SBIN and ITC) offer a blend of value, growth, and dividends. The Parag Parikh Flexi Cap Fund provides broad market exposure and has a proven track record of strong returns, aligning with the 15% annual return target for a moderate risk investor over a 4-year horizon. Gold and Fixed Deposit provide a hedge against market volatility and capital preservation.",
+  "risk_analysis": {
+    "mild_crash": "10% drop, amount lost (500 INR), chart link (see quickchart_url)",
+    "moderate_crash": "20% drop, amount lost (1000 INR), chart link (see quickchart_url)",
+    "severe_crash": "30% drop, amount lost (1500 INR), chart link (see quickchart_url)",
+    "summary": "The portfolio is structured to manage risk by diversifying across equities, gold, and debt. While equities offer growth potential, they are susceptible to market downturns. Gold and debt instruments are included to cushion the impact of market crashes, providing a relatively stable component during volatile periods. This strategy aims to balance growth with capital preservation, aligning with a moderate risk profile.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[4500,4000,3500]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is crucial as it spreads investments across various asset classes, reducing the overall risk. If one asset performs poorly, others may perform well, thus balancing the portfolio's returns and protecting against significant losses.",
+    "long_term_perspective": "Investing with a long-term perspective is essential for wealth creation. Market fluctuations are normal, and a long-term approach allows your investments to recover from downturns and benefit from the power of compounding over time.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio ensures it remains aligned with your risk tolerance and financial goals. This involves adjusting asset allocations back to their original targets, typically by selling assets that have performed well and buying those that have underperformed, thereby maintaining diversification.",
+    "understanding_risk": "Understanding that all investments carry some level of risk is fundamental. Risk tolerance varies among individuals, and it's important to align your investments with your personal comfort level regarding potential losses. Higher potential returns often come with higher risks."
+  }
+}
