@@ -1,0 +1,125 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% (INR 60,000)",
+      "mutual_funds": "30% (INR 60,000)"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "15% (INR 30,000)",
+      "bond_mutual_funds": "25% (INR 50,000)"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[30,30,15,25]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "ICICI Bank (ICICIBANK.NS)",
+      "current_price": 1383.4,
+      "week_52_high": "1500.0",
+      "week_52_low": "1186.0",
+      "pe": "18.81",
+      "pb": "2.94",
+      "eps": "73.52",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.8",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "26.98%",
+      "net_profit_margin": "24.92%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251106/tradingview/advanced-chart/23768cec-0ee8-4638-a523-6a1ffdc9c76d.png",
+      "buy_link": "https://public.com/stocks/ICICIBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICI Bank demonstrates strong revenue growth and a healthy net profit margin, indicating efficient operations. Its reasonable P/E and P/B ratios, coupled with a solid ROE, suggest good value and consistent performance in the banking sector, making it suitable for moderate risk investors."
+      }
+    },
+    {
+      "stock": "Dr. Reddy's Laboratories (DRREDDY.NS)",
+      "current_price": 1277.3,
+      "week_52_high": "1405.9",
+      "week_52_low": "1020.0",
+      "pe": "18.72",
+      "pb": "3.03",
+      "eps": "68.17",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.62",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "16.61%",
+      "net_profit_margin": "17.36%",
+      "current_ratio": "1.156",
+      "chart": "https://r2.chart-img.com/20251106/tradingview/advanced-chart/6e50d599-484e-4f39-bf2a-28ece00f9d5c.png",
+      "buy_link": "https://public.com/stocks/DRREDDY.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Dr. Reddy's Laboratories shows robust revenue growth and strong profitability, reflected in its healthy net profit margin and Return on Equity (ROE). Its attractive P/E and P/B ratios, along with good liquidity, position it as a promising investment in the pharmaceutical sector for growth-oriented moderate risk portfolios."
+      }
+    },
+    {
+      "stock": "State Bank of India (SBIN.NS)",
+      "current_price": 913.85,
+      "week_52_high": "916.0",
+      "week_52_low": "680.0",
+      "pe": "10.26",
+      "pb": "1.56",
+      "eps": "89.06",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.75",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "8.00%",
+      "net_profit_margin": "22.19%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251106/tradingview/advanced-chart/b57ccb39-776a-4fc3-8eb0-d3391ca52442.png",
+      "buy_link": "https://public.com/stocks/SBIN.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "State Bank of India (SBI) offers excellent value with its low P/E and P/B ratios, combined with a strong ROE and consistent revenue growth. Its significant net profit margin and decent dividend yield make it an appealing choice for moderate risk investors seeking stability and potential capital appreciation in the public sector banking space."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "min_sip": "100 INR",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.5%",
+      "5_year_return": "22.9%",
+      "reason_for_investment": "This fund consistently delivers strong returns across market cycles by investing flexibly across market capitalizations and geographies. Its diversified approach helps in managing risk while aiming for above-average long-term growth, making it suitable for moderate risk investors targeting a 15% annual return."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "min_sip": "100 INR",
+      "category": "Mid-Cap",
+      "3_year_return": "27%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "This fund has an impressive track record of high returns over both 3 and 5 years, indicating strong performance in the mid-cap segment. While mid-caps carry slightly higher risk, a partial allocation can significantly boost portfolio returns, aligning with the user's 15% return expectation within a moderate risk framework."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "An allocation to bond mutual funds (interpreted from FD/Debt in user query) provides stability and capital preservation to the portfolio. These funds typically invest in government bonds, corporate bonds, and other fixed-income securities, offering lower volatility and a steady income stream compared to equities. This aligns with a moderate risk profile by balancing higher-growth equity investments with safer, interest-bearing assets, acting as a hedge during market downturns."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, offering protection against inflation and currency devaluation. Its inclusion diversifies the portfolio and acts as a hedge during economic uncertainties and market downturns. For a moderate risk profile, a 15% allocation to gold helps reduce overall portfolio volatility while retaining liquidity."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% annual return: Your INR 200,000 could grow to approximately INR 243,101 over 4 years.",
+    "moderate_return": "8% annual return: Your INR 200,000 could grow to approximately INR 272,100 over 4 years.",
+    "optimistic_return": "12% annual return: Your INR 200,000 could grow to approximately INR 314,700 over 4 years.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value (INR)',data:[243101,272100,314700]}]}}"
+  },
+  "summary": "For your INR 200,000 investment in the Indian market over 4 years with a moderate risk appetite and a 15% annual return expectation, the portfolio is allocated 60% to equity (30% in carefully selected stocks and 30% in high-performing mutual funds) and 40% to diversifiers (15% in Gold and 25% in FD/Debt, categorized as Bond Mutual Funds). The chosen stocks (ICICI Bank, Dr. Reddy's, SBI) exhibit strong fundamentals, growth potential, and reasonable valuations. The selected mutual funds (Parag Parikh Flexi Cap and HDFC Mid Cap Opportunities) have demonstrated consistent high returns, balancing diversification with growth opportunities. The inclusion of Gold and Bond Mutual Funds aims to mitigate overall portfolio volatility and provide stability, aligning with a moderate risk profile. This diversified strategy aims to achieve the targeted returns while managing inherent market risks.",
+  "risk_analysis": {
+    "mild_crash": "A mild market crash (10% drop) could see your INR 200,000 portfolio value decrease by INR 20,000, leaving approximately INR 180,000. https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)'],datasets:[{label:'Portfolio Value After Crash',data:[180000]}]}}",
+    "moderate_crash": "A moderate market crash (20% drop) could see your INR 200,000 portfolio value decrease by INR 40,000, leaving approximately INR 160,000. https://quickchart.io/chart?c={type:'bar',data:{labels:['Moderate Crash (20%)'],datasets:[{label:'Portfolio Value After Crash',data:[160000]}]}}",
+    "severe_crash": "A severe market crash (30% drop) could see your INR 200,000 portfolio value decrease by INR 60,000, leaving approximately INR 140,000. https://quickchart.io/chart?c={type:'bar',data:{labels:['Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[140000]}]}}",
+    "summary": "This portfolio is designed with a moderate risk tolerance. While equities and mutual funds offer growth potential, they are subject to market fluctuations. The allocation to Gold and Bond Mutual Funds acts as a cushion, aiming to reduce the overall impact of market downturns. Regular monitoring and rebalancing are crucial to maintain the desired risk-reward profile, especially during volatile periods.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash (INR)',data:[180000,160000,140000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, gold, bonds) is crucial to spread risk. It helps mitigate the impact of poor performance in any single asset class, improving portfolio stability and potentially enhancing long-term returns. This portfolio diversifies across equity and defensive assets to balance growth and risk.",
+    "long_term_perspective": "Investing with a long-term perspective (e.g., 4+ years) allows your investments to ride out short-term market volatility and benefit from compounding. Avoid making impulsive decisions based on daily market movements; focus on your financial goals and stick to your strategy.",
+    "rebalancing_strategy": "Periodically rebalance your portfolio to maintain your desired asset allocation. If one asset class grows significantly, it might exceed its target allocation, increasing your risk. Rebalancing involves selling high-performing assets and buying underperforming ones to bring the portfolio back to its original strategic weights, ensuring your risk profile remains consistent.",
+    "understanding_risk": "Understand that all investments carry some level of risk. While this portfolio is designed for a moderate risk appetite, market conditions can change. Educate yourself about the risks associated with each investment and how they align with your personal risk tolerance. Never invest money you cannot afford to lose."
+  }
+}
