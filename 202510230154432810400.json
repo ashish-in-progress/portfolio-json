@@ -1,0 +1,60 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "mutual_funds": "30% and 10800 INR"
+    },
+    "diversifiers": {
+      "crypto": null,
+      "gold": "30% and 10800 INR",
+      "bond_mutual_funds": "40% and 14400 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Mutual Funds','Bond Mutual Funds','Gold'],datasets:[{data:[30,40,30]}]}}",
+  "stocks_selected": null,
+  "mutual_funds_selected": [
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "min_sip": "100 INR",
+      "category": "Large-Cap",
+      "3_year_return": "12%",
+      "5_year_return": "14%",
+      "reason_for_investment": "A well-established large-cap fund that invests primarily in large, stable companies. It offers relatively stable returns and lower volatility, making it suitable for low-risk investors seeking long-term growth from established businesses."
+    },
+    {
+      "name": "HDFC Nifty 50 Index Fund",
+      "min_sip": "100 INR",
+      "category": "Index",
+      "3_year_return": "11.8%",
+      "5_year_return": "13.5%",
+      "reason_for_investment": "This fund aims to replicate the performance of the Nifty 50 index, providing broad market exposure and diversification across the top 50 Indian companies. It's an ideal choice for low-risk investors who prefer passive investing with market-linked returns and lower expense ratios."
+    }
+  ],
+  "crypto_selected": null,
+  "bond_mutual_funds": {
+    "summary": "The allocation to debt, specifically Fixed Deposits, provides stability and capital preservation, which is crucial for a low-risk profile. Fixed deposits offer assured returns and are ideal for the debt portion of a portfolio, balancing out the modest volatility from equity mutual funds."
+  },
+  "Gold": {
+    "summary": "Gold, through ETFs or digital gold, acts as an excellent diversifier and a hedge against inflation and market downturns. Its traditional role as a safe-haven asset helps reduce overall portfolio risk, aligning well with a low-risk investment strategy."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% annualized return, leading to a total value of approximately 41675 INR after 3 years.",
+    "moderate_return": "8% annualized return, leading to a total value of approximately 45350 INR after 3 years.",
+    "optimistic_return": "12% annualized return, leading to a total value of approximately 50577 INR after 3 years.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5% annualized)','Moderate (8% annualized)','Optimistic (12% annualized)'],datasets:[{label:'Projected Value after 3 Years',data:[41675,45350,50577]}]}}"
+  },
+  "summary": "This portfolio is designed for your low-risk profile and 3-year investment horizon in the Indian market. Your total investment of 36,000 INR (1000 INR per month) is diversified across mutual funds, fixed deposits (categorized as bond mutual funds for structured output), and gold. The equity portion focuses on large-cap and index mutual funds to provide stability and broad market exposure. A significant portion is allocated to fixed deposits for capital preservation and assured returns, while gold acts as a traditional hedge against inflation and market uncertainties, aligning well with a low-risk appetite.",
+  "risk_analysis": {
+    "mild_crash": "A 10% market drop could result in a loss of approximately 3600 INR, leaving your portfolio value at 32400 INR. Chart: https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)'],datasets:[{label:'Portfolio Value After Crash',data:[32400]}]}}",
+    "moderate_crash": "A 20% market drop could result in a loss of approximately 7200 INR, leaving your portfolio value at 28800 INR. Chart: https://quickchart.io/chart?c={type:'bar',data:{labels:['Moderate Crash (20%)'],datasets:[{label:'Portfolio Value After Crash',data:[28800]}]}}",
+    "severe_crash": "A 30% market drop could result in a loss of approximately 10800 INR, leaving your portfolio value at 25200 INR. Chart: https://quickchart.io/chart?c={type:'bar',data:{labels:['Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[25200]}]}}",
+    "summary": "This low-risk portfolio is designed to mitigate significant market downturns through diversification across mutual funds, debt (fixed deposits), and gold. While no investment is entirely risk-free, the allocation aims to preserve capital and provide relatively stable returns, even during market volatility. The equity exposure is managed through large-cap and index funds, which are generally less volatile than mid or small-cap funds.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[32400,28800,25200]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes like equity, debt, and gold helps spread risk. If one asset class performs poorly, others may perform well, protecting your overall portfolio from significant losses.",
+    "long_term_perspective": "While your horizon is 3 years, investing with a long-term perspective (5+ years) typically smooths out market volatility and allows your investments more time to grow, especially in equity-oriented funds.",
+    "rebalancing_strategy": "Regularly review your portfolio (e.g., annually) to ensure your asset allocation aligns with your risk profile. If one asset class grows significantly, you might rebalance by selling some of it and investing in underperforming assets to maintain your target allocation.",
+    "understanding_risk": "All investments carry some level of risk. It's crucial to understand the potential for both gains and losses. For a low-risk profile, prioritizing capital preservation and steady returns over high growth is key, as reflected in your current allocation."
+  }
+}
