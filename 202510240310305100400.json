@@ -1,0 +1,175 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and 15000 INR",
+      "mutual_funds": "40% and 20000 INR"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "15% and 7500 INR",
+      "bond_mutual_funds": "15% and 7500 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[30,40,15,15]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "ICICI Bank",
+      "current_price": 1378.5,
+      "week_52_high": "1500.0",
+      "week_52_low": "1186.0",
+      "pe": "18.81",
+      "pb": "2.94",
+      "eps": "73.52",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.8%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "26.98%",
+      "net_profit_margin": "24.93%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251107/tradingview/advanced-chart/85ba8784-ea7c-4085-8f72-28d23c6c8603.png",
+      "buy_link": "https://public.com/stocks/ICICIBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICI Bank shows strong revenue and net profit margin growth, indicating good financial health. Its reasonable PE and PB ratios suggest a fair valuation, making it a suitable choice for a medium-risk portfolio."
+      }
+    },
+    {
+      "stock": "HDFC Bank",
+      "current_price": 998.45,
+      "week_52_high": "1020.0",
+      "week_52_low": "812.15",
+      "pe": "23.13",
+      "pb": "2.86",
+      "eps": "43.73",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.09%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "19.35%",
+      "net_profit_margin": "28.40%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251107/tradingview/advanced-chart/fdc4836e-21b0-455d-b721-8b94ba65dce6.png",
+      "buy_link": "https://public.com/stocks/HDFCBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank demonstrates consistent revenue growth and a healthy net profit margin. With a solid return on equity, it represents a stable investment for long-term growth within a medium-risk framework."
+      }
+    },
+    {
+      "stock": "Bajaj Finance",
+      "current_price": 1094.85,
+      "week_52_high": "1102.5",
+      "week_52_low": "645.1",
+      "pe": "38.78",
+      "pb": "6.98",
+      "eps": "28.03",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.4%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "23.39%",
+      "net_profit_margin": "39.28%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251107/tradingview/advanced-chart/e9ab821a-a8fe-49fc-b438-0161c45849af.png",
+      "buy_link": "https://public.com/stocks/BAJFINANCE",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Bajaj Finance exhibits impressive revenue growth and a high net profit margin, reflecting its strong performance in the financial sector. While its PE is higher, its growth potential aligns with a medium-risk profile seeking higher returns."
+      }
+    },
+    {
+      "stock": "Asian Paints",
+      "current_price": 2500.9,
+      "week_52_high": "3028.0",
+      "week_52_low": "2124.75",
+      "pe": "67.37",
+      "pb": "12.52",
+      "eps": "37.57",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.99%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "-4.46%",
+      "net_profit_margin": "10.84%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251107/tradingview/advanced-chart/3750e1fe-3243-4652-8ba9-8c920603eedd.png",
+      "buy_link": "https://public.com/stocks/ASIANPAINT",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Asian Paints, despite a slight dip in revenue growth, maintains a strong brand presence and consistent profitability with a decent net profit margin. Its high PE and PB ratios reflect its market leadership and strong long-term potential for a medium-risk investor."
+      }
+    },
+    {
+      "stock": "Titan Company",
+      "current_price": 3730.2,
+      "week_52_high": "3800.0",
+      "week_52_low": "2925.0",
+      "pe": "90.25",
+      "pb": "28.79",
+      "eps": "41.76",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.29%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "18.38%",
+      "net_profit_margin": "5.53%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251107/tradingview/advanced-chart/bce5242c-e05f-40e0-98b9-17e57974e6a7.png",
+      "buy_link": "https://public.com/stocks/TITAN",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Titan Company shows robust revenue growth and a healthy market position in consumer discretionary. While its PE and PB ratios are high, they are justified by its strong brand, growth prospects, and potential for long-term capital appreciation for a medium-risk investor."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "DSP Flexi Cap Fund",
+      "min_sip": "100 INR",
+      "category": "Flexi-Cap",
+      "3_year_return": "18.41%",
+      "5_year_return": "22.33%",
+      "reason_for_investment": "This fund offers flexibility to invest across market caps, providing diversification and potential for higher returns. Its strong historical performance over 3 and 5 years makes it suitable for a medium-risk profile aiming for growth."
+    },
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "min_sip": "100 INR",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.5%",
+      "5_year_return": "22.9%",
+      "reason_for_investment": "Another excellent flexi-cap option, Parag Parikh Flexi Cap Fund has consistently delivered strong returns. Its investment philosophy often includes global diversification (though primarily Indian equities in this context), which can add stability and growth potential to a medium-risk portfolio."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "min_sip": "100 INR",
+      "category": "Mid-Cap",
+      "3_year_return": "27%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "For a portion of the mutual fund allocation, a mid-cap fund like HDFC Mid Cap Opportunities can provide higher growth potential. While carrying slightly more risk than large-cap funds, its impressive 3 and 5-year returns align with a medium-risk appetite looking for enhanced returns over the long term."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds provide stability to the portfolio, acting as a cushion during market volatility. They generally offer lower but more predictable returns, balancing the higher-risk equity components and aligning with a medium-risk profile."
+  },
+  "Gold": {
+    "summary": "Gold ETFs offer a hedge against inflation and currency depreciation, adding a crucial diversifier to the portfolio. It typically performs well during economic uncertainties, providing stability and reducing overall portfolio risk, suitable for a medium-risk approach."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return over 6 years: 67004.78 INR",
+    "moderate_return": "8% return over 6 years: 79343.72 INR",
+    "optimistic_return": "12% return over 6 years: 98691.13 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[67004.78,79343.72,98691.13]}]}}"
+  },
+  "summary": "This portfolio for your 50,000 INR investment in India balances growth and stability. The equity sleeve, comprising stocks and mutual funds, aims for capital appreciation. Diversifiers like Gold and Bond Mutual Funds will help mitigate risk and provide stability. The selected stocks exhibit strong financial metrics and growth potential. The chosen mutual funds, particularly the Flexi-Cap options, offer diversified growth, while the Mid-Cap fund provides exposure to higher growth segments. This allocation is designed to achieve a 12% annual return over 6 years with a medium-risk profile.",
+  "risk_analysis": {
+    "mild_crash": "10% drop: 5000 INR lost, portfolio value 45000 INR",
+    "moderate_crash": "20% drop: 10000 INR lost, portfolio value 40000 INR",
+    "severe_crash": "30% drop: 15000 INR lost, portfolio value 35000 INR",
+    "summary": "This portfolio is designed for a medium-risk appetite. While equity investments offer growth potential, they are subject to market fluctuations. Diversification across asset classes like gold and bond mutual funds helps to cushion against potential downturns. Regular monitoring and rebalancing are crucial to managing risk effectively.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[45000,40000,35000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is key to reducing risk. By spreading your investments across various asset classes like stocks, mutual funds, gold, and bonds, you minimize the impact of poor performance from any single asset, enhancing portfolio stability and long-term returns.",
+    "long_term_perspective": "Investing with a long-term perspective (6 years in your case) allows your investments to ride out short-term market volatility and benefit from the power of compounding. Patience and discipline are essential for achieving your financial goals.",
+    "rebalancing_strategy": "Periodically reviewing and adjusting your portfolio's asset allocation back to its original targets is known as rebalancing. This helps maintain your desired risk level and ensures you're not overexposed to any particular asset class. Typically, rebalance annually or when allocations deviate significantly.",
+    "understanding_risk": "Every investment carries some level of risk. Understanding your risk tolerance is crucial. While this portfolio is designed for a medium-risk profile, market conditions can change. Stay informed, review your portfolio regularly, and consult with a financial advisor if needed."
+  }
+}
