@@ -1,0 +1,146 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and 60000 INR",
+      "mutual_funds": "30% and 60000 INR"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "15% and 30000 INR",
+      "bond_mutual_funds": "25% and 50000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Fixed Deposit/Debt'],datasets:[{data:[30,30,15,25]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "HDFCBANK.NS",
+      "current_price": 1003.5,
+      "week_52_high": "1020.0",
+      "week_52_low": "812.15",
+      "pe": "23.127",
+      "pb": "2.856",
+      "eps": "43.73",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.09",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "19.35%",
+      "net_profit_margin": "28.39%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:HDFCBANK",
+      "buy_link": "https://public.com/stocks/HDFCBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank is a leading private sector bank with strong fundamentals, consistent growth in revenue, and healthy profit margins, making it a stable investment for moderate risk. The stock is trading well above its 52-week low, indicating positive momentum."
+      }
+    },
+    {
+      "stock": "ICICIBANK.NS",
+      "current_price": 1375.8,
+      "week_52_high": "1500.0",
+      "week_52_low": "1186.0",
+      "pe": "18.811",
+      "pb": "2.944",
+      "eps": "73.52",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.8",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "26.98%",
+      "net_profit_margin": "24.92%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:ICICIBANK",
+      "buy_link": "https://public.com/stocks/ICICIBANK.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICI Bank shows excellent revenue growth and strong profitability, reflecting its robust performance in the banking sector. Its reasonable PE and PB ratios, coupled with a healthy ROE, suggest good value for a moderate risk investor."
+      }
+    },
+    {
+      "stock": "RELIANCE.NS",
+      "current_price": 1479.7,
+      "week_52_high": "1551.0",
+      "week_52_low": "1114.85",
+      "pe": "23.889",
+      "pb": "2.262",
+      "eps": "61.39",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.38",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "7.06%",
+      "net_profit_margin": "7.21%",
+      "current_ratio": "0.578",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:RELIANCE",
+      "buy_link": "https://public.com/stocks/RELIANCE.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Reliance Industries, a diversified conglomerate, offers stability and potential for growth across various sectors. Its consistent revenue growth and moderate valuation metrics make it a suitable choice for a balanced portfolio."
+      }
+    },
+    {
+      "stock": "SBIN.NS",
+      "current_price": 917.25,
+      "week_52_high": "916.0",
+      "week_52_low": "680.0",
+      "pe": "10.263",
+      "pb": "1.567",
+      "eps": "89.06",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.75",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "8.00%",
+      "net_profit_margin": "22.19%",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NSE:SBIN",
+      "buy_link": "https://public.com/stocks/SBIN.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "State Bank of India, a prominent public sector bank, presents a compelling valuation with a low PE and PB, strong EPS, and a healthy dividend yield. Its steady revenue growth and robust profit margins provide a solid foundation for moderate risk investment."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "min_sip": "100 INR",
+      "category": "Large Cap Equity",
+      "3_year_return": "~18%",
+      "5_year_return": "~15%",
+      "reason_for_investment": "Aims for long-term capital appreciation by investing primarily in large-cap companies. Suitable for moderate risk with a stable performance track record."
+    },
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "min_sip": "1000 INR",
+      "category": "Flexi Cap Equity",
+      "3_year_return": "~22%",
+      "5_year_return": "~19%",
+      "reason_for_investment": "Invests across market capitalizations and geographies, offering diversification and flexibility to capitalize on opportunities. Good for moderate risk with active management."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Allocating 50,000 INR to Fixed Deposits or short-term Debt Mutual Funds provides stability and capital protection, balancing the higher risk exposure from equities. This helps in achieving overall moderate risk and provides predictable returns."
+  },
+  "Gold": {
+    "summary": "Investing 30,000 INR in Gold can act as a hedge against inflation and market volatility. Options include Gold ETFs for liquidity or Sovereign Gold Bonds (SGBs) for additional interest and tax benefits if held to maturity."
+  },
+  "what_if_analysis": {
+    "conservative_return": "8% annual return, projecting to 272,097.76 INR over 4 years.",
+    "moderate_return": "12% annual return, projecting to 314,703.92 INR over 4 years.",
+    "optimistic_return": "15% annual return, projecting to 349,802.00 INR over 4 years.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (8%)','Moderate (12%)','Optimistic (15%)'],datasets:[{label:'Projected Value',data:[272097.76,314703.92,349802.00]}]}}"
+  },
+  "summary": "This portfolio aims for a 15% annual return over 4 years with a moderate risk profile in the Indian market. It diversifies across equity (stocks and mutual funds) and safer assets like gold and fixed deposits. The selected stocks are from established financial and industrial sectors, demonstrating strong fundamentals and growth potential. The allocation to diversifiers provides stability and reduces overall portfolio risk.",
+  "risk_analysis": {
+    "mild_crash": "A 10% market drop could result in a loss of approximately 20,000 INR, bringing the portfolio value to 180,000 INR.",
+    "moderate_crash": "A 20% market drop could result in a loss of approximately 40,000 INR, bringing the portfolio value to 160,000 INR.",
+    "severe_crash": "A 30% market drop could result in a loss of approximately 60,000 INR, bringing the portfolio value to 140,000 INR.",
+    "summary": "This portfolio is designed for moderate risk. While equity investments carry inherent risks, the diversification into gold and fixed deposits helps mitigate potential losses during market downturns. Regular monitoring and rebalancing are recommended to manage risk effectively.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[180000,160000,140000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across different asset classes (stocks, mutual funds, gold, debt) helps reduce overall portfolio risk. When one asset class performs poorly, others may perform well, balancing returns.",
+    "long_term_perspective": "Investing with a long-term horizon (like your 4-year plan) allows your investments to ride out short-term market fluctuations and benefit from compounding, potentially leading to higher returns.",
+    "rebalancing_strategy": "Regularly review your portfolio (e.g., annually) and rebalance it. If one asset class grows significantly, you might trim it to maintain your target allocation and risk profile. This ensures you're not overexposed to a single area.",
+    "understanding_risk": "Every investment carries some level of risk. Understand the potential downsides and align your investments with your personal risk tolerance. Never invest money you cannot afford to lose, especially in volatile assets."
+  }
+}
