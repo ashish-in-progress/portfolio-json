@@ -1,0 +1,144 @@
+{
+  "market": "US",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "40% and $24,000",
+      "mutual_funds": "40% and $24,000"
+    },
+    "diversifiers": {
+      "crypto": "20% and $12,000",
+      "gold": "0% and 0 INR",
+      "bond_mutual_funds": "0% and 0 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Crypto'],datasets:[{data:[40,40,20]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "NVDA",
+      "current_price": 186.26,
+      "week_52_high": "195.62",
+      "week_52_low": "86.62",
+      "pe": "51.06",
+      "pb": "44.16",
+      "eps": "3.51",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.02",
+      "total_debt_to_equity": "0.11",
+      "revenue_growth_yoy": "71.55",
+      "net_profit_margin": "52.41",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NASDAQ:NVDA",
+      "buy_link": "https://public.com/stocks/nvda",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NVIDIA is selected for its exceptional revenue growth (71.55% YOY) and high net profit margin, indicating strong market demand for its chips crucial in AI and gaming. Despite a high PE, its robust financials and market position make it a high-growth, high-risk choice."
+      }
+    },
+    {
+      "stock": "META",
+      "current_price": 738.36,
+      "week_52_high": "796.25",
+      "week_52_low": "479.8",
+      "pe": "25.76",
+      "pb": "9.44",
+      "eps": "27.58",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.28",
+      "total_debt_to_equity": "0.16",
+      "revenue_growth_yoy": "19.38",
+      "net_profit_margin": "39.99",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NASDAQ:META",
+      "buy_link": "https://public.com/stocks/meta",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Meta Platforms is chosen for its solid revenue growth and very high net profit margin, reflecting its dominant position in social media and advertising. The company shows strong profitability and efficient balance sheet management, suitable for a high-risk portfolio with growth potential."
+      }
+    },
+    {
+      "stock": "PLTR",
+      "current_price": 184.63,
+      "week_52_high": "190.0",
+      "week_52_low": "40.9",
+      "pe": "547.34",
+      "pb": "70.47",
+      "eps": "0.3",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "null",
+      "total_debt_to_equity": "0.0",
+      "revenue_growth_yoy": "38.79",
+      "net_profit_margin": "22.18",
+      "current_ratio": "N/A",
+      "chart": "https://reynaldo-appropriable-jackelyn.ngrok-free.dev/chart?q=NYSE:PLTR",
+      "buy_link": "https://public.com/stocks/pltr",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Palantir is included for its significant revenue growth and zero debt, indicating strong business expansion and financial health. Its very high PE ratio suggests market expectation of future growth, aligning with a high-risk, high-reward investment strategy."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Vanguard Health Care Fund",
+      "min_sip": "100",
+      "category": "Sectoral",
+      "3_year_return": "15",
+      "5_year_return": "16.5",
+      "reason_for_investment": "Vanguard Health Care Fund is chosen for its consistently high 3-year and 5-year returns, indicating strong performance in a vital sector. This sectoral fund provides focused growth potential aligned with a high-risk strategy."
+    },
+    {
+      "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+      "min_sip": "100",
+      "category": "Total Market",
+      "3_year_return": "13",
+      "5_year_return": "15",
+      "reason_for_investment": "Vanguard Total Stock Market Index Fund provides broad diversification across the entire US stock market with strong historical returns. This fund offers exposure to various market segments, balancing high-growth individual stocks with overall market performance for a high-risk profile."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 115470,
+      "roi": "N/A",
+      "buy_link": "https://www.coinbase.com/price/bitcoin",
+      "summary": "Bitcoin is selected as a cornerstone of the crypto allocation due to its position as the largest and most established cryptocurrency. Its high volatility aligns with the high-risk portfolio, offering potential for substantial capital appreciation."
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "current_price": 4189.75,
+      "roi": "4750.70%",
+      "buy_link": "https://www.coinbase.com/price/ethereum",
+      "summary": "Ethereum is included for its robust ecosystem and its role as the foundation for decentralized applications (dApps) and NFTs. Its strong ROI and continuous development make it a high-growth asset within the high-risk crypto allocation."
+    }
+  ],
+  "bond_mutual_funds": {
+    "summary": "No bond mutual funds are selected for this high-risk, high-growth portfolio to maximize equity and crypto exposure."
+  },
+  "Gold": {
+    "summary": "No gold allocation is made in this high-risk portfolio, prioritizing higher-growth assets over traditional safe havens."
+  },
+  "what_if_analysis": {
+    "conservative_return": "With a 5% annual return, your $60,000 portfolio could grow to approximately $76,576.89 in 5 years.",
+    "moderate_return": "With an 8% annual return, your $60,000 portfolio could grow to approximately $88,117.08 in 5 years.",
+    "optimistic_return": "With a 12% annual return, your $60000 portfolio could grow to approximately $105,735.15 in 5 years.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[76576.89,88117.08,105735.15]}]}}"
+  },
+  "summary": "This portfolio for a $60,000 budget in the US market, with a high-risk tolerance and a 5-year outlook for a 12% annual return, is aggressively positioned towards growth. It allocates 40% to individual growth stocks (NVIDIA, Meta, Palantir) known for high revenue growth and strong market positions, while another 40% is in high-performing US equity mutual funds (Vanguard Health Care Fund and Vanguard Total Stock Market Index Fund) for diversified growth. The remaining 20% is allocated to cryptocurrencies, reflecting the high-risk appetite for potentially higher returns. This allocation aims to maximize growth potential while acknowledging inherent market volatility.",
+  "risk_analysis": {
+    "mild_crash": "A 10% drop on your $60,000 portfolio would result in a loss of $6,000, leaving your portfolio at $54,000. https://quickchart.io/chart?c={type:'bar',data:{labels:['Original Value','After Mild Crash (10%)'],datasets:[{label:'Portfolio Value',data:[60000,54000]}]}}",
+    "moderate_crash": "A 20% drop on your $60,000 portfolio would result in a loss of $12,000, leaving your portfolio at $48,000. https://quickchart.io/chart?c={type:'bar',data:{labels:['Original Value','After Moderate Crash (20%)'],datasets:[{label:'Portfolio Value',data:[60000,48000]}]}}",
+    "severe_crash": "A 30% drop on your $60,000 portfolio would result in a loss of $18,000, leaving your portfolio at $42,000. https://quickchart.io/chart?c={type:'bar',data:{labels:['Original Value','After Severe Crash (30%)'],datasets:[{label:'Portfolio Value',data:[60000,42000]}]}}",
+    "summary": "This high-risk portfolio is designed for aggressive growth and is subject to significant volatility. While it offers substantial upside potential, investors should be prepared for considerable downturns, as simulated above. Diversification across high-growth stocks, mutual funds, and cryptocurrencies aims to mitigate some specific asset risks, but overall market downturns will still impact the portfolio significantly. Regular monitoring and adherence to the long-term outlook are crucial.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[54000,48000,42000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across various asset classes (stocks, mutual funds, crypto) helps reduce overall portfolio risk. While this portfolio is aggressive, the inclusion of mutual funds alongside individual stocks and crypto aims to spread risk and capture growth from different market segments. It prevents over-reliance on any single asset's performance.",
+    "long_term_perspective": "Given the high-risk nature and growth orientation of this portfolio, maintaining a long-term perspective (5 years or more) is critical. Short-term market fluctuations can be significant, but historically, growth-oriented assets tend to perform well over longer periods, allowing time for recovery and compounding returns.",
+    "rebalancing_strategy": "Regularly review and rebalance your portfolio to maintain your desired asset allocation. As some assets outperform others, their proportion in your portfolio might exceed the initial targets. Rebalancing (selling high-performing assets and buying underperforming ones) helps manage risk and ensures you stay aligned with your investment strategy. For a high-risk portfolio, quarterly or semi-annual rebalancing might be appropriate.",
+    "understanding_risk": "Understand that a high-risk portfolio comes with the potential for substantial losses, as demonstrated in the crash impact simulations. Only invest capital you are comfortable losing, and ensure this portfolio aligns with your personal financial goals and emotional tolerance for market volatility. Continuous education on market dynamics and asset-specific risks is highly recommended."
+  }
+}
