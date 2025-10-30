@@ -1,0 +1,124 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and 60000 INR",
+      "mutual_funds": "40% and 80000 INR"
+    },
+    "diversifiers": {
+      "gold": "15% and 30000 INR",
+      "bond_mutual_funds": "15% and 30000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[30,40,15,15]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "AXISBANK.NS",
+      "current_price": 1242.5999755859375,
+      "week_52_high": "1272.5",
+      "week_52_low": "933.5",
+      "pe": "15.21",
+      "pb": "1.97",
+      "eps": "83.39",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.08%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.82%",
+      "net_profit_margin": "33.05%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251113/tradingview/advanced-chart/35295af3-4270-4a55-95c5-2144d9f796c3.png",
+      "buy_link": "https://groww.in/stocks/axis-bank",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Axis Bank is a strong private sector bank with consistent revenue growth and healthy profit margins. Its reasonable PE ratio and stable performance make it a good choice for a moderate risk portfolio seeking long-term growth."
+      }
+    },
+    {
+      "stock": "HDFCBANK.NS",
+      "current_price": 1001.5,
+      "week_52_high": "1020.0",
+      "week_52_low": "812.15",
+      "pe": "23.13",
+      "pb": "2.86",
+      "eps": "43.73",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.09%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "19.36%",
+      "net_profit_margin": "28.40%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251113/tradingview/advanced-chart/19c65653-2dfa-45ba-8cd1-2dec8635aaed.png",
+      "buy_link": "https://groww.in/stocks/hdfc-bank",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank is a leading private bank known for its strong asset quality and consistent performance. Its robust revenue growth and good net profit margin indicate a healthy business, suitable for a stable and growing portfolio."
+      }
+    },
+    {
+      "stock": "ITC.NS",
+      "current_price": 419.20001220703125,
+      "week_52_high": "493.5",
+      "week_52_low": "390.15",
+      "pe": "26.31",
+      "pb": "7.49",
+      "eps": "15.94",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.8%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.78%",
+      "net_profit_margin": "46.54%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251113/tradingview/advanced-chart/e7639508-4fb2-4ff9-9f75-c78ba3cfe35c.png",
+      "buy_link": "https://groww.in/stocks/itc",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC is a diversified conglomerate with a strong presence in FMCG, hotels, and paperboard. Its high net profit margin, consistent dividend yield, and decent revenue growth make it a stable and income-generating asset for a moderate risk profile."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "DSP Flexi Cap Fund",
+      "min_sip": "100 INR",
+      "category": "Flexi-Cap",
+      "3_year_return": "18.41%",
+      "5_year_return": "22.33%",
+      "reason_for_investment": "This fund offers excellent historical returns over 3 and 5 years, significantly exceeding your 12% target. Its Flexi-Cap nature allows the fund manager to invest across market capitalizations, providing flexibility and diversification suitable for moderate risk with growth potential."
+    },
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "min_sip": "100 INR",
+      "category": "Large-Cap",
+      "3_year_return": "12.0%",
+      "5_year_return": "14.0%",
+      "reason_for_investment": "As a Large-Cap fund, it invests in well-established, stable companies, aligning with a moderate risk appetite. Its consistent returns meet your annual expectation and provide a strong foundation for your equity portfolio with relatively lower volatility."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Bond mutual funds provide stability and regular income, acting as a cushion against equity market volatility. They are ideal for diversifying a moderate-risk portfolio and offer potential tax advantages compared to traditional fixed deposits."
+  },
+  "Gold": {
+    "summary": "Gold serves as a traditional safe-haven asset, offering protection against inflation and currency devaluation. Its inclusion diversifies the portfolio and can act as a hedge during economic uncertainties, aligning with a moderate risk strategy."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, projecting 210000 INR after 1 year, 220500 INR after 2 years, 231525 INR after 3 years, 243101 INR after 4 years, and 255256 INR after 5 years.",
+    "moderate_return": "8% return, projecting 216000 INR after 1 year, 233280 INR after 2 years, 251942 INR after 3 years, 272097 INR after 4 years, and 293865 INR after 5 years.",
+    "optimistic_return": "12% return, projecting 224000 INR after 1 year, 250880 INR after 2 years, 280985 INR after 3 years, 314703 INR after 4 years, and 352467 INR after 5 years.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value after 5 years',data:[255256,293865,352467]}]}}"
+  },
+  "summary": "This portfolio of 200,000 INR is structured for the Indian market with a moderate risk profile, aiming for a 12% annual return over a two-year horizon. It allocates 70% to equity (30% stocks, 40% mutual funds) and 30% to diversifiers (15% gold, 15% bond mutual funds). The stock selection (Axis Bank, HDFC Bank, ITC) targets fundamentally strong companies with a blend of growth and stability. The mutual fund choices (DSP Flexi Cap Fund, ICICI Prudential Bluechip Fund) provide diversification across market caps and consistent returns. Gold and bond mutual funds offer a hedge against market volatility and inflation, enhancing overall portfolio stability and aligning with the stated risk appetite.",
+  "risk_analysis": {
+    "mild_crash": "A 10% market drop would result in a loss of 20000 INR, bringing the portfolio value down to 180000 INR.",
+    "moderate_crash": "A 20% market drop would result in a loss of 40000 INR, bringing the portfolio value down to 160000 INR.",
+    "severe_crash": "A 30% market drop would result in a loss of 60000 INR, bringing the portfolio value down to 140000 INR.",
+    "summary": "This portfolio is designed with a moderate risk approach, aiming to mitigate significant losses during market downturns through diversification. The inclusion of gold and bond mutual funds provides a buffer, as these assets tend to be less correlated with equities. Regular rebalancing and a long-term investment horizon are crucial for navigating market volatility and achieving the desired returns while managing risk effectively.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[180000,160000,140000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is key to managing risk. By spreading your investments across different asset classes like stocks, mutual funds, gold, and bonds, you reduce the impact of poor performance in any single asset. This strategy helps to stabilize returns and protect your capital during volatile periods.",
+    "long_term_perspective": "Investing with a long-term perspective allows your investments to ride out short-term market fluctuations and benefit from compounding. Over extended periods, even moderate annual returns can lead to substantial wealth creation. Patience and discipline are essential for long-term success.",
+    "rebalancing_strategy": "Regularly rebalancing your portfolio involves adjusting your asset allocation back to your original targets. For example, if stocks have performed well and now represent a larger portion of your portfolio, you would sell some stocks and buy more of your underperforming assets (e.g., bonds, gold) to restore your desired allocation. This helps maintain your risk profile and lock in gains.",
+    "understanding_risk": "Understanding your risk tolerance is crucial. A moderate risk profile, as applied here, means you are comfortable with some market fluctuations in exchange for potentially higher returns. Be aware that all investments carry some risk, and past performance is not indicative of future results. Continuously educate yourself about market dynamics and your chosen investments."
+  }
+}
