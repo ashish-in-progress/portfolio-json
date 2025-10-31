@@ -1,0 +1,154 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "35% and 210000 INR",
+      "mutual_funds": "35% and 210000 INR"
+    },
+    "diversifiers": {
+      "crypto": null,
+      "gold": "10% and 60000 INR",
+      "bond_mutual_funds": "20% and 120000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[35,35,10,20]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "HDFCBANK.NS",
+      "current_price": 987.75,
+      "week_52_high": "1020.5",
+      "week_52_low": "812.15",
+      "pe": "22.59",
+      "pb": "2.78",
+      "eps": "43.72",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "1.1%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "19.35%",
+      "net_profit_margin": "28.39%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251114/tradingview/advanced-chart/8c84a439-656c-4c5e-814e-234411821f85.png",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=HDFCBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "HDFC Bank is a leading private sector bank with consistent growth in revenue and net profit. Its strong fundamentals and significant market share make it a stable investment for long-term growth and capital appreciation."
+      }
+    },
+    {
+      "stock": "ITC.NS",
+      "current_price": 421.05,
+      "week_52_high": "493.45",
+      "week_52_low": "390.15",
+      "pe": "26.69",
+      "pb": "7.60",
+      "eps": "15.95",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.75%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.77%",
+      "net_profit_margin": "46.54%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251114/tradingview/advanced-chart/7739bd51-829d-4213-8446-5d71b43062ee.png",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=ITC",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC is a diversified conglomerate with a strong presence in FMCG, hotels, paperboards, and agribusiness. Its high net profit margin and attractive dividend yield provide stability and consistent returns, acting as a defensive play in a balanced portfolio."
+      }
+    },
+    {
+      "stock": "INFY.NS",
+      "current_price": 1487.5,
+      "week_52_high": "2006.45",
+      "week_52_low": "1307.0",
+      "pe": "21.32",
+      "pb": "529.99",
+      "eps": "69.76",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.01%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "3.85%",
+      "net_profit_margin": "16.38%",
+      "current_ratio": "2.044",
+      "chart": "https://r2.chart-img.com/20251114/tradingview/advanced-chart/3a7463f0-811f-4b74-aa0f-316a08645ba0.png",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=INFY",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Infosys is a global leader in IT services, known for its strong execution and consistent dividend payouts. While revenue growth is moderate, its strong ROE and ROA indicate efficient management, making it a reliable choice for tech sector exposure and steady returns."
+      }
+    },
+    {
+      "stock": "NTPC.NS",
+      "current_price": 337.9,
+      "week_52_high": "415.45",
+      "week_52_low": "292.8",
+      "pe": "18.13",
+      "pb": "1.78",
+      "eps": "18.67",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.36%",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "5.39%",
+      "net_profit_margin": "12.57%",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251114/tradingview/advanced-chart/d6de94d1-34b8-4107-9fbd-65423b8615e6.png",
+      "buy_link": "https://www.nseindia.com/get-quotes/equity?symbol=NTPC",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "NTPC is India's largest power generation company, offering a stable investment due to the essential nature of its business. Its decent dividend yield and positive revenue growth contribute to a consistent income stream, suitable for a medium-risk portfolio."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "min_sip": "100 INR",
+      "category": "Large-Cap",
+      "3_year_return": "12.0%",
+      "5_year_return": "14.0%",
+      "reason_for_investment": "This fund invests primarily in large-cap companies, providing stability and relatively lower volatility, ideal for the core of a medium-risk portfolio. Its consistent returns over 3 and 5 years demonstrate its reliability."
+    },
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "min_sip": "100 INR",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.5%",
+      "5_year_return": "22.9%",
+      "reason_for_investment": "A flexi-cap fund offers the flexibility to invest across market capitalizations, allowing the fund manager to adapt to changing market conditions. Parag Parikh Flexi Cap Fund has shown strong historical returns, offering good growth potential with diversified exposure."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "min_sip": "100 INR",
+      "category": "Mid-Cap",
+      "3_year_return": "27.0%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "This fund invests in mid-cap companies, which have higher growth potential than large-caps but also come with moderate risk. Its impressive 3-year and 5-year returns suggest strong performance, suitable for adding a growth component to a medium-risk portfolio with a smaller allocation."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "The 20% allocation to FD/Debt will be managed through bond mutual funds, providing stable returns and capital preservation. This helps in balancing the equity exposure and reducing overall portfolio volatility, aligning with a medium-risk profile. These funds invest in a mix of government securities, corporate bonds, and other fixed-income instruments."
+  },
+  "Gold": {
+    "summary": "The 10% allocation to gold serves as a traditional safe-haven asset, offering protection against inflation and market volatility. Gold tends to perform well during economic uncertainties, thus diversifying the portfolio and reducing overall risk."
+  },
+  "what_if_analysis": {
+    "conservative_return": "Assuming a 5% annual return: In 4 years, an initial 600000 INR investment could grow to approximately 729300 INR.",
+    "moderate_return": "Assuming an 8% annual return: In 4 years, an initial 600000 INR investment could grow to approximately 816000 INR.",
+    "optimistic_return": "Assuming a 12% annual return: In 4 years, an initial 600000 INR investment could grow to approximately 944400 INR.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[729300,816000,944400]}]}}"
+  },
+  "summary": "This portfolio for the Indian market is designed for a medium-risk profile over 4 years with a 6 lakh INR budget, targeting a 10% annual return. It allocates 70% to equity (stocks and mutual funds) for growth and 30% to diversifiers like gold and FD/debt for stability and capital protection. The chosen stocks are fundamentally strong companies across different sectors, offering a blend of stability, growth, and dividends. The mutual funds are a mix of large-cap for stability, flexi-cap for adaptive growth, and a smaller allocation to mid-cap for higher growth potential, aiming for a well-rounded and resilient investment strategy.",
+  "risk_analysis": {
+    "mild_crash": "A mild crash of 10% on the total portfolio of 600000 INR would result in a loss of 60000 INR, bringing the portfolio value down to 540000 INR.",
+    "moderate_crash": "A moderate crash of 20% on the total portfolio of 600000 INR would result in a loss of 120000 INR, bringing the portfolio value down to 480000 INR.",
+    "severe_crash": "A severe crash of 30% on the total portfolio of 600000 INR would result in a loss of 180000 INR, bringing the portfolio value down to 420000 INR.",
+    "summary": "This portfolio is designed with a medium-risk profile. While equities offer growth potential, they are also susceptible to market downturns. The diversification into gold and bond mutual funds (FD/debt) helps mitigate these risks by providing stability during volatile periods. It's important to remember that past performance is not indicative of future results, and all investments carry inherent risks. Regular monitoring and rebalancing are crucial for managing risk effectively.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[540000,480000,420000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is crucial for managing risk. By investing in a variety of assets like stocks, mutual funds, gold, and fixed-income instruments, you spread your risk and reduce the impact of any single asset performing poorly. This portfolio demonstrates diversification across equity and debt, and different market caps within equity.",
+    "long_term_perspective": "Successful investing often requires a long-term perspective. Market fluctuations are normal, and reacting impulsively to short-term dips can be detrimental. Staying invested for the long term allows your investments to recover from downturns and benefit from compounding returns, especially in growth-oriented assets like equities.",
+    "rebalancing_strategy": "Periodically rebalancing your portfolio means adjusting your asset allocation back to your original targets. For instance, if stocks have performed exceptionally well, their proportion might exceed your target. Rebalancing involves selling some of the outperforming assets and buying more of the underperforming ones to maintain your desired risk level and allocation. This typically done annually or semi-annually.",
+    "understanding_risk": "Understanding your risk tolerance is fundamental to investing. Every investment carries some level of risk, and it's essential to align your portfolio with how much risk you are comfortable taking. A medium-risk profile, as in this portfolio, balances growth potential with capital preservation. Be aware of both market risks (e.g., economic downturns) and specific risks associated with individual investments."
+  }
+}
