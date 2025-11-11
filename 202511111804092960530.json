@@ -1,0 +1,154 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and 1,78,744 INR",
+      "mutual_funds": "30% and 1,80,000 INR"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "10% and 60,000 INR",
+      "bond_mutual_funds": "30% and 1,80,000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds'],datasets:[{data:[30,30,10,30]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "AXISBANK.NS",
+      "current_price": 1222.5,
+      "week_52_high": "1276.1",
+      "week_52_low": "933.5",
+      "pe": "14.849065",
+      "pb": "1.9270471",
+      "eps": "83.48",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.08",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.819152869128953",
+      "net_profit_margin": "33.04845375543463",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251125/tradingview/advanced-chart/f396f504-e679-4a99-876b-43ffb09159f9.png",
+      "buy_link": "https://groww.in/stocks/AXISBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Axis Bank shows strong earnings per share and revenue growth, indicating healthy financial performance. Its low PE ratio suggests it might be undervalued, making it a good medium-risk banking sector pick."
+      }
+    },
+    {
+      "stock": "ICICIBANK.NS",
+      "current_price": 1358.3,
+      "week_52_high": "1500.0",
+      "week_52_low": "1186.0",
+      "pe": "18.299025",
+      "pb": "2.877036",
+      "eps": "73.84",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.81",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "26.98654911125621",
+      "net_profit_margin": "24.926912911965733",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251125/tradingview/advanced-chart/d972c0e2-006d-4f7b-a2e6-d89e1446788c.png",
+      "buy_link": "https://groww.in/stocks/ICICIBANK",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ICICI Bank demonstrates impressive revenue growth and a solid net profit margin, reflecting strong operational efficiency. Its reasonable PE ratio and robust financials make it a stable investment in the financial sector."
+      }
+    },
+    {
+      "stock": "RELIANCE.NS",
+      "current_price": 1493.4,
+      "week_52_high": "1551.0",
+      "week_52_low": "1114.85",
+      "pe": "24.175343",
+      "pb": "2.2932482",
+      "eps": "61.48",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "0.37",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "7.0615405786936325",
+      "net_profit_margin": "7.219706165588431",
+      "current_ratio": "0.578",
+      "chart": "https://r2.chart-img.com/20251125/tradingview/advanced-chart/4a069c6d-defc-4b37-b608-3c8d63e84987.png",
+      "buy_link": "https://groww.in/stocks/RELIANCE",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Reliance Industries, a diversified conglomerate, offers exposure to multiple sectors, providing inherent stability. Its consistent revenue growth and solid EPS make it a reliable choice for long-term medium-risk investors."
+      }
+    },
+    {
+      "stock": "ITC.NS",
+      "current_price": 406.85,
+      "week_52_high": "493.45",
+      "week_52_low": "390.15",
+      "pe": "26.692791",
+      "pb": "7.6079774",
+      "eps": "15.95",
+      "roe": "N/A",
+      "roa": "N/A",
+      "dividend_yield": "3.75",
+      "total_debt_to_equity": "N/A",
+      "revenue_growth_yoy": "10.776328722631376",
+      "net_profit_margin": "46.54398491587514",
+      "current_ratio": "N/A",
+      "chart": "https://r2.chart-img.com/20251125/tradingview/advanced-chart/ab8d01ad-7fb0-4921-be79-2521589a65bd.png",
+      "buy_link": "https://groww.in/stocks/ITC",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "ITC's high net profit margin and consistent revenue growth highlight its strong brand presence and profitability in the consumer goods sector. The attractive dividend yield adds to its appeal as a defensive and stable investment."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "ICICI Prudential Bluechip Fund",
+      "min_sip": "100",
+      "category": "Large-Cap",
+      "3_year_return": "12.0%",
+      "5_year_return": "14.0%",
+      "reason_for_investment": "This fund invests in established large-cap companies, offering stability and steady returns. Its historical performance indicates consistent growth suitable for a medium-risk profile seeking long-term capital appreciation."
+    },
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "min_sip": "100",
+      "category": "Flexi-Cap",
+      "3_year_return": "22.5%",
+      "5_year_return": "22.9%",
+      "reason_for_investment": "A flexi-cap fund with the ability to invest across market capitalizations and geographies, providing diversification and adaptability. Its strong historical returns make it a good choice for growth within a medium-risk framework."
+    },
+    {
+      "name": "HDFC Mid Cap Opportunities Fund",
+      "min_sip": "100",
+      "category": "Mid-Cap",
+      "3_year_return": "27.0%",
+      "5_year_return": "30.25%",
+      "reason_for_investment": "While carrying slightly higher risk than large-cap funds, this mid-cap fund offers significant growth potential, as evidenced by its high 3-year and 5-year returns. A smaller allocation here can boost overall portfolio returns."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Fixed Deposits or Debt Funds provide stability and capital preservation, acting as a hedge against equity market volatility. They offer predictable, albeit lower, returns and are essential for maintaining a balanced portfolio aligned with a medium-risk profile."
+  },
+  "Gold": {
+    "summary": "Gold serves as an excellent diversifier and a safe-haven asset, especially during economic uncertainties and high inflation. It tends to move inversely to equities, thereby reducing overall portfolio risk and preserving purchasing power."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return, projecting a total value of 7,27,777 INR after 4 years.",
+    "moderate_return": "8% return, projecting a total value of 8,14,585 INR after 4 years.",
+    "optimistic_return": "12% return, projecting a total value of 9,42,135 INR after 4 years.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value After 4 Years',data:[727777,814585,942135]}]}}"
+  },
+  "summary": "This portfolio is designed for a medium-risk investor seeking a 10% annual return over 4 years in the Indian market. It allocates 60% to equity (stocks and mutual funds) for growth and 40% to diversifiers like gold and fixed deposits (or debt funds) for stability and risk mitigation. The selected stocks are from stable sectors with good fundamentals and reasonable valuations, while the mutual funds offer a blend of large-cap stability, flexi-cap diversification, and mid-cap growth potential to achieve the target returns. This balanced approach aims for consistent growth while managing downside risk.",
+  "risk_analysis": {
+    "mild_crash": "A mild market crash (10% drop) would lead to a loss of approximately 59,874 INR, with the portfolio value dropping to 5,38,870 INR.",
+    "moderate_crash": "A moderate market crash (20% drop) would result in a loss of approximately 1,19,749 INR, reducing the portfolio value to 4,78,995 INR.",
+    "severe_crash": "A severe market crash (30% drop) would cause a loss of approximately 1,79,623 INR, bringing the portfolio value down to 4,19,121 INR.",
+    "summary": "The diversified nature of this portfolio, with allocations to gold and fixed income, helps to cushion the impact of market downturns. While some losses are inevitable during a crash, the spread across different asset classes aims to reduce the overall volatility and allows for quicker recovery compared to an undiversified portfolio.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[538870,478995,419121]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is crucial for managing risk. By investing across different asset classes (stocks, mutual funds, gold, debt), sectors, and market caps, you reduce the impact of poor performance in any single investment. This portfolio is designed with diversification to enhance stability.",
+    "long_term_perspective": "Investing with a long-term perspective (e.g., 4 years or more) allows your investments to ride out market fluctuations and benefit from the power of compounding. Short-term market noise often distracts from long-term wealth creation.",
+    "rebalancing_strategy": "Regularly rebalance your portfolio (e.g., annually or semi-annually) to maintain your desired asset allocation. If one asset class grows significantly, sell some to invest in underperforming ones to bring your portfolio back to its target weights. This helps manage risk and lock in gains.",
+    "understanding_risk": "All investments carry some level of risk. Understand that higher potential returns often come with higher risk. This portfolio is tailored for a medium-risk profile, balancing growth with capital preservation. Be comfortable with the potential ups and downs of the market."
+  }
+}
