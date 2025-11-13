@@ -1,0 +1,204 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 72000,
+    "time_frame": "5 years",
+    "risk": "moderate",
+    "goals": "capital appreciation with steady returns"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "67%",
+      "total_amount": 48240,
+      "stocks": {
+        "percentage": "37%",
+        "amount": 26640
+      },
+      "mutual_funds": {
+        "percentage": "30%",
+        "amount": 21600
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "33%",
+      "total_amount": 23760,
+      "fd": {
+        "percentage": "13%",
+        "amount": 9360,
+        "recommendation": "Use major banks for stable returns above inflation (7-8% pa)."
+      },
+      "gold": {
+        "percentage": "12%",
+        "amount": 8640,
+        "recommendation": "Split between digital gold and RBI sovereign gold bonds for inflation protection."
+      },
+      "debt_funds": {
+        "percentage": "8%",
+        "amount": 5760,
+        "recommendation": "Choose short-duration debt funds for safety and liquidity."
+      },
+      "crypto": null
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "BEL.NS",
+      "name": "Bharat Electronics Limited",
+      "sector": "Industrials",
+      "allocated_amount": 3805,
+      "current_price": 422.35,
+      "pe_ratio": 54.29,
+      "price_to_book": 14.33,
+      "eps": 7.78,
+      "roe": 29,
+      "dividend_yield": 0.56,
+      "debt_to_equity": 0.27,
+      "revenue_growth": 25.8,
+      "profit_margins": 22.6,
+      "why_selected": "Strong government contracts, robust order book, low debt for stability, impressive long-term growth profile.",
+      "future_outlook": "Continued spending on defense electronics positions it for steady returns above sector average."
+    },
+    {
+      "symbol": "HINDALCO.NS",
+      "name": "Hindalco Industries Limited",
+      "sector": "Basic Materials",
+      "allocated_amount": 3805,
+      "current_price": 804.65,
+      "pe_ratio": 10.1,
+      "price_to_book": 1.32,
+      "eps": 79.85,
+      "roe": 14.2,
+      "dividend_yield": 0.63,
+      "debt_to_equity": 57.6,
+      "revenue_growth": 13.5,
+      "profit_margins": 7,
+      "why_selected": "Efficient cost structure, strong presence in aluminium, and is a classic value play with stable fundamentals.",
+      "future_outlook": "Rising demand in auto and packaging will help margin expansion and incremental price appreciation."
+    },
+    {
+      "symbol": "CUMMINSIND.NS",
+      "name": "Cummins India Limited",
+      "sector": "Industrials",
+      "allocated_amount": 3805,
+      "current_price": 4420.7,
+      "pe_ratio": 53,
+      "price_to_book": 15.52,
+      "eps": 83.43,
+      "roe": 31.1,
+      "dividend_yield": 1.17,
+      "debt_to_equity": 0.31,
+      "revenue_growth": 26.4,
+      "profit_margins": 19.9,
+      "why_selected": "Clean balance sheet, exceptional ROE, and a global leader in engine tech supporting India's infrastructure.",
+      "future_outlook": "The infra cycle and exports expansion can drive multi-year compounded returns near 12-15%."
+    },
+    {
+      "symbol": "MARUTI.NS",
+      "name": "Maruti Suzuki India Limited",
+      "sector": "Consumer Cyclical",
+      "allocated_amount": 3805,
+      "current_price": 15690,
+      "pe_ratio": 33.43,
+      "price_to_book": 4.95,
+      "eps": 469.35,
+      "roe": 15.65,
+      "dividend_yield": 0.86,
+      "debt_to_equity": 0.1,
+      "revenue_growth": 13.1,
+      "profit_margins": 9.2,
+      "why_selected": "India's market leader for passenger vehicles, consistently growing net profits and keeping leverage ultra-low.",
+      "future_outlook": "Expected to ride India's middle-class growth and EV expansion, targeting double-digit annual gains."
+    },
+    {
+      "symbol": "BPCL.NS",
+      "name": "Bharat Petroleum Corp. Ltd.",
+      "sector": "Energy",
+      "allocated_amount": 3805,
+      "current_price": 374.55,
+      "pe_ratio": 7.54,
+      "price_to_book": 1.7,
+      "eps": 49.69,
+      "roe": 24.8,
+      "dividend_yield": 4.01,
+      "debt_to_equity": 56.39,
+      "revenue_growth": 2.1,
+      "profit_margins": 4.8,
+      "why_selected": "Consistent dividend payer, solid government backing. Valuations are attractive for margin recovery and high cash flows.",
+      "future_outlook": "As India urbanizes, expect energy usage to rise; good for moderate return seekers over the next 3-5 years."
+    },
+    {
+      "symbol": "COROMANDEL.NS",
+      "name": "Coromandel International Ltd.",
+      "sector": "Basic Materials",
+      "allocated_amount": 3805,
+      "current_price": 2219.2,
+      "pe_ratio": 27.25,
+      "price_to_book": 5.37,
+      "eps": 81.45,
+      "roe": 20.8,
+      "dividend_yield": 0.83,
+      "debt_to_equity": 11.6,
+      "revenue_growth": 29.9,
+      "profit_margins": 8.4,
+      "why_selected": "Major agro-inputs firm, high growth rate in rural sector, attractive for diversification outside financials & IT.",
+      "future_outlook": "Demand for fertilizers and crop enhancements will remain robust, supporting 8-10% annualized returns."
+    },
+    {
+      "symbol": "TORNTPHARM.NS",
+      "name": "Torrent Pharmaceuticals Ltd.",
+      "sector": "Healthcare",
+      "allocated_amount": 3805,
+      "current_price": 3850,
+      "pe_ratio": 61,
+      "price_to_book": 15.43,
+      "eps": 63.11,
+      "roe": 26.8,
+      "dividend_yield": 0.84,
+      "debt_to_equity": 33.4,
+      "revenue_growth": 14.3,
+      "profit_margins": 17.5,
+      "why_selected": "Strong brand in the Indian pharma market, robust profitability, rides on healthcare demand and exports.",
+      "future_outlook": "New launches and export focus should deliver healthy growth, and mitigate sector cyclicality."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-cap",
+      "allocated_amount": 10800,
+      "sip_amount": 1800,
+      "returns_3y": 18.8,
+      "returns_5y": 21.1,
+      "expense_ratio": 0.67,
+      "why_invest": "Proven track record in both domestic and US equities. Good balance for 5-year moderate risk."
+    },
+    {
+      "name": "Quant Multi Cap Fund",
+      "category": "Multi-cap",
+      "allocated_amount": 10800,
+      "sip_amount": 1800,
+      "returns_3y": 22,
+      "returns_5y": 24.6,
+      "expense_ratio": 0.77,
+      "why_invest": "Aggressive approach with tactical asset allocation, ideal for creating alpha in rising markets."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "If the portfolio grows at 8% annualized, your ₹72,000 could grow to ~₹105,815 after 5 years.",
+    "moderate_return": "At a more realistic 12% annualized (historical equities), ₹72,000 can grow to ~₹127,012 in 5 years.",
+    "optimistic_return": "If markets outperform (16% pa), ₹72,000 could rise to ~₹151,361 in 5 years."
+  },
+  "summary": "This portfolio blends high-quality stocks from multiple sectors—industrial, energy, consumer, pharma—keeping risk moderate but returns steady. Mutual funds add extra diversification and professional management. About 1/3rd in gold, FD, and debt gives stability and liquidity. The selection is designed for moderate risk and a 5-year growth outlook.",
+  "risk_analysis": {
+    "mild_crash": "A 10% market decline could mean a drop of ~₹4,800 in your equity sleeve. Diversifiers cushion some losses.",
+    "moderate_crash": "If markets fall 20%, your equity could lose ~₹9,600. Fixed-income and gold would reduce the total hit to about ₹7,200.",
+    "severe_crash": "Even with a 30% drawdown, the portfolio would lose ~₹14,400 in equities; gold and FD reduce total loss to ~₹10,000.",
+    "summary": "Portfolio is balanced so market downturns hit only the equity part. FDs and gold remain stable, debt funds are minimally impacted. Recovery typically takes 1-2 years."
+  },
+  "education_tips": {
+    "diversification_importance": "Spreading investments across sectors and types lowers risk and avoids big losses from any one area.",
+    "long_term_perspective": "5-year horizon is ideal—let compounding work, avoid panic in down markets.",
+    "rebalancing_strategy": "Review allocation yearly—shift profits from outperformers to underweighted areas or add to FDs/gold when markets overheat.",
+    "understanding_risk": "Moderate risk means accepting short-term volatility for better long-term gains. Don't expect linear growth—patience leads to wealth."
+  }
+}
