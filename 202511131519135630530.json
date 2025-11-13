@@ -1,0 +1,135 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 12000,
+    "time_frame": "2 years",
+    "risk": "moderate",
+    "goals": "Aim for compounded 13% per annum return"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "65%",
+      "total_amount": 7800,
+      "stocks": {
+        "percentage": "35%",
+        "amount": 4200
+      },
+      "mutual_funds": {
+        "percentage": "30%",
+        "amount": 3600
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "35%",
+      "total_amount": 4200,
+      "fd": {
+        "percentage": "15%",
+        "amount": 1800,
+        "recommendation": "Safe option, ideal for fixed returns and protection of capital, choose top banks"
+      },
+      "gold": {
+        "percentage": "12%",
+        "amount": 1440,
+        "recommendation": "Prefer digital gold or Gold ETFs for easy liquidity and no physical storage"
+      },
+      "debt_funds": {
+        "percentage": "8%",
+        "amount": 960,
+        "recommendation": "Short-term debt funds for stability and quick access"
+      }
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "BEL.NS",
+      "name": "Bharat Electronics Limited",
+      "sector": "Industrials",
+      "allocated_amount": 1100,
+      "current_price": 422.35,
+      "pe_ratio": 54.3,
+      "price_to_book": 14.33,
+      "eps": 7.78,
+      "roe": 29,
+      "dividend_yield": 0.56,
+      "debt_to_equity": 0.27,
+      "revenue_growth": 25.8,
+      "profit_margins": 22.6,
+      "why_selected": "Exceptional asset-light growth, minimal debt, and strong government order book. Robust recent profit growth with low risk and consistent dividend.",
+      "future_outlook": "Likely to benefit from defence modernization, stable short-term returns and moderate growth for next 2 years."
+    },
+    {
+      "symbol": "HINDALCO.NS",
+      "name": "Hindalco Industries Limited",
+      "sector": "Basic Materials",
+      "allocated_amount": 1100,
+      "current_price": 804.65,
+      "pe_ratio": 10.08,
+      "price_to_book": 1.32,
+      "eps": 79.85,
+      "roe": 14.2,
+      "dividend_yield": 0.63,
+      "debt_to_equity": 57.6,
+      "revenue_growth": 13.5,
+      "profit_margins": 7,
+      "why_selected": "Strong multi-year recovery, favorable metal cycle, well-valued and solid revenue expansion. Historically resilient in downturns.",
+      "future_outlook": "Expect 11-15% annualized appreciation; cyclical upturn can boost returns above expectations."
+    },
+    {
+      "symbol": "GAIL.NS",
+      "name": "GAIL (India) Limited",
+      "sector": "Utilities",
+      "allocated_amount": 1000,
+      "current_price": 184.82,
+      "pe_ratio": 11.15,
+      "price_to_book": 1.38,
+      "eps": 16.58,
+      "roe": 12.7,
+      "dividend_yield": 4.11,
+      "debt_to_equity": 25.4,
+      "revenue_growth": 4.9,
+      "profit_margins": 7.6,
+      "why_selected": "Cash-rich gas company with stable rates and regular dividends, good mix for moderate risk. Valuations provide margin of safety.",
+      "future_outlook": "Should provide 10-15% annual return with limited downside, stable dividends, and upside when energy prices improve."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Axis Bluechip Fund",
+      "category": "Large Cap",
+      "allocated_amount": 1800,
+      "sip_amount": 900,
+      "returns_3y": 14.8,
+      "returns_5y": 16.2,
+      "expense_ratio": 0.68,
+      "why_invest": "Strong long-term performance, low volatility compared to peers, and lower fees. Ideal for building steady returns in a moderate-risk profile."
+    },
+    {
+      "name": "Mirae Asset Large Cap Fund",
+      "category": "Large Cap/Flexi Cap",
+      "allocated_amount": 1800,
+      "sip_amount": 900,
+      "returns_3y": 15.6,
+      "returns_5y": 17.3,
+      "expense_ratio": 0.8,
+      "why_invest": "Well-diversified, delivers higher returns than benchmark, with disciplined manager and growing AUM. Fits medium risk with exposure to Indian growth leaders."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "At 9% CAGR, total portfolio after 2 years: ₹14,270",
+    "moderate_return": "At expected 13% CAGR, total portfolio after 2 years: ₹15,375",
+    "optimistic_return": "If markets perform strongly at 16% CAGR, total portfolio after 2 years: ₹16,171"
+  },
+  "summary": "This portfolio balances growth and stability for medium risk and 2-year horizon. Top industrial, utility, and material stocks combine cyclical upside with stability. Large-cap mutual funds reduce individual stock risk and add professional management. Diversifiers like FD, gold, and debt funds guard against market volatility and protect your capital base.",
+  "risk_analysis": {
+    "mild_crash": "10% drop means portfolio might fall to about ₹10,800. Loss absorbed mainly by equities; diversifiers soften the impact.",
+    "moderate_crash": "20% drop: Portfolio could go to ₹9,600. Equity sleeve would take most losses, but mutual funds and FDs help cushion.",
+    "severe_crash": "30% crash: Portfolio may fall to ₹8,400. Diversified exposure means recovery is possible but be prepared for volatility.",
+    "summary": "Diversification ensures moderate drawdowns. No sector concentration, and defensive funds/FDs reduce the size of losses in market downturns. Recovery typically takes 6-18 months for equity."
+  },
+  "education_tips": {
+    "diversification_importance": "Spreading money across stocks, funds, FDs, and gold reduces risk and increases reliability of returns.",
+    "long_term_perspective": "During volatility, focus on long-term trends and use short-term dips to add investments via SIP.",
+    "rebalancing_strategy": "Review allocation every 6-12 months. If stocks outperform, shift some gains to FD/gold to maintain balance.",
+    "understanding_risk": "Medium risk means accepting short-term swings for steadier long-term returns. Know your comfort zone and invest accordingly."
+  }
+}
