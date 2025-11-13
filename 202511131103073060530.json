@@ -1,0 +1,125 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "35% and 70000 INR",
+      "mutual_funds": "30% and 60000 INR"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "10% and 20000 INR",
+      "bond_mutual_funds": "10% and 20000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','Gold','Bond Mutual Funds','Fixed Deposits'],datasets:[{data:[35,30,10,10,15]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "Reliance Industries Ltd",
+      "current_price": 2450.5,
+      "week_52_high": "2850.0",
+      "week_52_low": "2150.0",
+      "pe": "24.5",
+      "pb": "2.1",
+      "eps": "98.5",
+      "roe": "14.2",
+      "roa": "6.8",
+      "dividend_yield": "0.35",
+      "total_debt_to_equity": "0.45",
+      "revenue_growth_yoy": "12.5",
+      "net_profit_margin": "8.5",
+      "current_ratio": "1.2",
+      "chart": "https://r2.chart-img.com/20251127/tradingview/advanced-chart/dca821c6-134b-46f0-9582-ada3520828b2.png",
+      "buy_link": "https://groww.in/stocks/reliance-industries-ltd",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Market leader in energy, retail, and telecom sectors with diversified business model. Strong fundamentals with improving margins and focus on new energy ventures."
+      }
+    },
+    {
+      "stock": "Tata Consultancy Services Ltd",
+      "current_price": 3800.2,
+      "week_52_high": "4200.0",
+      "week_52_low": "3200.0",
+      "pe": "30.1",
+      "pb": "10.5",
+      "eps": "125.0",
+      "roe": "38.0",
+      "roa": "28.5",
+      "dividend_yield": "1.2",
+      "total_debt_to_equity": "0.0",
+      "revenue_growth_yoy": "10.1",
+      "net_profit_margin": "18.2",
+      "current_ratio": "2.5",
+      "chart": "https://r2.chart-img.com/20251127/tradingview/advanced-chart/e6c1c42d-e123-41f1-8eb8-bc3097e21887.png",
+      "buy_link": "https://groww.in/stocks/tata-consultancy-services-ltd",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "A leading global IT services and consulting company with a strong track record of consistent growth and profitability. Known for its strong balance sheet and high return ratios."
+      }
+    },
+    {
+      "stock": "ICICI Bank Ltd",
+      "current_price": 950.75,
+      "week_52_high": "1050.0",
+      "week_52_low": "750.0",
+      "pe": "19.8",
+      "pb": "3.2",
+      "eps": "48.0",
+      "roe": "16.5",
+      "roa": "1.8",
+      "dividend_yield": "0.4",
+      "total_debt_to_equity": "7.5",
+      "revenue_growth_yoy": "15.0",
+      "net_profit_margin": "20.1",
+      "current_ratio": "null",
+      "chart": "https://r2.chart-img.com/20251127/tradingview/advanced-chart/ba3d8097-5e2d-4d3e-8d07-484ed7414043.png",
+      "buy_link": "https://groww.in/stocks/icici-bank-ltd",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "One of India's largest private sector banks with a diversified loan book and strong retail presence. Demonstrating consistent improvement in asset quality and profitability."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "min_sip": "5000 INR",
+      "category": "Flexi-cap",
+      "3_year_return": "18.5%",
+      "5_year_return": "20.2%",
+      "reason_for_investment": "A well-diversified fund investing across market caps and geographies, including a portion in international equities, which provides global diversification. Known for its value-oriented approach and experienced fund management team."
+    },
+    {
+      "name": "Axis Bluechip Fund",
+      "min_sip": "5000 INR",
+      "category": "Large-cap",
+      "3_year_return": "14.2%",
+      "5_year_return": "15.8%",
+      "reason_for_investment": "Invests primarily in large-cap companies, providing stability and exposure to market leaders. This fund has consistently delivered steady returns and is suitable for moderate risk investors looking for long-term growth from established businesses."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Short-duration debt funds or ultra short-duration debt funds are suitable for a 2-year horizon, offering better post-tax returns than FDs with moderate risk."
+  },
+  "Gold": {
+    "summary": "Consider Sovereign Gold Bonds (SGBs) for tax efficiency and an annual interest payout, or digital gold for ease of access."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% annual return: After 2 years, your 200000 INR could grow to 220500 INR (10.25% total return).",
+    "moderate_return": "8% annual return: After 2 years, your 200000 INR could grow to 233280 INR (16.64% total return).",
+    "optimistic_return": "12% annual return: After 2 years, your 200000 INR could grow to 250880 INR (25.44% total return).",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value (INR)',data:[220500,233280,250880]}]}}"
+  },
+  "summary": "This moderate-risk portfolio of 200,000 INR is structured for wealth creation over a 2-year period. A significant portion (65%) is allocated to equity through a mix of quality large-cap stocks and diversified mutual funds to capture growth. The remaining 35% is in diversifiers like FDs, Gold, and Debt Funds, offering stability and hedging against market volatility. Stock selection focuses on market leaders with strong fundamentals and growth prospects. Mutual funds provide broad market exposure and professional management. Expected portfolio return: 12-15% annually with moderate volatility, aligning with the user's expectations.",
+  "risk_analysis": {
+    "mild_crash": "In a mild market crash (10% drop), your 200000 INR portfolio could decrease to 180000 INR, resulting in a loss of 20000 INR.",
+    "moderate_crash": "In a moderate market crash (20% drop), your 200000 INR portfolio could decrease to 160000 INR, resulting in a loss of 40000 INR.",
+    "severe_crash": "In a severe market crash (30% drop), your 200000 INR portfolio could decrease to 140000 INR, resulting in a loss of 60000 INR.",
+    "summary": "This portfolio, with a moderate risk profile, includes diversification across equity and debt instruments to mitigate severe impacts during market downturns. However, as with any investment, capital is at risk, and market corrections can lead to temporary losses. Regular rebalancing and a long-term perspective are crucial for navigating market volatility.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash (INR)',data:[180000,160000,140000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification is key to managing risk. By spreading your investments across different asset classes (stocks, mutual funds, gold, debt), you reduce the impact of poor performance from any single asset. This portfolio is diversified across equities, gold, and debt, which helps balance risk and return.",
+    "long_term_perspective": "While your time horizon is 2 years, adopting a long-term perspective (5+ years) typically smooths out market volatility and enhances wealth creation. Short-term market fluctuations can be significant, but historically, well-diversified portfolios tend to recover and grow over longer periods.",
+    "rebalancing_strategy": "Regularly review your portfolio (e.g., every 6-12 months) to ensure it aligns with your original allocation strategy. If one asset class has grown significantly, you might consider selling a portion to reinvest in underperforming assets, bringing your portfolio back to its target percentages. This helps maintain your desired risk level.",
+    "understanding_risk": "All investments carry some level of risk. Understanding your personal risk tolerance is crucial. While this portfolio is designed for moderate risk, market conditions can change rapidly. Be prepared for potential fluctuations in value, especially with equity components. Only invest what you can afford to lose without impacting your financial stability."
+  }
+}
