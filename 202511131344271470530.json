@@ -1,0 +1,231 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 200000,
+    "time_frame": "2 years",
+    "risk": "moderate",
+    "goals": "12% annual return"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "68%",
+      "total_amount": 136000,
+      "stocks": {
+        "percentage": "38%",
+        "amount": 76000
+      },
+      "mutual_funds": {
+        "percentage": "30%",
+        "amount": 60000
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "32%",
+      "total_amount": 64000,
+      "fd": {
+        "percentage": "12%",
+        "amount": 24000,
+        "recommendation": "Park funds in high-rated banks for 2 years. Current rates ~7.2% p.a."
+      },
+      "gold": {
+        "percentage": "13%",
+        "amount": 26000,
+        "recommendation": "Split between digital gold ETFs and RBI sovereign gold bonds."
+      },
+      "debt_funds": {
+        "percentage": "7%",
+        "amount": 14000,
+        "recommendation": "Choose short-duration debt funds for safety and liquidity."
+      },
+      "crypto": null
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "BEL.NS",
+      "name": "Bharat Electronics Limited",
+      "sector": "Industrials",
+      "allocated_amount": 9500,
+      "current_price": 422.35,
+      "pe_ratio": 54.29,
+      "price_to_book": 14.33,
+      "eps": 7.78,
+      "roe": 29,
+      "dividend_yield": 0.56,
+      "debt_to_equity": 0.27,
+      "revenue_growth": 25.8,
+      "profit_margins": 22.6,
+      "why_selected": "Consistent growth, low debt, strong government contracts. High stability score and sector leader.",
+      "future_outlook": "Expect 15-18% returns as defence orders grow and electronics localisation increases."
+    },
+    {
+      "symbol": "CUMMINSIND.NS",
+      "name": "Cummins India Limited",
+      "sector": "Industrials",
+      "allocated_amount": 9300,
+      "current_price": 4420.7,
+      "pe_ratio": 52.99,
+      "price_to_book": 15.52,
+      "eps": 83.43,
+      "roe": 31.1,
+      "dividend_yield": 1.17,
+      "debt_to_equity": 0.31,
+      "revenue_growth": 26.4,
+      "profit_margins": 19.9,
+      "why_selected": "Leader in engine and generator manufacturing with strong export pipeline and clean balance sheet.",
+      "future_outlook": "Firm order book and demand from infra sectors support potential 15%+ annual appreciation."
+    },
+    {
+      "symbol": "HINDALCO.NS",
+      "name": "Hindalco Industries Ltd",
+      "sector": "Basic Materials",
+      "allocated_amount": 8500,
+      "current_price": 804.65,
+      "pe_ratio": 10.08,
+      "price_to_book": 1.32,
+      "eps": 79.85,
+      "roe": 14.2,
+      "dividend_yield": 0.63,
+      "debt_to_equity": 57.57,
+      "revenue_growth": 13.5,
+      "profit_margins": 7,
+      "why_selected": "Diversified metals exposure. Attractive valuation and steady profitability. Strong final score.",
+      "future_outlook": "Should benefit from global aluminium demand revival. Expect 12-15% yearly growth."
+    },
+    {
+      "symbol": "BPCL.NS",
+      "name": "Bharat Petroleum Corp",
+      "sector": "Energy",
+      "allocated_amount": 8200,
+      "current_price": 374.55,
+      "pe_ratio": 7.54,
+      "price_to_book": 1.7,
+      "eps": 49.69,
+      "roe": 24.8,
+      "dividend_yield": 4.01,
+      "debt_to_equity": 56.39,
+      "revenue_growth": 2.1,
+      "profit_margins": 4.8,
+      "why_selected": "Stable oil major with PSUs. Consistent dividend, undervalued on PE basis. Safety plus income.",
+      "future_outlook": "De-regulation and improved refining margins signal 10-12% growth plus yield."
+    },
+    {
+      "symbol": "CHOLAFIN.NS",
+      "name": "Cholamandalam Investment & Finance",
+      "sector": "Financial Services",
+      "allocated_amount": 7500,
+      "current_price": 1711.4,
+      "pe_ratio": 31.09,
+      "price_to_book": 5.55,
+      "eps": 55.04,
+      "roe": 19.6,
+      "dividend_yield": 0.11,
+      "debt_to_equity": 724.31,
+      "revenue_growth": 19.6,
+      "profit_margins": 39.2,
+      "why_selected": "Non-bank lender with steady growth and strong asset profile. Defensive pick within BFSI.",
+      "future_outlook": "Expect robust expansion due to demand spike in consumer and MSME lending."
+    },
+    {
+      "symbol": "TORNTPHARM.NS",
+      "name": "Torrent Pharmaceuticals Ltd",
+      "sector": "Healthcare",
+      "allocated_amount": 7500,
+      "current_price": 3850,
+      "pe_ratio": 61,
+      "price_to_book": 15.43,
+      "eps": 63.11,
+      "roe": 26.8,
+      "dividend_yield": 0.84,
+      "debt_to_equity": 33.4,
+      "revenue_growth": 14.3,
+      "profit_margins": 17.5,
+      "why_selected": "Healthy margins, innovation focus, top pharma exporter. Good sector hedge.",
+      "future_outlook": "New launches and export push should drive 13-15% CAGR over 2 years."
+    },
+    {
+      "symbol": "MARUTI.NS",
+      "name": "Maruti Suzuki India Limited",
+      "sector": "Consumer Cyclical",
+      "allocated_amount": 9200,
+      "current_price": 15690,
+      "pe_ratio": 33.43,
+      "price_to_book": 4.95,
+      "eps": 469.35,
+      "roe": 15.7,
+      "dividend_yield": 0.86,
+      "debt_to_equity": 0.1,
+      "revenue_growth": 13.1,
+      "profit_margins": 9.2,
+      "why_selected": "Auto leader, high brand recall, low debt, robust sales growth. Strong stability and momentum.",
+      "future_outlook": "EV expansion and rural penetration likely to drive 14-17% annual growth."
+    },
+    {
+      "symbol": "COROMANDEL.NS",
+      "name": "Coromandel International Ltd",
+      "sector": "Basic Materials",
+      "allocated_amount": 7900,
+      "current_price": 2219.2,
+      "pe_ratio": 27.25,
+      "price_to_book": 5.37,
+      "eps": 81.45,
+      "roe": 20.8,
+      "dividend_yield": 0.83,
+      "debt_to_equity": 11.6,
+      "revenue_growth": 29.9,
+      "profit_margins": 8.4,
+      "why_selected": "Agri-inputs segment, season-proof sales history, sound fundamentals.",
+      "future_outlook": "Monsoon resilience and market share gains can bring above-market returns."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-cap",
+      "allocated_amount": 30000,
+      "sip_amount": 15000,
+      "returns_3y": 19.5,
+      "returns_5y": 21.2,
+      "expense_ratio": 0.68,
+      "why_invest": "Multi-cap strategy with global diversification; proven track record and disciplined style."
+    },
+    {
+      "name": "Mirae Asset Emerging Bluechip Fund",
+      "category": "Large & Mid Cap Equity",
+      "allocated_amount": 20000,
+      "sip_amount": 10000,
+      "returns_3y": 22.1,
+      "returns_5y": 24.3,
+      "expense_ratio": 0.87,
+      "why_invest": "Growth-oriented fund with strong mid-cap tilt and low expense ratio. Suited for higher moderate risk."
+    },
+    {
+      "name": "Axis Flexi Cap Fund",
+      "category": "Flexi-cap",
+      "allocated_amount": 10000,
+      "sip_amount": 5000,
+      "returns_3y": 18.2,
+      "returns_5y": 20.2,
+      "expense_ratio": 0.88,
+      "why_invest": "Consistent performer with active management; able to shift allocations across market cycles."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "If portfolio delivers 10% p.a.: ₹242,000 after 2 years.",
+    "moderate_return": "If annualized 12% achieved: ₹250,880 after 2 years.",
+    "optimistic_return": "If markets rally for 16% returns: ₹269,120 after 2 years."
+  },
+  "summary": "This portfolio is calibrated for moderate risk, aiming for double-digit returns over 2 years. It blends sector-leading stocks with steady growth and defensiveness, while mutual funds add professional diversification. 32% is in stabilizers, ensuring capital safety and partial liquidity. Sectoral spread limits drawdown and taps into multiple macro trends.",
+  "risk_analysis": {
+    "mild_crash": "In a 10% market correction, expected temporary loss: ~₹13,600 in equity sleeve. Total portfolio drops below ₹186,000. Most conservative sectors/FD/gold soften volatility.",
+    "moderate_crash": "20% equity fall would reduce equity by ~₹27,200, total value near ₹172,000. Recovery probable as fundamentals are sound.",
+    "severe_crash": "In a 30% drawdown, equity sleeve may drop ₹40,800; total portfolio around ₹159,000. Stabilizers (FD, gold, debt funds) cushion downside.",
+    "summary": "Allocation ensures even in sharp crashes, the client's wealth is partly protected. Diversifiers and sector spread help recover lost ground faster."
+  },
+  "education_tips": {
+    "diversification_importance": "Spreading investments reduces risk from any single stock, sector, or asset class. Avoid concentration.",
+    "long_term_perspective": "Staying invested through short-term volatility is key to compounding returns. Avoid panic selling.",
+    "rebalancing_strategy": "Revisit allocations every 6-12 months; trim winners, add to laggards if fundamentals are sound. Adjust based on market cycle.",
+    "understanding_risk": "Every investment involves risks. Ensure chosen products match your return needs and volatility comfort. Avoid impulsive decisions."
+  }
+}
