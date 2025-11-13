@@ -1,0 +1,286 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 167980,
+    "time_frame": "10 years",
+    "risk": "high",
+    "goals": "aggressive wealth creation"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "82%",
+      "total_amount": 137744,
+      "stocks": {
+        "percentage": "62%",
+        "amount": 104147
+      },
+      "mutual_funds": {
+        "percentage": "20%",
+        "amount": 33597
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "18%",
+      "total_amount": 30236,
+      "fd": {
+        "percentage": "0%",
+        "amount": 0,
+        "recommendation": null
+      },
+      "gold": {
+        "percentage": "7%",
+        "amount": 11759,
+        "recommendation": "Split between digital gold and sovereign gold bonds for long-term inflation hedge; expect 8-10% annual growth."
+      },
+      "debt_funds": {
+        "percentage": "4%",
+        "amount": 6719,
+        "recommendation": "Small allocation to short-term debt funds for emergency liquidity."
+      },
+      "crypto": {
+        "percentage": "7%",
+        "amount": 11759,
+        "recommendation": "Favor blue-chip tokens (e.g., BTC/ETH via CoinSwitch) for long-term growth. High volatility, so monitor closely."
+      }
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "MARUTI.NS",
+      "name": "Maruti Suzuki India Limited",
+      "sector": "Consumer Cyclical",
+      "allocated_amount": 10500,
+      "current_price": 15690,
+      "pe_ratio": 33.43,
+      "price_to_book": 4.95,
+      "eps": 469.35,
+      "roe": 15.65,
+      "dividend_yield": 0.86,
+      "debt_to_equity": 0.1,
+      "revenue_growth": 13.1,
+      "profit_margins": 9.2,
+      "why_selected": "Auto sector leader, strong uptrend and healthy ROE; unique exposure to middle-class vehicle surge in India.",
+      "future_outlook": "Potential 15-20% annual growth as middle-class vehicle demand expands, and firm maintains innovation leadership."
+    },
+    {
+      "symbol": "LAURUSLABS.NS",
+      "name": "Laurus Labs Limited",
+      "sector": "Healthcare",
+      "allocated_amount": 8500,
+      "current_price": 989.8,
+      "pe_ratio": 77.81,
+      "price_to_book": 11.12,
+      "eps": 12.72,
+      "roe": 15.02,
+      "dividend_yield": 0.16,
+      "debt_to_equity": 44.83,
+      "revenue_growth": 35.1,
+      "profit_margins": 10.76,
+      "why_selected": "High growth pharma play with major expansion in generics and bioscience, strong momentum and product pipeline.",
+      "future_outlook": "Aggressive growth, expected to benefit from global drug demand; 30%+ returns possible if sector outperforms."
+    },
+    {
+      "symbol": "BHARTIARTL.NS",
+      "name": "Bharti Airtel Limited",
+      "sector": "Communication Services",
+      "allocated_amount": 9500,
+      "current_price": 2088.8,
+      "pe_ratio": 32.47,
+      "price_to_book": 10.28,
+      "eps": 64.33,
+      "roe": 33.02,
+      "dividend_yield": 0.78,
+      "debt_to_equity": 129.72,
+      "revenue_growth": 25.7,
+      "profit_margins": 19.8,
+      "why_selected": "Telecom/Internet backbone, high ROE, strong subscriber growth, good exposure to India's digitalization.",
+      "future_outlook": "Strong cashflows and India’s data boom drive 20%+ upside; segment resilience makes it a high-conviction pick."
+    },
+    {
+      "symbol": "MCX.NS",
+      "name": "Multi Commodity Exchange of India Limited",
+      "sector": "Financial Services",
+      "allocated_amount": 8000,
+      "current_price": 9615,
+      "pe_ratio": 70.32,
+      "price_to_book": 15.71,
+      "eps": 136.73,
+      "roe": 25.01,
+      "dividend_yield": 0.32,
+      "debt_to_equity": 0.024,
+      "revenue_growth": 28.9,
+      "profit_margins": 48.36,
+      "why_selected": "India’s leading commodity trading exchange, robust earnings, zero debt. Large cap with powerful network effects.",
+      "future_outlook": "Continuous market volume growth—expect alpha above index; leader in fintech, open to super-normal returns."
+    },
+    {
+      "symbol": "MTARTECH.NS",
+      "name": "MTAR Technologies Limited",
+      "sector": "Industrials",
+      "allocated_amount": 8000,
+      "current_price": 2632,
+      "pe_ratio": 181.39,
+      "price_to_book": 10.88,
+      "eps": 14.51,
+      "roe": 6.19,
+      "dividend_yield": null,
+      "debt_to_equity": 25.06,
+      "revenue_growth": -28.7,
+      "profit_margins": 6.89,
+      "why_selected": "High-growth engineering solutions; momentum-driven, poised to benefit from defense and renewable energy capex.",
+      "future_outlook": "Extreme volatility but big upside if government spending delivers; speculative, target 30%+ if sector trends persist."
+    },
+    {
+      "symbol": "BEL.NS",
+      "name": "Bharat Electronics Limited",
+      "sector": "Industrials",
+      "allocated_amount": 9500,
+      "current_price": 422.35,
+      "pe_ratio": 54.29,
+      "price_to_book": 14.33,
+      "eps": 7.78,
+      "roe": 29.01,
+      "dividend_yield": 0.56,
+      "debt_to_equity": 0.273,
+      "revenue_growth": 25.8,
+      "profit_margins": 22.65,
+      "why_selected": "Defence sector giant, strong order book, top performer in indigenization. High ROE and low debt add to safety.",
+      "future_outlook": "Expect steady price appreciation (~18-22%) as government contracts expand, strong sector tailwind."
+    },
+    {
+      "symbol": "CCL.NS",
+      "name": "CCL Products (India) Limited",
+      "sector": "Consumer Defensive",
+      "allocated_amount": 6000,
+      "current_price": 1048.3,
+      "pe_ratio": 41.34,
+      "price_to_book": 6.69,
+      "eps": 25.36,
+      "roe": 17.36,
+      "dividend_yield": 0.48,
+      "debt_to_equity": 77.98,
+      "revenue_growth": 52.7,
+      "profit_margins": 8.94,
+      "why_selected": "India’s export-focused food processor; high global demand for coffee; impressive earnings momentum.",
+      "future_outlook": "30%+ upside possible on export growth and margin expansion; a niche consumer defensive for the basket."
+    },
+    {
+      "symbol": "JKTYRE.NS",
+      "name": "JK Tyre & Industries Limited",
+      "sector": "Consumer Cyclical",
+      "allocated_amount": 6000,
+      "current_price": 475.85,
+      "pe_ratio": 24.38,
+      "price_to_book": 2.49,
+      "eps": 19.52,
+      "roe": 10.61,
+      "dividend_yield": 0.66,
+      "debt_to_equity": 89.67,
+      "revenue_growth": 10.8,
+      "profit_margins": 3.5,
+      "why_selected": "Tyre manufacturer riding India's auto cycle; strong YoY growth; product mix supports recurring sales.",
+      "future_outlook": "With recovery in auto demand, expect price run-up; target 20% annual return."
+    },
+    {
+      "symbol": "POWERINDIA.NS",
+      "name": "Hitachi Energy India Limited",
+      "sector": "Industrials",
+      "allocated_amount": 6500,
+      "current_price": 21491,
+      "pe_ratio": 131.12,
+      "price_to_book": 20.9,
+      "eps": 163.91,
+      "roe": 23.96,
+      "dividend_yield": 0.03,
+      "debt_to_equity": 1.84,
+      "revenue_growth": 18.8,
+      "profit_margins": 10.52,
+      "why_selected": "Clean energy theme + electrical grid infrastructure. Market leader in tech upgradation.",
+      "future_outlook": "Renewable trend and infra push—growth estimates above 25% per year if execution meets expectations."
+    },
+    {
+      "symbol": "GREAVESCOT.NS",
+      "name": "Greaves Cotton Limited",
+      "sector": "Industrials",
+      "allocated_amount": 6500,
+      "current_price": 217,
+      "pe_ratio": 48.87,
+      "price_to_book": 3.66,
+      "eps": 4.44,
+      "roe": 2.3,
+      "dividend_yield": 0.99,
+      "debt_to_equity": 12.33,
+      "revenue_growth": 15.6,
+      "profit_margins": 3.3,
+      "why_selected": "Engineering/green mobility business—new product lines, momentum on EVs; high risk, high reward.",
+      "future_outlook": "Company is a turnaround play; expect recovery and big moves in 2-3 years."
+    },
+    {
+      "symbol": "REDINGTON.NS",
+      "name": "Redington Limited",
+      "sector": "Technology",
+      "allocated_amount": 6500,
+      "current_price": 300.8,
+      "pe_ratio": 13.6,
+      "price_to_book": 2.61,
+      "eps": 22.11,
+      "roe": 22.07,
+      "dividend_yield": 2.36,
+      "debt_to_equity": 27.76,
+      "revenue_growth": 16.8,
+      "profit_margins": 1.59,
+      "why_selected": "IT distribution and supply leader—fast mover in digitization; profits driven by demand for hardware/cloud.",
+      "future_outlook": "Digital infrastructure spending should accelerate growth; 20%+ returns likely in a bullish environment."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Nippon India Small Cap Fund",
+      "category": "Small Cap Equity",
+      "allocated_amount": 11200,
+      "sip_amount": null,
+      "returns_3y": 29.4,
+      "returns_5y": 25.7,
+      "expense_ratio": 1.07,
+      "why_invest": "One of the best-performing funds in the small cap space, expert management targeting emerging leaders."
+    },
+    {
+      "name": "Quant Mid Cap Fund",
+      "category": "Mid Cap Equity",
+      "allocated_amount": 11200,
+      "sip_amount": null,
+      "returns_3y": 31.6,
+      "returns_5y": 27.2,
+      "expense_ratio": 0.75,
+      "why_invest": "Aggressive midcap allocation, highly agile fund; proven ability to outperform benchmarks regularly."
+    },
+    {
+      "name": "SBI Magnum Multicap Fund",
+      "category": "Multicap Equity",
+      "allocated_amount": 11197,
+      "sip_amount": null,
+      "returns_3y": 24.8,
+      "returns_5y": 22.1,
+      "expense_ratio": 0.93,
+      "why_invest": "Diversified multicap exposure—reduces downside risk, positions for overall equity rally."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "Assuming 10% annual return (compounded): Value after 10 years = ₹167980 x (1.10)^10 ≈ ₹436,050.",
+    "moderate_return": "Assuming 13% annual return: Value after 10 years = ₹167980 x (1.13)^10 ≈ ₹573,514.",
+    "optimistic_return": "Assuming 17% annual return (possible for high risk/strong bull market): Value after 10 years = ₹167980 x (1.17)^10 ≈ ₹811,612."
+  },
+  "summary": "This portfolio is constructed for aggressive growth with high risk tolerance and a long investment horizon. Stocks are diversified across 7 sectors and emphasize momentum, innovation, and high return potential. Mutual funds are selected for strong multi-year outperformance in mid- and small-cap segments. Crypto, gold, and a touch of debt add a speculative hedge for both inflation and outlier returns. Expect volatility, but rewards can be substantial.",
+  "risk_analysis": {
+    "mild_crash": "In a 10% market correction, expected drop is roughly ₹13,774 (stocks) + ₹3,359 (MFs) + ₹3,400 (crypto)—total loss ≈ ₹20,533. Diversifiers buffer losses, but expect high drawdown.",
+    "moderate_crash": "20% correction scenario: Equity sleeve may drop up to ₹27,549. Diversifiers soften blow, but total loss ≈ ₹32,000. Recovery can take 12-24 months.",
+    "severe_crash": "30% correction scenario: Equities down ~₹41,323. Diversifiers lessen the pain, but overall portfolio value can drop below ₹120,000. Returns can take 2+ years to normalize.",
+    "summary": "High volatility is part of this strategy. Sector spread and alternate assets (crypto, gold, debt) reduce but don’t eliminate risks in major crashes. Investing long-term and sticking to SIPs helps mitigate panic selling."
+  },
+  "education_tips": {
+    "diversification_importance": "Spreading money across sectors and asset classes shields you from single stock or sector blowups, balancing risk and return.",
+    "long_term_perspective": "The power of compounding over 10 years can transform modest annual gains into substantial wealth, so don’t be spooked by short-term volatility.",
+    "rebalancing_strategy": "Check your portfolio every year—trim winners, add to underperformers, or adjust fund/SIP ratios if sectors get too overweight.",
+    "understanding_risk": "High-reward portfolios are volatile by nature; stay invested, avoid emotional buy/sell cycles, and remember that big drawdowns are expected but recoverable."
+  }
+}
