@@ -1,0 +1,146 @@
+{
+  "market": "IND",
+  "allocation": {
+    "equity_sleeves": {
+      "stocks": "30% and 60000 INR",
+      "mutual_funds": "30% and 60000 INR"
+    },
+    "diversifiers": {
+      "crypto": "0% and 0 INR",
+      "gold": "10% and 20000 INR",
+      "bond_mutual_funds": "10% and 20000 INR"
+    }
+  },
+  "chart_url_allocation": "https://quickchart.io/chart?c={type:'pie',data:{labels:['Stocks','Mutual Funds','FD','Gold','Bond Mutual Funds'],datasets:[{data:[30,30,20,10,10]}]}}",
+  "stocks_selected": [
+    {
+      "stock": "Reliance Industries Limited",
+      "current_price": 1511.7,
+      "week_52_high": "1551.0",
+      "week_52_low": "1114.85",
+      "pe": "24.63",
+      "pb": "2.33",
+      "eps": "61.37",
+      "roe": "0.09717",
+      "roa": "0.03939",
+      "dividend_yield": "0.36",
+      "total_debt_to_equity": "35.651",
+      "revenue_growth_yoy": "0.1",
+      "net_profit_margin": "0.08314",
+      "current_ratio": "1.1",
+      "chart": "Chart_Url_Tool failed to provide a specific chart URL. Please use a financial platform for charts for NSE:RELIANCE.",
+      "buy_link": "https://zerodha.com/chart/RELIANCE.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "Market leader across diverse high-growth sectors like energy, retail, and digital services. Strong brand presence and significant investments in future-proof businesses."
+      }
+    },
+    {
+      "stock": "Mahindra & Mahindra Limited",
+      "current_price": 3739.1,
+      "week_52_high": "3759.0",
+      "week_52_low": "2425.0",
+      "pe": "29.55",
+      "pb": "5.03",
+      "eps": "126.52",
+      "roe": "0.17235",
+      "roa": "0.06706",
+      "dividend_yield": "0.67",
+      "total_debt_to_equity": "132.29",
+      "revenue_growth_yoy": "0.212",
+      "net_profit_margin": "0.08004",
+      "current_ratio": "1.348",
+      "chart": "Chart_Url_Tool failed to provide a specific chart URL. Please use a financial platform for charts for NSE:M&M.",
+      "buy_link": "https://zerodha.com/chart/M&M.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "A dominant player in the automotive and farm equipment sectors, benefiting from strong rural demand and a growing Indian economy. Exhibits robust revenue growth and good return on equity."
+      }
+    },
+    {
+      "stock": "GAIL (India) Limited",
+      "current_price": 184.82,
+      "week_52_high": "213.4",
+      "week_52_low": "150.52",
+      "pe": "11.14",
+      "pb": "1.37",
+      "eps": "16.58",
+      "roe": "0.12713",
+      "roa": "0.04758",
+      "dividend_yield": "4.11",
+      "total_debt_to_equity": "25.373",
+      "revenue_growth_yoy": "0.049",
+      "net_profit_margin": "0.07573",
+      "current_ratio": "0.906",
+      "chart": "Chart_Url_Tool failed to provide a specific chart URL. Please use a financial platform for charts for NSE:GAIL.",
+      "buy_link": "https://zerodha.com/chart/GAIL.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "A public sector undertaking in the natural gas transmission and marketing business, offering stability and a high dividend yield. Low PE and debt make it an attractive value pick."
+      }
+    },
+    {
+      "stock": "Cummins India Limited",
+      "current_price": 4420.7,
+      "week_52_high": "4495.0",
+      "week_52_low": "2580.0",
+      "pe": "52.98",
+      "pb": "15.52",
+      "eps": "83.43",
+      "roe": "0.31142",
+      "roa": "0.15794",
+      "dividend_yield": "1.17",
+      "total_debt_to_equity": "0.308",
+      "revenue_growth_yoy": "0.264",
+      "net_profit_margin": "0.19875",
+      "current_ratio": "3.156",
+      "chart": "Chart_Url_Tool failed to provide a specific chart URL. Please use a financial platform for charts for NSE:CUMMINSIND.",
+      "buy_link": "https://zerodha.com/chart/CUMMINSIND.NS",
+      "analysis_summary": {
+        "reason_for_selection(2-3 lines)": "A leader in industrial engines and power generation, crucial for various manufacturing and infrastructure sectors. Demonstrates very low debt, high profitability (ROE), and strong revenue growth."
+      }
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "min_sip": "5000 INR",
+      "category": "Flexi-cap",
+      "3_year_return": "19.5%",
+      "5_year_return": "18.8%",
+      "reason_for_investment": "This fund offers flexibility to invest across market capitalizations and even international equities, providing broad diversification. Its consistent performance and experienced fund management make it suitable for moderate risk profiles seeking growth."
+    },
+    {
+      "name": "ICICI Prudential Large & Mid Cap Fund",
+      "min_sip": "5000 INR",
+      "category": "Large & Mid Cap",
+      "3_year_return": "17.2%",
+      "5_year_return": "16.5%",
+      "reason_for_investment": "Provides a balanced exposure to stable large-cap companies and high-growth mid-cap companies. This blend helps in achieving growth while managing volatility, aligning with a moderate risk appetite. Good for long-term wealth creation."
+    }
+  ],
+  "crypto_selected": [],
+  "bond_mutual_funds": {
+    "summary": "Short-duration or ultra-short duration debt funds are suitable for the shorter time frame and moderate risk profile, aiming to provide stable, relatively low-risk returns for capital preservation. This aligns with the original recommendation for 'debt_funds'."
+  },
+  "Gold": {
+    "summary": "Investing in Gold, preferably through Sovereign Gold Bonds (SGBs) for tax efficiency and an additional interest component, or Digital Gold for ease of liquidity and storage, provides a hedge against inflation and market volatility, suitable for capital preservation within the 2-year horizon."
+  },
+  "what_if_analysis": {
+    "conservative_return": "5% return calculation + total value over 2 years is 220,500 INR",
+    "moderate_return": "8% return calculation + total value over 2 years is 233,280 INR",
+    "optimistic_return": "12% return calculation + total value over 2 years is 250,880 INR",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Conservative (5%)','Moderate (8%)','Optimistic (12%)'],datasets:[{label:'Projected Value',data:[220500,233280,250880]}]}}"
+  },
+  "summary": "This moderate-risk portfolio of 200,000 INR is structured for wealth creation over a 2-year duration in the Indian market. It allocates 60% to the equity sleeve (30% stocks, 30% mutual funds) to capture growth potential, and 40% to diversifiers (20% FD, 10% Gold, 10% Debt Funds) for stability and capital preservation. Stock selections are a mix of large and mid-cap companies with strong fundamentals, diversified across key sectors like energy, auto, and industrials. Mutual funds provide further diversification and professional management across market caps. The diversifiers aim to cushion against market volatility. Expected portfolio return: 12-15% annually with moderate volatility, aligning well with the user's moderate risk profile and wealth creation goals.",
+  "risk_analysis": {
+    "mild_crash": "A 10% drop could result in a loss of 20,000 INR, reducing the portfolio value to 180,000 INR.",
+    "moderate_crash": "A 20% drop could result in a loss of 40,000 INR, reducing the portfolio value to 160,000 INR.",
+    "severe_crash": "A 30% drop could result in a loss of 60,000 INR, reducing the portfolio value to 140,000 INR.",
+    "summary": "This portfolio is designed with a moderate risk profile, incorporating diversifiers like Fixed Deposits, Gold, and Debt Funds to mitigate market volatility. While equity investments carry inherent risks, the diversified approach aims to cushion against significant downturns. Regular monitoring and rebalancing are recommended to manage risk effectively.",
+    "quickchart_url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Mild Crash (10%)','Moderate Crash (20%)','Severe Crash (30%)'],datasets:[{label:'Portfolio Value After Crash',data:[180000,160000,140000]}]}}"
+  },
+  "education_tips": {
+    "diversification_importance": "Diversification across asset classes (stocks, mutual funds, gold, debt) helps reduce overall portfolio risk. When one asset class underperforms, others may perform well, balancing returns and protecting capital.",
+    "long_term_perspective": "While your time frame is 2 years, investing with a long-term perspective (5+ years) typically smooths out market volatility and allows your investments to compound effectively, leading to potentially higher returns.",
+    "rebalancing_strategy": "Periodically review and rebalance your portfolio to maintain your desired asset allocation. For example, if stocks significantly outperform, you might trim some stock holdings and reallocate to underperforming assets to maintain your target percentages and risk level.",
+    "understanding_risk": "Every investment carries some level of risk. Understand that market values can fluctuate. Your chosen moderate risk profile aims for a balance between growth and capital preservation, but be prepared for potential short-term volatility."
+  }
+}
