@@ -1,0 +1,136 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 1200,
+    "time_frame": "every 6 months",
+    "risk": "low",
+    "goals": "stable returns, wealth preservation"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "45%",
+      "total_amount": 7560,
+      "stocks": {
+        "percentage": "18%",
+        "amount": 3024
+      },
+      "mutual_funds": {
+        "percentage": "27%",
+        "amount": 4536
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "55%",
+      "total_amount": 9240,
+      "fd": {
+        "percentage": "30%",
+        "amount": 5040,
+        "recommendation": "Park this in top-rated bank FDs to lock in 7-7.5% assured returns for 5+ years; choose auto-renewal for compounding."
+      },
+      "gold": {
+        "percentage": "15%",
+        "amount": 2520,
+        "recommendation": "Invest via digital gold platforms or RBI Sovereign Gold Bonds (tax-free after 5 years, safe for long term)."
+      },
+      "debt_funds": {
+        "percentage": "10%",
+        "amount": 1680,
+        "recommendation": "Ideal for liquidity and interest rate protection. Use short-duration government or PSU debt funds."
+      },
+      "crypto": null
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "MARUTI.NS",
+      "name": "Maruti Suzuki India Limited",
+      "sector": "Consumer Cyclical",
+      "allocated_amount": 1008,
+      "current_price": 15690,
+      "pe_ratio": 33.43,
+      "price_to_book": 4.95,
+      "eps": 469.35,
+      "roe": 15.65,
+      "dividend_yield": 0.86,
+      "debt_to_equity": 0.1,
+      "revenue_growth": 13.1,
+      "profit_margins": 9.2,
+      "why_selected": "Maruti has extremely low debt, high sector leadership, and consistent fundamental strength. Its balance sheet is robust and defensive.",
+      "future_outlook": "Well positioned due to India's rising auto demand and new EV roadmap. Expected to deliver steady 8–12% annual gains, riding industry growth."
+    },
+    {
+      "symbol": "ONGC.NS",
+      "name": "Oil and Natural Gas Corporation Limited",
+      "sector": "Energy",
+      "allocated_amount": 1008,
+      "current_price": 249.5,
+      "pe_ratio": 8.57,
+      "price_to_book": 0.85,
+      "eps": 29.11,
+      "roe": 10.98,
+      "dividend_yield": 7.32,
+      "debt_to_equity": 43.8,
+      "revenue_growth": -0.3,
+      "profit_margins": 5.6,
+      "why_selected": "ONGC’s high-dividend yield, dominant market position, very low valuation (PE/PB), and stable government backing make it ideal for low-risk stability.",
+      "future_outlook": "Expect price appreciation as energy markets improve, with dividends cushioning downside – target total return near 8% yearly."
+    },
+    {
+      "symbol": "BPCL.NS",
+      "name": "Bharat Petroleum Corporation Limited",
+      "sector": "Energy",
+      "allocated_amount": 1008,
+      "current_price": 374.55,
+      "pe_ratio": 7.54,
+      "price_to_book": 1.7,
+      "eps": 49.69,
+      "roe": 24.82,
+      "dividend_yield": 4.01,
+      "debt_to_equity": 56.4,
+      "revenue_growth": 2.1,
+      "profit_margins": 4.8,
+      "why_selected": "BPCL offers a defensive play with attractive dividend yield and valuations. Large-cap energy stocks tend to hold value in turbulent markets.",
+      "future_outlook": "Anticipates steady price performance on government reforms, plus strong dividend support for 7–9% annual returns."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Nippon India Index Fund – Sensex Plan",
+      "category": "Index Fund",
+      "allocated_amount": 2268,
+      "sip_amount": 378,
+      "returns_3y": 15.2,
+      "returns_5y": 16,
+      "expense_ratio": 0.18,
+      "why_invest": "Very low expense, perfect for beginners wanting to match market growth without active risks. Stable, simple, and reliable for steady compounding."
+    },
+    {
+      "name": "HDFC Hybrid Debt Fund",
+      "category": "Hybrid – Debt Oriented",
+      "allocated_amount": 2268,
+      "sip_amount": 378,
+      "returns_3y": 7.1,
+      "returns_5y": 7.8,
+      "expense_ratio": 0.92,
+      "why_invest": "Adds stability with a mix of bonds and some blue-chip equity; manages risk while aiming for returns above traditional savings."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "With 6% target annual return, investment grows to approximately ₹25,200 after 7 years of regular contributions.",
+    "moderate_return": "If market conditions are healthy (e.g., 7.5% average return), portfolio could reach ₹27,000+ by maturity.",
+    "optimistic_return": "In bull cycles (9% annualized), cumulative value may approach ₹29,000+, assuming dividends are reinvested and no early withdrawals."
+  },
+  "summary": "This portfolio aims for very low volatility, prioritizing capital protection while leveraging large-cap stocks and simple index funds for modest growth. Diversifiers like FDs and gold provide extra safety and steady accumulation, with debt funds for easy liquidity. Every selection balances safety with the goal of mild compounding.",
+  "risk_analysis": {
+    "mild_crash": "If equity markets drop 10%, stocks decline around ₹302, and MF sleeve may fall by ₹450. Diversifiers cushion losses, total drawdown likely under 900 rupees.",
+    "moderate_crash": "20% stock fall results in roughly ₹600 erosion; debt/gold/fixed deposits limit overall loss to under 1,400 rupees, high recovery odds within a few years.",
+    "severe_crash": "30% stock shock would see full equity drop by ₹900. However, FDs and gold remain stable, meaning a max hit of ~7% to total portfolio.",
+    "summary": "Most of your portfolio is in safe assets. Even during extreme corrections, losses are limited and easily recoverable due to the defensive structure."
+  },
+  "education_tips": {
+    "diversification_importance": "Spreading investments across stocks, MFs, FDs, and gold shields you from unpredictable shocks. All eggs, never in one basket.",
+    "long_term_perspective": "Stay patient for 7 years—short-term events are unpredictable. Long-term focus enables compounding and smooths volatility.",
+    "rebalancing_strategy": "Consider rebalancing every 2 years—shift gains from equity into FDs/gold or vice-versa, keeping risk aligned with your comfort.",
+    "understanding_risk": "Remember: Low risk means slow, steady growth, fewer surprises, and less stress in market ups and downs. Sleep well, invest calm."
+  }
+}
