@@ -1,0 +1,282 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 1000000,
+    "time_frame": "8 years",
+    "risk": "high",
+    "goals": "20% annual return, aggressive wealth creation"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "80%",
+      "total_amount": 800000,
+      "stocks": {
+        "percentage": "65%",
+        "amount": 650000
+      },
+      "mutual_funds": {
+        "percentage": "15%",
+        "amount": 150000
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "20%",
+      "total_amount": 200000,
+      "fd": null,
+      "gold": {
+        "percentage": "8%",
+        "amount": 80000,
+        "recommendation": "Use digital gold and gold ETFs for liquidity and some inflation hedge."
+      },
+      "debt_funds": {
+        "percentage": "5%",
+        "amount": 50000,
+        "recommendation": "Consider short-term and dynamic bond funds."
+      },
+      "crypto": {
+        "percentage": "7%",
+        "amount": 70000,
+        "recommendation": "Hold a diversified mix of blue-chip crypto (BTC/ETH) and 2-3 promising altcoins."
+      }
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "BEL.NS",
+      "name": "Bharat Electronics Limited",
+      "sector": "Industrials",
+      "allocated_amount": 45000,
+      "current_price": 422.35,
+      "pe_ratio": 54.3,
+      "price_to_book": 14.33,
+      "eps": 7.78,
+      "roe": 29,
+      "dividend_yield": 0.56,
+      "debt_to_equity": 0.27,
+      "revenue_growth": 25.8,
+      "profit_margins": 22.6,
+      "why_selected": "Strong government demand and leadership in defence electronics; exceptional price momentum and profitability.",
+      "future_outlook": "Momentum and robust government pipeline could see another 30-40% returns as defence budgets rise."
+    },
+    {
+      "symbol": "LAURUSLABS.NS",
+      "name": "Laurus Labs Limited",
+      "sector": "Healthcare",
+      "allocated_amount": 40000,
+      "current_price": 989.8,
+      "pe_ratio": 77.8,
+      "price_to_book": 11.1,
+      "eps": 12.72,
+      "roe": 15,
+      "dividend_yield": 0.16,
+      "debt_to_equity": 44.83,
+      "revenue_growth": 35.1,
+      "profit_margins": 10.8,
+      "why_selected": "High-growth pharma name with explosive expansion in API exports and strong Y/Y price momentum.",
+      "future_outlook": "If expansions deliver, can compound rapidly—expect potential for >30% CAGR."
+    },
+    {
+      "symbol": "NAVINFLUOR.NS",
+      "name": "Navin Fluorine International Limited",
+      "sector": "Basic Materials",
+      "allocated_amount": 40000,
+      "current_price": 6041,
+      "pe_ratio": 68.2,
+      "price_to_book": 8.57,
+      "eps": 88.55,
+      "roe": 14.6,
+      "dividend_yield": 0.22,
+      "debt_to_equity": 32.7,
+      "revenue_growth": 46.3,
+      "profit_margins": 15.9,
+      "why_selected": "Leader in specialty chemicals, high momentum and ambitious expansion into global markets.",
+      "future_outlook": "Growth chemicals and global supply chain shift may support annualized returns >25% for next few years."
+    },
+    {
+      "symbol": "MUTHOOTFIN.NS",
+      "name": "Muthoot Finance Limited",
+      "sector": "Financial Services",
+      "allocated_amount": 60000,
+      "current_price": 3358.9,
+      "pe_ratio": 21.8,
+      "price_to_book": 4.44,
+      "eps": 154.21,
+      "roe": 21.6,
+      "dividend_yield": 0.77,
+      "debt_to_equity": 367.2,
+      "revenue_growth": 50.3,
+      "profit_margins": 47.1,
+      "why_selected": "Gold-backed lending, resilient margins, and >90% stock return last year highlight potential for continued aggressive growth.",
+      "future_outlook": "In strong credit cycles, could replicate >30% annual returns with moderation in weaker years."
+    },
+    {
+      "symbol": "TVSMOTOR.NS",
+      "name": "TVS Motor Company Limited",
+      "sector": "Consumer Cyclical",
+      "allocated_amount": 40000,
+      "current_price": 3460.4,
+      "pe_ratio": 63,
+      "price_to_book": 20.26,
+      "eps": 54.89,
+      "roe": 31.2,
+      "dividend_yield": 0.29,
+      "debt_to_equity": 346.1,
+      "revenue_growth": 23.8,
+      "profit_margins": 5.4,
+      "why_selected": "Mobility leader, with multiplying export revenues and innovation in EV segment.",
+      "future_outlook": "EV and export stories should support 20-30% CAGR over medium term if trends hold."
+    },
+    {
+      "symbol": "ASAHIINDIA.NS",
+      "name": "Asahi India Glass Limited",
+      "sector": "Consumer Cyclical",
+      "allocated_amount": 35000,
+      "current_price": 985.5,
+      "pe_ratio": 78.25,
+      "price_to_book": 6.78,
+      "eps": 12.58,
+      "roe": 10,
+      "dividend_yield": 0.21,
+      "debt_to_equity": 77.1,
+      "revenue_growth": -0.6,
+      "profit_margins": 6.63,
+      "why_selected": "Exceptional price momentum, industry leadership in automotive glass, expected to benefit from strong auto cycle.",
+      "future_outlook": "Can continue high returns if auto sector stays hot; riskier, but momentum is strong."
+    },
+    {
+      "symbol": "MCX.NS",
+      "name": "Multi Commodity Exchange of India Limited",
+      "sector": "Financial Services",
+      "allocated_amount": 35000,
+      "current_price": 9615,
+      "pe_ratio": 70.3,
+      "price_to_book": 15.71,
+      "eps": 136.73,
+      "roe": 25,
+      "dividend_yield": 0.32,
+      "debt_to_equity": 0.02,
+      "revenue_growth": 28.9,
+      "profit_margins": 48.4,
+      "why_selected": "India’s top exchange: strong market share and technology adoption, provides diversification in finance sector.",
+      "future_outlook": "Demat and digitization growth should keep profits high and support >20% returns."
+    },
+    {
+      "symbol": "THYROCARE.NS",
+      "name": "Thyrocare Technologies Limited",
+      "sector": "Healthcare",
+      "allocated_amount": 35000,
+      "current_price": 1456.4,
+      "pe_ratio": 60.4,
+      "price_to_book": 14.45,
+      "eps": 24.11,
+      "roe": 24.7,
+      "dividend_yield": 2,
+      "debt_to_equity": 4.62,
+      "revenue_growth": 22.1,
+      "profit_margins": 16.7,
+      "why_selected": "Diagnostic leader with high volume growth and excellent cost controls; secular tailwind in preventive tests.",
+      "future_outlook": "Healthcare trends can boost earnings, high margins point to 20%+ compounding potential."
+    },
+    {
+      "symbol": "DATAMATICS.NS",
+      "name": "Datamatics Global Services Limited",
+      "sector": "Technology",
+      "allocated_amount": 35000,
+      "current_price": 887.6,
+      "pe_ratio": 22.5,
+      "price_to_book": 3.61,
+      "eps": 39.38,
+      "roe": 17.1,
+      "dividend_yield": 0.58,
+      "debt_to_equity": 12.85,
+      "revenue_growth": 20.5,
+      "profit_margins": 12.4,
+      "why_selected": "Automation, AI rollout, and robust 65% annual stock gain offer strong upside for technology exposure.",
+      "future_outlook": "If software tailwind persists, can achieve >25% annualized growth."
+    },
+    {
+      "symbol": "AVANTIFEED.NS",
+      "name": "Avanti Feeds Limited",
+      "sector": "Consumer Defensive",
+      "allocated_amount": 35000,
+      "current_price": 737.4,
+      "pe_ratio": 16.2,
+      "price_to_book": 3.34,
+      "eps": 45.42,
+      "roe": 20.7,
+      "dividend_yield": 1.23,
+      "debt_to_equity": 0.44,
+      "revenue_growth": 18.8,
+      "profit_margins": 10.4,
+      "why_selected": "Steady staple sector, world-class aquafeed supplier, and consistent momentum.",
+      "future_outlook": "Stable margins; returns may be 15-22% annual with limited downside."
+    },
+    {
+      "symbol": "JKTYRE.NS",
+      "name": "JK Tyre & Industries Limited",
+      "sector": "Consumer Cyclical",
+      "allocated_amount": 35000,
+      "current_price": 475.85,
+      "pe_ratio": 24.38,
+      "price_to_book": 2.49,
+      "eps": 19.52,
+      "roe": 10.6,
+      "dividend_yield": 0.66,
+      "debt_to_equity": 89.67,
+      "revenue_growth": 10.8,
+      "profit_margins": 3.5,
+      "why_selected": "Auto cyclical exposure with market share growth, strong 1-year momentum.",
+      "future_outlook": "Capable of 20-25% returns if auto cycle stays strong."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Nippon India Small Cap Fund",
+      "category": "Small-cap",
+      "allocated_amount": 50000,
+      "sip_amount": 625,
+      "returns_3y": 27.5,
+      "returns_5y": 30.2,
+      "expense_ratio": 0.87,
+      "why_invest": "Aggressive small-cap focus fits risk appetite. Consistently ranked top on returns for >5 years. Ideal for aggressive compounding."
+    },
+    {
+      "name": "Quant Mid Cap Fund",
+      "category": "Mid-cap",
+      "allocated_amount": 50000,
+      "sip_amount": 625,
+      "returns_3y": 23.1,
+      "returns_5y": 27.7,
+      "expense_ratio": 0.76,
+      "why_invest": "Mid-cap exposure for high growth and market leadership. Smart tactical allocations help outpace peers during volatility."
+    },
+    {
+      "name": "Kotak Flexi Cap Fund",
+      "category": "Flexi-cap",
+      "allocated_amount": 50000,
+      "sip_amount": 625,
+      "returns_3y": 21.8,
+      "returns_5y": 25.3,
+      "expense_ratio": 0.59,
+      "why_invest": "Flexi-cap allows quick shift between large/mid/small. Experienced managers, historically solid downside protection."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "If portfolio earns 8% p.a., final value after 8 years: ~$1.85 million.",
+    "moderate_return": "If portfolio earns 12% p.a., final value after 8 years: ~$2.5 million.",
+    "optimistic_return": "If portfolio achieves 20% p.a. (target), final value after 8 years: ~$4.3 million."
+  },
+  "summary": "This high-risk, growth-focused portfolio maximizes equity exposure with a tilt to dynamic stocks and aggressive mutual funds. Crypto and gold add speculative upside and some inflation hedge. Selected stocks span technology, pharma, financials, consumer/auto, and chemicals for sector diversity and high momentum. Realistically, expect a volatile ride with multi-year compounding if discipline is maintained.",
+  "risk_analysis": {
+    "mild_crash": "If markets fall 10%, expect $80,000 drop in portfolio value (plus potential for crypto volatility).",
+    "moderate_crash": "If markets fall 20%, expect $160,000 drop. Risk diversified via sector spread but high allocation means swings are amplified.",
+    "severe_crash": "If markets fall 30%, expect up to $240,000 loss. Crypto may fall further; gold/debt could stabilize 20% of portfolio.",
+    "summary": "Aggressive allocations magnify both upside and downside moves. Diversification and growth orientation maintain return potential, but high volatility is expected. Discipline is key during market shakeouts."
+  },
+  "education_tips": {
+    "diversification_importance": "Spreading investments across sectors and asset classes reduces the risk of one bad year or crash sinking your goals.",
+    "long_term_perspective": "Focus on long-term compounding; don't react hastily to short-term volatility—this is crucial for high-risk, high-reward investing.",
+    "rebalancing_strategy": "Revisit and rebalance every 6-12 months, especially if crypto or any sector overshoots allocation. Stay flexible.",
+    "understanding_risk": "High returns come with big swings. Prepare emotionally for drawdowns, and avoid panic selling when markets are weak."
+  }
+}
