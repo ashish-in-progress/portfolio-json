@@ -1,0 +1,268 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 1700000,
+    "time_frame": "5 years",
+    "risk": "moderate",
+    "goals": "wealth creation, 12% annual return expected"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "68%",
+      "total_amount": 1156000,
+      "stocks": {
+        "percentage": "40%",
+        "amount": 680000
+      },
+      "mutual_funds": {
+        "percentage": "28%",
+        "amount": 476000
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "32%",
+      "total_amount": 544000,
+      "fd": {
+        "percentage": "12%",
+        "amount": 204000,
+        "recommendation": "Park in top-rated banks for 7-8% assured returns"
+      },
+      "gold": {
+        "percentage": "12%",
+        "amount": 204000,
+        "recommendation": "Split between digital gold and SGBs for inflation protection"
+      },
+      "debt_funds": {
+        "percentage": "8%",
+        "amount": 136000,
+        "recommendation": "Short-duration debt funds for stable income and liquidity"
+      },
+      "crypto": null
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "MARUTI.NS",
+      "name": "Maruti Suzuki India Limited",
+      "sector": "Consumer Cyclical",
+      "allocated_amount": 68000,
+      "current_price": 15765,
+      "pe_ratio": 33.51,
+      "price_to_book": 4.97,
+      "eps": 470.52,
+      "roe": 15.65,
+      "dividend_yield": 0.86,
+      "debt_to_equity": 0.1,
+      "revenue_growth": 13.1,
+      "profit_margins": 9.2,
+      "why_selected": "India's leading auto player, strong balance sheet, benefits from rising middle-class car ownership.",
+      "future_outlook": "Should deliver robust returns as passenger car demand increases; cash flows and margins remain healthy."
+    },
+    {
+      "symbol": "BAJAJHLDNG.NS",
+      "name": "Bajaj Holdings & Investment Limited",
+      "sector": "Financial Services",
+      "allocated_amount": 68000,
+      "current_price": 12322,
+      "pe_ratio": 16.1,
+      "price_to_book": 2.02,
+      "eps": 765.51,
+      "roe": 11.8,
+      "dividend_yield": 1.03,
+      "debt_to_equity": 0.019,
+      "revenue_growth": 40,
+      "profit_margins": 8.09,
+      "why_selected": "Diversified financial business with solid investment portfolio and very low debt; attractive valuation.",
+      "future_outlook": "Stable compounder, should outperform banking sector in long horizon, good steady returns expected."
+    },
+    {
+      "symbol": "BEL.NS",
+      "name": "Bharat Electronics Limited",
+      "sector": "Industrials",
+      "allocated_amount": 68000,
+      "current_price": 424.1,
+      "pe_ratio": 54.6,
+      "price_to_book": 14.39,
+      "eps": 7.77,
+      "roe": 29,
+      "dividend_yield": 0.56,
+      "debt_to_equity": 0.27,
+      "revenue_growth": 25.8,
+      "profit_margins": 22.6,
+      "why_selected": "Government defense player, robust order book, strong profit margins and ROE support healthy growth.",
+      "future_outlook": "Defence capex cycle should continue, margins and order inflows look positive for next 2-3 years."
+    },
+    {
+      "symbol": "HINDALCO.NS",
+      "name": "Hindalco Industries Limited",
+      "sector": "Basic Materials",
+      "allocated_amount": 68000,
+      "current_price": 802.8,
+      "pe_ratio": 10.05,
+      "price_to_book": 1.32,
+      "eps": 79.88,
+      "roe": 14.2,
+      "dividend_yield": 0.62,
+      "debt_to_equity": 57.57,
+      "revenue_growth": 13.5,
+      "profit_margins": 7,
+      "why_selected": "Low valuation, strong global aluminium exposure, healthy earnings growth and industry tailwinds.",
+      "future_outlook": "Should benefit from global EV trends and infrastructure demand, making Hindalco a resilient choice."
+    },
+    {
+      "symbol": "INDUSTOWER.NS",
+      "name": "Indus Towers Limited",
+      "sector": "Communication Services",
+      "allocated_amount": 68000,
+      "current_price": 408.6,
+      "pe_ratio": 11.54,
+      "price_to_book": 2.98,
+      "eps": 35.42,
+      "roe": 29,
+      "dividend_yield": null,
+      "debt_to_equity": 58,
+      "revenue_growth": 9.7,
+      "profit_margins": 29.7,
+      "why_selected": "Top telecom infra company, exceptional profit margins and good cash flows drive recurring profits.",
+      "future_outlook": "5G rollout should support multi-year growth and capacity expansion, boosting returns for investors."
+    },
+    {
+      "symbol": "CIPLA.NS",
+      "name": "Cipla Limited",
+      "sector": "Healthcare",
+      "allocated_amount": 68000,
+      "current_price": 1532.9,
+      "pe_ratio": 22.79,
+      "price_to_book": 3.76,
+      "eps": 67.26,
+      "roe": 17.7,
+      "dividend_yield": 0.85,
+      "debt_to_equity": 1.41,
+      "revenue_growth": 7,
+      "profit_margins": 19.5,
+      "why_selected": "Pharma leader with consistent margins, export growth, and domestic market strength.",
+      "future_outlook": "Strong pipeline of generics, growth in specialty may boost margins; safe long-term play in healthcare."
+    },
+    {
+      "symbol": "M&M.NS",
+      "name": "Mahindra & Mahindra Limited",
+      "sector": "Consumer Cyclical",
+      "allocated_amount": 68000,
+      "current_price": 3705.8,
+      "pe_ratio": 29.3,
+      "price_to_book": 4.99,
+      "eps": 126.49,
+      "roe": 17.2,
+      "dividend_yield": 0.68,
+      "debt_to_equity": 132.3,
+      "revenue_growth": 21.2,
+      "profit_margins": 8,
+      "why_selected": "Diversified auto & tractor giant, strong rural reach, high revenue growth and sector leadership.",
+      "future_outlook": "Should deliver, as the Indian consumer/industrial cycle matures. Tractors division remains a cash cow."
+    },
+    {
+      "symbol": "DIVISLAB.NS",
+      "name": "Divi's Laboratories Limited",
+      "sector": "Healthcare",
+      "allocated_amount": 68000,
+      "current_price": 6513,
+      "pe_ratio": 69.46,
+      "price_to_book": 11.21,
+      "eps": 93.77,
+      "roe": 17,
+      "dividend_yield": 0.46,
+      "debt_to_equity": 0.58,
+      "revenue_growth": 16.1,
+      "profit_margins": 24.7,
+      "why_selected": "Premium pharma exporter, high profit margins and recurring export demand, clean balance sheet.",
+      "future_outlook": "Benefit from US/EU pharma outsourcing trends; margin improvement likely, export pipeline strong."
+    },
+    {
+      "symbol": "DALBHARAT.NS",
+      "name": "Dalmia Bharat Limited",
+      "sector": "Basic Materials",
+      "allocated_amount": 68000,
+      "current_price": 2033,
+      "pe_ratio": 33.91,
+      "price_to_book": 2.16,
+      "eps": 59.96,
+      "roe": 6.42,
+      "dividend_yield": 0.44,
+      "debt_to_equity": 39.76,
+      "revenue_growth": 10.7,
+      "profit_margins": 7.85,
+      "why_selected": "Key cement player, rising infrastructure spends boost sales, healthy margins maintained.",
+      "future_outlook": "Should benefit from Indian real estate and infra boom; sustained profit growth expected."
+    },
+    {
+      "symbol": "GRASIM.NS",
+      "name": "Grasim Industries Limited",
+      "sector": "Basic Materials",
+      "allocated_amount": 68000,
+      "current_price": 2780,
+      "pe_ratio": 43.6,
+      "price_to_book": 1.89,
+      "eps": 63.74,
+      "roe": 5.83,
+      "dividend_yield": 0.36,
+      "debt_to_equity": 126.63,
+      "revenue_growth": 18.9,
+      "profit_margins": 2.69,
+      "why_selected": "Diversified conglomerate with exposure to cement, chemicals, and financials; strong asset base.",
+      "future_outlook": "Should outperform as infra and textile chemicals demand rise; diversified risk and revenue streams."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-cap",
+      "allocated_amount": 160000,
+      "sip_amount": 26666.67,
+      "returns_3y": 18.5,
+      "returns_5y": 20.2,
+      "expense_ratio": 0.68,
+      "scheme_code": 1445678,
+      "why_invest": "Global equity exposure, consistent returns in all market conditions. Great for compounding over 5+ years."
+    },
+    {
+      "name": "Axis Small Cap Fund",
+      "category": "Small-cap",
+      "allocated_amount": 156000,
+      "sip_amount": 26000,
+      "returns_3y": 28.3,
+      "returns_5y": 25.6,
+      "expense_ratio": 0.64,
+      "scheme_code": 116262,
+      "why_invest": "Strong performance in fast-growing Indian companies, fits medium risk for higher return goals."
+    },
+    {
+      "name": "Mirae Asset Emerging Bluechip",
+      "category": "Large & Mid-cap",
+      "allocated_amount": 160000,
+      "sip_amount": 26666.67,
+      "returns_3y": 22.7,
+      "returns_5y": 21.4,
+      "expense_ratio": 0.95,
+      "scheme_code": 118355,
+      "why_invest": "Balanced blend of large-cap stability and mid-cap growth, proven track record for wealth creation."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "Assuming a 9% portfolio CAGR, ₹1,700,000 grows to ~₹2,615,000 in 5 years.",
+    "moderate_return": "At 12% CAGR (expected), final portfolio value = ₹3,000,000 in 5 years.",
+    "optimistic_return": "If market outperforms (15% CAGR), potential final value ~₹3,420,000 in 5 years."
+  },
+  "summary": "This portfolio blends equity growth and diversification for moderate risk, high-return seekers. Strong sector spread (auto, finance, pharma, infra, telecom, materials), healthy balance between stocks and mutual funds. No crypto included for stability. FD/gold/debt provide downside cushion.",
+  "risk_analysis": {
+    "mild_crash": "In a mild crash (10% drop in equities), expected paper loss: ~₹116,000. Diversifiers and debt funds buffer further downside.",
+    "moderate_crash": "20% market correction would reduce equity value by ~₹230,000, with portfolio value near ₹1,470,000.",
+    "severe_crash": "With 30% equity wipeout, loss ~₹345,000, but FD/gold/debt help stabilize around ₹1,355,000.",
+    "summary": "Allocation dramatically reduces risk of permanent loss. Sectors are not concentrated, diversified away from single shock events. Traditional assets act as volatility anchors."
+  },
+  "education_tips": {
+    "diversification_importance": "Investing across sectors and assets minimizes risk from any single market event.",
+    "long_term_perspective": "Five years is ideal for riding out market cycles; stay invested for maximum compounding.",
+    "rebalancing_strategy": "Review and rebalance portfolio annually, especially after large moves in markets or life changes.",
+    "understanding_risk": "No returns are guaranteed! Moderate risk can still see volatility. Stick to plan and track progress annually."
+  }
+}
