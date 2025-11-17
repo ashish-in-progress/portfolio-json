@@ -1,0 +1,127 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 12000,
+    "time_frame": "2 years",
+    "risk": "moderate",
+    "goals": "targeting ~13% annual returns"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "65%",
+      "total_amount": 7800,
+      "stocks": {
+        "percentage": "38%",
+        "amount": 4560
+      },
+      "mutual_funds": {
+        "percentage": "27%",
+        "amount": 3240
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "35%",
+      "total_amount": 4200,
+      "fd": {
+        "percentage": "13%",
+        "amount": 1560,
+        "recommendation": "Park in a reliable bank FD for stability and 7-8% returns"
+      },
+      "gold": {
+        "percentage": "11%",
+        "amount": 1320,
+        "recommendation": "Buy digital gold or sovereign gold bonds for inflation hedge"
+      },
+      "debt_funds": {
+        "percentage": "11%",
+        "amount": 1320,
+        "recommendation": "Short-duration debt funds for liquidity and steady income"
+      },
+      "crypto": null
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "BAJAJHLDNG.NS",
+      "name": "Bajaj Holdings & Investment Limited",
+      "sector": "Financial Services",
+      "allocated_amount": 1520,
+      "current_price": 12322,
+      "pe_ratio": 16.1,
+      "price_to_book": 2.02,
+      "eps": 765.51,
+      "roe": 11.8,
+      "dividend_yield": 1.03,
+      "debt_to_equity": 0.02,
+      "revenue_growth": 40,
+      "profit_margins": 8.09,
+      "why_selected": "Very strong balance sheet (almost no debt), solid value metrics, and high stability score. Diversified financial exposure.",
+      "future_outlook": "Expected to continue steady value compounding, with low downside risk."
+    },
+    {
+      "symbol": "BEL.NS",
+      "name": "Bharat Electronics Limited",
+      "sector": "Industrials",
+      "allocated_amount": 1520,
+      "current_price": 424.1,
+      "pe_ratio": 54.6,
+      "price_to_book": 14.39,
+      "eps": 7.77,
+      "roe": 29,
+      "dividend_yield": 0.56,
+      "debt_to_equity": 0.27,
+      "revenue_growth": 25.8,
+      "profit_margins": 22.6,
+      "why_selected": "Government defense contracts ensure stable revenues; low debt and excellent ROE make it a stable performer.",
+      "future_outlook": "Anticipated to benefit from increased domestic defense spending and tech upgrades."
+    },
+    {
+      "symbol": "MARUTI.NS",
+      "name": "Maruti Suzuki India Limited",
+      "sector": "Consumer Cyclical",
+      "allocated_amount": 1520,
+      "current_price": 15765,
+      "pe_ratio": 33.5,
+      "price_to_book": 4.97,
+      "eps": 470.52,
+      "roe": 15.7,
+      "dividend_yield": 0.86,
+      "debt_to_equity": 0.1,
+      "revenue_growth": 13.1,
+      "profit_margins": 9.2,
+      "why_selected": "Automobile leader with steady demand, low debt, and resilient pricing power.",
+      "future_outlook": "Should benefit from long-term demand growth; EV push and product launches to drive performance."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Mirae Asset Large Cap Fund",
+      "category": "Large-cap Equity",
+      "allocated_amount": 3240,
+      "sip_amount": 135,
+      "returns_3y": 15.6,
+      "returns_5y": 16.2,
+      "expense_ratio": 0.63,
+      "scheme_code": 118828,
+      "why_invest": "Consistent performance, lower volatility, and efficient management make it ideal for moderate risk over 2 years."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "If you get 8% per annum, after 2 years: FV = 12000 x (1 + 0.08)^2 = ₹14006; gain of ₹2006.",
+    "moderate_return": "At target 13% per annum: FV = 12000 x (1 + 0.13)^2 = ₹15303; gain of ₹3303.",
+    "optimistic_return": "At 18% per annum: FV = 12000 x (1 + 0.18)^2 = ₹16723; gain of ₹4723."
+  },
+  "summary": "Your portfolio mixes large-cap strong-stability stocks, a top large-cap fund, and safe diversifiers (FD, gold, debt). It aims for moderate growth with good protection against market swings. You get three sectors: Financials, Consumer, and Industrials, ensuring balance.",
+  "risk_analysis": {
+    "mild_crash": "10% drop: Portfolio falls to ₹10,800; you lose ₹1,200. Diversifiers limit deeper losses.",
+    "moderate_crash": "20% drop: Portfolio drops to ₹9,600; biggest impact would be on stocks, but debt/gold soften the hit.",
+    "severe_crash": "30% drop: Value falls to ₹8,400; stocks may be most affected, but FDs/gold stay stable.",
+    "summary": "Diversification with FDs, debt, and gold buffers your downside. Stock risk is spread across sectors, limiting single-company losses."
+  },
+  "education_tips": {
+    "diversification_importance": "Diversifying across stocks, funds, and asset types helps protect you from shocks in one sector.",
+    "long_term_perspective": "Equity volatility evens out over longer time frames. Stay invested for at least 2+ years for expected growth.",
+    "rebalancing_strategy": "Review portfolio after 12 months—rebalance if stocks/funds outgrow their share by more than 10%.",
+    "understanding_risk": "Don't panic in down markets—your allocation means losses are limited and recovery is likely over 2 years."
+  }
+}
