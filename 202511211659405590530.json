@@ -1,0 +1,190 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 15000,
+    "time_frame": "7 years",
+    "risk": "high",
+    "goals": "aggressive growth, long-term wealth",
+    "target_annual_return": "12%"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "80%",
+      "total_amount": 12000,
+      "stocks": {
+        "percentage": "45%",
+        "amount": 6750
+      },
+      "mutual_funds": {
+        "percentage": "35%",
+        "amount": 5250
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "20%",
+      "total_amount": 3000,
+      "fd": null,
+      "gold": {
+        "percentage": "7%",
+        "amount": 1050,
+        "recommendation": "Go for a mix of digital gold and sovereign gold bonds to balance volatility and steady returns."
+      },
+      "debt_funds": {
+        "percentage": "3%",
+        "amount": 450,
+        "recommendation": "Use ultra-short-term debt funds for emergency liquidity; limited allocation since target is aggressive growth."
+      },
+      "crypto": {
+        "percentage": "10%",
+        "amount": 1500,
+        "recommendation": "Allocate to large-cap coins like Bitcoin and Ethereum only; treat as high-risk/high-reward component."
+      }
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "TATAELXSI.NS",
+      "name": "Tata Elxsi Ltd",
+      "sector": "IT Services",
+      "allocated_amount": 1350,
+      "current_price": 8700,
+      "pe_ratio": 65.1,
+      "price_to_book": 18.2,
+      "eps": 111.8,
+      "roe": 34.5,
+      "dividend_yield": 0.32,
+      "debt_to_equity": 0,
+      "revenue_growth": 23.6,
+      "profit_margins": 20.8,
+      "why_selected": "High ROE, strong earnings growth, zero debt, and leadership in the digital engineering space.",
+      "future_outlook": "Digital transformation tailwinds to drive high earnings growth over next few years."
+    },
+    {
+      "symbol": "POLYCAB.NS",
+      "name": "Polycab India Ltd",
+      "sector": "Electricals",
+      "allocated_amount": 1000,
+      "current_price": 6000,
+      "pe_ratio": 45,
+      "price_to_book": 8.3,
+      "eps": 132,
+      "roe": 28.1,
+      "dividend_yield": 0.48,
+      "debt_to_equity": 0.18,
+      "revenue_growth": 28.2,
+      "profit_margins": 10.2,
+      "why_selected": "Fast-growing cable company with consistently high profitability and expanding product portfolio.",
+      "future_outlook": "Government infra push and electrification trends bode well for multiyear growth."
+    },
+    {
+      "symbol": "SRF.NS",
+      "name": "SRF Ltd",
+      "sector": "Specialty Chemicals",
+      "allocated_amount": 1000,
+      "current_price": 2200,
+      "pe_ratio": 33.5,
+      "price_to_book": 5.3,
+      "eps": 68.2,
+      "roe": 18.2,
+      "dividend_yield": 0.6,
+      "debt_to_equity": 0.53,
+      "revenue_growth": 21.4,
+      "profit_margins": 12.4,
+      "why_selected": "Innovation-driven leader in specialty chemicals with solid margins and export growth.",
+      "future_outlook": "Global chemical demand and strong R&D to support outsized returns."
+    },
+    {
+      "symbol": "APLAPOLLO.NS",
+      "name": "APL Apollo Tubes Ltd",
+      "sector": "Metals & Tubes",
+      "allocated_amount": 800,
+      "current_price": 1520,
+      "pe_ratio": 38.2,
+      "price_to_book": 7.5,
+      "eps": 39.1,
+      "roe": 21.3,
+      "dividend_yield": 0.25,
+      "debt_to_equity": 0.49,
+      "revenue_growth": 19.8,
+      "profit_margins": 8.9,
+      "why_selected": "Strong growth story in infra tubes with high volume expansion and robust earnings.",
+      "future_outlook": "Capacity additions and industry leadership to propel growth."
+    },
+    {
+      "symbol": "IEX.NS",
+      "name": "Indian Energy Exchange Ltd",
+      "sector": "Power",
+      "allocated_amount": 900,
+      "current_price": 142,
+      "pe_ratio": 49.2,
+      "price_to_book": 17.1,
+      "eps": 3.1,
+      "roe": 41.2,
+      "dividend_yield": 0.96,
+      "debt_to_equity": 0,
+      "revenue_growth": 16.3,
+      "profit_margins": 54.5,
+      "why_selected": "Monopoly-like market structure, debt-free, highest profit margins in sector.",
+      "future_outlook": "Energy reforms and digitalization of markets to boost trading volumes ahead."
+    },
+    {
+      "symbol": "LAURUSLABS.NS",
+      "name": "Laurus Labs Ltd",
+      "sector": "Pharmaceuticals",
+      "allocated_amount": 900,
+      "current_price": 346,
+      "pe_ratio": 27.5,
+      "price_to_book": 4.9,
+      "eps": 12.7,
+      "roe": 15.3,
+      "dividend_yield": 0.65,
+      "debt_to_equity": 0.79,
+      "revenue_growth": 20.1,
+      "profit_margins": 13.8,
+      "why_selected": "Aggressive expansion in APIs and formulations; R&D driven business.",
+      "future_outlook": "Increased export and pharma innovation support long-term visibility."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Nippon India Small Cap Fund",
+      "category": "Small-cap",
+      "allocated_amount": 3500,
+      "sip_amount": 500,
+      "returns_3y": 23.5,
+      "returns_5y": 26,
+      "expense_ratio": 1.13,
+      "scheme_code": 118778,
+      "why_invest": "Consistent outperformance in the small-cap segment, ideal for aggressive growth. Well-diversified, strong risk controls."
+    },
+    {
+      "name": "Kotak Emerging Equity Fund",
+      "category": "Mid-cap",
+      "allocated_amount": 1750,
+      "sip_amount": 250,
+      "returns_3y": 20.9,
+      "returns_5y": 23.2,
+      "expense_ratio": 0.79,
+      "scheme_code": null,
+      "why_invest": "Focused mid-cap strategy with a strong track record. Balances growth and downside protection."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "If portfolio returned 8% CAGR, final value in 7 years: ₹25,764.",
+    "moderate_return": "If portfolio reached target 12% CAGR, final value in 7 years: ₹33,064.",
+    "optimistic_return": "If portfolio delivered 16% CAGR, final value in 7 years: ₹42,428."
+  },
+  "summary": "This portfolio is designed for maximum growth over a 7-year horizon, with an aggressive tilt by allocating 80% to equities spread across high-growth stocks and mutual funds, alongside a 10% allocation in crypto for additional upside potential. The mutual fund selections target higher returns in the small-cap and mid-cap segments, complemented by minimal exposure to gold and debt funds to help mitigate volatility.",
+  "risk_analysis": {
+    "mild_crash": "A 10% correction could reduce portfolio value by ~₹1,500. Equities, especially small caps and crypto, are more volatile; gold and debt funds help moderate losses.",
+    "moderate_crash": "A 20% market downturn might result in a drawdown of ~₹3,000. Aggressive assets would bear the brunt, though diversified positions help cushion the impact.",
+    "severe_crash": "A 30% market crash could potentially reduce portfolio value by ₹4,500 or more. A disciplined, long-term approach and periodic reviews are essential to mitigate panic selling.",
+    "summary": "Given the high-risk allocations, particularly in aggressive equities and crypto, volatility is expected. However, diversification across asset classes and sectors is intended to balance potential gains with managed downside risks."
+  },
+  "education_tips": {
+    "diversification_importance": "Spreading investments across different sectors and asset classes reduces risk and lessens the impact of any one underperforming asset.",
+    "long_term_perspective": "Maintain a long-term view to benefit from compounding returns and ride out short-term market volatility.",
+    "rebalancing_strategy": "Review your portfolio at least annually. If one asset grows disproportionately, trim and rebalance to stick to your target allocation.",
+    "understanding_risk": "Recognize that higher returns often come with higher risk. Invest only amounts you are prepared to see fluctuate in value."
+  }
+}
