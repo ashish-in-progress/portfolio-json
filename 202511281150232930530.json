@@ -1,0 +1,234 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 1200000,
+    "time_frame": "5 years",
+    "risk": "moderate",
+    "goals": "wealth creation"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "68%",
+      "total_amount": 816000,
+      "stocks": {
+        "percentage": "38%",
+        "amount": 456000
+      },
+      "mutual_funds": {
+        "percentage": "30%",
+        "amount": 360000
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "32%",
+      "total_amount": 384000,
+      "fd": {
+        "percentage": "12%",
+        "amount": 144000,
+        "recommendation": "Allocate to large public/private banks or NBFC FDs for 7-8% annual returns, secure earnings."
+      },
+      "gold": {
+        "percentage": "10%",
+        "amount": 120000,
+        "recommendation": "Split between digital gold (ETF) and Sovereign Gold Bonds for tax efficiency and liquidity."
+      },
+      "debt_funds": {
+        "percentage": "10%",
+        "amount": 120000,
+        "recommendation": "Choose short-to-medium duration debt funds, low volatility, ideal for rebalancing or liquidity needs."
+      },
+      "crypto": null
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "RELIANCE.NS",
+      "name": "Reliance Industries Ltd",
+      "sector": "Energy/Consumer",
+      "allocated_amount": 57000,
+      "current_price": 2450.5,
+      "pe_ratio": 24.5,
+      "price_to_book": 2.1,
+      "eps": 98.5,
+      "roe": 14.2,
+      "dividend_yield": 0.35,
+      "debt_to_equity": 0.45,
+      "revenue_growth": 12.5,
+      "profit_margins": 8.5,
+      "why_selected": "Stable blue-chip with market leadership in energy, telecom and retail; consistent high ROE and attractive debt metrics.",
+      "future_outlook": "Strong growth driven by retail expansion, digital platforms, and green energy investments; potential for 12-15% CAGR over next 5 years."
+    },
+    {
+      "symbol": "TCS.NS",
+      "name": "Tata Consultancy Services Ltd",
+      "sector": "IT",
+      "allocated_amount": 57000,
+      "current_price": 3720.4,
+      "pe_ratio": 28.2,
+      "price_to_book": 12.9,
+      "eps": 132.6,
+      "roe": 37.3,
+      "dividend_yield": 1.2,
+      "debt_to_equity": 0.1,
+      "revenue_growth": 10.9,
+      "profit_margins": 22.5,
+      "why_selected": "India's largest IT company with global exposure, practically zero debt, superior margins and consistent returns.",
+      "future_outlook": "Steady digital transformation and AI adoption should maintain mid-teen growth and healthy cash flows."
+    },
+    {
+      "symbol": "HDFCBANK.NS",
+      "name": "HDFC Bank Ltd",
+      "sector": "Banking/Finance",
+      "allocated_amount": 57000,
+      "current_price": 1630.5,
+      "pe_ratio": 22.4,
+      "price_to_book": 4.1,
+      "eps": 54.9,
+      "roe": 17.1,
+      "dividend_yield": 1,
+      "debt_to_equity": 1.1,
+      "revenue_growth": 15.7,
+      "profit_margins": 23.1,
+      "why_selected": "Consistent performance, strong asset quality, very high ROE, broad pan-India reach, solid growth outlook.",
+      "future_outlook": "Retail and digital banking expansion, robust loan growth pipeline, and stable NPA levels; expected 13-15% CAGR."
+    },
+    {
+      "symbol": "ASIANPAINT.NS",
+      "name": "Asian Paints Ltd",
+      "sector": "Consumer",
+      "allocated_amount": 28500,
+      "current_price": 3110.65,
+      "pe_ratio": 69.1,
+      "price_to_book": 16.7,
+      "eps": 45.01,
+      "roe": 27.6,
+      "dividend_yield": 0.7,
+      "debt_to_equity": 0.06,
+      "revenue_growth": 18.3,
+      "profit_margins": 16.9,
+      "why_selected": "Market leader with strong pricing power, robust consumer demand, very low debt.",
+      "future_outlook": "Rural growth, innovation in home solutions, and high brand value forecast 15% CAGR."
+    },
+    {
+      "symbol": "KOTAKBANK.NS",
+      "name": "Kotak Mahindra Bank Ltd",
+      "sector": "Banking",
+      "allocated_amount": 28500,
+      "current_price": 1735.3,
+      "pe_ratio": 31.2,
+      "price_to_book": 4.5,
+      "eps": 56.4,
+      "roe": 13.2,
+      "dividend_yield": 0.1,
+      "debt_to_equity": 0.7,
+      "revenue_growth": 12.5,
+      "profit_margins": 23,
+      "why_selected": "Aggressive expansion, efficient retail banking, sector leader in asset quality.",
+      "future_outlook": "Digital reach and merger prospects create opportunities for double-digit compound growth."
+    },
+    {
+      "symbol": "DIVISLAB.NS",
+      "name": "Divis Laboratories Ltd",
+      "sector": "Healthcare",
+      "allocated_amount": 28500,
+      "current_price": 4715.6,
+      "pe_ratio": 38.5,
+      "price_to_book": 7.5,
+      "eps": 122.6,
+      "roe": 22.1,
+      "dividend_yield": 0.9,
+      "debt_to_equity": 0.11,
+      "revenue_growth": 13.5,
+      "profit_margins": 24.7,
+      "why_selected": "Major exporter with strong R&D, cash-rich, diversified APIs, perfectly fits pharma/healthcare allocation.",
+      "future_outlook": "Emerging market exports, patent opportunities, and generic R&D should drive future growth."
+    },
+    {
+      "symbol": "TATAELXSI.NS",
+      "name": "Tata Elxsi Ltd",
+      "sector": "Engineering/Tech",
+      "allocated_amount": 28500,
+      "current_price": 8251,
+      "pe_ratio": 66.7,
+      "price_to_book": 26.1,
+      "eps": 123.7,
+      "roe": 32.4,
+      "dividend_yield": 0.5,
+      "debt_to_equity": 0,
+      "revenue_growth": 21.2,
+      "profit_margins": 19.5,
+      "why_selected": "High-growth digital engineering play, zero debt, global automotive and healthcare vertical.",
+      "future_outlook": "Strong pipeline in EV, healthcare and design; expecting 18%+ CAGR."
+    },
+    {
+      "symbol": "PIDILITIND.NS",
+      "name": "Pidilite Industries Ltd",
+      "sector": "Consumer/Chemicals",
+      "allocated_amount": 28500,
+      "current_price": 2704.8,
+      "pe_ratio": 89.2,
+      "price_to_book": 21.4,
+      "eps": 26.4,
+      "roe": 27.7,
+      "dividend_yield": 0.6,
+      "debt_to_equity": 0.11,
+      "revenue_growth": 17.9,
+      "profit_margins": 14.7,
+      "why_selected": "Dominates adhesives/chemicals, strong consumer brand and innovation pipeline.",
+      "future_outlook": "Ongoing construction and infrastructure growth drives 14-15% compounding."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund - Direct Plan - Growth",
+      "category": "Flexi-cap",
+      "allocated_amount": 120000,
+      "sip_amount": 20000,
+      "returns_3y": 18.5,
+      "returns_5y": 20.2,
+      "expense_ratio": 0.68,
+      "scheme_code": 122639,
+      "why_invest": "Balanced allocation across Indian large, mid, and global equities; proven risk management and strong track record."
+    },
+    {
+      "name": "Axis Growth Opportunities Fund - Regular Plan - Growth Option",
+      "category": "Multi-cap",
+      "allocated_amount": 120000,
+      "sip_amount": 20000,
+      "returns_3y": 20.3,
+      "returns_5y": 22.5,
+      "expense_ratio": 0.89,
+      "scheme_code": 140400,
+      "why_invest": "Aggressive exposure to mid/small caps with strong management, fits well for moderate risk investors targeting upside."
+    },
+    {
+      "name": "Mirae Asset Large Cap Fund - Direct Plan - Growth",
+      "category": "Large-cap",
+      "allocated_amount": 120000,
+      "sip_amount": 20000,
+      "returns_3y": 16.7,
+      "returns_5y": 18.2,
+      "expense_ratio": 0.58,
+      "scheme_code": 118825,
+      "why_invest": "Low-cost, steady performer with exposure to blue-chip leaders; enhances downside protection."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "Assuming a blended conservative annual return of 10%, the portfolio grows to ₹19.32 lakhs in 5 years.",
+    "moderate_return": "Assuming a blended moderate annual return of 13%, the portfolio grows to ₹22.11 lakhs in 5 years.",
+    "optimistic_return": "Assuming a blended optimistic annual return of 16%, the portfolio grows to ₹25.25 lakhs in 5 years."
+  },
+  "summary": "This setup balances growth potential with downside protection through 68% equity exposure (stocks and funds) and 32% stabilizers (FD, gold, debt). Sector and asset diversification help reduce risk. The portfolio aims for healthy compounding while cushioning against market falls. Regular reviews and SIP in mutual funds are recommended.",
+  "risk_analysis": {
+    "mild_crash": "A 10% market drop would reduce the portfolio value by ~₹1.2 lakhs (equity sleeve loss), leaving approx ₹10.8 lakhs; stabilizers limit drawdown.",
+    "moderate_crash": "A 20% market drop means a ~₹2.4 lakhs dip, portfolio falls to ~₹9.6 lakhs, but debt/gold/FD soften losses.",
+    "severe_crash": "A 30% correction could shrink the portfolio by ~₹3.6 lakhs (to ~₹8.4 lakhs), but stabilizers and diversified funds mitigate the drawdown.",
+    "summary": "Diversification and strong allocation to non-equity assets cap downside risk; periodic rebalancing and quality picks cushion against market volatility."
+  },
+  "education_tips": {
+    "diversification_importance": "Spreading investments across sectors and sleeves protects against sector/market shocks and enhances long-term compounding.",
+    "long_term_perspective": "Market corrections are common; long-term holding taps into the power of compounding and buffers recovery.",
+    "rebalancing_strategy": "Revisit allocations annually; shift profits from winners, reinforce laggards, and adjust to changing market cycles.",
+    "understanding_risk": "Equities have short-term volatility but outperform other assets over long periods; balance risk with stabilizing assets."
+  }
+}
