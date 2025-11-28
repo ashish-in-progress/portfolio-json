@@ -1,0 +1,224 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 1200000,
+    "time_frame": "5 years",
+    "risk": "moderate",
+    "goals": "growth, moderate wealth creation, some exposure to crypto"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "68%",
+      "total_amount": 816000,
+      "stocks": {
+        "percentage": "38%",
+        "amount": 456000
+      },
+      "mutual_funds": {
+        "percentage": "30%",
+        "amount": 360000
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "32%",
+      "total_amount": 384000,
+      "fd": {
+        "percentage": "10%",
+        "amount": 120000,
+        "recommendation": "Park in top-rated banks or NBFCs for 7-8% returns, provides liquidity and capital safety."
+      },
+      "gold": {
+        "percentage": "8%",
+        "amount": 96000,
+        "recommendation": "Split between digital gold ETFs and sovereign gold bonds for dual tax efficiency and security."
+      },
+      "debt_funds": {
+        "percentage": "8%",
+        "amount": 96000,
+        "recommendation": "Opt for short-duration or dynamic bond funds, balancing credit risk and returns."
+      },
+      "crypto": {
+        "percentage": "6%",
+        "amount": 72000,
+        "recommendation": "Split equally between BTC and ETH via regulated Indian exchanges."
+      }
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "RELIANCE.NS",
+      "name": "Reliance Industries Ltd",
+      "sector": "Energy & Conglomerate",
+      "allocated_amount": 57000,
+      "current_price": 2450.5,
+      "pe_ratio": 24.5,
+      "price_to_book": 2.1,
+      "eps": 98.5,
+      "roe": 14.2,
+      "dividend_yield": 0.35,
+      "debt_to_equity": 0.45,
+      "revenue_growth": 12.5,
+      "profit_margins": 8.5,
+      "why_selected": "Market leader with diversified interests in energy, retail and telecom. Strong balance sheet with consistent growth.",
+      "future_outlook": "Growth in digital and retail, emerging energy segment, stable cash flow ensures resilience and long-term appreciation."
+    },
+    {
+      "symbol": "HDFCBANK.NS",
+      "name": "HDFC Bank Ltd",
+      "sector": "Financial Services",
+      "allocated_amount": 57000,
+      "current_price": 1650.2,
+      "pe_ratio": 22.8,
+      "price_to_book": 3.5,
+      "eps": 67.3,
+      "roe": 17.5,
+      "dividend_yield": 1.1,
+      "debt_to_equity": 0.24,
+      "revenue_growth": 13.1,
+      "profit_margins": 18.7,
+      "why_selected": "Consistently top-performing bank, high ROE, stable growth and low debt.",
+      "future_outlook": "Dominance in Indian private banking with strong digital innovation and expanding retail customer base."
+    },
+    {
+      "symbol": "INFY.NS",
+      "name": "Infosys Ltd",
+      "sector": "IT Services",
+      "allocated_amount": 57000,
+      "current_price": 1535.8,
+      "pe_ratio": 23.2,
+      "price_to_book": 6.5,
+      "eps": 62.7,
+      "roe": 21,
+      "dividend_yield": 2,
+      "debt_to_equity": 0.11,
+      "revenue_growth": 15,
+      "profit_margins": 18,
+      "why_selected": "Global IT giant, strong margins, outstanding ROE, minimal debt.",
+      "future_outlook": "Riding tailwinds of digital transformation with robust revenue growth and cash reserves."
+    },
+    {
+      "symbol": "TITAN.NS",
+      "name": "Titan Company Ltd",
+      "sector": "Consumer Discretionary",
+      "allocated_amount": 57000,
+      "current_price": 2902.1,
+      "pe_ratio": 28.3,
+      "price_to_book": 24.5,
+      "eps": 103.4,
+      "roe": 20.5,
+      "dividend_yield": 0.55,
+      "debt_to_equity": 0.34,
+      "revenue_growth": 20.2,
+      "profit_margins": 7.2,
+      "why_selected": "Consumer sector leader with premium brand, strong growth and healthy financials.",
+      "future_outlook": "Jewellery and watches see robust demand; aggressive retail expansion to boost sales."
+    },
+    {
+      "symbol": "APOLLOHOSP.NS",
+      "name": "Apollo Hospitals Enterprise Ltd",
+      "sector": "Healthcare Services",
+      "allocated_amount": 57000,
+      "current_price": 5450.5,
+      "pe_ratio": 25.9,
+      "price_to_book": 6.2,
+      "eps": 91.6,
+      "roe": 13,
+      "dividend_yield": 0.16,
+      "debt_to_equity": 0.72,
+      "revenue_growth": 18.6,
+      "profit_margins": 9.1,
+      "why_selected": "Healthcare sector with double-digit growth and nationwide expansion.",
+      "future_outlook": "Strong demand for premium healthcare; new diagnostic and pharmacy verticals to drive future growth."
+    },
+    {
+      "symbol": "CUMMINSIND.NS",
+      "name": "Cummins India Ltd",
+      "sector": "Industrials",
+      "allocated_amount": 28500,
+      "current_price": 2383.2,
+      "pe_ratio": 27.9,
+      "price_to_book": 4.3,
+      "eps": 38.3,
+      "roe": 16.4,
+      "dividend_yield": 1.2,
+      "debt_to_equity": 0.19,
+      "revenue_growth": 13.8,
+      "profit_margins": 9.3,
+      "why_selected": "Industrial leader with strong exports, robust ROE and low debt.",
+      "future_outlook": "Benefiting from infrastructure push and domestic manufacturing growth."
+    },
+    {
+      "symbol": "TRENT.NS",
+      "name": "Trent Ltd",
+      "sector": "Retail & Consumer",
+      "allocated_amount": 28500,
+      "current_price": 4200.3,
+      "pe_ratio": 29.3,
+      "price_to_book": 9.7,
+      "eps": 32.7,
+      "roe": 15.8,
+      "dividend_yield": 0.22,
+      "debt_to_equity": 0.69,
+      "revenue_growth": 22.4,
+      "profit_margins": 8.6,
+      "why_selected": "Retail expansion and strong revenue growth, healthy profitability.",
+      "future_outlook": "Scalable fashion and retail business, riding urbanization and consumption trends."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "Parag Parikh Flexi Cap Fund",
+      "category": "Flexi-cap",
+      "allocated_amount": 120000,
+      "sip_amount": 20000,
+      "returns_3y": 18.7,
+      "returns_5y": 20.1,
+      "expense_ratio": 0.68,
+      "scheme_code": 122639,
+      "why_invest": "Diversified with Indian and international equity, proven track record, low fees, strong growth with downside protection."
+    },
+    {
+      "name": "Mirae Asset Large Cap Fund",
+      "category": "Large-cap",
+      "allocated_amount": 120000,
+      "sip_amount": 20000,
+      "returns_3y": 15.9,
+      "returns_5y": 17.2,
+      "expense_ratio": 0.54,
+      "scheme_code": 118825,
+      "why_invest": "Low cost, diversified blue-chip holdings, steady compounding with minimal drawdowns."
+    }
+  ],
+  "crypto_selected": [
+    {
+      "coin": "BTC",
+      "allocated_amount": 36000,
+      "allocation_percentage": "3%",
+      "why_selected": "Widely recognized as digital gold, strong historical returns over 5-year horizon, limited supply."
+    },
+    {
+      "coin": "ETH",
+      "allocated_amount": 36000,
+      "allocation_percentage": "3%",
+      "why_selected": "Backbone of decentralized finance, broad ecosystem adoption, growth potential if regulation eases."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "At an average 8% CAGR, ₹12 lakhs grows to approximately ₹17.6 lakhs in 5 years.",
+    "moderate_return": "At 12% CAGR (balanced equity, MF, small crypto gains), the portfolio could reach roughly ₹21.2 lakhs.",
+    "optimistic_return": "At 16% CAGR (strong equity/crypto performance), the potential portfolio value is about ₹25.3 lakhs after 5 years."
+  },
+  "summary": "This setup balances growth potential with downside protection by blending quality stocks, carefully selected mutual funds (with verified scheme codes), and safe diversifiers. The portfolio’s moderate risk stance and 5-year horizon are designed for steady wealth creation while managing volatility.",
+  "risk_analysis": {
+    "mild_crash": "A 10% market correction could reduce the portfolio value by approximately ₹1.2 lakhs, with diversifiers cushioning most of the impact.",
+    "moderate_crash": "In a 20% bear market, the combined equity and mutual fund exposure may see a downturn of around ₹2.4 lakhs.",
+    "severe_crash": "A 30% shock (black swan event) might result in a temporary loss of about ₹3.6 lakhs, although long-term recovery is expected.",
+    "summary": "While equity and crypto exposure carry volatility, the inclusion of FD, gold, and debt funds helps buffer market downturns. A 5-year investment horizon allows ample time for recovery and compounding."
+  },
+  "education_tips": {
+    "diversification_importance": "Spreading investments across various asset classes minimizes risk and prevents large losses if one asset class underperforms.",
+    "long_term_perspective": "Maintaining a long-term view helps to ride out market volatility and harness the power of compounding.",
+    "rebalancing_strategy": "Regularly review and adjust your portfolio (every 12-18 months) to realign with your risk tolerance and investment objectives.",
+    "understanding_risk": "Recognize that higher growth opportunities often come with higher volatility; ensure that any exposure, particularly in crypto, aligns with your overall risk tolerance."
+  }
+}
