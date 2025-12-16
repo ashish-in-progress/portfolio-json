@@ -1,0 +1,140 @@
+{
+  "market": "IND",
+  "user_profile": {
+    "budget": 100000,
+    "time_frame": "6 months",
+    "risk": "moderate",
+    "goals": "short-term capital preservation with reasonable growth"
+  },
+  "allocation": {
+    "equity_sleeve": {
+      "total_percentage": "40%",
+      "total_amount": 40000,
+      "stocks": {
+        "percentage": "30%",
+        "amount": 30000
+      },
+      "mutual_funds": {
+        "percentage": "10%",
+        "amount": 10000
+      }
+    },
+    "diversifiers": {
+      "total_percentage": "60%",
+      "total_amount": 60000,
+      "fd": {
+        "percentage": "38%",
+        "amount": 38000,
+        "recommendation": "Choose a 6-month Fixed Deposit with a top-rated bank for safety and assured returns of approx 7-7.5% annualized."
+      },
+      "gold": null,
+      "debt_funds": {
+        "percentage": "22%",
+        "amount": 22000,
+        "recommendation": "Use ultra-short or low-duration debt funds for minimal volatility and short lock-in. Target major fund houses (HDFC, ICICI, SBI) with 5-5.5% annualized yield."
+      },
+      "crypto": null
+    }
+  },
+  "stocks_selected": [
+    {
+      "symbol": "HDFCBANK.NS",
+      "name": "HDFC Bank Ltd",
+      "sector": "Financial",
+      "allocated_amount": 7500,
+      "current_price": 1550.5,
+      "pe_ratio": 18.4,
+      "price_to_book": 3.1,
+      "eps": 83.2,
+      "roe": 15.6,
+      "dividend_yield": 1.2,
+      "debt_to_equity": 0.95,
+      "revenue_growth": 12.5,
+      "profit_margins": 20.1,
+      "why_selected": "Market leader in private banking with robust asset quality and steady short-term performance even in uncertain markets.",
+      "future_outlook": "Stable income, resilient to volatility, and likely to perform steadily over the next two quarters given loan book growth and consistent profitability."
+    },
+    {
+      "symbol": "INFY.NS",
+      "name": "Infosys Ltd",
+      "sector": "IT",
+      "allocated_amount": 7500,
+      "current_price": 1380.1,
+      "pe_ratio": 22.3,
+      "price_to_book": 7.8,
+      "eps": 62.1,
+      "roe": 22.7,
+      "dividend_yield": 2,
+      "debt_to_equity": 0.09,
+      "revenue_growth": 11.2,
+      "profit_margins": 19.5,
+      "why_selected": "Strong cash position, healthy order book, and less impact from domestic economic swings make Infosys a short-term blue-chip pick.",
+      "future_outlook": "Business resilience in global IT spending to support price stability and possible short-term appreciation."
+    },
+    {
+      "symbol": "ASIANPAINT.NS",
+      "name": "Asian Paints Ltd",
+      "sector": "Consumer",
+      "allocated_amount": 7500,
+      "current_price": 3155.3,
+      "pe_ratio": 54.8,
+      "price_to_book": 17.2,
+      "eps": 56.2,
+      "roe": 27.5,
+      "dividend_yield": 0.7,
+      "debt_to_equity": 0.07,
+      "revenue_growth": 13.7,
+      "profit_margins": 15.3,
+      "why_selected": "Consistent performer with strong consumer demand and a quality-focused business; tends to outperform in both up and down markets.",
+      "future_outlook": "Stable results expected despite short-term market swings, and should retain value well in a 6-month holding period."
+    },
+    {
+      "symbol": "AUROPHARMA.NS",
+      "name": "Aurobindo Pharma Ltd",
+      "sector": "Pharma",
+      "allocated_amount": 7500,
+      "current_price": 1160.7,
+      "pe_ratio": 17.1,
+      "price_to_book": 2.6,
+      "eps": 67.3,
+      "roe": 13.1,
+      "dividend_yield": 1,
+      "debt_to_equity": 0.4,
+      "revenue_growth": 8.3,
+      "profit_margins": 13.7,
+      "why_selected": "Pharmaceuticals usually offer strong downside protection; Aurobindo is well-diversified with U.S. and export exposure.",
+      "future_outlook": "Steady, defensive business likely to hold value or show modest growth during the short investment window."
+    }
+  ],
+  "mutual_funds_selected": [
+    {
+      "name": "HDFC Ultra Short Term Fund - Direct Plan-Growth Option",
+      "category": "Ultra Short Duration",
+      "allocated_amount": 10000,
+      "sip_amount": 0,
+      "returns_3y": 5.09,
+      "returns_5y": 6.01,
+      "expense_ratio": 0.23,
+      "scheme_code": 145034,
+      "why_invest": "Low volatility, quick liquidity, and high credit quality make it ideal for a 6-month investment horizon. Yields are better than savings accounts with controlled risk."
+    }
+  ],
+  "what_if_analysis": {
+    "conservative_return": "If the portfolio returns 5% annualized (2.5% for 6 months), final value is ₹102,500.",
+    "moderate_return": "If the portfolio returns 7% annualized (3.5% for 6 months), final value is ₹103,500.",
+    "optimistic_return": "If the portfolio returns 10% annualized (5% for 6 months), final value is ₹105,000."
+  },
+  "summary": "This setup balances short-term capital preservation with reasonable growth potential, featuring a mix of high-quality stocks and conservative bond-like investments.",
+  "risk_analysis": {
+    "mild_crash": "A 10% equity drop would impact stocks by ₹3,000 (3% of total portfolio) and overall value to ~₹97,000.",
+    "moderate_crash": "A 20% stock market fall would reduce the equity portion by ₹6,000 (~6% of the portfolio). End value: ~₹94,000.",
+    "severe_crash": "A 30% drop sees equity sleeve down ₹9,000 (~9%), portfolio value at ₹91,000. Debt and FD allocations cushion losses.",
+    "summary": "By over-allocating to FDs and debt, major crashes can only moderately affect this portfolio; stocks are well-diversified, limiting sector-specific risks. Short duration and high-quality debt further enhance safety."
+  },
+  "education_tips": {
+    "diversification_importance": "Spreading across different asset types ensures that a negative event in one area doesn't sink your entire portfolio.",
+    "long_term_perspective": "Short-term investments offer limited compounding; balanced risk yields. For higher returns, extend holding horizon if feasible.",
+    "rebalancing_strategy": "After 6 months, re-evaluate based on market outlook; if equities outperform, book partial profits and re-allocate to safety.",
+    "understanding_risk": "Short-term equity positions can still fluctuate; by holding mostly FDs and debt, risk is managed, but not eliminated entirely."
+  }
+}
